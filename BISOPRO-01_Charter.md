@@ -247,16 +247,29 @@ This charter requires approval from:
 ## Appendices
 
 ### Appendix A: Role Definitions and Responsibilities
-[Detailed RACI matrices and role descriptions]
+*See the following documents for detailed role information:*
+- [BISOPRO-06: Authority Framework](./BISOPRO-06_Authority_Framework.md) - Complete RACI matrices and decision rights
+- [BISOPRO-08: Job Descriptions](./BISOPRO-08_Job_Descriptions.md) - Detailed role descriptions and requirements
+- [BISOPRO-07: Reporting Structure](./BISOPRO-07_Reporting_Structure.md) - Organizational relationships and boundaries
 
 ### Appendix B: Process Documentation
-[Key process flows and procedures]
+*Core BISO processes are documented in:*
+- [BISOPRO-09: Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md) - All operational processes
+- [BISOPRO-17: Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md) - Consultation procedures
+- [BISOPRO-12: Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md) - Risk assessment processes
+- [BISOPRO-25: Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md) - Escalation procedures
 
 ### Appendix C: Success Metrics Framework
-[Detailed measurement criteria and reporting templates]
+*Performance measurement details found in:*
+- [BISOPRO-05: Success Metrics](./BISOPRO-05_Success_Metrics.md) - Complete KPIs and measurement framework
+- [BISOPRO-11: Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) - ROI calculation methodologies
+- [BISOPRO-13: Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md) - Reporting templates
 
-### Appendix D: Stakeholder Contact Directory
-[Key stakeholder roles and contact information]
+### Appendix D: Stakeholder Engagement Resources
+*Stakeholder management guidance in:*
+- [BISOPRO-04: Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md) - Complete engagement framework
+- [BISOPRO-14: Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md) - Executive stakeholder strategies
+- [BISOPRO-03: Alignment Model Analysis](./BISOPRO-03_Alignment_Model_Analysis.md) - Organizational stakeholder mapping
 
 ---
 *This charter establishes the foundation for a successful BISO program that aligns cybersecurity capabilities with business objectives, enabling secure business growth and competitive advantage.*
