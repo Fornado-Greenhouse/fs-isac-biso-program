@@ -49,7 +49,7 @@ Assessment criteria:
 - [ ] Cultural readiness evaluated
 - [ ] Risk appetite defined
 
-## Phase 1: Foundation (Months 1-6)
+## Phase 1: Foundation (Months 1-3)
 
 ### Overview
 Establish the foundational framework for the BISO program, including charter, problem definition, and core program structures.
@@ -184,7 +184,7 @@ Before proceeding to Phase 2:
 - [ ] Phase 2 resources allocated
 - [ ] Executive support confirmed
 
-## Phase 2: Structure and Authority (Months 7-12)
+## Phase 2: Structure and Authority (Months 4-6)
 
 ### Overview
 Build the operational framework including roles, authority, processes, and support structures.
@@ -319,7 +319,7 @@ Before proceeding to Phase 3:
 - [ ] Initial BISOs recruited/assigned
 - [ ] Phase 3 planning complete
 
-## Phase 3: Strategic Value (Months 13-18)
+## Phase 3: Strategic Value (Months 7-12)
 
 ### Overview
 Develop strategic components including business case, risk methodology, and executive engagement.
@@ -439,7 +439,7 @@ Before proceeding to Phase 4:
 - [ ] Program maturity established
 - [ ] Phase 4 resources approved
 
-## Phase 4: Continuous Improvement (Months 19-24)
+## Phase 4: Continuous Improvement (Months 13-15)
 
 ### Overview
 Establish frameworks for ongoing program evolution and excellence.
