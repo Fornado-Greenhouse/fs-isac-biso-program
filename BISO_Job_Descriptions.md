@@ -72,11 +72,11 @@ The Senior Business Information Security Officer (BISO) serves as the primary cy
 - Adaptability and change management skills
 
 ### Compensation and Benefits
-- **Base Salary**: $150,000 - $200,000 (commensurate with experience)
-- **Annual Bonus**: Up to 20% of base salary based on performance
-- **Equity Participation**: Long-term incentive program eligibility  
-- **Professional Development**: $10,000 annual training and conference allowance
-- **Comprehensive Benefits**: Health, dental, vision, retirement, and PTO packages
+- **Base Salary**: $150,000 - $200,000 (commensurate with experience) per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#compensation-strategy)
+- **Annual Bonus**: Up to 20% of base salary based on performance per [Success Metrics](./BISO_Success_Metrics.md#individual-biso-metrics)
+- **Equity Participation**: Long-term incentive program eligibility per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#total-compensation-package)  
+- **Professional Development**: $10,000 annual training and conference allowance per [Core Competencies](./BISO_Core_Competencies_Development.md#training-and-education-framework)
+- **Comprehensive Benefits**: Health, dental, vision, retirement, and PTO packages per [Support Structure](./BISO_Support_Structure.md#career-development-and-advancement)
 
 ---
 
@@ -102,18 +102,18 @@ The Principal Business Information Security Officer leads cybersecurity initiati
 - Support merger and acquisition security due diligence and integration
 
 **Team Leadership and Development**
-- Mentor and develop junior BISO team members
-- Lead cross-functional security teams and initiatives
-- Collaborate with senior leadership on organizational security culture
-- Drive security awareness and training program development
-- Participate in talent acquisition and team building activities
+- Mentor and develop junior BISO team members per [Core Competencies](./BISO_Core_Competencies_Development.md#mentoring-and-coaching)
+- Lead cross-functional security teams and initiatives per [Support Structure](./BISO_Support_Structure.md#cross-functional-coordination)
+- Collaborate with senior leadership on organizational security culture per [Strategic Alignment](./BISO_Strategic_Alignment.md#organizational-culture)
+- Drive security awareness and training program development per [Stakeholder Engagement](./BISO_Stakeholder_Engagement_Protocols.md#training-and-education)
+- Participate in talent acquisition and team building activities per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#recruitment-process)
 
 **Executive Stakeholder Management**
-- Present regularly to board and executive committee on security matters
-- Build strategic relationships with C-level executives and board members
-- Influence organizational strategy and investment decisions
-- Manage escalated conflicts and complex stakeholder situations
-- Represent cybersecurity in strategic planning and business development
+- Present regularly to board and executive committee on security matters per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#semi-annual-board-briefings)
+- Build strategic relationships with C-level executives and board members per [Stakeholder Engagement](./BISO_Stakeholder_Engagement_Protocols.md#executive-leadership-engagement)
+- Influence organizational strategy and investment decisions per [Authority Framework](./BISO_Authority_Framework.md#strategic-investment-decisions)
+- Manage escalated conflicts and complex stakeholder situations per [Escalation Framework](./BISO_Escalation_Decision_Framework.md#conflict-resolution)
+- Represent cybersecurity in strategic planning and business development per [Strategic Alignment](./BISO_Strategic_Alignment.md#strategic-planning-integration)
 
 ### Required Qualifications
 
@@ -131,55 +131,55 @@ The Principal Business Information Security Officer leads cybersecurity initiati
 - Track record of successful large-scale security program implementation
 
 **Advanced Competencies**
-- Strategic thinking and long-term planning capabilities
-- Advanced financial analysis and business case development skills
-- Executive communication and influence abilities
-- Crisis leadership and decision-making under pressure
-- Industry expertise and external relationship management
+- Strategic thinking and long-term planning capabilities per [Strategic Alignment](./BISO_Strategic_Alignment.md#long-term-vision)
+- Advanced financial analysis and business case development skills per [Business Case ROI](./BISO_Business_Case_ROI.md#financial-analysis)
+- Executive communication and influence abilities per [Core Competencies](./BISO_Core_Competencies_Development.md#communication-excellence-competencies)
+- Crisis leadership and decision-making under pressure per [Escalation Framework](./BISO_Escalation_Decision_Framework.md#emergency-escalation)
+- Industry expertise and external relationship management per [Competitive Analysis](./BISO_Competitive_Analysis.md#industry-leadership)
 
 ### Compensation and Benefits
-- **Base Salary**: $180,000 - $230,000 (commensurate with experience)
-- **Annual Bonus**: Up to 25% of base salary based on performance
-- **Long-term Incentives**: Equity and performance-based awards
-- **Executive Benefits**: Enhanced benefits package and perquisites
-- **Professional Development**: $15,000 annual allowance plus executive coaching
+- **Base Salary**: $180,000 - $230,000 (commensurate with experience) per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#principal-biso)
+- **Annual Bonus**: Up to 25% of base salary based on performance per [Success Metrics](./BISO_Success_Metrics.md#program-effectiveness-metrics)
+- **Long-term Incentives**: Equity and performance-based awards per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#incentive-alignment)
+- **Executive Benefits**: Enhanced benefits package and perquisites per [Support Structure](./BISO_Support_Structure.md#leadership-development)
+- **Professional Development**: $15,000 annual allowance plus executive coaching per [Core Competencies](./BISO_Core_Competencies_Development.md#executive-coaching)
 
 ---
 
 ## BISO Program Director
 
 ### Position Overview
-The BISO Program Director provides overall leadership for the Business Information Security Officer program, ensuring strategic alignment, operational effectiveness, and continuous improvement across all BISO functions and business unit relationships.
+The BISO Program Director provides overall leadership for the Business Information Security Officer program, ensuring strategic alignment, operational effectiveness, and continuous improvement across all BISO functions and business unit relationships. This role executes the vision outlined in our [Charter](./BISO_Charter.md) and drives the strategic objectives defined in our [Strategic Alignment](./BISO_Strategic_Alignment.md).
 
 ### Key Responsibilities
 
 **Program Leadership and Strategy**
-- Define and execute overall BISO program strategy and vision
-- Ensure alignment between BISO activities and organizational security strategy
-- Drive program innovation, best practice development, and continuous improvement
-- Represent BISO program to executive leadership and external stakeholders
-- Lead strategic planning and resource allocation for BISO program
+- Define and execute overall BISO program strategy and vision per [Charter](./BISO_Charter.md#program-vision)
+- Ensure alignment between BISO activities and organizational security strategy per [Strategic Alignment](./BISO_Strategic_Alignment.md#strategic-integration-framework)
+- Drive program innovation, best practice development, and continuous improvement per [Success Metrics](./BISO_Success_Metrics.md#continuous-improvement)
+- Represent BISO program to executive leadership and external stakeholders per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#executive-communication)
+- Lead strategic planning and resource allocation for BISO program per [Support Structure](./BISO_Support_Structure.md#biso-program-director-1-fte)
 
 **Team Management and Development**
-- Recruit, develop, and retain high-quality BISO talent
-- Provide leadership development and career progression for BISO team
-- Establish performance management and recognition programs
-- Foster collaboration and knowledge sharing across BISO team
-- Drive cultural development and professional excellence
+- Recruit, develop, and retain high-quality BISO talent per [Recruitment Strategy](./BISO_Recruitment_Strategy.md)
+- Provide leadership development and career progression for BISO team per [Core Competencies](./BISO_Core_Competencies_Development.md#career-development)
+- Establish performance management and recognition programs per [Success Metrics](./BISO_Success_Metrics.md#individual-biso-metrics)
+- Foster collaboration and knowledge sharing across BISO team per [Support Structure](./BISO_Support_Structure.md#team-coordination-framework)
+- Drive cultural development and professional excellence per [Support Structure](./BISO_Support_Structure.md#team-development-and-culture)
 
 **Stakeholder Relationship Management**
-- Build and maintain strategic relationships with business unit executives
-- Coordinate with CISO and security leadership on program integration
-- Manage escalated issues and complex stakeholder situations
-- Facilitate cross-business unit coordination and resource sharing
-- Represent program in industry forums and professional associations
+- Build and maintain strategic relationships with business unit executives per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#executive-leadership-engagement)
+- Coordinate with CISO and security leadership on program integration per [Reporting Structure](./BISO_Reporting_Structure.md#ciso-reporting-relationship)
+- Manage escalated issues and complex stakeholder situations per [Escalation Framework](./BISO_Escalation_Decision_Framework.md#program-level-escalation)
+- Facilitate cross-business unit coordination and resource sharing per [Alignment Model](./BISO_Alignment_Model_Analysis.md#cross-functional-coordination)
+- Represent program in industry forums and professional associations per [Competitive Analysis](./BISO_Competitive_Analysis.md#industry-leadership)
 
 **Program Operations and Effectiveness**
-- Establish and monitor program success metrics and KPIs
-- Drive operational excellence and process optimization
-- Manage program budget and resource allocation
-- Coordinate with HR, legal, and compliance on program requirements
-- Ensure regulatory compliance and audit readiness
+- Establish and monitor program success metrics and KPIs per [Success Metrics](./BISO_Success_Metrics.md#measurement-framework)
+- Drive operational excellence and process optimization per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#continuous-improvement-framework)
+- Manage program budget and resource allocation per [Business Case ROI](./BISO_Business_Case_ROI.md#investment-summary)
+- Coordinate with HR, legal, and compliance on program requirements per [Independence Framework](./BISO_Independence_Framework.md#cross-functional-collaboration)
+- Ensure regulatory compliance and audit readiness per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#risk-and-compliance)
 
 ### Required Qualifications
 
@@ -191,18 +191,18 @@ The BISO Program Director provides overall leadership for the Business Informati
 - Track record of successful talent acquisition, development, and retention
 
 **Strategic and Business Skills**
-- Advanced business and financial acumen with strategic planning experience
-- Executive presence and board-level communication capabilities
-- Industry expertise and external relationship management abilities
-- Innovation leadership and program development experience
-- Crisis leadership and complex problem-solving capabilities
+- Advanced business and financial acumen with strategic planning experience per [Business Case ROI](./BISO_Business_Case_ROI.md)
+- Executive presence and board-level communication capabilities per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#board-summary-dashboard)
+- Industry expertise and external relationship management abilities per [Stakeholder Engagement](./BISO_Stakeholder_Engagement_Protocols.md#external-stakeholder-engagement)
+- Innovation leadership and program development experience per [Problem Statement](./BISO_Problem_Statement.md#enabling-business-innovation)
+- Crisis leadership and complex problem-solving capabilities per [Escalation Framework](./BISO_Escalation_Decision_Framework.md#crisis-management)
 
 ### Compensation and Benefits
-- **Base Salary**: $220,000 - $280,000 (commensurate with experience)
-- **Annual Bonus**: Up to 30% of base salary based on performance
-- **Long-term Incentives**: Significant equity and performance awards
-- **Executive Package**: Comprehensive executive benefits and perquisites
-- **Professional Development**: Unlimited professional development opportunities
+- **Base Salary**: $220,000 - $280,000 (commensurate with experience) per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#biso-director)
+- **Annual Bonus**: Up to 30% of base salary based on performance per [Success Metrics](./BISO_Success_Metrics.md#program-effectiveness-metrics)
+- **Long-term Incentives**: Significant equity and performance awards per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#long-term-commitment)
+- **Executive Package**: Comprehensive executive benefits and perquisites per [Support Structure](./BISO_Support_Structure.md#leadership-development)
+- **Professional Development**: Unlimited professional development opportunities per [Core Competencies](./BISO_Core_Competencies_Development.md#continuous-improvement-framework)
 
 ## Application Process
 
@@ -214,10 +214,10 @@ Interested candidates should submit:
 4. **Portfolio (Optional)**: Examples of presentations, business cases, or strategic work
 
 ### Selection Timeline
-- **Application Review**: 1-2 weeks from submission
-- **Initial Screening**: Phone/video interview within 3 weeks
-- **Assessment Process**: 2-week comprehensive evaluation process
-- **Final Decision**: Offer extended within 6 weeks of initial application
+- **Application Review**: 1-2 weeks from submission per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#recruitment-success-indicators)
+- **Initial Screening**: Phone/video interview within 3 weeks per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#multi-stage-assessment-process)
+- **Assessment Process**: 2-week comprehensive evaluation process per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#assessment-framework)
+- **Final Decision**: Offer extended within 6 weeks of initial application per [Recruitment Strategy](./BISO_Recruitment_Strategy.md#time-to-fill-metrics)
 
 ### Contact Information
 **BISO Recruitment Team**
@@ -226,7 +226,7 @@ Interested candidates should submit:
 - LinkedIn: Connect with BISO Program Director
 
 **Equal Opportunity Statement**
-We are an equal opportunity employer committed to diversity and inclusion. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+We are an equal opportunity employer committed to diversity and inclusion per our [Support Structure D&I Framework](./BISO_Support_Structure.md#diversity-and-inclusion-framework). All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status per our [Recruitment Strategy](./BISO_Recruitment_Strategy.md#di-implementation-strategy).
 
 ---
 *Document Version: 1.0*  
