@@ -10,44 +10,44 @@
 
 ## Executive Summary
 
-The Business Information Security Officer (BISO) Program establishes dedicated security leadership aligned with business units to bridge the gap between cybersecurity capabilities and business operations. This charter formalizes the BISO role, responsibilities, authority, and success framework.
+The Business Information Security Officer (BISO) Program establishes dedicated security leadership aligned with business units to bridge the gap between cybersecurity capabilities and business operations as identified in our [Problem Statement](./BISO_Problem_Statement.md). This charter formalizes the BISO role, responsibilities, authority, and success framework, building upon the strategic foundation defined in our [Strategic Alignment](./BISO_Strategic_Alignment.md) document.
 
 ## Program Mission
 
-**Mission Statement**: To enable secure business growth by providing business-aligned cybersecurity leadership that integrates security into business processes, facilitates risk-informed decision making, and builds trust between security and business stakeholders.
+**Mission Statement**: To enable secure business growth by providing business-aligned cybersecurity leadership that integrates security into business processes, facilitates risk-informed decision making per our [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md), and builds trust between security and business stakeholders as outlined in our [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md).
 
 ## Program Vision
 
-**Vision Statement**: Security as a competitive advantage through seamless integration of cybersecurity expertise with business operations, enabling rapid, secure business growth and innovation.
+**Vision Statement**: Security as a competitive advantage through seamless integration of cybersecurity expertise with business operations, enabling rapid, secure business growth and innovation as demonstrated in our [Competitive Analysis](./BISO_Competitive_Analysis.md).
 
 ## Program Scope
 
 ### In Scope
-- Business unit cybersecurity representation and advisory services
-- Risk assessment and management for business initiatives
-- Security integration in business processes and projects
-- Regulatory compliance support for business operations
-- Third-party risk management collaboration
-- Security awareness and training for business teams
-- Incident response coordination with business stakeholders
+- Business unit cybersecurity representation and advisory services per [Alignment Model](./BISO_Alignment_Model_Analysis.md)
+- Risk assessment and management for business initiatives per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md)
+- Security integration in business processes and projects per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md)
+- Regulatory compliance support for business operations per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#risk-and-compliance)
+- Third-party risk management collaboration per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#vendor-security-assessment)
+- Security awareness and training for business teams per [Core Competencies](./BISO_Core_Competencies_Development.md#communication-excellence-competencies)
+- Incident response coordination with business stakeholders per [Escalation Framework](./BISO_Escalation_Decision_Framework.md)
 
 ### Out of Scope
-- Technical security tool implementation (remains with cybersecurity teams)
-- Security policy creation (collaborative input only)
-- Business process ownership (advisory role only)
-- Direct management of cybersecurity infrastructure
-- Budget ownership for cybersecurity tools and systems
+- Technical security tool implementation (remains with cybersecurity teams) per [Independence Framework](./BISO_Independence_Framework.md#technology-ownership-separation)
+- Security policy creation (collaborative input only) per [Authority Framework](./BISO_Authority_Framework.md#policy-governance)
+- Business process ownership (advisory role only) per [Independence Framework](./BISO_Independence_Framework.md#business-process-boundaries)
+- Direct management of cybersecurity infrastructure per [Reporting Structure](./BISO_Reporting_Structure.md#role-boundaries)
+- Budget ownership for cybersecurity tools and systems per [Independence Framework](./BISO_Independence_Framework.md#budget-independence)
 
 ## BISO Role Definition
 
 ### Core Purpose
-The BISO serves as the primary interface between cybersecurity and business operations, ensuring security considerations are integrated into business decisions while business context informs security strategies.
+The BISO serves as the primary interface between cybersecurity and business operations per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md), ensuring security considerations are integrated into business decisions while business context informs security strategies as defined in our [Strategic Alignment](./BISO_Strategic_Alignment.md).
 
 ### Key Accountabilities
 1. **Risk Management Leadership**
-   - Identify, assess, and communicate business-specific cybersecurity risks
-   - Support risk-based decision making for business initiatives
-   - Facilitate risk mitigation strategy development
+   - Identify, assess, and communicate business-specific cybersecurity risks per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md)
+   - Support risk-based decision making for business initiatives per [Authority Framework](./BISO_Authority_Framework.md#risk-based-decision-making)
+   - Facilitate risk mitigation strategy development per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#risk-mitigation-strategy)
 
 2. **Business Integration**
    - Embed security considerations in business planning processes

@@ -1,53 +1,53 @@
 # BISO Strategic Alignment Framework
 
 ## Overview
-This document defines how BISO objectives align with organizational business and cybersecurity strategies to ensure unified direction and optimal value delivery.
+This document defines how BISO objectives align with organizational business and cybersecurity strategies to ensure unified direction and optimal value delivery as established in our [Charter](./BISO_Charter.md) and measured through our [Success Metrics](./BISO_Success_Metrics.md).
 
 ## Business Strategy Alignment
 
 ### Strategic Business Objectives
 1. **Digital Transformation & Innovation**
-   - BISO Alignment: Enable secure adoption of emerging technologies
-   - Value Proposition: Accelerate innovation without compromising security
-   - Key Activities: Security architecture review, risk assessment for new technologies
+   - BISO Alignment: Enable secure adoption of emerging technologies per [Problem Statement](./BISO_Problem_Statement.md#supporting-digital-transformation)
+   - Value Proposition: Accelerate innovation without compromising security per [Competitive Analysis](./BISO_Competitive_Analysis.md#technology-leadership)
+   - Key Activities: Security architecture review, risk assessment for new technologies per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#emerging-technology-advisory)
 
 2. **Market Expansion & Growth**
-   - BISO Alignment: Support geographic and product expansion securely
-   - Value Proposition: Maintain security posture during scaling
-   - Key Activities: Regional compliance assessment, new market risk analysis
+   - BISO Alignment: Support geographic and product expansion securely per [Alignment Model](./BISO_Alignment_Model_Analysis.md#geographic-alignment)
+   - Value Proposition: Maintain security posture during scaling per [Business Case ROI](./BISO_Business_Case_ROI.md#revenue-protection)
+   - Key Activities: Regional compliance assessment, new market risk analysis per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#regulatory-and-compliance-context)
 
 3. **Operational Excellence**
-   - BISO Alignment: Integrate security into business process optimization
-   - Value Proposition: Security as efficiency enabler, not impediment
-   - Key Activities: Process security reviews, automation security validation
+   - BISO Alignment: Integrate security into business process optimization per [Success Metrics](./BISO_Success_Metrics.md#efficiency-metrics)
+   - Value Proposition: Security as efficiency enabler, not impediment per [Problem Statement](./BISO_Problem_Statement.md#security-as-business-enabler)
+   - Key Activities: Process security reviews, automation security validation per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#operational-security-advisory)
 
 4. **Customer Experience Enhancement**
-   - BISO Alignment: Balance security controls with user experience
-   - Value Proposition: Secure customer interactions without friction
-   - Key Activities: Customer-facing system security, privacy by design
+   - BISO Alignment: Balance security controls with user experience per [Core Competencies](./BISO_Core_Competencies_Development.md#business-security-balance)
+   - Value Proposition: Secure customer interactions without friction per [Business Case ROI](./BISO_Business_Case_ROI.md#customer-experience-value)
+   - Key Activities: Customer-facing system security, privacy by design per [Alignment Model](./BISO_Alignment_Model_Analysis.md#consumer-retail-biso)
 
 5. **Regulatory Compliance & Risk Management**
-   - BISO Alignment: Embed compliance into business operations
-   - Value Proposition: Proactive compliance, reduced regulatory risk
-   - Key Activities: Business-specific compliance programs, audit preparation
+   - BISO Alignment: Embed compliance into business operations per [Problem Statement](./BISO_Problem_Statement.md#regulatory-compliance-challenges)
+   - Value Proposition: Proactive compliance, reduced regulatory risk per [Success Metrics](./BISO_Success_Metrics.md#regulatory-compliance-metrics)
+   - Key Activities: Business-specific compliance programs, audit preparation per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#risk-and-compliance)
 
 ## Cybersecurity Strategy Alignment
 
 ### Core Cybersecurity Objectives
 1. **Proactive Threat Defense**
-   - BISO Contribution: Business context for threat intelligence
-   - Integration Point: Business-specific threat modeling
-   - Outcome: Relevant, actionable threat information
+   - BISO Contribution: Business context for threat intelligence per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#threat-landscape-analysis)
+   - Integration Point: Business-specific threat modeling per [Core Competencies](./BISO_Core_Competencies_Development.md#risk-management-competencies)
+   - Outcome: Relevant, actionable threat information per [Success Metrics](./BISO_Success_Metrics.md#risk-management-metrics)
 
 2. **Zero Trust Architecture**
-   - BISO Contribution: Business process mapping for access controls
-   - Integration Point: Business workflow security design
-   - Outcome: Context-aware security controls
+   - BISO Contribution: Business process mapping for access controls per [Authority Framework](./BISO_Authority_Framework.md#access-control-decisions)
+   - Integration Point: Business workflow security design per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#architecture-security-reviews)
+   - Outcome: Context-aware security controls per [Alignment Model](./BISO_Alignment_Model_Analysis.md#product-specialists)
 
 3. **Data Protection & Privacy**
-   - BISO Contribution: Business data classification and handling
-   - Integration Point: Data governance program alignment
-   - Outcome: Business-appropriate data protection
+   - BISO Contribution: Business data classification and handling per [Alignment Model](./BISO_Alignment_Model_Analysis.md#data-protection-specialist)
+   - Integration Point: Data governance program alignment per [Independence Framework](./BISO_Independence_Framework.md#data-security-and-privacy)
+   - Outcome: Business-appropriate data protection per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#regulatory-and-compliance-context)
 
 4. **Incident Response & Recovery**
    - BISO Contribution: Business impact assessment and communication
