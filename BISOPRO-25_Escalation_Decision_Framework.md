@@ -1,23 +1,23 @@
 # BISO Escalation Paths and Decision Rights Framework
 
 ## Executive Summary
-This framework establishes clear escalation paths and decision rights for BISOs, ensuring appropriate decision-making authority while providing structured escalation for complex situations, conflicts, and decisions beyond BISO authority. This framework implements the escalation procedures defined in our [Charter](./BISO_Charter.md#escalation-authority) and complements the authority levels specified in our [Authority Framework](./BISO_Authority_Framework.md). The framework addresses the decision-making challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#communication-and-translation-barriers) and supports the governance structure outlined in our [Reporting Structure](./BISO_Reporting_Structure.md).
+This framework establishes clear escalation paths and decision rights for BISOs, ensuring appropriate decision-making authority while providing structured escalation for complex situations, conflicts, and decisions beyond BISO authority. This framework implements the escalation procedures defined in our [Charter](./BISOPRO-01_Charter.md#escalation-authority) and complements the authority levels specified in our [Authority Framework](./BISOPRO-06_Authority_Framework.md). The framework addresses the decision-making challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#communication-and-translation-barriers) and supports the governance structure outlined in our [Reporting Structure](./BISOPRO-07_Reporting_Structure.md).
 
 ## Decision Rights Architecture
 
 ### Decision Categories
 
 **Category 1: Autonomous Decisions**
-- Decisions BISO can make independently per [Authority Framework](./BISO_Authority_Framework.md#level-1-autonomous-authority)
-- No approval required per [Charter](./BISO_Charter.md#decision-rights)
-- Documentation and notification standards apply per [Success Metrics](./BISO_Success_Metrics.md#decision-documentation)
-- Examples: Risk assessments per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md), standard control implementations per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md), policy interpretations per [Independence Framework](./BISO_Independence_Framework.md)
+- Decisions BISO can make independently per [Authority Framework](./BISOPRO-06_Authority_Framework.md#level-1-autonomous-authority)
+- No approval required per [Charter](./BISOPRO-01_Charter.md#decision-rights)
+- Documentation and notification standards apply per [Success Metrics](./BISOPRO-05_Success_Metrics.md#decision-documentation)
+- Examples: Risk assessments per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md), standard control implementations per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md), policy interpretations per [Independence Framework](./BISOPRO-18_Independence_Framework.md)
 
 **Category 2: Consultative Decisions**
-- BISO has decision authority after consultation per [Authority Framework](./BISO_Authority_Framework.md#level-2-consultative-authority)
-- Input from stakeholders required but not binding per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#consultative-engagement)
-- BISO maintains final decision responsibility per [Charter](./BISO_Charter.md#accountability)
-- Examples: Medium-risk exceptions per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#exception-management), business process security changes per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#process-security-integration)
+- BISO has decision authority after consultation per [Authority Framework](./BISOPRO-06_Authority_Framework.md#level-2-consultative-authority)
+- Input from stakeholders required but not binding per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#consultative-engagement)
+- BISO maintains final decision responsibility per [Charter](./BISOPRO-01_Charter.md#accountability)
+- Examples: Medium-risk exceptions per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#exception-management), business process security changes per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#process-security-integration)
 
 **Category 3: Collaborative Decisions**
 - Joint decision-making with other stakeholders

@@ -1,23 +1,23 @@
 # BISO Independence Framework
 
 ## Executive Summary
-This framework ensures BISO independence from technology ownership and operational conflicts of interest, enabling objective security assessments and recommendations while maintaining strong collaborative relationships with technology and business teams. This framework implements the independence requirements established in our [Charter](./BISO_Charter.md#organizational-placement) and addresses the objectivity challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#inconsistent-risk-management). The framework works in conjunction with our [Authority Framework](./BISO_Authority_Framework.md) and supports the governance structure defined in our [Reporting Structure](./BISO_Reporting_Structure.md).
+This framework ensures BISO independence from technology ownership and operational conflicts of interest, enabling objective security assessments and recommendations while maintaining strong collaborative relationships with technology and business teams. This framework implements the independence requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-placement) and addresses the objectivity challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#inconsistent-risk-management). The framework works in conjunction with our [Authority Framework](./BISOPRO-06_Authority_Framework.md) and supports the governance structure defined in our [Reporting Structure](./BISOPRO-07_Reporting_Structure.md).
 
 ## Independence Philosophy
 
 ### Core Independence Principles
-1. **Objective Assessment**: BISOs must be able to assess security risks without conflicts of interest per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#objective-assessment-requirements)
-2. **Independent Recommendations**: Security recommendations based on risk, not operational convenience per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#independent-advisory)
-3. **Unbiased Evaluation**: Technology and vendor assessments free from ownership bias per [Competitive Analysis](./BISO_Competitive_Analysis.md#objective-evaluation)
-4. **Professional Integrity**: Decisions guided by security expertise and organizational best interests per [Core Competencies](./BISO_Core_Competencies_Development.md#professional-ethics)
-5. **Stakeholder Trust**: Independence builds trust with all stakeholders per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#trust-building)
+1. **Objective Assessment**: BISOs must be able to assess security risks without conflicts of interest per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#objective-assessment-requirements)
+2. **Independent Recommendations**: Security recommendations based on risk, not operational convenience per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#independent-advisory)
+3. **Unbiased Evaluation**: Technology and vendor assessments free from ownership bias per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#objective-evaluation)
+4. **Professional Integrity**: Decisions guided by security expertise and organizational best interests per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#professional-ethics)
+5. **Stakeholder Trust**: Independence builds trust with all stakeholders per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-building)
 
 ### Benefits of Independence
-- **Credible Risk Assessments**: Stakeholders trust independent security evaluations per [Success Metrics](./BISO_Success_Metrics.md#stakeholder-trust-metrics)
-- **Objective Recommendations**: Solutions chosen based on merit, not convenience per [Business Case ROI](./BISO_Business_Case_ROI.md#objective-decision-value)
-- **Audit Confidence**: Independent reviews satisfy auditor and regulator requirements per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#audit-readiness)
-- **Vendor Neutrality**: Technology choices based on business needs and security effectiveness per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#vendor-neutrality)
-- **Professional Growth**: BISOs develop broad expertise without technology ownership constraints per [Training Development Programs](./BISO_Training_Development_Programs.md#competency-development)
+- **Credible Risk Assessments**: Stakeholders trust independent security evaluations per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-trust-metrics)
+- **Objective Recommendations**: Solutions chosen based on merit, not convenience per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#objective-decision-value)
+- **Audit Confidence**: Independent reviews satisfy auditor and regulator requirements per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#audit-readiness)
+- **Vendor Neutrality**: Technology choices based on business needs and security effectiveness per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#vendor-neutrality)
+- **Professional Growth**: BISOs develop broad expertise without technology ownership constraints per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#competency-development)
 
 ## Technology Ownership Separation
 

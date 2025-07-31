@@ -1,23 +1,23 @@
 # BISO Optimal Reporting Structure Design
 
 ## Executive Summary
-This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISO_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISO_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISO_Independence_Framework.md).
+This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISOPRO-06_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md).
 
 ## Organizational Design Principles
 
 ### Core Design Principles
-1. **Security Independence**: Maintain independence from business pressures while serving business needs per [Independence Framework](./BISO_Independence_Framework.md#core-independence-principles)
-2. **Business Alignment**: Ensure close working relationships with business leadership per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-strategy-alignment)
-3. **Clear Authority**: Establish sufficient authority to act effectively as "mini CISO" per [Authority Framework](./BISO_Authority_Framework.md#mini-ciso-concept)
-4. **Scalable Structure**: Design for organizational growth and evolution per [Alignment Model](./BISO_Alignment_Model_Analysis.md#scalability-considerations)
-5. **Dual Accountability**: Balance security and business accountabilities per [Success Metrics](./BISO_Success_Metrics.md#dual-accountability-metrics)
+1. **Security Independence**: Maintain independence from business pressures while serving business needs per [Independence Framework](./BISOPRO-18_Independence_Framework.md#core-independence-principles)
+2. **Business Alignment**: Ensure close working relationships with business leadership per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#business-strategy-alignment)
+3. **Clear Authority**: Establish sufficient authority to act effectively as "mini CISO" per [Authority Framework](./BISOPRO-06_Authority_Framework.md#mini-ciso-concept)
+4. **Scalable Structure**: Design for organizational growth and evolution per [Alignment Model](./BISOPRO-03_Alignment_Model_Analysis.md#scalability-considerations)
+5. **Dual Accountability**: Balance security and business accountabilities per [Success Metrics](./BISOPRO-05_Success_Metrics.md#dual-accountability-metrics)
 
 ## Primary Reporting Structure
 
 ### BISO → CISO Direct Reporting
-**Primary Reporting Line**: BISO reports directly to Chief Information Security Officer (CISO) per [Charter](./BISO_Charter.md#reporting-relationships)
+**Primary Reporting Line**: BISO reports directly to Chief Information Security Officer (CISO) per [Charter](./BISOPRO-01_Charter.md#reporting-relationships)
 
-**Rationale**: This structure ensures security expertise and independence per [Independence Framework](./BISO_Independence_Framework.md) while enabling business alignment per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md)
+**Rationale**: This structure ensures security expertise and independence per [Independence Framework](./BISOPRO-18_Independence_Framework.md) while enabling business alignment per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md)
 - Maintains security expertise and independence
 - Ensures alignment with overall cybersecurity strategy
 - Provides clear escalation path for security decisions

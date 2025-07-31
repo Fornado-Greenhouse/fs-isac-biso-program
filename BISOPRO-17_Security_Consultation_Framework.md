@@ -1,65 +1,65 @@
 # BISO Security Consultation Framework
 
 ## Executive Summary
-This framework establishes standardized processes for BISO security consultation services, ensuring consistent, high-quality advisory support across all business units as defined in our [Charter](./BISO_Charter.md#key-accountabilities). This framework implements the advisory services outlined in our [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#core-process-2-project-security-integration) and directly addresses the consultation challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#reactive-security-engagement). The framework defines service types, delivery methodologies, and quality standards to maximize business value while maintaining security effectiveness per our [Success Metrics](./BISO_Success_Metrics.md).
+This framework establishes standardized processes for BISO security consultation services, ensuring consistent, high-quality advisory support across all business units as defined in our [Charter](./BISOPRO-01_Charter.md#key-accountabilities). This framework implements the advisory services outlined in our [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#core-process-2-project-security-integration) and directly addresses the consultation challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#reactive-security-engagement). The framework defines service types, delivery methodologies, and quality standards to maximize business value while maintaining security effectiveness per our [Success Metrics](./BISOPRO-05_Success_Metrics.md).
 
 ## Consultation Service Portfolio
 
 ### Core Consultation Services
 
 **Strategic Security Advisory**:
-- **Business Strategy Integration**: Security considerations for business strategy development per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-strategy-alignment)
-- **Digital Transformation Security**: Security guidance for digital transformation initiatives per [Competitive Analysis](./BISO_Competitive_Analysis.md#technology-leadership)
-- **Regulatory Compliance Advisory**: Compliance strategy and implementation guidance per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#risk-and-compliance)
-- **Risk Management Advisory**: Enterprise risk management and security risk integration per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md)
-- **Security Investment Advisory**: Security investment prioritization and optimization per [Business Case ROI](./BISO_Business_Case_ROI.md#investment-requirements)
+- **Business Strategy Integration**: Security considerations for business strategy development per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#business-strategy-alignment)
+- **Digital Transformation Security**: Security guidance for digital transformation initiatives per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#technology-leadership)
+- **Regulatory Compliance Advisory**: Compliance strategy and implementation guidance per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#risk-and-compliance)
+- **Risk Management Advisory**: Enterprise risk management and security risk integration per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md)
+- **Security Investment Advisory**: Security investment prioritization and optimization per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#investment-requirements)
 
 **Project Security Consultation**:
-- **Project Security Reviews**: Security assessment and guidance for business projects per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#project-security-integration)
-- **Architecture Security Reviews**: Security architecture analysis and recommendations per [Core Competencies](./BISO_Core_Competencies_Development.md#security-architecture-competencies)
-- **Vendor Security Assessment**: Third-party security evaluation and risk assessment per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#vendor-risk-assessment)
-- **Security Requirements Definition**: Business-aligned security requirements development per [Authority Framework](./BISO_Authority_Framework.md#security-requirements-authority)
-- **Implementation Security Guidance**: Security guidance during project implementation per [Support Structure](./BISO_Support_Structure.md#project-support-services)
+- **Project Security Reviews**: Security assessment and guidance for business projects per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#project-security-integration)
+- **Architecture Security Reviews**: Security architecture analysis and recommendations per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#security-architecture-competencies)
+- **Vendor Security Assessment**: Third-party security evaluation and risk assessment per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#vendor-risk-assessment)
+- **Security Requirements Definition**: Business-aligned security requirements development per [Authority Framework](./BISOPRO-06_Authority_Framework.md#security-requirements-authority)
+- **Implementation Security Guidance**: Security guidance during project implementation per [Support Structure](./BISOPRO-10_Support_Structure.md#project-support-services)
 
 **Operational Security Advisory**:
-- **Incident Response Advisory**: Business guidance during security incidents per [Escalation Decision Framework](./BISO_Escalation_Decision_Framework.md#incident-response-coordination)
-- **Business Continuity Security**: Security aspects of business continuity planning per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#incident-response-and-communication)
-- **Operational Risk Advisory**: Day-to-day operational security risk guidance per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#operational-risk-assessment)
-- **Security Policy Advisory**: Business-specific security policy interpretation and guidance per [Independence Framework](./BISO_Independence_Framework.md#policy-interpretation)
-- **Training and Awareness Advisory**: Security awareness program development and delivery per [Training Development Programs](./BISO_Training_Development_Programs.md#business-stakeholder-education)
+- **Incident Response Advisory**: Business guidance during security incidents per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#incident-response-coordination)
+- **Business Continuity Security**: Security aspects of business continuity planning per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#incident-response-and-communication)
+- **Operational Risk Advisory**: Day-to-day operational security risk guidance per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#operational-risk-assessment)
+- **Security Policy Advisory**: Business-specific security policy interpretation and guidance per [Independence Framework](./BISOPRO-18_Independence_Framework.md#policy-interpretation)
+- **Training and Awareness Advisory**: Security awareness program development and delivery per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#business-stakeholder-education)
 
 ### Specialized Consultation Services
 
 **Emerging Technology Advisory**:
-- **Cloud Security Consultation**: Cloud adoption and migration security guidance per [Strategic Alignment](./BISO_Strategic_Alignment.md#digital-transformation-innovation)
-- **AI/ML Security Advisory**: Artificial intelligence and machine learning security guidance per [Competitive Analysis](./BISO_Competitive_Analysis.md#technology-innovation)
-- **IoT Security Consultation**: Internet of Things security strategy and implementation per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#emerging-technology-risks)
-- **Blockchain Security Advisory**: Blockchain and cryptocurrency security guidance per [Core Competencies](./BISO_Core_Competencies_Development.md#emerging-technology-competencies)
-- **Quantum Computing Readiness**: Quantum computing impact and preparation guidance per [Strategic Alignment](./BISO_Strategic_Alignment.md#technology-evolution)
+- **Cloud Security Consultation**: Cloud adoption and migration security guidance per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#digital-transformation-innovation)
+- **AI/ML Security Advisory**: Artificial intelligence and machine learning security guidance per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#technology-innovation)
+- **IoT Security Consultation**: Internet of Things security strategy and implementation per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#emerging-technology-risks)
+- **Blockchain Security Advisory**: Blockchain and cryptocurrency security guidance per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#emerging-technology-competencies)
+- **Quantum Computing Readiness**: Quantum computing impact and preparation guidance per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#technology-evolution)
 
 **Regulatory and Compliance Consultation**:
-- **Regulatory Change Impact**: Analysis and guidance on regulatory changes per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#regulatory-landscape)
-- **Examination Preparation**: Security examination and audit preparation support per [Independence Framework](./BISO_Independence_Framework.md#audit-coordination)
-- **Compliance Program Development**: Security compliance program design and implementation per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#regulatory-compliance-support)
-- **Regulatory Relationship Management**: Support for regulatory interactions and communications per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#regulatory-engagement)
-- **Industry Standard Adoption**: Guidance on industry standard implementation and compliance per [Competitive Analysis](./BISO_Competitive_Analysis.md#regulatory-landscape)
+- **Regulatory Change Impact**: Analysis and guidance on regulatory changes per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#regulatory-landscape)
+- **Examination Preparation**: Security examination and audit preparation support per [Independence Framework](./BISOPRO-18_Independence_Framework.md#audit-coordination)
+- **Compliance Program Development**: Security compliance program design and implementation per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#regulatory-compliance-support)
+- **Regulatory Relationship Management**: Support for regulatory interactions and communications per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#regulatory-engagement)
+- **Industry Standard Adoption**: Guidance on industry standard implementation and compliance per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#regulatory-landscape)
 
 ## Consultation Delivery Framework
 
 ### Consultation Request and Intake Process
 
 **Request Submission Process**:
-- **Consultation Request Portal**: Centralized portal for all consultation requests per [Support Structure](./BISO_Support_Structure.md#consultation-request-management)
-- **Request Categorization**: Automatic categorization by service type and urgency per [Authority Framework](./BISO_Authority_Framework.md#consultation-prioritization)
-- **Initial Screening**: BISO review and preliminary assessment of request per [Core Competencies](./BISO_Core_Competencies_Development.md#consultation-assessment-competencies)
-- **Resource Assignment**: Assignment of appropriate BISO and specialist resources per [Support Structure](./BISO_Support_Structure.md#resource-allocation)
-- **Timeline Establishment**: Establishment of consultation timeline and deliverables per [Success Metrics](./BISO_Success_Metrics.md#consultation-efficiency-metrics)
+- **Consultation Request Portal**: Centralized portal for all consultation requests per [Support Structure](./BISOPRO-10_Support_Structure.md#consultation-request-management)
+- **Request Categorization**: Automatic categorization by service type and urgency per [Authority Framework](./BISOPRO-06_Authority_Framework.md#consultation-prioritization)
+- **Initial Screening**: BISO review and preliminary assessment of request per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#consultation-assessment-competencies)
+- **Resource Assignment**: Assignment of appropriate BISO and specialist resources per [Support Structure](./BISOPRO-10_Support_Structure.md#resource-allocation)
+- **Timeline Establishment**: Establishment of consultation timeline and deliverables per [Success Metrics](./BISOPRO-05_Success_Metrics.md#consultation-efficiency-metrics)
 
 **Request Prioritization Matrix**:
-- **Critical (Response: Same Day)**: Executive escalation per [Escalation Decision Framework](./BISO_Escalation_Decision_Framework.md#critical-escalation), regulatory issues, security incidents per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#incident-response-and-communication)
-- **High (Response: 2 Business Days)**: Strategic initiatives per [Strategic Alignment](./BISO_Strategic_Alignment.md), compliance deadlines per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#compliance-reporting), major projects per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#project-risk-classification)
-- **Medium (Response: 5 Business Days)**: Standard projects per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#project-security-integration), policy questions per [Authority Framework](./BISO_Authority_Framework.md#policy-guidance), routine assessments
-- **Low (Response: 10 Business Days)**: Educational requests per [Training Development Programs](./BISO_Training_Development_Programs.md#business-stakeholder-education), best practice inquiries, general guidance
+- **Critical (Response: Same Day)**: Executive escalation per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#critical-escalation), regulatory issues, security incidents per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#incident-response-and-communication)
+- **High (Response: 2 Business Days)**: Strategic initiatives per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md), compliance deadlines per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#compliance-reporting), major projects per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#project-risk-classification)
+- **Medium (Response: 5 Business Days)**: Standard projects per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#project-security-integration), policy questions per [Authority Framework](./BISOPRO-06_Authority_Framework.md#policy-guidance), routine assessments
+- **Low (Response: 10 Business Days)**: Educational requests per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#business-stakeholder-education), best practice inquiries, general guidance
 
 **Intake Information Requirements**:
 - **Business Context**: Business objectives, strategic importance, stakeholder information
@@ -190,11 +190,11 @@ This framework establishes standardized processes for BISO security consultation
 ### Consultation Performance Metrics
 
 **Quality Metrics**:
-- **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction rating from stakeholders per [Success Metrics](./BISO_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- **Recommendation Adoption**: Target >80% adoption rate of primary recommendations per [Success Metrics](./BISO_Success_Metrics.md#consultation-effectiveness-metrics)
-- **Implementation Success**: Target >90% successful implementation of adopted recommendations per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#implementation-success-metrics)
-- **Business Value Realization**: Target >3:1 ROI on consultation investment per [Business Case ROI](./BISO_Business_Case_ROI.md#consultation-roi)
-- **Repeat Engagement**: Target >70% repeat engagement rate from business units per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#engagement-continuity)
+- **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction rating from stakeholders per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
+- **Recommendation Adoption**: Target >80% adoption rate of primary recommendations per [Success Metrics](./BISOPRO-05_Success_Metrics.md#consultation-effectiveness-metrics)
+- **Implementation Success**: Target >90% successful implementation of adopted recommendations per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#implementation-success-metrics)
+- **Business Value Realization**: Target >3:1 ROI on consultation investment per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#consultation-roi)
+- **Repeat Engagement**: Target >70% repeat engagement rate from business units per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#engagement-continuity)
 
 **Efficiency Metrics**:
 - **Consultation Cycle Time**: Target 30 days for standard consultations
@@ -215,18 +215,18 @@ This framework establishes standardized processes for BISO security consultation
 ### Stakeholder Identification and Analysis
 
 **Primary Stakeholders**:
-- **Business Unit Leadership**: Primary decision makers and resource owners per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#business-unit-leaders)
-- **Project Leadership**: Project managers and technical leaders per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#project-stakeholder-management)
-- **Risk and Compliance**: Risk management and compliance professionals per [Independence Framework](./BISO_Independence_Framework.md#risk-and-compliance-coordination)
-- **IT Leadership**: Information technology leadership and architects per [Alignment Model](./BISO_Alignment_Model_Analysis.md#technology-alignment)
-- **Executive Sponsors**: Executive sponsors and strategic decision makers per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#sponsor-engagement)
+- **Business Unit Leadership**: Primary decision makers and resource owners per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#business-unit-leaders)
+- **Project Leadership**: Project managers and technical leaders per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#project-stakeholder-management)
+- **Risk and Compliance**: Risk management and compliance professionals per [Independence Framework](./BISOPRO-18_Independence_Framework.md#risk-and-compliance-coordination)
+- **IT Leadership**: Information technology leadership and architects per [Alignment Model](./BISOPRO-03_Alignment_Model_Analysis.md#technology-alignment)
+- **Executive Sponsors**: Executive sponsors and strategic decision makers per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#sponsor-engagement)
 
 **Stakeholder Engagement Strategy**:
-- **Business Unit Leaders**: Focus on business value per [Business Case ROI](./BISO_Business_Case_ROI.md#business-value-demonstration), competitive advantage per [Competitive Analysis](./BISO_Competitive_Analysis.md), and risk management per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md)
-- **Project Teams**: Focus on implementation guidance per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md), technical requirements per [Core Competencies](./BISO_Core_Competencies_Development.md#technical-competencies), and timeline support per [Success Metrics](./BISO_Success_Metrics.md#project-delivery-metrics)
-- **Risk and Compliance**: Focus on risk mitigation per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#risk-treatment-strategies), compliance alignment per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#compliance-reporting), and audit readiness per [Independence Framework](./BISO_Independence_Framework.md#audit-coordination)
-- **IT Teams**: Focus on technical architecture per [Core Competencies](./BISO_Core_Competencies_Development.md#security-architecture-competencies), integration requirements per [Support Structure](./BISO_Support_Structure.md#technology-integration), and operational impact per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#operational-impact-assessment)
-- **Executives**: Focus on strategic alignment per [Strategic Alignment](./BISO_Strategic_Alignment.md), investment justification per [Business Case ROI](./BISO_Business_Case_ROI.md), and business outcomes per [Success Metrics](./BISO_Success_Metrics.md#business-impact-metrics)
+- **Business Unit Leaders**: Focus on business value per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#business-value-demonstration), competitive advantage per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md), and risk management per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md)
+- **Project Teams**: Focus on implementation guidance per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md), technical requirements per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#technical-competencies), and timeline support per [Success Metrics](./BISOPRO-05_Success_Metrics.md#project-delivery-metrics)
+- **Risk and Compliance**: Focus on risk mitigation per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#risk-treatment-strategies), compliance alignment per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#compliance-reporting), and audit readiness per [Independence Framework](./BISOPRO-18_Independence_Framework.md#audit-coordination)
+- **IT Teams**: Focus on technical architecture per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#security-architecture-competencies), integration requirements per [Support Structure](./BISOPRO-10_Support_Structure.md#technology-integration), and operational impact per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#operational-impact-assessment)
+- **Executives**: Focus on strategic alignment per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md), investment justification per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md), and business outcomes per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-impact-metrics)
 
 **Communication and Collaboration Framework**:
 - **Regular Check-ins**: Scheduled progress reviews and stakeholder updates

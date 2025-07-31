@@ -1,7 +1,7 @@
 # BISO Program Competitive Advantage and Market Analysis
 
 ## Executive Summary
-The BISO program provides significant competitive advantages through enhanced security posture, operational efficiency, and market differentiation as outlined in our [Business Case ROI](./BISO_Business_Case_ROI.md). Organizations without business-aligned security leadership face increasing risks and competitive disadvantages in security-conscious markets, reinforcing the need addressed in our [Problem Statement](./BISO_Problem_Statement.md).
+The BISO program provides significant competitive advantages through enhanced security posture, operational efficiency, and market differentiation as outlined in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md). Organizations without business-aligned security leadership face increasing risks and competitive disadvantages in security-conscious markets, reinforcing the need addressed in our [Problem Statement](./BISOPRO-02_Problem_Statement.md).
 
 ## Competitive Landscape Analysis
 
@@ -43,11 +43,11 @@ The BISO program provides significant competitive advantages through enhanced se
 
 **Competitive Performance Metrics**:
 Organizations with BISO programs vs. those without:
-- **47% faster** security incident response per [Escalation Framework](./BISO_Escalation_Decision_Framework.md#incident-response-decisions)
-- **38% lower** security-related project delays per [Success Metrics](./BISO_Success_Metrics.md#efficiency-metrics)
-- **52% better** regulatory compliance scores per [Success Metrics](./BISO_Success_Metrics.md#regulatory-compliance-metrics)
-- **31% higher** customer security confidence ratings per [Business Case ROI](./BISO_Business_Case_ROI.md#brand-protection-and-trust)
-- **24% faster** new product security review cycles per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#consultation-performance-metrics)
+- **47% faster** security incident response per [Escalation Framework](./BISOPRO-25_Escalation_Decision_Framework.md#incident-response-decisions)
+- **38% lower** security-related project delays per [Success Metrics](./BISOPRO-05_Success_Metrics.md#efficiency-metrics)
+- **52% better** regulatory compliance scores per [Success Metrics](./BISOPRO-05_Success_Metrics.md#regulatory-compliance-metrics)
+- **31% higher** customer security confidence ratings per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#brand-protection-and-trust)
+- **24% faster** new product security review cycles per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#consultation-performance-metrics)
 
 ## Competitive Advantages
 

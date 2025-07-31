@@ -1,35 +1,35 @@
 # BISO Program Executive Briefing Framework
 
 ## Executive Summary
-This framework establishes a regular executive briefing cadence to maintain leadership engagement, demonstrate program value, and ensure ongoing strategic alignment per our [BISO Charter](./BISO_Charter.md) and [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md). The briefing schedule balances transparency with efficiency, providing actionable insights at appropriate intervals to support the objectives outlined in our [Strategic Alignment](./BISO_Strategic_Alignment.md).
+This framework establishes a regular executive briefing cadence to maintain leadership engagement, demonstrate program value, and ensure ongoing strategic alignment per our [BISO Charter](./BISOPRO-01_Charter.md) and [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md). The briefing schedule balances transparency with efficiency, providing actionable insights at appropriate intervals to support the objectives outlined in our [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md).
 
 ## Briefing Architecture
 
 ### Briefing Hierarchy
 
 **Tier 1: CEO/Executive Team**
-- **Frequency**: Quarterly strategic briefings per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#quarterly-reviews)
+- **Frequency**: Quarterly strategic briefings per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#quarterly-reviews)
 - **Duration**: 30-45 minutes
-- **Focus**: Strategic outcomes, competitive position, major decisions per [Strategic Alignment](./BISO_Strategic_Alignment.md#executive-alignment)
-- **Participants**: CEO, CISO, CRO, CFO, Business Unit Leaders per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#executive-leadership)
+- **Focus**: Strategic outcomes, competitive position, major decisions per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#executive-alignment)
+- **Participants**: CEO, CISO, CRO, CFO, Business Unit Leaders per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#executive-leadership)
 
 **Tier 2: CISO/Security Leadership**
-- **Frequency**: Monthly operational briefings per [Reporting Structure](./BISO_Reporting_Structure.md#ciso-reporting-relationship)
+- **Frequency**: Monthly operational briefings per [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#ciso-reporting-relationship)
 - **Duration**: 60 minutes
-- **Focus**: Program progress, operational metrics, resource needs per [Success Metrics](./BISO_Success_Metrics.md#operational-metrics)
-- **Participants**: CISO, BISO team, Security Leadership per [Support Structure](./BISO_Support_Structure.md#security-organization-integration)
+- **Focus**: Program progress, operational metrics, resource needs per [Success Metrics](./BISOPRO-05_Success_Metrics.md#operational-metrics)
+- **Participants**: CISO, BISO team, Security Leadership per [Support Structure](./BISOPRO-10_Support_Structure.md#security-organization-integration)
 
 **Tier 3: Business Unit Leadership**
-- **Frequency**: Monthly business alignment briefings per [Alignment Model](./BISO_Alignment_Model_Analysis.md#business-unit-integration)
+- **Frequency**: Monthly business alignment briefings per [Alignment Model](./BISOPRO-03_Alignment_Model_Analysis.md#business-unit-integration)
 - **Duration**: 45 minutes
-- **Focus**: Business unit specific outcomes, stakeholder satisfaction per [Success Metrics](./BISO_Success_Metrics.md#business-unit-metrics)
-- **Participants**: Business Unit Leaders, assigned BISOs, CISO per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#business-unit-leadership-engagement)
+- **Focus**: Business unit specific outcomes, stakeholder satisfaction per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-unit-metrics)
+- **Participants**: Business Unit Leaders, assigned BISOs, CISO per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#business-unit-leadership-engagement)
 
 **Tier 4: Board/Audit Committee**
-- **Frequency**: Semi-annual governance briefings per [Charter](./BISO_Charter.md#governance-oversight)
+- **Frequency**: Semi-annual governance briefings per [Charter](./BISOPRO-01_Charter.md#governance-oversight)
 - **Duration**: 20-30 minutes
-- **Focus**: Risk reduction, compliance posture, strategic value per [Business Case ROI](./BISO_Business_Case_ROI.md#strategic-value)
-- **Participants**: Board/Audit Committee, CEO, CISO, CRO per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#board-of-directors)
+- **Focus**: Risk reduction, compliance posture, strategic value per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#strategic-value)
+- **Participants**: Board/Audit Committee, CEO, CISO, CRO per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#board-of-directors)
 
 ## Briefing Content Framework
 
@@ -44,22 +44,22 @@ This framework establishes a regular executive briefing cadence to maintain lead
 - Resource status and needs
 
 **Section 2: Operational Metrics (15 minutes)**
-- Security review cycle time trends per [Success Metrics](./BISO_Success_Metrics.md#efficiency-metrics)
-- Project rework reduction statistics per [Business Case ROI](./BISO_Business_Case_ROI.md#efficiency-gains)
-- Stakeholder satisfaction scores per [Success Metrics](./BISO_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- Incident prevention and response metrics per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#measurement-and-continuous-improvement)
+- Security review cycle time trends per [Success Metrics](./BISOPRO-05_Success_Metrics.md#efficiency-metrics)
+- Project rework reduction statistics per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#efficiency-gains)
+- Stakeholder satisfaction scores per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
+- Incident prevention and response metrics per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#measurement-and-continuous-improvement)
 
 **Section 3: Business Value Demonstration (15 minutes)**
-- ROI tracking and realization per [Business Case ROI](./BISO_Business_Case_ROI.md#roi-tracking-and-measurement)
-- Cost savings and efficiency gains per [Business Case ROI](./BISO_Business_Case_ROI.md#cost-savings-analysis)
-- Business enablement examples per [Problem Statement](./BISO_Problem_Statement.md#enabling-business-innovation)
-- Competitive advantage indicators per [Competitive Analysis](./BISO_Competitive_Analysis.md#competitive-advantage-realization)
+- ROI tracking and realization per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#roi-tracking-and-measurement)
+- Cost savings and efficiency gains per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#cost-savings-analysis)
+- Business enablement examples per [Problem Statement](./BISOPRO-02_Problem_Statement.md#enabling-business-innovation)
+- Competitive advantage indicators per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#competitive-advantage-realization)
 
 **Section 4: Risk and Compliance (10 minutes)**
-- Risk reduction achievements per [Success Metrics](./BISO_Success_Metrics.md#risk-management-metrics)
-- Compliance posture improvements per [Success Metrics](./BISO_Success_Metrics.md#regulatory-compliance-metrics)
-- Regulatory relationship status per [Competitive Analysis](./BISO_Competitive_Analysis.md#regulatory-relationships)
-- Audit readiness and findings per [Independence Framework](./BISO_Independence_Framework.md#audit-coordination)
+- Risk reduction achievements per [Success Metrics](./BISOPRO-05_Success_Metrics.md#risk-management-metrics)
+- Compliance posture improvements per [Success Metrics](./BISOPRO-05_Success_Metrics.md#regulatory-compliance-metrics)
+- Regulatory relationship status per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#regulatory-relationships)
+- Audit readiness and findings per [Independence Framework](./BISOPRO-18_Independence_Framework.md#audit-coordination)
 
 **Section 5: Strategic Initiatives (10 minutes)**
 - Program expansion opportunities
@@ -68,11 +68,11 @@ This framework establishes a regular executive briefing cadence to maintain lead
 - Technology and process improvements
 
 **Standard Metrics Dashboard**:
-- Time to security review: Current vs. target (<5 days) per [Success Metrics](./BISO_Success_Metrics.md#efficiency-metrics)
-- Business satisfaction scores: Current rating (target >4.0/5.0) per [Success Metrics](./BISO_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- Project rework reduction: % improvement month-over-month per [Business Case ROI](./BISO_Business_Case_ROI.md#efficiency-gains)
-- Risk incidents prevented: Count and estimated value per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#business-value-metrics)
-- Compliance improvements: Audit findings reduction per [Success Metrics](./BISO_Success_Metrics.md#regulatory-compliance-metrics)
+- Time to security review: Current vs. target (<5 days) per [Success Metrics](./BISOPRO-05_Success_Metrics.md#efficiency-metrics)
+- Business satisfaction scores: Current rating (target >4.0/5.0) per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
+- Project rework reduction: % improvement month-over-month per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#efficiency-gains)
+- Risk incidents prevented: Count and estimated value per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-value-metrics)
+- Compliance improvements: Audit findings reduction per [Success Metrics](./BISOPRO-05_Success_Metrics.md#regulatory-compliance-metrics)
 
 ### Quarterly Executive Briefings
 
