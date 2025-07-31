@@ -1,24 +1,24 @@
 # BISO Authority Framework: "Mini CISO" Model
 
 ## Overview
-This framework establishes the BISO as a "mini CISO" with delegated authority to make security decisions within their business unit scope, ensuring effective security leadership while maintaining appropriate oversight and escalation procedures.
+This framework establishes the BISO as a "mini CISO" with delegated authority to make security decisions within their business unit scope, ensuring effective security leadership while maintaining appropriate oversight and escalation procedures. This framework implements the authority structure defined in our [Charter](./BISO_Charter.md#authority-and-decision-rights) and directly addresses the decision-making challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#inconsistent-risk-management). The framework supports the operational processes outlined in our [Key Processes Implementation](./BISO_Key_Processes_Implementation.md) and aligns with the independence requirements specified in our [Independence Framework](./BISO_Independence_Framework.md).
 
 ## Authority Philosophy
 
 ### "Mini CISO" Concept
 The BISO operates as a business unit-focused version of the CISO, with:
-- **Scope**: Limited to assigned business unit(s)
-- **Authority**: Delegated decision-making power within defined parameters
-- **Accountability**: Full responsibility for business unit security outcomes
-- **Independence**: Autonomous operation within established frameworks
-- **Escalation**: Clear paths for decisions outside authority scope
+- **Scope**: Limited to assigned business unit(s) per [Alignment Model](./BISO_Alignment_Model_Analysis.md#business-unit-alignment)
+- **Authority**: Delegated decision-making power within defined parameters per [Charter](./BISO_Charter.md#decision-rights)
+- **Accountability**: Full responsibility for business unit security outcomes per [Success Metrics](./BISO_Success_Metrics.md#accountability-metrics)
+- **Independence**: Autonomous operation within established frameworks per [Independence Framework](./BISO_Independence_Framework.md)
+- **Escalation**: Clear paths for decisions outside authority scope per [Escalation Decision Framework](./BISO_Escalation_Decision_Framework.md)
 
 ### Delegation Principles
-1. **Clear Boundaries**: Well-defined scope of authority and limitations
-2. **Risk-Based**: Authority levels aligned with risk impact
-3. **Business Aligned**: Decisions consider business context and needs
-4. **Accountable**: Clear accountability for decisions and outcomes
-5. **Supported**: Adequate resources and backing for effective decision-making
+1. **Clear Boundaries**: Well-defined scope of authority and limitations per [Charter](./BISO_Charter.md#authority-and-decision-rights)
+2. **Risk-Based**: Authority levels aligned with risk impact per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#risk-based-authority)
+3. **Business Aligned**: Decisions consider business context and needs per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-strategy-alignment)
+4. **Accountable**: Clear accountability for decisions and outcomes per [Success Metrics](./BISO_Success_Metrics.md#performance-accountability)
+5. **Supported**: Adequate resources and backing for effective decision-making per [Support Structure](./BISO_Support_Structure.md#authority-support-systems)
 
 ## Authority Levels
 
@@ -26,47 +26,47 @@ The BISO operates as a business unit-focused version of the CISO, with:
 **Description**: Decisions BISO can make independently without approval
 
 **Risk Assessment and Management**:
-- Conduct risk assessments for business unit systems and processes
-- Assign risk ratings using organizational risk framework
-- Recommend risk mitigation strategies
-- Monitor risk remediation progress
-- Report risk status to stakeholders
+- Conduct risk assessments for business unit systems and processes per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md)
+- Assign risk ratings using organizational risk framework per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#risk-evaluation-framework)
+- Recommend risk mitigation strategies per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#risk-mitigation-consultation)
+- Monitor risk remediation progress per [Success Metrics](./BISO_Success_Metrics.md#risk-management-metrics)
+- Report risk status to stakeholders per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#risk-status-reporting)
 
 **Security Control Implementation**:
-- Select and implement standard security controls
-- Customize security controls for business unit needs
-- Approve compensating controls for standard risks
-- Monitor control effectiveness
-- Update control configurations within guidelines
+- Select and implement standard security controls per [Core Competencies](./BISO_Core_Competencies_Development.md#security-control-competencies)
+- Customize security controls for business unit needs per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#control-customization)
+- Approve compensating controls for standard risks per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#compensating-controls)
+- Monitor control effectiveness per [Success Metrics](./BISO_Success_Metrics.md#control-effectiveness-metrics)
+- Update control configurations within guidelines per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#control-management)
 
 **Policy and Procedure Interpretation**:
-- Interpret organizational security policies for business context
-- Create business unit-specific security procedures
-- Provide guidance on policy compliance
-- Approve minor policy exceptions within defined parameters
-- Document policy interpretation decisions
+- Interpret organizational security policies for business context per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-context-integration)
+- Create business unit-specific security procedures per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#procedure-development)
+- Provide guidance on policy compliance per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#compliance-guidance)
+- Approve minor policy exceptions within defined parameters per [Independence Framework](./BISO_Independence_Framework.md#exception-authority)
+- Document policy interpretation decisions per [Success Metrics](./BISO_Success_Metrics.md#decision-documentation)
 
 **Operational Security Decisions**:
-- Security tool configuration for business unit
-- Security monitoring and alerting customization
-- User access reviews and approvals (standard access)
-- Security training content customization
-- Routine vendor security assessments
+- Security tool configuration for business unit per [Support Structure](./BISO_Support_Structure.md#technology-management)
+- Security monitoring and alerting customization per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#monitoring-customization)
+- User access reviews and approvals (standard access) per [Core Competencies](./BISO_Core_Competencies_Development.md#access-management-competencies)
+- Security training content customization per [Training Development Programs](./BISO_Training_Development_Programs.md#business-specific-training)
+- Routine vendor security assessments per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#vendor-assessment)
 
 ### Level 2: Consultative Authority
 **Description**: Decisions requiring consultation but not formal approval
 
 **Medium-Risk Exceptions**:
-- Non-standard security control implementations
-- Medium-risk policy exceptions
-- Alternative compliance approaches
-- Resource allocation recommendations
-- Business unit security architecture changes
+- Non-standard security control implementations per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#exception-risk-assessment)
+- Medium-risk policy exceptions per [Independence Framework](./BISO_Independence_Framework.md#exception-management)
+- Alternative compliance approaches per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#compliance-alternatives)
+- Resource allocation recommendations per [Business Case ROI](./BISO_Business_Case_ROI.md#resource-optimization)
+- Business unit security architecture changes per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#architecture-changes)
 
 **Stakeholder Engagement**:
-- Business unit security strategy development
-- Security requirement definition for projects
-- Vendor security requirement specification
+- Business unit security strategy development per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-unit-strategy)
+- Security requirement definition for projects per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#project-security-integration)
+- Vendor security requirement specification per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#vendor-engagement)
 - Incident response coordination
 - Security awareness program design
 

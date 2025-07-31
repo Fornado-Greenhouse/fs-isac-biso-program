@@ -1,23 +1,23 @@
 # BISO Escalation Paths and Decision Rights Framework
 
 ## Executive Summary
-This framework establishes clear escalation paths and decision rights for BISOs, ensuring appropriate decision-making authority while providing structured escalation for complex situations, conflicts, and decisions beyond BISO authority.
+This framework establishes clear escalation paths and decision rights for BISOs, ensuring appropriate decision-making authority while providing structured escalation for complex situations, conflicts, and decisions beyond BISO authority. This framework implements the escalation procedures defined in our [Charter](./BISO_Charter.md#escalation-authority) and complements the authority levels specified in our [Authority Framework](./BISO_Authority_Framework.md). The framework addresses the decision-making challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#communication-and-translation-barriers) and supports the governance structure outlined in our [Reporting Structure](./BISO_Reporting_Structure.md).
 
 ## Decision Rights Architecture
 
 ### Decision Categories
 
 **Category 1: Autonomous Decisions**
-- Decisions BISO can make independently
-- No approval required
-- Documentation and notification standards apply
-- Examples: Risk assessments, standard control implementations, policy interpretations
+- Decisions BISO can make independently per [Authority Framework](./BISO_Authority_Framework.md#level-1-autonomous-authority)
+- No approval required per [Charter](./BISO_Charter.md#decision-rights)
+- Documentation and notification standards apply per [Success Metrics](./BISO_Success_Metrics.md#decision-documentation)
+- Examples: Risk assessments per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md), standard control implementations per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md), policy interpretations per [Independence Framework](./BISO_Independence_Framework.md)
 
 **Category 2: Consultative Decisions**
-- BISO has decision authority after consultation
-- Input from stakeholders required but not binding
-- BISO maintains final decision responsibility
-- Examples: Medium-risk exceptions, business process security changes
+- BISO has decision authority after consultation per [Authority Framework](./BISO_Authority_Framework.md#level-2-consultative-authority)
+- Input from stakeholders required but not binding per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#consultative-engagement)
+- BISO maintains final decision responsibility per [Charter](./BISO_Charter.md#accountability)
+- Examples: Medium-risk exceptions per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#exception-management), business process security changes per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#process-security-integration)
 
 **Category 3: Collaborative Decisions**
 - Joint decision-making with other stakeholders

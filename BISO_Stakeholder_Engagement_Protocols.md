@@ -1,23 +1,23 @@
 # BISO Stakeholder Engagement Protocols
 
 ## Executive Summary
-This document establishes comprehensive stakeholder engagement protocols for BISO operations, ensuring consistent, effective, and value-driven interactions with all stakeholder groups. The protocols define engagement strategies, communication standards, and relationship management approaches that build trust, deliver value, and support business objectives.
+This document establishes comprehensive stakeholder engagement protocols for BISO operations, ensuring consistent, effective, and value-driven interactions with all stakeholder groups. The protocols define engagement strategies, communication standards, and relationship management approaches that build trust, deliver value, and support business objectives. These protocols implement the stakeholder relationship requirements defined in our [Charter](./BISO_Charter.md#stakeholder-relationship-management) and directly address the communication barriers identified in our [Problem Statement](./BISO_Problem_Statement.md#communication-and-translation-barriers). The protocols support the business partnership processes outlined in our [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#business-partnership-and-engagement) and enable the executive engagement strategy detailed in our [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md).
 
 ## Stakeholder Ecosystem Analysis
 
 ### Primary Stakeholder Groups
 
 **Executive Leadership**:
-- **CEO and Executive Team**: Strategic direction, resource allocation, risk appetite
-- **Board of Directors**: Governance oversight, risk management, strategic approval
-- **Business Unit Presidents**: Business unit strategy, resource prioritization, performance objectives
-- **Chief Risk Officer**: Enterprise risk management, regulatory compliance, audit coordination
-- **Chief Financial Officer**: Financial performance, investment decisions, cost management
+- **CEO and Executive Team**: Strategic direction per [Strategic Alignment](./BISO_Strategic_Alignment.md#executive-alignment), resource allocation per [Business Case ROI](./BISO_Business_Case_ROI.md#executive-investment), risk appetite per [Risk Assessment Methodology](./BISO_Risk_Assessment_Methodology.md#risk-appetite-alignment)
+- **Board of Directors**: Governance oversight per [Charter](./BISO_Charter.md#governance-structure), risk management per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#board-reporting), strategic approval per [Executive Sponsorship Plan](./BISO_Executive_Sponsorship_Plan.md#board-engagement)
+- **Business Unit Presidents**: Business unit strategy per [Alignment Model](./BISO_Alignment_Model_Analysis.md#business-unit-alignment), resource prioritization per [Support Structure](./BISO_Support_Structure.md#resource-allocation), performance objectives per [Success Metrics](./BISO_Success_Metrics.md#business-performance-alignment)
+- **Chief Risk Officer**: Enterprise risk management per [Independence Framework](./BISO_Independence_Framework.md#risk-coordination), regulatory compliance per [Executive Briefing Framework](./BISO_Executive_Briefing_Framework.md#regulatory-coordination), audit coordination per [Independence Framework](./BISO_Independence_Framework.md#audit-coordination)
+- **Chief Financial Officer**: Financial performance per [Business Case ROI](./BISO_Business_Case_ROI.md#financial-accountability), investment decisions per [Business Case ROI](./BISO_Business_Case_ROI.md#investment-justification), cost management per [Success Metrics](./BISO_Success_Metrics.md#cost-optimization-metrics)
 
 **Business Unit Leadership**:
-- **Senior Vice Presidents**: Business line strategy, operational performance, resource management
-- **Vice Presidents**: Functional leadership, project oversight, team management
-- **Directors**: Operational execution, process management, customer relationships
+- **Senior Vice Presidents**: Business line strategy per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-unit-strategy), operational performance per [Success Metrics](./BISO_Success_Metrics.md#operational-performance-metrics), resource management per [Support Structure](./BISO_Support_Structure.md#business-unit-resources)
+- **Vice Presidents**: Functional leadership per [Core Competencies](./BISO_Core_Competencies_Development.md#leadership-engagement), project oversight per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#project-stakeholder-management), team management per [Training Development Programs](./BISO_Training_Development_Programs.md#leadership-development)
+- **Directors**: Operational execution per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#operational-engagement), process management per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#process-consultation), customer relationships per [Success Metrics](./BISO_Success_Metrics.md#customer-impact-metrics)
 - **Senior Managers**: Day-to-day operations, team leadership, performance delivery
 - **Project Managers**: Project execution, timeline management, stakeholder coordination
 

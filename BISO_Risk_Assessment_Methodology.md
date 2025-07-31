@@ -1,23 +1,23 @@
 # BISO Risk Assessment Methodology
 
 ## Executive Summary
-This document establishes a standardized, business-aligned risk assessment methodology for BISO operations. The framework integrates traditional cybersecurity risk assessment with business impact analysis, enabling consistent risk evaluation across all business units while maintaining flexibility for unit-specific requirements.
+This document establishes a standardized, business-aligned risk assessment methodology for BISO operations. The framework integrates traditional cybersecurity risk assessment with business impact analysis, enabling consistent risk evaluation across all business units while maintaining flexibility for unit-specific requirements. This methodology implements the risk management approach defined in our [Charter](./BISO_Charter.md#key-accountabilities) and directly addresses the inconsistent risk management challenges identified in our [Problem Statement](./BISO_Problem_Statement.md#inconsistent-risk-management). The methodology supports the authority structure outlined in our [Authority Framework](./BISO_Authority_Framework.md) and enables the risk-informed decision making detailed in our [Strategic Alignment](./BISO_Strategic_Alignment.md#risk-informed-decision-making).
 
 ## Risk Assessment Framework
 
 ### Core Assessment Principles
 
 **Business-First Approach**:
-- Risk assessment begins with business context and objectives
-- Business impact drives risk prioritization and treatment decisions
-- Technical risk factors are translated into business language
-- Stakeholder engagement is integral to the assessment process
+- Risk assessment begins with business context and objectives per [Strategic Alignment](./BISO_Strategic_Alignment.md#business-strategy-alignment)
+- Business impact drives risk prioritization and treatment decisions per [Business Case ROI](./BISO_Business_Case_ROI.md#risk-based-prioritization)
+- Technical risk factors are translated into business language per [Core Competencies](./BISO_Core_Competencies_Development.md#business-risk-translation)
+- Stakeholder engagement is integral to the assessment process per [Stakeholder Engagement Protocols](./BISO_Stakeholder_Engagement_Protocols.md#risk-assessment-engagement)
 
 **Standardized Yet Flexible**:
-- Common methodology ensures consistency across business units
-- Customizable elements accommodate unique business requirements
-- Scalable approach supports assessments from projects to enterprise initiatives
-- Integration with existing business processes and decision-making
+- Common methodology ensures consistency across business units per [Success Metrics](./BISO_Success_Metrics.md#assessment-consistency)
+- Customizable elements accommodate unique business requirements per [Alignment Model](./BISO_Alignment_Model_Analysis.md#business-unit-customization)
+- Scalable approach supports assessments from projects to enterprise initiatives per [Key Processes Implementation](./BISO_Key_Processes_Implementation.md#scalable-risk-assessment)
+- Integration with existing business processes and decision-making per [Security Consultation Framework](./BISO_Security_Consultation_Framework.md#process-integration)
 
 **Actionable and Measurable**:
 - Clear risk ratings with defined business impact thresholds
