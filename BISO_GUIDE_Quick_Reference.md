@@ -14,40 +14,40 @@
 ### Phase 1: Foundation (Months 1-3)
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
-| FOR-1 | Charter | Program authorization | Executive approval |
-| FOR-2 | Problem Statement | Define challenges | Quantified gaps |
-| FOR-3 | Alignment Model | BISO-business structure | Operating model |
-| FOR-4 | Stakeholder Protocols | Engagement approach | Communication plan |
-| FOR-5 | Success Metrics | Define KPIs | Measurement framework |
+| BISOPRO-1 | Charter | Program authorization | Executive approval |
+| BISOPRO-2 | Problem Statement | Define challenges | Quantified gaps |
+| BISOPRO-3 | Alignment Model | BISO-business structure | Operating model |
+| BISOPRO-4 | Stakeholder Protocols | Engagement approach | Communication plan |
+| BISOPRO-5 | Success Metrics | Define KPIs | Measurement framework |
 
 ### Phase 2: Structure (Months 4-6)
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
-| FOR-6 | Authority Framework | Decision rights | RACI matrix |
-| FOR-7 | Reporting Structure | Org relationships | Reporting lines |
-| FOR-8 | Job Descriptions | Role definitions | Hiring guides |
-| FOR-9 | Key Processes | Operations | Process docs |
-| FOR-10 | Support Structure | Infrastructure | Support model |
+| BISOPRO-6 | Authority Framework | Decision rights | RACI matrix |
+| BISOPRO-7 | Reporting Structure | Org relationships | Reporting lines |
+| BISOPRO-8 | Job Descriptions | Role definitions | Hiring guides |
+| BISOPRO-9 | Key Processes | Operations | Process docs |
+| BISOPRO-10 | Support Structure | Infrastructure | Support model |
 
 ### Phase 3: Strategic Value (Months 7-12)
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
-| FOR-11 | Business Case ROI | Value demonstration | ROI calculation |
-| FOR-12 | Risk Methodology | Risk assessment | Risk framework |
-| FOR-13 | Executive Briefing | Exec communication | Templates |
-| FOR-14 | Executive Sponsorship | Sustained support | Engagement plan |
-| FOR-15 | Strategic Alignment | Business integration | Alignment model |
-| FOR-16 | Competitive Analysis | Market position | Benchmarks |
-| FOR-17 | Security Consultation | Advisory services | Service catalog |
-| FOR-18 | Independence Framework | Objectivity | Independence model |
-| FOR-19 | Training Programs | Skills development | Training plan |
+| BISOPRO-11 | Business Case ROI | Value demonstration | ROI calculation |
+| BISOPRO-12 | Risk Methodology | Risk assessment | Risk framework |
+| BISOPRO-13 | Executive Briefing | Exec communication | Templates |
+| BISOPRO-14 | Executive Sponsorship | Sustained support | Engagement plan |
+| BISOPRO-15 | Strategic Alignment | Business integration | Alignment model |
+| BISOPRO-16 | Competitive Analysis | Market position | Benchmarks |
+| BISOPRO-17 | Security Consultation | Advisory services | Service catalog |
+| BISOPRO-18 | Independence Framework | Objectivity | Independence model |
+| BISOPRO-19 | Training Programs | Skills development | Training plan |
 
 ### Phase 4: Continuous Improvement (Months 13-15)
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
-| FOR-20 | Professional Development | Ongoing learning | Development framework |
-| FOR-21 | Challenge Mitigation | Problem solving | Mitigation strategies |
-| FOR-22 | Business Evolution | Adaptability | Evolution framework |
+| BISOPRO-20 | Professional Development | Ongoing learning | Development framework |
+| BISOPRO-21 | Challenge Mitigation | Problem solving | Mitigation strategies |
+| BISOPRO-22 | Business Evolution | Adaptability | Evolution framework |
 
 ## Key Dependencies
 
