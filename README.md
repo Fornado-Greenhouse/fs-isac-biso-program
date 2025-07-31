@@ -32,7 +32,7 @@ This repository contains the most comprehensive Business Information Security Of
 **Goal**: Implement supporting technology infrastructure
 1. **[Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)** - $400-625K focused investment
 2. **[Support Structure](./BISOPRO-10_Support_Structure.md)** - Technology requirements
-3. **[Integration requirements across all documents**
+3. **Integration requirements across all documents**
 
 ### **📈 For Program Managers**
 **Goal**: Operate and optimize ongoing BISO program
