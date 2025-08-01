@@ -1,7 +1,65 @@
 # BISO Optimal Reporting Structure Design
 
+## 🎯 **Reporting Structure at a Glance & Quick Start**
+
+**Mission**: Establish dual-reporting BISO structure that balances security independence with business integration, creating "mini CISO" leaders who maintain objectivity while driving business-aligned security outcomes through optimal organizational placement.
+
+### **Reporting Structure at a Glance**
+- **Primary Reporting**: Direct line to CISO (security expertise, independence, career development)
+- **Secondary Relationship**: Dotted-line to Business Unit Leadership (business context, stakeholder trust)
+- **Authority Model**: "Mini CISO" with delegated decision-making within defined parameters
+- **Independence Safeguards**: Budget separation, technology ownership exclusion, objective performance measurement
+- **Escalation Framework**: Clear 4-level escalation paths for security, business, and resource conflicts
+
+### **Key Organizational Decisions**
+- ✅ **CISO Direct Report**: Primary reporting ensures security expertise and independence
+- 🤝 **Business Partnership**: Dotted-line relationship enables deep business integration and trust
+- 🚫 **Technology Separation**: BISOs advise but don't own technology to maintain objectivity
+- ⚖️ **Dual Accountability**: Balanced security and business performance metrics
+- 🔄 **Matrix Coordination**: Cross-functional collaboration with security and business teams
+
+### **Implementation Success Targets**
+- **Organizational Clarity**: 95%+ stakeholder understanding of reporting relationships and authority
+- **Decision Efficiency**: 90% of decisions resolved without escalation using clear authority framework
+- **Independence Maintenance**: 100% compliance with technology separation and budget independence
+- **Business Integration**: >4.0/5.0 business satisfaction with BISO partnership and collaboration
+
+*Jump to [Quick Navigation](#quick-navigation) or [Primary Reporting Structure](#primary-reporting-structure)*
+
+---
+
 ## Executive Summary
 This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISOPRO-06_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md).
+
+---
+
+## Quick Navigation
+
+**For Executives:**
+- [Reporting Structure at a Glance](#-reporting-structure-at-a-glance--quick-start) - 30-second organizational overview
+- [Primary Reporting Structure](#primary-reporting-structure) - CISO direct reporting rationale and benefits
+- [Independence Framework](#independence-framework) - Technology separation and objectivity safeguards
+- [Review and Governance](#review-and-governance) - Organizational effectiveness measurement and optimization
+
+**For BISOs:**
+- [BISO → CISO Direct Reporting](#biso--ciso-direct-reporting) - Primary reporting relationship details and expectations
+- [Business Unit Dotted-Line Relationship](#business-unit-dotted-line-relationship) - Secondary relationship management and collaboration
+- [Authority Framework](#authority-framework) - "Mini CISO" authority model and decision rights
+- [Escalation Framework](#escalation-framework) - Clear escalation paths and conflict resolution procedures
+
+**For Business Leaders:**
+- [Business Unit Dotted-Line Relationship](#business-unit-dotted-line-relationship) - Business partnership model and collaboration
+- [Dual Accountability](#organizational-design-principles) - Balanced security and business performance expectations
+- [Escalation Framework](#escalation-framework) - Business conflict resolution and resource coordination
+- [Implementation Considerations](#implementation-considerations) - Change management and stakeholder engagement
+
+**For Implementation Teams:**
+- [Organizational Design Principles](#organizational-design-principles) - Core design philosophy and requirements
+- [Independence Framework](#independence-framework) - Implementation of separation requirements and safeguards
+- [Implementation Considerations](#implementation-considerations) - Change management, success factors, and risk mitigation
+- [Review and Governance](#review-and-governance) - Monitoring, assessment, and continuous improvement procedures
+
+---
 
 ## Organizational Design Principles
 
@@ -61,6 +119,109 @@ This document defines the optimal organizational reporting structure for the Bus
 - Quarterly business unit reviews
 - Business strategy alignment discussions
 - Stakeholder relationship management
+
+## Visual Reporting Structure Framework
+
+### **BISO Dual Reporting Organizational Chart**
+```
+                    ┌─────────────────────────────────────────────────────────┐
+                    │                    CEO/Executive                        │
+                    │                  Leadership Team                        │
+                    └─────────────────────┬───────────────────────────────────┘
+                                          │
+                    ┌─────────────────────┼───────────────────────────────────┐
+                    │                     │                                   │
+                    ▼                     ▼                                   ▼
+        ┌─────────────────────┐   ┌─────────────────────┐       ┌─────────────────────┐
+        │       CISO          │   │   Business Unit     │       │    Other CXOs       │
+        │   (Primary Line)    │   │    Leadership       │       │  (CRO, CFO, etc.)   │
+        │                     │   │  (Dotted Line)      │       │                     │
+        └─────────┬───────────┘   └─────────────────────┘       └─────────────────────┘
+                  │                           ▲
+                  │                           │ Collaborative
+                  │                           │ Partnership
+                  ▼                           │
+        ┌─────────────────────┐               │
+        │   BISO Program      │◄──────────────┘
+        │     Director        │
+        └─────────┬───────────┘
+                  │
+                  ▼
+     ┌────────────────────────────────────────────────────────────────────┐
+     │                        BISO Team Structure                         │
+     │  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────────┐ │
+     │  │  Functional     │  │  Functional     │  │    Product          │ │
+     │  │    BISOs        │  │    BISOs        │  │  Specialists        │ │
+     │  │ (4 positions)   │  │ (4 positions)   │  │  (3 positions)      │ │
+     │  └─────────────────┘  └─────────────────┘  └─────────────────────┘ │
+     └────────────────────────────────────────────────────────────────────┘
+```
+
+### **Dual Reporting Relationship Framework**
+```
+                          BISO REPORTING RELATIONSHIP MODEL
+
+    ┌──────────────────────────────────────────────────────────────────────────────┐
+    │                            PRIMARY REPORTING                                 │
+    │                               (CISO Line)                                   │
+    │                                                                              │
+    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐   │
+    │  │      CISO       │───▶│ • Security Strategy Alignment                 │   │
+    │  │   Management    │    │ • Professional Development                    │   │
+    │  │                 │    │ • Performance Evaluation                      │   │
+    │  └─────────────────┘    │ • Resource Allocation                         │   │
+    │                         │ • Technical Authority                         │   │
+    │                         └───────────────────────────────────────────────┘   │
+    └──────────────────────────────────────────────────────────────────────────────┘
+
+    ┌──────────────────────────────────────────────────────────────────────────────┐
+    │                          SECONDARY RELATIONSHIP                              │
+    │                          (Business Unit Dotted)                             │
+    │                                                                              │
+    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐   │
+    │  │  Business Unit  │───▶│ • Business Context & Priorities               │   │
+    │  │   Leadership    │    │ • Stakeholder Relationship Building           │   │
+    │  │                 │    │ • Strategic Planning Participation            │   │
+    │  └─────────────────┘    │ • Business-Aligned Solutions                  │   │
+    │                         │ • Operational Collaboration                   │   │
+    │                         └───────────────────────────────────────────────┘   │
+    └──────────────────────────────────────────────────────────────────────────────┘
+```
+
+### **Authority and Decision Rights Visualization**
+```
+                            BISO DECISION AUTHORITY FRAMEWORK
+                                   (Mini CISO Model)
+
+        ┌─────────────────────────────────────────────────────────────────────────┐
+        │                           AUTONOMOUS DECISIONS                          │
+        │                              (No Approval)                             │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
+        │  │ Risk Assessment │ │Security Controls│ │ Policy Interpretation   │  │
+        │  │   & Ratings     │ │ Implementation  │ │  & Low Risk Exceptions  │  │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        └─────────────────────────────────────────────────────────────────────────┘
+                                           │
+                                           ▼
+        ┌─────────────────────────────────────────────────────────────────────────┐
+        │                         CONSULTATION DECISIONS                         │
+        │                           (Input Required)                             │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
+        │  │Medium Risk      │ │  Architecture   │ │  Resource Allocation    │  │
+        │  │  Exceptions     │ │    Changes      │ │    Recommendations      │  │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        └─────────────────────────────────────────────────────────────────────────┘
+                                           │
+                                           ▼
+        ┌─────────────────────────────────────────────────────────────────────────┐
+        │                          APPROVAL DECISIONS                             │
+        │                       (Formal Authorization)                           │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
+        │  │  High Risk      │ │   Strategic     │ │    Major Resource       │  │
+        │  │  Exceptions     │ │   Direction     │ │      Requests           │  │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        └─────────────────────────────────────────────────────────────────────────┘
+```
 
 ## Authority Framework
 
@@ -136,6 +297,97 @@ The BISO operates with delegated authority from the CISO to act independently wi
 
 ## Escalation Framework
 
+### **Comprehensive Escalation Visualization**
+```
+                             BISO ESCALATION DECISION MATRIX
+
+    ┌────────────────────────────────────────────────────────────────────────────────┐
+    │                          SECURITY RISK ESCALATIONS                            │
+    │                                                                                │
+    │  Level 1: BISO ────────▶ Business Unit Leader                                 │
+    │           │              (Business Impact Assessment)                          │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 2: CISO ◄────────────────── Security Risk                             │
+    │           │              (Technical Risk Assessment)                          │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 3: CRO/CEO ◄─────────────── Enterprise Risk                           │
+    │           │              (Strategic Impact Decision)                          │
+    │           │                        │                                          │
+    │  Cross:   CISO + Business Leader ◄─┘                                          │
+    │           (Joint Decision Required)                                            │
+    └────────────────────────────────────────────────────────────────────────────────┘
+
+    ┌────────────────────────────────────────────────────────────────────────────────┐
+    │                        BUSINESS CONFLICT ESCALATIONS                          │
+    │                                                                                │
+    │  Level 1: BISO ◄─────▶ Business Stakeholder                                   │
+    │           │            (Direct Resolution Attempt)                            │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 2: BISO + Business Leader                                              │
+    │           │            (Mediated Discussion)                                  │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 3: CISO + Business Leader                                              │
+    │           │            (Executive Decision)                                   │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 4: Executive Leadership                                                │
+    │           (Final Resolution Authority)                                        │
+    └────────────────────────────────────────────────────────────────────────────────┘
+
+    ┌────────────────────────────────────────────────────────────────────────────────┐
+    │                      RESOURCE & AUTHORITY ESCALATIONS                         │
+    │                                                                                │
+    │  Level 1: BISO ────────▶ CISO                                                 │
+    │           │            (Security Organization Resources)                      │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 2: CISO ────────▶ Business Leader                                      │
+    │           │            (Joint Resource Allocation)                            │
+    │           │                        │                                          │
+    │           ▼                        ▼                                          │
+    │  Level 3: CISO ────────▶ Executive Leadership                                 │
+    │           │            (Strategic Resource Decisions)                         │
+    └────────────────────────────────────────────────────────────────────────────────┘
+```
+
+### **Escalation Flow Process**
+```
+                            ESCALATION DECISION FLOW CHART
+
+    ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
+    │    Issue or     │      │   Issue Type    │      │   Escalation    │
+    │  Conflict       │─────▶│  Classification │─────▶│  Path Selection │
+    │  Identified     │      │                 │      │                 │
+    └─────────────────┘       └─────────────────┘       └─────────────────┘
+                                       │                         │
+            ┌─────────────────────────┼─────────────────────────┼─────────────────────┐
+            │                         │                         │                     │
+            ▼                         ▼                         ▼                     ▼
+    ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐   ┌─────────────────┐
+    │  Security Risk  │       │ Business        │       │ Resource &      │   │  Emergency      │
+    │   Escalation    │       │ Conflict        │       │ Authority       │   │  Escalation     │
+    │                 │       │ Escalation      │       │ Escalation      │   │                 │
+    └─────────────────┘       └─────────────────┘       └─────────────────┘   └─────────────────┘
+            │                         │                         │                     │
+            ▼                         ▼                         ▼                     ▼
+    ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐   ┌─────────────────┐
+    │ 4-Level Process │       │ 4-Level Process │       │ 3-Level Process │   │ Direct to CEO   │
+    │ (BISO→BU→CISO   │       │ (Direct→        │       │ (BISO→CISO→     │   │ or CRO          │
+    │ →CRO/CEO)       │       │ Mediate→Exec)   │       │ Executive)      │   │                 │
+    └─────────────────┘       └─────────────────┘       └─────────────────┘   └─────────────────┘
+                                       │
+                                       ▼
+                              ┌─────────────────┐
+                              │   Resolution    │
+                              │ Documentation   │
+                              │ & Follow-up     │
+                              └─────────────────┘
+```
+
 ### Escalation Paths
 
 #### Security Risk Escalations
@@ -196,29 +448,203 @@ The BISO operates with delegated authority from the CISO to act independently wi
 
 ## Implementation Considerations
 
+### **Reporting Structure Implementation Templates**
+
+#### **Phase 1: Foundation Setup (Month 1)**
+```
+REPORTING STRUCTURE IMPLEMENTATION CHECKLIST
+
+☐ EXECUTIVE ALIGNMENT (Week 1)
+  ✓ Secure CEO and C-Suite approval for dual reporting model
+  ✓ Obtain CISO formal commitment to primary reporting relationship
+  ✓ Confirm Business Unit Leaders' commitment to dotted-line partnership
+  ✓ Establish implementation governance committee and timeline
+
+☐ ORGANIZATIONAL DOCUMENTATION (Week 2)
+  ✓ Create formal BISO position descriptions with reporting relationships
+  ✓ Update organizational charts to reflect dual reporting structure
+  ✓ Document authority delegation framework and decision rights matrix
+  ✓ Prepare change management communications and training materials
+
+☐ POLICY AND PROCEDURE UPDATES (Week 3)
+  ✓ Update security policies to reflect BISO authority and independence
+  ✓ Revise business unit procedures to include BISO collaboration requirements
+  ✓ Create escalation procedures and conflict resolution protocols
+  ✓ Establish performance evaluation criteria for dual accountability
+
+☐ STAKEHOLDER PREPARATION (Week 4)
+  ✓ Conduct stakeholder education sessions on new reporting structure
+  ✓ Train BISOs on dual reporting relationship management
+  ✓ Brief business unit leadership on partnership expectations
+  ✓ Prepare metrics and monitoring framework for structure effectiveness
+```
+
+#### **Phase 2: Structure Activation (Month 2)**
+```
+DUAL REPORTING ACTIVATION FRAMEWORK
+
+☐ PRIMARY REPORTING ACTIVATION (Week 1)
+  ✓ Initiate weekly BISO-CISO one-on-one meetings
+  ✓ Include BISOs in security leadership team meetings
+  ✓ Establish security strategy alignment sessions
+  ✓ Begin CISO-led performance management process
+
+☐ SECONDARY RELATIONSHIP ACTIVATION (Week 2)
+  ✓ Schedule monthly BISO-Business Leader collaboration meetings
+  ✓ Integrate BISOs into business unit planning sessions
+  ✓ Establish business stakeholder relationship protocols
+  ✓ Begin business context and priority alignment activities
+
+☐ AUTHORITY FRAMEWORK DEPLOYMENT (Week 3)
+  ✓ Test autonomous decision-making processes with documentation
+  ✓ Validate consultation procedures for medium-risk decisions
+  ✓ Execute approval processes for high-risk scenarios
+  ✓ Confirm escalation procedures with stakeholder participation
+
+☐ INDEPENDENCE VERIFICATION (Week 4)
+  ✓ Verify technology ownership separation implementation
+  ✓ Confirm budget independence and resource allocation
+  ✓ Test objective reporting and decision-making processes
+  ✓ Validate conflict of interest avoidance mechanisms
+```
+
+#### **Phase 3: Optimization and Refinement (Month 3)**
+```
+STRUCTURE OPTIMIZATION CHECKLIST
+
+☐ EFFECTIVENESS ASSESSMENT (Week 1-2)
+  ✓ Conduct stakeholder satisfaction surveys and feedback collection
+  ✓ Analyze decision-making efficiency and escalation patterns
+  ✓ Review independence maintenance and objectivity measures
+  ✓ Assess business integration and collaboration effectiveness
+
+☐ PROCESS REFINEMENT (Week 3)
+  ✓ Refine reporting procedures based on initial experience
+  ✓ Optimize escalation thresholds and conflict resolution processes
+  ✓ Adjust authority delegation based on competency demonstration
+  ✓ Enhance stakeholder communication and relationship protocols
+
+☐ LONG-TERM SUSTAINABILITY (Week 4)
+  ✓ Establish ongoing monitoring and review procedures
+  ✓ Create structure evolution and adaptation mechanisms
+  ✓ Implement continuous improvement feedback loops
+  ✓ Document lessons learned and best practice recommendations
+```
+
+### **Stakeholder Communication Templates**
+
+#### **Executive Communication Template**
+```
+TO: Executive Leadership Team
+FROM: BISO Program Director
+SUBJECT: BISO Dual Reporting Structure Implementation
+
+EXECUTIVE SUMMARY:
+• New dual reporting structure balances security independence with business alignment
+• Primary reporting to CISO ensures security expertise and professional development
+• Dotted-line business relationship enables deep partnership and context understanding
+• Clear authority framework and escalation procedures prevent conflicts and confusion
+
+KEY EXECUTIVE ACTIONS REQUIRED:
+1. Visible support for dual reporting model during transition period
+2. Participation in escalation procedures when executive decisions required
+3. Regular feedback on BISO effectiveness and business integration
+4. Resource allocation support for structure implementation and optimization
+
+BUSINESS BENEFITS:
+• Enhanced security-business integration and partnership
+• Faster security decision-making with maintained objectivity
+• Improved business context in security recommendations
+• Clear accountability and performance measurement
+```
+
+#### **Business Unit Leadership Communication Template**
+```
+TO: Business Unit Leadership
+FROM: [BISO Name]
+SUBJECT: BISO Partnership Model and Collaboration Framework
+
+PARTNERSHIP OVERVIEW:
+Your assigned BISO operates under a dual reporting structure designed to maximize both security expertise and business alignment. While reporting primarily to the CISO for security matters, your BISO maintains a strong dotted-line partnership with your business unit.
+
+WHAT THIS MEANS FOR YOU:
+• Monthly collaboration meetings to align on business priorities and context
+• BISO participation in your strategic planning and operational review sessions
+• Direct security expertise and consultation for your business initiatives
+• Escalation partnership for complex security decisions affecting your business
+
+COLLABORATION EXPECTATIONS:
+• Provide business context and priorities to inform security decisions
+• Participate in joint decision-making for security matters affecting your business
+• Support BISO authority within defined parameters while respecting independence
+• Provide regular feedback on BISO effectiveness and service quality
+
+ESCALATION PROCEDURES:
+• Direct communication with BISO for operational security matters
+• Joint BISO-Business Leader escalation for resource and strategic decisions
+• Executive escalation path available for unresolved conflicts or major decisions
+```
+
 ### Organizational Change Management
-- Clear communication of new reporting structure
-- Stakeholder education on roles and responsibilities
-- Training on escalation procedures and decision rights
-- Regular feedback collection and structure refinement
+- Clear communication of new reporting structure using executive-ready templates
+- Stakeholder education on roles and responsibilities through structured training programs
+- Training on escalation procedures and decision rights with hands-on scenario practice
+- Regular feedback collection and structure refinement through quarterly effectiveness reviews
 
 ### Success Factors
-- Executive sponsorship and support
-- Clear role definition and communication
-- Consistent application across business units
-- Regular monitoring and adjustment
-- Strong change management process
+- Executive sponsorship and support demonstrated through visible participation and resource allocation
+- Clear role definition and communication using formal documentation and training materials
+- Consistent application across business units with standardized procedures and expectations
+- Regular monitoring and adjustment through systematic feedback collection and analysis
+- Strong change management process with structured phases, checkpoints, and optimization cycles
 
 ### Risk Mitigation
-- **Role Confusion**: Clear documentation and communication
-- **Authority Conflicts**: Defined decision rights and escalation paths
-- **Business Pressure**: Independent reporting and CISO support
-- **Resource Constraints**: Appropriate budget and resource allocation
+- **Role Confusion**: Clear documentation and communication using implementation templates and training programs
+- **Authority Conflicts**: Defined decision rights and escalation paths with visual frameworks and practiced procedures
+- **Business Pressure**: Independent reporting and CISO support reinforced through formal delegation and budget separation
+- **Resource Constraints**: Appropriate budget and resource allocation with executive commitment and ongoing monitoring
+
+---
+
+## Quick Reference Navigation
+*Complete BISO Program Framework Access*
+
+### **📋 Core Program Documents**
+- [BISOPRO-01: Charter](./BISOPRO-01_Charter.md) - Comprehensive program charter with organizational structure and authority
+- [BISOPRO-02: Problem Statement](./BISOPRO-02_Problem_Statement.md) - $3.2-4.8M annual cost analysis with alignment challenges
+- [BISOPRO-05: Success Metrics](./BISOPRO-05_Success_Metrics.md) - Dual accountability measurement framework and performance metrics
+- [BISOPRO-06: Authority Framework](./BISOPRO-06_Authority_Framework.md) - \"Mini CISO\" authority model and decision rights
+
+### **🏗️ Organizational Framework**
+- [BISOPRO-03: Alignment Model Analysis](./BISOPRO-03_Alignment_Model_Analysis.md) - Functional vs. product specialist organizational models
+- [BISOPRO-08: Job Descriptions](./BISOPRO-08_Job_Descriptions.md) - BISO role definitions and reporting relationship requirements
+- [BISOPRO-10: Support Structure](./BISOPRO-10_Support_Structure.md) - Team coordination and matrix relationship management
+- [BISOPRO-18: Independence Framework](./BISOPRO-18_Independence_Framework.md) - Objectivity safeguards and technology separation
+
+### **⚙️ Operational Excellence**  
+- [BISOPRO-09: Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md) - Reporting structure integration in operational processes
+- [BISOPRO-25: Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md) - Comprehensive escalation procedures and conflict resolution
+- [BISOPRO-17: Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md) - Business partnership and collaboration models
+- [BISOPRO-04: Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md) - Dual reporting stakeholder management
+
+### **💼 Business Integration**
+- [BISOPRO-11: Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) - Reporting structure ROI and business value justification
+- [BISOPRO-13: Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md) - Dual reporting executive communication and updates
+- [BISOPRO-14: Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md) - Executive engagement in dual reporting model
+- [BISOPRO-15: Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md) - Business strategy integration through reporting relationships
+
+### **📞 Quick Contact Reference**
+- **Program Director**: Alex Foley - alex.foley@organization.com
+- **CISO Reporting Questions**: [CISO Name] - ciso@organization.com
+- **Business Unit Partnership**: [Business Leader] - business-biso@organization.com
+- **Escalation Support**: Follow [Escalation Framework](./BISOPRO-25_Escalation_Decision_Framework.md)
+
+---
 
 ## Conclusion
 This reporting structure optimally balances security independence with business alignment, providing BISOs with the authority and support needed to effectively bridge cybersecurity and business operations while maintaining objectivity and strategic alignment.
 
 ---
-*Document Version: 1.0*  
-*Date: July 30, 2025*  
+*Document Version: 2.0 (Enhanced with executive navigation and visual hierarchy)*  
+*Date: August 1, 2025*  
 *Owner: BISO Program Team*
