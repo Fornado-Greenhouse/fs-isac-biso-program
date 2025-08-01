@@ -182,28 +182,28 @@ This document defines the optimal organizational reporting structure for the Bus
 
     ┌──────────────────────────────────────────────────────────────────────────────┐
     │                            PRIMARY REPORTING                                 │
-    │                               (CISO Line)                                   │
+    │                               (CISO Line)                                    │
     │                                                                              │
-    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐   │
-    │  │      CISO       │───▶│ • Security Strategy Alignment                 │   │
-    │  │   Management    │    │ • Professional Development                    │   │
-    │  │                 │    │ • Performance Evaluation                      │   │
-    │  └─────────────────┘    │ • Resource Allocation                         │   │
-    │                         │ • Technical Authority                         │   │
-    │                         └───────────────────────────────────────────────┘   │
+    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │
+    │  │      CISO       │───▶│ • Security Strategy Alignment                 │    │
+    │  │   Management    │    │ • Professional Development                    │    │
+    │  │                 │    │ • Performance Evaluation                      │    │
+    │  └─────────────────┘    │ • Resource Allocation                         │    │
+    │                         │ • Technical Authority                         │    │
+    │                         └───────────────────────────────────────────────┘    │
     └──────────────────────────────────────────────────────────────────────────────┘
 
     ┌──────────────────────────────────────────────────────────────────────────────┐
     │                          SECONDARY RELATIONSHIP                              │
-    │                          (Business Unit Dotted)                             │
+    │                          (Business Unit Dotted)                              │
     │                                                                              │
-    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐   │
-    │  │  Business Unit  │───▶│ • Business Context & Priorities               │   │
-    │  │   Leadership    │    │ • Stakeholder Relationship Building           │   │
-    │  │                 │    │ • Strategic Planning Participation            │   │
-    │  └─────────────────┘    │ • Business-Aligned Solutions                  │   │
-    │                         │ • Operational Collaboration                   │   │
-    │                         └───────────────────────────────────────────────┘   │
+    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │
+    │  │  Business Unit  │───▶│ • Business Context & Priorities               │    │
+    │  │   Leadership    │    │ • Stakeholder Relationship Building           │    │
+    │  │                 │    │ • Strategic Planning Participation            │    │
+    │  └─────────────────┘    │ • Business-Aligned Solutions                  │    │
+    │                         │ • Operational Collaboration                   │    │
+    │                         └───────────────────────────────────────────────┘    │
     └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -214,31 +214,31 @@ This document defines the optimal organizational reporting structure for the Bus
 
         ┌─────────────────────────────────────────────────────────────────────────┐
         │                           AUTONOMOUS DECISIONS                          │
-        │                              (No Approval)                             │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
-        │  │ Risk Assessment │ │Security Controls│ │ Policy Interpretation   │  │
-        │  │   & Ratings     │ │ Implementation  │ │  & Low Risk Exceptions  │  │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        │                              (No Approval)                              │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
+        │  │ Risk Assessment │ │Security Controls│ │ Policy Interpretation   │    │
+        │  │   & Ratings     │ │ Implementation  │ │  & Low Risk Exceptions  │    │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
         └─────────────────────────────────────────────────────────────────────────┘
                                            │
                                            ▼
         ┌─────────────────────────────────────────────────────────────────────────┐
-        │                         CONSULTATION DECISIONS                         │
-        │                           (Input Required)                             │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
-        │  │Medium Risk      │ │  Architecture   │ │  Resource Allocation    │  │
-        │  │  Exceptions     │ │    Changes      │ │    Recommendations      │  │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        │                         CONSULTATION DECISIONS                          │
+        │                           (Input Required)                              │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
+        │  │Medium Risk      │ │  Architecture   │ │  Resource Allocation    │    │
+        │  │  Exceptions     │ │    Changes      │ │    Recommendations      │    │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
         └─────────────────────────────────────────────────────────────────────────┘
                                            │
                                            ▼
         ┌─────────────────────────────────────────────────────────────────────────┐
         │                          APPROVAL DECISIONS                             │
-        │                       (Formal Authorization)                           │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐  │
-        │  │  High Risk      │ │   Strategic     │ │    Major Resource       │  │
-        │  │  Exceptions     │ │   Direction     │ │      Requests           │  │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘  │
+        │                       (Formal Authorization)                            │
+        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
+        │  │  High Risk      │ │   Strategic     │ │    Major Resource       │    │
+        │  │  Exceptions     │ │   Direction     │ │      Requests           │    │
+        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
         └─────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -321,55 +321,55 @@ The BISO operates with delegated authority from the CISO to act independently wi
                              BISO ESCALATION DECISION MATRIX
 
     ┌────────────────────────────────────────────────────────────────────────────────┐
-    │                          SECURITY RISK ESCALATIONS                            │
+    │                          SECURITY RISK ESCALATIONS                             │
     │                                                                                │
-    │  Level 1: BISO ────────▶ Business Unit Leader                                 │
+    │  Level 1: BISO ────────▶ Business Unit Leader                                  │
     │           │              (Business Impact Assessment)                          │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 2: CISO ◄────────────────── Security Risk                             │
-    │           │              (Technical Risk Assessment)                          │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 3: CRO/CEO ◄─────────────── Enterprise Risk                           │
-    │           │              (Strategic Impact Decision)                          │
-    │           │                        │                                          │
-    │  Cross:   CISO + Business Leader ◄─┘                                          │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 2: CISO ◄────────────────── Security Risk                               │
+    │           │              (Technical Risk Assessment)                           │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 3: CRO/CEO ◄─────────────── Enterprise Risk                             │
+    │           │              (Strategic Impact Decision)                           │
+    │           │                        │                                           │
+    │  Cross:   CISO + Business Leader ◄─┘                                           │
     │           (Joint Decision Required)                                            │
     └────────────────────────────────────────────────────────────────────────────────┘
 
     ┌────────────────────────────────────────────────────────────────────────────────┐
-    │                        BUSINESS CONFLICT ESCALATIONS                          │
+    │                        BUSINESS CONFLICT ESCALATIONS                           │
     │                                                                                │
-    │  Level 1: BISO ◄─────▶ Business Stakeholder                                   │
-    │           │            (Direct Resolution Attempt)                            │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 2: BISO + Business Leader                                              │
-    │           │            (Mediated Discussion)                                  │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 3: CISO + Business Leader                                              │
-    │           │            (Executive Decision)                                   │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 4: Executive Leadership                                                │
-    │           (Final Resolution Authority)                                        │
+    │  Level 1: BISO ◄─────▶ Business Stakeholder                                    │
+    │           │            (Direct Resolution Attempt)                             │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 2: BISO + Business Leader                                               │
+    │           │            (Mediated Discussion)                                   │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 3: CISO + Business Leader                                               │
+    │           │            (Executive Decision)                                    │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 4: Executive Leadership                                                 │
+    │           (Final Resolution Authority)                                         │
     └────────────────────────────────────────────────────────────────────────────────┘
 
     ┌────────────────────────────────────────────────────────────────────────────────┐
-    │                      RESOURCE & AUTHORITY ESCALATIONS                         │
+    │                      RESOURCE & AUTHORITY ESCALATIONS                          │
     │                                                                                │
-    │  Level 1: BISO ────────▶ CISO                                                 │
-    │           │            (Security Organization Resources)                      │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 2: CISO ────────▶ Business Leader                                      │
-    │           │            (Joint Resource Allocation)                            │
-    │           │                        │                                          │
-    │           ▼                        ▼                                          │
-    │  Level 3: CISO ────────▶ Executive Leadership                                 │
-    │           │            (Strategic Resource Decisions)                         │
+    │  Level 1: BISO ────────▶ CISO                                                  │
+    │           │            (Security Organization Resources)                       │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 2: CISO ────────▶ Business Leader                                       │
+    │           │            (Joint Resource Allocation)                             │
+    │           │                        │                                           │
+    │           ▼                        ▼                                           │
+    │  Level 3: CISO ────────▶ Executive Leadership                                  │
+    │           │            (Strategic Resource Decisions)                          │
     └────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -378,11 +378,11 @@ The BISO operates with delegated authority from the CISO to act independently wi
                             ESCALATION DECISION FLOW CHART
 
     ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
-    │    Issue or     │      │   Issue Type    │      │   Escalation    │
-    │  Conflict       │─────▶│  Classification │─────▶│  Path Selection │
-    │  Identified     │      │                 │      │                 │
+    │    Issue or     │       │   Issue Type    │       │   Escalation    │
+    │  Conflict       │──────▶│  Classification │──────▶│  Path Selection │
+    │  Identified     │       │                 │       │                 │
     └─────────────────┘       └─────────────────┘       └─────────────────┘
-                                       │                         │
+                                      │                         │
             ┌─────────────────────────┼─────────────────────────┼─────────────────────┐
             │                         │                         │                     │
             ▼                         ▼                         ▼                     ▼
