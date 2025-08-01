@@ -694,6 +694,96 @@ Provides business-aligned compliance support that integrates regulatory requirem
 - **Annual ROI Summary**: Compliance support investment vs. compliance cost savings and penalty avoidance
 - **Success Criteria**: Annual documentation showing 3:1+ value ratio for compliance support activities
 
+## Core Process 5: Incident Response and Communication
+
+### Process Overview
+Provides business-focused incident response support that ensures appropriate business communication and decision-making during security incidents, implementing the escalation framework from [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md).
+
+### Process Steps
+
+**5.1 Incident Assessment and Classification**
+- **Input**: Security incident notification and initial details
+- **Activities**:
+  - Assess business impact and criticality per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#incident-severity-assessment)
+  - Classify incident based on business operations affected per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-impact-assessment)
+  - Determine appropriate response level and resources per [Authority Framework](./BISOPRO-06_Authority_Framework.md#incident-response-authority)
+  - Identify key business stakeholders requiring notification per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#incident-communication-matrix)
+- **Output**: Incident classification and stakeholder notification plan
+- **Success Criteria**: Incident assessment completed within 30 minutes with appropriate stakeholder notification per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-response-efficiency)
+
+**5.2 Business Stakeholder Communication**
+- **Input**: Incident classification and business impact assessment
+- **Activities**:
+  - Provide initial business impact briefing per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#incident-communication)
+  - Coordinate ongoing stakeholder updates per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#communication-protocols)
+  - Support business continuity decision-making per [Authority Framework](./BISOPRO-06_Authority_Framework.md#business-continuity-support)
+  - Facilitate customer and external stakeholder communication per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#external-communication-management)
+- **Output**: Clear, timely business communication throughout incident lifecycle
+- **Success Criteria**: Business stakeholder satisfaction >4.0/5.0 with incident communication per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-communication-effectiveness)
+
+**5.3 Business Impact Mitigation**
+- **Input**: Ongoing incident details and business operations status
+- **Activities**:
+  - Coordinate business impact minimization efforts per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-impact-mitigation)
+  - Support business continuity plan activation per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#business-continuity-support)
+  - Facilitate business decision-making for incident response per [Authority Framework](./BISOPRO-06_Authority_Framework.md#incident-decision-support)
+  - Monitor and report business recovery progress per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-response-effectiveness)
+- **Output**: Minimized business disruption and coordinated recovery efforts
+- **Success Criteria**: Average business downtime <4 hours with successful recovery coordination per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-impact-minimization)
+
+**5.4 Post-Incident Business Review**
+- **Input**: Incident resolution details and business impact assessment
+- **Activities**:
+  - Conduct business-focused post-incident review per [Success Metrics](./BISOPRO-05_Success_Metrics.md#post-incident-review-process)
+  - Document business lessons learned and improvement opportunities per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#lessons-learned-integration)
+  - Update business continuity and incident response procedures per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#process-improvement)
+  - Communicate findings and improvements to business stakeholders per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#incident-lessons-learned)
+- **Output**: Improved incident response capabilities and business preparedness
+- **Success Criteria**: Post-incident improvements implemented within 30 days with stakeholder validation per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-improvement-implementation)
+
+**5.5 Practical Data Collection for BISOPRO-05 Metrics**
+- **Input**: Incident response activities and business impact observations
+- **Realistic Data Collection Approaches**:
+  - **Incident Impact Documentation**: Record business impact when BISO is involved in incidents per [Success Metrics](./BISOPRO-05_Success_Metrics.md#tier-2-risk-management-metrics)
+    - Document estimated business downtime when security incidents affect operations
+    - Simple incident log with business impact notes (when BISO has visibility)
+    - Target measurement: <12 hours average business impact (realistic for large organizations)
+  - **Recovery Time Observation**: Track business recovery when BISO participates per [Success Metrics](./BISOPRO-05_Success_Metrics.md#tier-2-risk-management-metrics)
+    - Note time to restore normal business operations for incidents where BISO is involved
+    - Simple documentation of recovery timeline observations
+    - Target measurement: <48 hours to full operational recovery (more realistic)
+  - **Revenue Impact Awareness**: Document revenue-affecting incidents when known
+    - Record instances where security incidents had measurable business/revenue impact
+    - Simple annual summary of prevented vs. actual revenue impact
+    - Basic documentation rather than comprehensive revenue tracking
+  - **Communication Feedback Collection**: Gather feedback on incident communication when available
+    - Ask business stakeholders about incident communication effectiveness (during post-incident reviews)
+    - Simple feedback collection rather than formal surveys
+    - Target measurement: Positive feedback on incident communication from most stakeholders
+- **Integration with BISOPRO-05 Metrics**:
+  - Feeds Tier 1 Revenue Protection with available incident impact data
+  - Supports Tier 2 Business Impact Minimization with realistic incident documentation
+  - Enables Tier 2 Recovery Time Optimization with observed recovery data
+  - Contributes to Tier 3 stakeholder satisfaction through communication feedback
+- **Data Flow**: Manual incident notes → Monthly incident summary → Annual BISOPRO-05 incident report
+- **Success Criteria**: 80% of BISO-involved incidents documented with business impact assessment and stakeholder feedback
+
+**5.6 Practical ROI Tracking for Incident Response**
+- **Input**: Incident response activities, business impact data, and recovery outcomes
+- **Simple ROI Documentation**:
+  - **Business Continuity Value**: Track business value of effective incident response
+    - Document business downtime prevented through effective incident management
+    - Estimate revenue protection through rapid incident response
+    - Example: "Quick incident response limited business downtime to 2 hours vs. potential 8 hours"
+  - **Recovery Cost Optimization**: Track cost efficiency of incident recovery
+    - Document cost savings from efficient incident recovery processes
+    - Estimate additional costs avoided through coordinated response
+  - **Stakeholder Confidence Value**: Document stakeholder confidence maintained during incidents
+    - Record positive stakeholder feedback on incident communication and management
+    - Track business relationships strengthened through crisis management
+- **Annual ROI Summary**: Incident response investment vs. business continuity value and cost avoidance
+- **Success Criteria**: Annual documentation showing 5:1+ value ratio for incident response activities
+
 ## Core Process 6: Innovation Enablement
 
 ### Process Overview
@@ -825,96 +915,6 @@ Opportunistically identifies and documents instances where security capabilities
   - Enables strategic impact measurement for industry leadership and thought leadership
 - **Data Flow**: CRM systems \u2192 Business development \u2192 BISOPRO-05 Strategic Dashboard
 - **Success Criteria**: 100% business opportunity tracking with documented security differentiation value and quarterly competitive advantage assessment
-
-## Core Process 5: Incident Response and Communication
-
-### Process Overview
-Provides business-focused incident response support that ensures appropriate business communication and decision-making during security incidents, implementing the escalation framework from [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md).
-
-### Process Steps
-
-**5.1 Incident Assessment and Classification**
-- **Input**: Security incident notification and initial details
-- **Activities**:
-  - Assess business impact and criticality per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#incident-severity-assessment)
-  - Classify incident based on business operations affected per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-impact-assessment)
-  - Determine appropriate response level and resources per [Authority Framework](./BISOPRO-06_Authority_Framework.md#incident-response-authority)
-  - Identify key business stakeholders requiring notification per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#incident-communication-matrix)
-- **Output**: Incident classification and stakeholder notification plan
-- **Success Criteria**: Incident assessment completed within 30 minutes with appropriate stakeholder notification per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-response-efficiency)
-
-**5.2 Business Stakeholder Communication**
-- **Input**: Incident classification and business impact assessment
-- **Activities**:
-  - Provide initial business impact briefing per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#incident-communication)
-  - Coordinate ongoing stakeholder updates per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#communication-protocols)
-  - Support business continuity decision-making per [Authority Framework](./BISOPRO-06_Authority_Framework.md#business-continuity-support)
-  - Facilitate customer and external stakeholder communication per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#external-communication-management)
-- **Output**: Clear, timely business communication throughout incident lifecycle
-- **Success Criteria**: Business stakeholder satisfaction >4.0/5.0 with incident communication per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-communication-effectiveness)
-
-**5.3 Business Impact Mitigation**
-- **Input**: Ongoing incident details and business operations status
-- **Activities**:
-  - Coordinate business impact minimization efforts per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-impact-mitigation)
-  - Support business continuity plan activation per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#business-continuity-support)
-  - Facilitate business decision-making for incident response per [Authority Framework](./BISOPRO-06_Authority_Framework.md#incident-decision-support)
-  - Monitor and report business recovery progress per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-response-effectiveness)
-- **Output**: Minimized business disruption and coordinated recovery efforts
-- **Success Criteria**: Average business downtime <4 hours with successful recovery coordination per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-impact-minimization)
-
-**5.4 Post-Incident Business Review**
-- **Input**: Incident resolution details and business impact assessment
-- **Activities**:
-  - Conduct business-focused post-incident review per [Success Metrics](./BISOPRO-05_Success_Metrics.md#post-incident-review-process)
-  - Document business lessons learned and improvement opportunities per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#lessons-learned-integration)
-  - Update business continuity and incident response procedures per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#process-improvement)
-  - Communicate findings and improvements to business stakeholders per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#incident-lessons-learned)
-- **Output**: Improved incident response capabilities and business preparedness
-- **Success Criteria**: Post-incident improvements implemented within 30 days with stakeholder validation per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-improvement-implementation)
-
-**5.5 Practical Data Collection for BISOPRO-05 Metrics**
-- **Input**: Incident response activities and business impact observations
-- **Realistic Data Collection Approaches**:
-  - **Incident Impact Documentation**: Record business impact when BISO is involved in incidents per [Success Metrics](./BISOPRO-05_Success_Metrics.md#tier-2-risk-management-metrics)
-    - Document estimated business downtime when security incidents affect operations
-    - Simple incident log with business impact notes (when BISO has visibility)
-    - Target measurement: <12 hours average business impact (realistic for large organizations)
-  - **Recovery Time Observation**: Track business recovery when BISO participates per [Success Metrics](./BISOPRO-05_Success_Metrics.md#tier-2-risk-management-metrics)
-    - Note time to restore normal business operations for incidents where BISO is involved
-    - Simple documentation of recovery timeline observations
-    - Target measurement: <48 hours to full operational recovery (more realistic)
-  - **Revenue Impact Awareness**: Document revenue-affecting incidents when known
-    - Record instances where security incidents had measurable business/revenue impact
-    - Simple annual summary of prevented vs. actual revenue impact
-    - Basic documentation rather than comprehensive revenue tracking
-  - **Communication Feedback Collection**: Gather feedback on incident communication when available
-    - Ask business stakeholders about incident communication effectiveness (during post-incident reviews)
-    - Simple feedback collection rather than formal surveys
-    - Target measurement: Positive feedback on incident communication from most stakeholders
-- **Integration with BISOPRO-05 Metrics**:
-  - Feeds Tier 1 Revenue Protection with available incident impact data
-  - Supports Tier 2 Business Impact Minimization with realistic incident documentation
-  - Enables Tier 2 Recovery Time Optimization with observed recovery data
-  - Contributes to Tier 3 stakeholder satisfaction through communication feedback
-- **Data Flow**: Manual incident notes → Monthly incident summary → Annual BISOPRO-05 incident report
-- **Success Criteria**: 80% of BISO-involved incidents documented with business impact assessment and stakeholder feedback
-
-**5.6 Practical ROI Tracking for Incident Response**
-- **Input**: Incident response activities, business impact data, and recovery outcomes
-- **Simple ROI Documentation**:
-  - **Business Continuity Value**: Track business value of effective incident response
-    - Document business downtime prevented through effective incident management
-    - Estimate revenue protection through rapid incident response
-    - Example: "Quick incident response limited business downtime to 2 hours vs. potential 8 hours"
-  - **Recovery Cost Optimization**: Track cost efficiency of incident recovery
-    - Document cost savings from efficient incident recovery processes
-    - Estimate additional costs avoided through coordinated response
-  - **Stakeholder Confidence Value**: Document stakeholder confidence maintained during incidents
-    - Record positive stakeholder feedback on incident communication and management
-    - Track business relationships strengthened through crisis management
-- **Annual ROI Summary**: Incident response investment vs. business continuity value and cost avoidance
-- **Success Criteria**: Annual documentation showing 5:1+ value ratio for incident response activities
 
 ## Process Automation and Maturity Framework
 
