@@ -122,6 +122,7 @@ Implementation guides should provide:
 - **Implementation Ready**: Step-by-step guidance with specific deliverables
 - **Business Value**: Clear ROI and financial quantification throughout
 - **User Feedback**: Detailed line-by-line tracking as requested
+- **CRITICAL REALISM REQUIREMENT**: Processes must be ACHIEVABLE in large organizations - no perfect integration assumptions, no unrealistic automation, no unified systems that don't exist. Focus on pragmatic wins within existing constraints.
 
 ## Common Pitfalls to Avoid
 - Don't assume file structure - always check what exists
