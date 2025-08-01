@@ -131,5 +131,12 @@ Implementation guides should provide:
 - Don't create new files unless explicitly requested
 - Always read full documents before making changes
 
+## Visual Framework and Table Standards
+- **PRESERVE MARKDOWN TABLES**: Never convert markdown tables to ASCII/Unicode tables - keep them as standard markdown
+- **LIMIT EMOJI USAGE**: Use minimal emojis in visual frameworks - focus on simple red/yellow/green indicators (🟢🟡🔴)
+- **VISUAL CONSISTENCY**: Standardize box-drawing characters using double-line borders (╔═╗║╚═╝) for dashboard-style frames
+- **STATUS INDICATORS**: Use traffic light system consistently across all visual frameworks
+- **TABLE FORMAT**: Always maintain pipe-separated markdown tables for data presentation
+
 ## Context for Future Sessions
 This framework represents 4 phases of intensive development creating the most comprehensive BISO implementation guide available. The documents are highly interconnected and must maintain consistency across all 28 components. Focus on systematic enhancement rather than individual document optimization.
