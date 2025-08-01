@@ -1,4 +1,4 @@
-# BISO Program Technology Strategy - Revised & Realistic
+# BISO Program Technology Strategy
 
 ## Executive Summary
 
@@ -8,9 +8,8 @@
 
 ## Investment Strategy Overview
 
-### Original vs. Revised Investment
-- **Original Estimate**: $1.2-1.8M over 3 years
-- **Revised Estimate**: $400-625K over 3 years
+### Investment
+- **Estimate**: $400-625K over 3 years
 - **Savings**: $800K-1.2M (67-75% reduction)
 - **ROI**: 4:1 by Year 3 (improved due to lower investment)
 
