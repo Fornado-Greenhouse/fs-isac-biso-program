@@ -286,26 +286,27 @@ The BISO operates as a business unit-focused version of the CISO, with:
 #### **Authority Deployment Checklist**
 ```
 BISO AUTHORITY IMPLEMENTATION CHECKLIST
+(Phase 2: Structure - Months 4-6 per Master Timeline)
 
-☐ PREPARATION PHASE (Week 1)
+☐ PREPARATION PHASE (Month 4, Week 1-2)
   ✓ Complete BISO authority assessment and readiness evaluation
   ✓ Finalize business unit scope and stakeholder identification
   ✓ Prepare formal delegation documentation and authority matrix
   ✓ Schedule stakeholder briefings and communication sessions
 
-☐ DELEGATION PHASE (Week 2)
+☐ DELEGATION PHASE (Month 4, Week 3-4)
   ✓ Execute formal authority delegation ceremony with CISO and business leadership
   ✓ Distribute authority documentation to all relevant stakeholders
   ✓ Establish authority monitoring and reporting mechanisms
   ✓ Activate escalation procedures and support structures
 
-☐ ACTIVATION PHASE (Week 3-4)
+☐ ACTIVATION PHASE (Month 5, Week 1-2)
   ✓ Begin Level 1 autonomous decision-making with documentation
   ✓ Test consultation processes for Level 2 decisions
   ✓ Validate escalation procedures with sample scenarios
   ✓ Collect initial stakeholder feedback and process optimization
 
-☐ OPTIMIZATION PHASE (Month 2)
+☐ OPTIMIZATION PHASE (Month 5, Week 3-4 through Month 6)
   ✓ Analyze authority utilization patterns and effectiveness
   ✓ Refine decision processes based on initial experience
   ✓ Address any authority gaps or conflicts identified

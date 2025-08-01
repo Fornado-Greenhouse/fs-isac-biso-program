@@ -10,11 +10,11 @@
 - **Implementation Roadmap**: Step-by-step deployment guide with baseline establishment
 - **Reporting Framework**: Monthly, quarterly, and annual templates with automated calendaring
 
-### **Immediate Value Delivery**
-- **Week 1**: Establish baseline metrics and assign ownership using RACI matrix
-- **Week 2-4**: Deploy Tier 1 (Business Impact) dashboard with executive reporting
-- **Month 2**: Full 5-tier measurement system operational with automated reporting
-- **Month 3**: Advanced analytics and predictive capabilities providing strategic insights
+### **Immediate Value Delivery** *(Phase 2: Structure - Months 4-6)*
+- **Month 4, Week 1**: Establish baseline metrics and assign ownership using RACI matrix
+- **Month 4, Week 2-4**: Deploy Tier 1 (Business Impact) dashboard with executive reporting
+- **Month 5**: Full 5-tier measurement system operational with automated reporting
+- **Month 6**: Advanced analytics and predictive capabilities providing strategic insights
 
 *Jump to [Quick Navigation](#quick-navigation) or [Getting Started Guide](#getting-started-implementation-guide)*
 
@@ -187,9 +187,9 @@
 ## Getting Started Implementation Guide
 *Step-by-step deployment process for immediate implementation*
 
-### **Phase 1: Foundation (Week 1-2)**
+### **Phase 2: Metrics Foundation (Month 4, Week 1-2)**
 
-#### **Week 1: Establish Ownership & Baseline**
+#### **Month 4, Week 1: Establish Ownership & Baseline**
 **Day 1-2: RACI Matrix Implementation**
 1. **Review RACI Matrix** with all stakeholders per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md)
 2. **Assign specific individuals** to each R/A role in matrix
@@ -202,7 +202,7 @@
 3. **Identify data gaps** and create collection plans
 4. **Set initial targets** based on historical performance + 10-20% improvement
 
-#### **Week 2: Initial Dashboard Deployment**
+#### **Month 4, Week 2: Initial Dashboard Deployment**
 **Day 1-3: Tier 1 Business Impact Dashboard**
 1. **Deploy executive dashboard** with available baseline data
 2. **Create automated reporting** for weekly executive briefings
@@ -215,27 +215,27 @@
 3. **Feedback collection** on dashboard usability and relevance
 4. **Initial report generation** for executive review
 
-### **Phase 2: Full Deployment (Week 3-8)**
+### **Phase 2: Full Deployment (Month 4, Week 3 - Month 5)**
 
-#### **Week 3-4: Tier 2-3 Implementation**
+#### **Month 4, Week 3-4: Tier 2-3 Implementation**
 - **Deploy risk management metrics** with operational dashboards
 - **Launch stakeholder satisfaction tracking** with quarterly survey deployment
 - **Integrate with existing risk systems** per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md)
 - **Train business unit leaders** on new measurement approach
 
-#### **Week 5-6: Tier 4-5 Implementation**
+#### **Month 5, Week 1-2: Tier 4-5 Implementation**
 - **Operational excellence tracking** with automated process metrics
 - **Strategic impact measurement** with quarterly business review integration
 - **Advanced analytics setup** for predictive capabilities
 - **Cross-tier correlation analysis** for comprehensive insights
 
-#### **Week 7-8: Optimization & Automation**
+#### **Month 5, Week 3-4: Optimization & Automation**
 - **Automate data collection** where possible to reduce manual effort
 - **Optimize reporting templates** based on user feedback
 - **Establish continuous improvement** processes per [Continuous Improvement Process](#continuous-improvement-process)
 - **Create escalation procedures** for metric threshold breaches
 
-### **Phase 3: Advanced Capabilities (Month 3+)**
+### **Phase 2: Advanced Capabilities (Month 6+)**
 
 #### **Advanced Analytics Implementation**
 - **Predictive analytics** for risk and performance forecasting
