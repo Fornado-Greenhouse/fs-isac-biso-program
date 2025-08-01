@@ -1,5 +1,210 @@
 # BISO Job Descriptions and Recruitment Materials
 
+## 🎯 **BISO Roles at a Glance & Quick Start**
+
+**Mission**: Define clear, progressive BISO career paths from Senior to Director level, establishing competitive compensation, comprehensive qualifications, and role differentiation that attracts world-class talent to bridge cybersecurity and business operations.
+
+### **BISO Program Roles Overview**
+- **Senior BISO**: $150-200K | 8+ years | Business unit security leadership for 1-2 units
+- **Principal BISO**: $180-230K | 12+ years | Strategic security leadership across multiple units
+- **BISO Program Director**: $220-280K | 15+ years | Overall program leadership and strategy
+- **Team Structure**: 10 total positions (1 Director, 4 Functional BISOs, 3 Product Specialists, 2 Support)
+- **Career Progression**: Clear advancement path with defined competency milestones
+
+### **Key Differentiators**
+- 💼 **Business Integration**: Primary security liaison embedded within business operations
+- 🛡️ **"Mini CISO" Authority**: Delegated decision-making with defined autonomy levels
+- 📈 **Career Growth**: Clear progression from tactical to strategic leadership roles
+- 💰 **Competitive Compensation**: Market-leading packages with performance incentives
+- 🎓 **Professional Development**: $10-15K annual training budget per role
+
+### **Recruitment Success Targets**
+- **Time to Fill**: <45 days for Senior, <60 days for Principal/Director positions
+- **Quality of Hire**: >90% meeting/exceeding performance expectations at 1 year
+- **Diversity Goals**: 40% women representation, multi-generational team composition
+- **Retention Rate**: >85% annual retention with career development opportunities
+
+*Jump to [Quick Navigation](#quick-navigation) or [Role Descriptions](#senior-business-information-security-officer)*
+
+---
+
+## Quick Navigation
+
+**For Executives:**
+- [BISO Roles at a Glance](#-biso-roles-at-a-glance--quick-start) - 30-second overview of all positions
+- [BISO Program Director](#biso-program-director) - Senior leadership role overview and requirements
+- [Compensation Summary](#compensation-and-benefits) - Total compensation packages across all levels
+- [Application Process](#application-process) - Recruitment timeline and selection criteria
+
+**For HR/Recruiters:**
+- [Required Qualifications](#required-qualifications) - Education, certification, and experience requirements
+- [Selection Timeline](#selection-timeline) - Structured recruitment process and timelines
+- [Equal Opportunity Statement](#equal-opportunity-statement) - Diversity and inclusion commitments
+- [Contact Information](#contact-information) - Recruitment team contacts and resources
+
+**For Candidates:**
+- [Senior BISO](#senior-business-information-security-officer) - Entry-level BISO position details
+- [Principal BISO](#principal-business-information-security-officer) - Senior strategic position overview
+- [Career Progression](#key-differentiators) - Growth opportunities and advancement paths
+- [How to Apply](#how-to-apply) - Application requirements and process
+
+**For Program Managers:**
+- [Team Structure Overview](#biso-program-roles-overview) - Full team composition and reporting
+- [Role Differentiation](#position-overview) - Clear distinctions between levels
+- [Performance Expectations](#key-responsibilities) - Role-specific accountability measures
+- [Professional Development](#compensation-and-benefits) - Training and growth investments
+
+---
+
+## BISO Program Organizational Structure
+
+### **Team Composition and Reporting Framework**
+```
+                          BISO PROGRAM ORGANIZATIONAL CHART
+                              
+    ┌─────────────────────────────────────────────────────────────────────────┐
+    │                         BISO Program Director                           │
+    │                    ($220-280K | 15+ years | 1 FTE)                     │
+    │              Overall Program Leadership & Strategic Direction           │
+    └────────────────────────────────┬────────────────────────────────────────┘
+                                     │
+         ┌───────────────────────────┴───────────────────────────┐
+         │                                                       │
+         ▼                                                       ▼
+    ┌────────────────────────┐                         ┌─────────────────────┐
+    │   Functional BISOs     │                         │ Product Specialists │
+    │    (4 Positions)       │                         │   (3 Positions)     │
+    ├────────────────────────┤                         ├─────────────────────┤
+    │ • Consumer/Retail      │                         │ • Cloud Security    │
+    │ • Commercial/Corporate │                         │ • Data Protection   │
+    │ • Investment Services  │                         │ • Third-Party Risk  │
+    │ • Corporate Functions  │                         │                     │
+    │                        │                         │ $150-200K Range     │
+    │ Sr: $150-200K (2)      │                         │ 8-10+ years exp     │
+    │ Pr: $180-230K (2)      │                         │                     │
+    └────────────────────────┘                         └─────────────────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────────┐
+                         │    Support Team           │
+                         │    (2 Positions)          │
+                         ├───────────────────────────┤
+                         │ • Data Analytics (1)      │
+                         │ • Program Coordinator (1) │
+                         │                           │
+                         │ $90-130K Range            │
+                         └───────────────────────────┘
+```
+
+### **BISO Career Progression Framework**
+```
+                            CAREER ADVANCEMENT PATH
+
+    Entry Level                  Mid-Career                    Executive
+    ┌─────────────┐           ┌─────────────┐            ┌─────────────┐
+    │  SENIOR     │           │  PRINCIPAL  │            │  DIRECTOR   │
+    │   BISO      │ ────────▶ │    BISO     │ ────────▶ │   BISO      │
+    │             │           │             │            │  PROGRAM    │
+    └─────────────┘           └─────────────┘            └─────────────┘
+         │                           │                           │
+    ┌─────────────┐           ┌─────────────┐            ┌─────────────┐
+    │ Years: 8+   │           │ Years: 12+  │            │ Years: 15+  │
+    │ Comp: $150- │           │ Comp: $180- │            │ Comp: $220- │
+    │       200K  │           │       230K  │            │       280K  │
+    │             │           │             │            │             │
+    │ Scope: 1-2  │           │ Scope: 3-4  │            │ Scope: All  │
+    │ Business    │           │ Business    │            │ Business    │
+    │ Units       │           │ Units       │            │ Units       │
+    └─────────────┘           └─────────────┘            └─────────────┘
+         │                           │                           │
+    ┌─────────────────────────────────────────────────────────────────┐
+    │                    KEY PROGRESSION MILESTONES                   │
+    ├─────────────────────────────────────────────────────────────────┤
+    │ • Technical Excellence  • Strategic Thinking  • Executive Impact │
+    │ • Business Partnership  • Team Leadership     • Program Vision   │
+    │ • Risk Management      • Influence Skills    • Board Readiness  │
+    └─────────────────────────────────────────────────────────────────┘
+```
+
+### **Compensation Philosophy and Structure**
+```
+                        TOTAL COMPENSATION FRAMEWORK
+
+    ┌────────────────────────────────────────────────────────────────────┐
+    │                    BISO COMPENSATION COMPONENTS                    │
+    ├────────────────┬───────────────┬─────────────────┬────────────────┤
+    │     Role       │ Base Salary   │ Annual Bonus    │ Other Benefits │
+    ├────────────────┼───────────────┼─────────────────┼────────────────┤
+    │ Senior BISO    │ $150-200K     │ Up to 20%       │ • $10K PD      │
+    │                │               │                 │ • Equity Elig. │
+    ├────────────────┼───────────────┼─────────────────┼────────────────┤
+    │ Principal BISO │ $180-230K     │ Up to 25%       │ • $15K PD      │
+    │                │               │                 │ • LTI Awards   │
+    ├────────────────┼───────────────┼─────────────────┼────────────────┤
+    │ BISO Director  │ $220-280K     │ Up to 30%       │ • Unlimited PD │
+    │                │               │                 │ • Exec Package │
+    └────────────────┴───────────────┴─────────────────┴────────────────┘
+    
+    Total Compensation Potential (Base + Bonus + Equity):
+    • Senior: $180-240K+ • Principal: $225-290K+ • Director: $285-365K+
+```
+
+---
+
+## Role Differentiation Framework
+
+### **Clear Distinctions Between BISO Levels**
+```
+                        BISO ROLE DIFFERENTIATION MATRIX
+
+┌──────────────────┬─────────────────────┬─────────────────────┬─────────────────────┐
+│   Dimension      │   Senior BISO       │   Principal BISO    │   BISO Director     │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ SCOPE            │                     │                     │                     │
+│ Business Units   │ 1-2 units           │ 3-4 units or        │ All units           │
+│                  │                     │ complex portfolio   │                     │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ FOCUS            │                     │                     │                     │
+│ Primary Role     │ Tactical execution  │ Strategic planning  │ Vision & leadership │
+│                  │ & implementation    │ & coordination      │                     │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ DECISION LEVEL   │                     │                     │                     │
+│ Authority        │ Operational         │ Tactical/Strategic  │ Strategic/Executive │
+│                  │ recommendations     │ decisions           │ decisions           │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ STAKEHOLDERS     │                     │                     │                     │
+│ Primary          │ Directors, VPs      │ VPs, SVPs          │ C-Suite, Board      │
+│ Engagement       │                     │                     │                     │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ TEAM IMPACT      │                     │                     │                     │
+│ Leadership       │ Individual          │ Mentor junior       │ Lead entire         │
+│                  │ contributor         │ BISOs               │ BISO program        │
+├──────────────────┼─────────────────────┼─────────────────────┼─────────────────────┤
+│ EXPERIENCE       │                     │                     │                     │
+│ Years Required   │ 8+ years total      │ 12+ years total     │ 15+ years total     │
+│ Leadership Exp   │ 3+ customer-facing  │ 5+ senior roles     │ 7+ management       │
+└──────────────────┴─────────────────────┴─────────────────────┴─────────────────────┘
+```
+
+### **Progressive Responsibility Framework**
+```
+    INCREASING STRATEGIC IMPACT & ORGANIZATIONAL INFLUENCE
+    ◄──────────────────────────────────────────────────────────────►
+    
+    SENIOR BISO                PRINCIPAL BISO             BISO DIRECTOR
+    ┌───────────────┐         ┌───────────────┐         ┌───────────────┐
+    │ • Execute     │         │ • Design      │         │ • Define      │
+    │ • Implement   │ ──────▶ │ • Influence   │ ──────▶ │ • Transform   │
+    │ • Advise     │         │ • Lead        │         │ • Inspire     │
+    └───────────────┘         └───────────────┘         └───────────────┘
+    
+    Key Transitions:
+    Senior → Principal: From doing to leading, single unit to portfolio
+    Principal → Director: From leading to transforming, portfolio to enterprise
+```
+
+---
+
 ## Senior Business Information Security Officer
 
 ### Position Overview
@@ -206,6 +411,86 @@ The BISO Program Director provides overall leadership for the Business Informati
 
 ## Application Process
 
+### **Recruitment Process Framework**
+```
+                        BISO RECRUITMENT JOURNEY
+    
+    Week 1-2              Week 3              Week 4-5            Week 6
+    ┌────────────┐     ┌────────────┐     ┌────────────┐     ┌────────────┐
+    │Application │     │  Initial   │     │ Assessment │     │   Final    │
+    │  Review    │────▶│ Screening  │────▶│  Process   │────▶│  Decision  │
+    └────────────┘     └────────────┘     └────────────┘     └────────────┘
+         │                   │                   │                   │
+         ▼                   ▼                   ▼                   ▼
+    ┌────────────┐     ┌────────────┐     ┌────────────┐     ┌────────────┐
+    │• Resume    │     │• Phone/    │     │• Technical │     │• Reference │
+    │  Screen    │     │  Video     │     │  Interview │     │  Checks    │
+    │• Cover     │     │• Culture   │     │• Business  │     │• Offer     │
+    │  Letter    │     │  Fit       │     │  Case      │     │  Package   │
+    │• Portfolio │     │• Q&A       │     │• Panel     │     │• Start     │
+    └────────────┘     └────────────┘     └────────────┘     └────────────┘
+```
+
+### **Interview Assessment Framework**
+```
+                    BISO CANDIDATE EVALUATION MATRIX
+
+    ┌────────────────────────────────────────────────────────────────────┐
+    │                     CORE COMPETENCY ASSESSMENT                     │
+    ├─────────────────────┬──────────────────────┬───────────────────────┤
+    │    Competency       │  Weight (Sr/Pr/Dir)  │  Assessment Method    │
+    ├─────────────────────┼──────────────────────┼───────────────────────┤
+    │ Technical Security  │  30% / 25% / 20%     │ • Technical Interview │
+    │                     │                      │ • Case Study          │
+    ├─────────────────────┼──────────────────────┼───────────────────────┤
+    │ Business Acumen     │  25% / 30% / 35%     │ • Business Case       │
+    │                     │                      │ • Scenario Questions  │
+    ├─────────────────────┼──────────────────────┼───────────────────────┤
+    │ Communication       │  20% / 20% / 20%     │ • Presentation        │
+    │                     │                      │ • Interview Skills    │
+    ├─────────────────────┼──────────────────────┼───────────────────────┤
+    │ Leadership          │  15% / 20% / 25%     │ • Behavioral Interview│
+    │                     │                      │ • Leadership Examples │
+    ├─────────────────────┼──────────────────────┼───────────────────────┤
+    │ Cultural Fit        │  10% / 5% / 0%       │ • Team Interview      │
+    │                     │                      │ • Values Assessment   │
+    └─────────────────────┴──────────────────────┴───────────────────────┘
+```
+
+### **Structured Interview Guide Templates**
+
+#### **Technical Security Assessment (Senior BISO Example)**
+```
+TECHNICAL INTERVIEW GUIDE - SENIOR BISO
+
+OPENING (5 minutes)
+□ Welcome and introductions
+□ Interview process overview
+□ Role and team context
+
+TECHNICAL ASSESSMENT (30 minutes)
+□ Q1: "Describe a complex security architecture you've designed or reviewed."
+   - Listen for: Technical depth, business context, risk considerations
+   - Follow-up: Trade-offs, alternatives considered, outcomes
+
+□ Q2: "Walk me through your approach to risk assessment for a new business initiative."
+   - Listen for: Methodology, stakeholder engagement, risk communication
+   - Follow-up: Risk mitigation strategies, business impact analysis
+
+□ Q3: "How would you handle a security exception request from a business unit?"
+   - Listen for: Decision framework, consultation approach, documentation
+   - Follow-up: Escalation criteria, precedent consideration
+
+BUSINESS SCENARIO (15 minutes)
+□ Present: "Your business unit wants to implement a new cloud-based customer platform..."
+   - Assess: Security requirements gathering, risk identification, recommendations
+   - Evaluate: Business partnership, communication clarity, pragmatism
+
+CANDIDATE QUESTIONS (10 minutes)
+□ Address candidate questions about role, team, organization
+□ Close with next steps and timeline
+```
+
 ### How to Apply
 Interested candidates should submit:
 1. **Cover Letter**: Explaining interest in BISO role and relevant experience
@@ -229,6 +514,6 @@ Interested candidates should submit:
 We are an equal opportunity employer committed to diversity and inclusion per our [Support Structure D&I Framework](./BISOPRO-10_Support_Structure.md#diversity-and-inclusion-framework). All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status per our [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#di-implementation-strategy).
 
 ---
-*Document Version: 1.0*  
-*Date: July 30, 2025*  
+*Document Version: 2.0 (Enhanced with executive navigation and recruitment frameworks)*  
+*Date: August 1, 2025*  
 *Owner: BISO Program Team*
