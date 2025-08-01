@@ -18,6 +18,27 @@
 - 💰 **Competitive Compensation**: Market-leading packages with performance incentives
 - 🎓 **Professional Development**: $10-15K annual training budget per role
 
+### **Executive Recruitment Decision Framework**
+```
+           Talent Acquisition Strategy
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+     URGENCY       QUALITY      DIVERSITY
+        │             │             │
+        ▼             ▼             ▼
+   ┌────────┐    ┌────────┐    ┌────────┐
+   │45-60   │    │ >90%   │    │  40%   │
+   │Days to │    │1-Year  │    │Women   │
+   │Fill    │    │Success │    │Target  │
+   └────────┘    └────────┘    └────────┘
+        │             │             │
+        └─────────────┼─────────────┘
+                      ▼
+              Executive Decision
+              Approve • Modify • Defer
+```
+
 ### **Recruitment Success Targets**
 - **Time to Fill**: <45 days for Senior, <60 days for Principal/Director positions
 - **Quality of Hire**: >90% meeting/exceeding performance expectations at 1 year

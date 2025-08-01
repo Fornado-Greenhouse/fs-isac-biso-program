@@ -11,6 +11,25 @@
 - **Accountability**: Full responsibility for business unit security outcomes with quarterly performance reviews
 - **Support Structure**: CISO backing, business sponsorship, formal delegation documentation
 
+### **Authority Decision Flow** 
+```
+    Decision Required
+          │
+          ▼
+    ┌─────────────┐
+    │Risk & Impact│
+    │ Assessment  │
+    └─────────────┘
+          │
+    ┌─────┴─────┬─────────┬─────────┐
+    │           │         │         │
+    ▼           ▼         ▼         ▼
+┌───────┐ ┌───────────┐ ┌─────────┐ ┌─────────┐
+│✅ L1  │ │⚠️  L2     │ │🔺 L3    │ │🚨 EXEC  │
+│AUTO   │ │CONSULT    │ │APPROVE  │ │ESCALATE │
+└───────┘ └───────────┘ └─────────┘ └─────────┘
+```
+
 ### **Key Authority Decisions**
 - ✅ **Autonomous Authority**: Risk assessments, standard controls, policy interpretation, operational security (Level 1)
 - ⚠️ **Consultative Authority**: Medium-risk exceptions, architecture changes, resource recommendations (Level 2) 
