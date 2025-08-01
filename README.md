@@ -207,22 +207,43 @@ All BISO processes integrate with existing business processes:
 
 ## 📈 **Success Metrics & KPIs**
 
-### **Program Health Indicators**
-- **Stakeholder Satisfaction**: >4.0/5.0 across all business partnerships
-- **Risk Reduction**: 25-40% improvement in security-related business risk management
-- **Decision Velocity**: <48 hours average for risk-informed business decisions
-- **Business Alignment**: >90% of strategic initiatives include BISO consultation
+*For complete measurement framework, see [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md)*
 
-### **Financial Performance**
+### **Tier 1: Business Impact Metrics**
+**Revenue & Growth**
+- **Time-to-Market Acceleration**: <5 days average security review time
+- **Revenue Protection**: 100% of critical revenue systems with current security assessments
+
+**Cost Optimization**
+- **Security Rework Reduction**: 75% reduction in post-development security modifications
+- **Compliance Cost Efficiency**: 20% improvement in compliance cost per audit requirement
+
+### **Tier 2: Risk Management Metrics**
+- **Early Security Engagement**: >80% of projects engage security in planning phase
+- **Risk-Informed Decisions**: 100% of business decisions include risk assessment
+- **Incident Response Excellence**: <4 hours mean time to contain security incidents
+- **Proactive Risk Management**: 90% of risks identified before business impact
+
+### **Tier 3: Stakeholder Satisfaction Metrics**
+- **BISO Service Satisfaction**: >4.0/5.0 rating across all business partnerships
+- **Security as Business Enabler**: >70% view security as enabler vs. barrier
+- **Executive Confidence**: >90% executive confidence in security posture
+
+### **Tier 4: Operational Excellence Metrics**
+- **Security Review Throughput**: 100% on-time completion rate
+- **Exception Management**: <48 hours average resolution time
+- **Audit Finding Reduction**: 25% annual reduction in security findings
+- **Process Quality**: <10% repeat issue rate
+
+### **Tier 5: Strategic Impact Metrics**
+- **Innovation Enablement**: 100% of strategic technology initiatives supported
+- **Digital Transformation Integration**: Security requirements in 100% of transformation projects
+- **Competitive Advantage**: Quantified business opportunities where security was differentiator
+
+### **Financial Performance Targets**
 - **Year 1**: Break-even through operational efficiency gains
 - **Year 2**: 2:1 ROI through business enablement and risk optimization
 - **Year 3+**: 4-5:1 ROI through strategic competitive advantage
-
-### **Operational Excellence**
-- **Process Maturity**: CMM Level 3+ process maturity achieved
-- **Incident Reduction**: 30-50% reduction in security-related business disruptions
-- **Compliance Excellence**: >95% compliance scores, <5 audit findings annually
-- **Innovation Enablement**: Measurable contribution to business innovation and growth
 
 ---
 

@@ -1,31 +1,16 @@
 # BISO Program Support Structure Design
 
-## 🎯 **Support Structure at a Glance & Quick Start**
+## Overview
 
-**Mission**: Deploy world-class support infrastructure enabling 10-person BISO team to deliver $4.8M+ annual business value through integrated analytics, communication platforms, and inclusive team excellence frameworks that scale across enterprise operations.
+**Mission**: Deploy comprehensive support infrastructure enabling the 10-person BISO team to deliver exceptional business value through integrated analytics, communication platforms, and team excellence frameworks.
 
-### **Support Structure at a Glance**
-- **Team Architecture**: 10 FTE integrated support structure (1 Director, 4 Functional BISOs, 3 Specialists, 2 Support)  
-- **Analytics Platform**: Dedicated data specialist with enterprise dashboards and predictive capabilities
-- **Communication Infrastructure**: Executive-grade reporting, real-time collaboration, stakeholder portals
-- **D&I Excellence**: 40% women representation with comprehensive inclusion and development framework
-- **Technology Stack**: $200-300K integrated platform supporting all framework operations
+### **Key Support Components**
+- **Team Architecture**: Integrated 10 FTE structure with clear roles and coordination
+- **Analytics Platform**: Data specialist with enterprise dashboards and predictive capabilities
+- **Communication Infrastructure**: Executive reporting and stakeholder collaboration tools
+- **Technology Integration**: Platforms supporting all framework operations
 
-### **Key Support Capabilities**
-- 📊 **Analytics Excellence**: Real-time dashboards, predictive modeling, executive reporting with <4 hours data freshness
-- 🤝 **Team Coordination**: Weekly operational sync, monthly strategic planning, quarterly business alignment
-- 💬 **Communication Mastery**: Multi-channel stakeholder engagement with executive-grade presentation capabilities  
-- 🌟 **Inclusive Innovation**: Diverse perspectives driving superior risk management and business solutions
-- 🛠️ **Technology Integration**: Enterprise-grade platforms with 99.9% uptime and seamless business system integration
-
-### **Support Investment & ROI** 
-- **Support Structure Investment**: $1.2-1.5M annually (support team component of $2.9-3.6M total program)
-- **Program Context**: Support structure represents 35-40% of total BISO program investment per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md)
-- **Expected ROI**: 3-4:1 through enhanced BISO effectiveness, stakeholder satisfaction, decision quality
-- **Efficiency Gains**: 40% reduction in manual reporting, 60% faster analytics delivery, 25% improvement in stakeholder engagement
-- **Risk Reduction**: Proactive analytics enable 50% faster risk identification and 30% better decision support
-
-*Jump to [Quick Navigation](#quick-navigation) or [Team Architecture Overview](#team-architecture-overview)*
+*See [Quick Navigation](#quick-navigation) for detailed support framework*
 
 ---
 

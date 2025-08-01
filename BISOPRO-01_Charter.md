@@ -1,23 +1,16 @@
 # Business Information Security Officer (BISO) Program Charter
 
-## 🎯 **Executive Summary & Quick Start**
+## Executive Summary
 
 **Mission**: Establish dedicated security leadership aligned with business units to bridge the $3.2-4.8M annual gap between cybersecurity capabilities and business operations, delivering 4-5:1 ROI through systematic business-security integration.
 
-### **Charter at a Glance**
-- **Program Scope**: 7-8 BISO professionals serving all business units with hybrid functional-product alignment
-- **Authority Level**: Risk assessment approval, security consultation binding guidance, escalation to CISO/business leadership
-- **Success Targets**: <5 days security review time, >4.0/5.0 stakeholder satisfaction, >80% early project engagement
-- **Implementation**: 3-phase deployment over 12 months with $2.9-3.6M total investment
-- **Expected ROI**: 4-5:1 long-term return through reduced delays, rework elimination, and competitive advantage
+### **Program Charter Overview**
+- **Program Scope**: 7-8 BISO professionals serving all business units
+- **Authority Framework**: Risk assessment approval with clear escalation procedures
+- **Implementation**: 3-phase deployment over 12 months with $2.9-3.6M investment
+- **Expected ROI**: 4-5:1 long-term return through operational efficiency and competitive advantage
 
-### **Key Executive Decisions**
-- ✅ **Reporting Structure**: Direct to CISO with dotted-line to business units for optimal independence
-- ✅ **Authority Framework**: Balanced decision rights with clear escalation procedures
-- ✅ **Resource Allocation**: Dedicated personnel, technology platforms, and professional development budget
-- ✅ **Success Framework**: Business-aligned metrics with quarterly performance reviews
-
-*Jump to [Quick Navigation](#quick-navigation) or [Implementation Timeline](#implementation-timeline)*
+*See [Quick Navigation](#quick-navigation) for detailed framework components*
 
 ---
 

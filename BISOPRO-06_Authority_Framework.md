@@ -1,49 +1,5 @@
 # BISO Authority Framework: "Mini CISO" Model
 
-## 🎯 **Authority at a Glance & Quick Start**
-
-**Mission**: Establish BISOs as "mini CISOs" with delegated authority to make security decisions within business unit scope, enabling effective security leadership while maintaining appropriate oversight and escalation procedures.
-
-### **Authority Framework at a Glance**
-- **Authority Model**: 3-tier decision framework (Autonomous, Consultative, Approval) with risk-based delegation
-- **Decision Scope**: Business unit security decisions from low-risk operations to medium-risk exceptions
-- **Escalation Triggers**: High-risk decisions, cross-business impact, major architecture changes
-- **Accountability**: Full responsibility for business unit security outcomes with quarterly performance reviews
-- **Support Structure**: CISO backing, business sponsorship, formal delegation documentation
-
-### **Authority Decision Flow** 
-```
-    Decision Required
-          │
-          ▼
-    ┌─────────────┐
-    │Risk & Impact│
-    │ Assessment  │
-    └─────────────┘
-          │
-    ┌─────┴─────┬─────────┬─────────┐
-    │           │         │         │
-    ▼           ▼         ▼         ▼
-┌───────┐ ┌───────────┐ ┌─────────┐ ┌─────────┐
-│✅ L1  │ │⚠️  L2     │ │🔺 L3    │ │🚨 EXEC  │
-│AUTO   │ │CONSULT    │ │APPROVE  │ │ESCALATE │
-└───────┘ └───────────┘ └─────────┘ └─────────┘
-```
-
-### **Key Authority Decisions**
-- ✅ **Autonomous Authority**: Risk assessments, standard controls, policy interpretation, operational security (Level 1)
-- ⚠️ **Consultative Authority**: Medium-risk exceptions, architecture changes, resource recommendations (Level 2) 
-- 🔺 **Approval Required**: High-risk decisions, strategic changes, major investments (Level 3)
-- 🚨 **Executive Escalation**: Critical risks, enterprise-wide impact, regulatory issues (Executive Level)
-
-### **Implementation Success Targets**
-- **Decision Efficiency**: 90% of decisions resolved at Level 1-2 without escalation
-- **Authority Utilization**: 80%+ authority usage within defined scope boundaries  
-- **Stakeholder Satisfaction**: >4.0/5.0 business unit satisfaction with BISO decision-making
-- **Risk Management**: Effective risk outcomes with appropriate escalation discipline
-
-*Jump to [Quick Navigation](#quick-navigation) or [Authority Levels](#authority-levels)*
-
 ---
 
 ## Quick Navigation
@@ -178,21 +134,23 @@ The BISO operates as a business unit-focused version of the CISO, with:
 
 ### **Authority Decision Framework**
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                           BISO AUTHORITY DECISION FRAMEWORK                        │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-
-        Low Risk           Medium Risk         High Risk           Critical Risk
-    ┌─────────────┐      ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-    │ AUTONOMOUS  │      │CONSULTATIVE │     │  APPROVAL   │     │ ESCALATION  │
-    │   Level 1   │      │   Level 2   │     │   Level 3   │     │ Executive   │
-    └─────────────┘      └─────────────┘     └─────────────┘     └─────────────┘
-           │                     │                   │                   │
-           ▼                     ▼                   ▼                   ▼
-    ┌─────────────┐      ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-    │BISO Decides │      │BISO Consults│     │CISO/Business│     │Executive    │
-    │Independently│      │Then Decides │     │Must Approve │     │Leadership   │
-    └─────────────┘      └─────────────┘     └─────────────┘     └─────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                        BISO AUTHORITY DECISION FRAMEWORK                            ║
+║                           Status Tracking: 🟢 Operational                           ║
+╠═══════════════════════════════════════════════════════════════════════════════════════╣
+║   🟢 Low Risk         ⚠️  Medium Risk        🔺 High Risk         🚨 Critical Risk    ║
+║  ┌─────────────┐     ┌─────────────┐      ┌─────────────┐      ┌─────────────┐      ║
+║  │ AUTONOMOUS  │     │CONSULTATIVE │      │  APPROVAL   │      │ ESCALATION  │      ║
+║  │   Level 1   │     │   Level 2   │      │   Level 3   │      │ Executive   │      ║
+║  │ 🟢 90% Auto │     │ ⚠️  Consult  │      │ 🔺 Approve  │      │ 🚨 Escalate │      ║
+║  └─────────────┘     └─────────────┘      └─────────────┘      └─────────────┘      ║
+║        │                    │                     │                     │           ║
+║        ▼                    ▼                     ▼                     ▼           ║
+║  ┌─────────────┐     ┌─────────────┐      ┌─────────────┐      ┌─────────────┐      ║
+║  │BISO Decides │     │BISO Consults│      │CISO/Business│      │Executive    │      ║
+║  │Independently│     │Then Decides │      │Must Approve │      │Leadership   │      ║
+║  └─────────────┘     └─────────────┘      └─────────────┘      └─────────────┘      ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### **By Risk Level**
@@ -256,38 +214,39 @@ The BISO operates as a business unit-focused version of the CISO, with:
 
 #### **Formal Authority Delegation Framework**
 ```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                         BISO AUTHORITY DELEGATION LETTER                           │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                     │
-│ TO:      [BISO Name], Business Information Security Officer                        │
-│ FROM:    [CISO Name], Chief Information Security Officer                          │
-│ DATE:    [Effective Date]                                                          │
-│ SUBJECT: Formal Authority Delegation - Business Unit Security Leadership          │
-│                                                                                     │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                     │
-│ AUTHORITY GRANTED:                                                                  │
-│ ✓ Level 1 (Autonomous): Risk assessments, standard controls, policy interpretation │
-│ ✓ Level 2 (Consultative): Medium-risk exceptions, architecture guidance           │
-│ ▲ Level 3 (Approval): High-risk decisions require CISO/Business approval          │
-│                                                                                     │
-│ BUSINESS UNIT SCOPE: [Specific Business Units/Functions]                           │
-│ EFFECTIVE PERIOD: [Start Date] through [Review Date]                               │
-│ ESCALATION REQUIREMENTS: [Specific escalation triggers and procedures]             │
-│ REPORTING OBLIGATIONS: [Monthly/quarterly reporting requirements]                   │
-│                                                                                     │
-│ RENEWAL PROCESS: Annual review with performance assessment and scope adjustment     │
-│                                                                                     │
-│ _________________________    _________________________                             │
-│ CISO Signature & Date        BISO Signature & Date                                │
-│                                                                                     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                        BISO AUTHORITY DELEGATION LETTER                             ║
+║                              Status: 🟢 Active                                      ║
+╠═══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                       ║
+║ TO:      [BISO Name], Business Information Security Officer                          ║
+║ FROM:    [CISO Name], Chief Information Security Officer                            ║
+║ DATE:    [Effective Date]                                                            ║
+║ SUBJECT: Formal Authority Delegation - Business Unit Security Leadership            ║
+║                                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                       ║
+║ 🟢 AUTHORITY GRANTED:                                                                 ║
+║ ✅ Level 1 (Autonomous): Risk assessments, standard controls, policy interpretation  ║
+║ ⚠️  Level 2 (Consultative): Medium-risk exceptions, architecture guidance           ║
+║ 🔺 Level 3 (Approval): High-risk decisions require CISO/Business approval           ║
+║                                                                                       ║
+║ 📋 BUSINESS UNIT SCOPE: [Specific Business Units/Functions]                          ║
+║ 📅 EFFECTIVE PERIOD: [Start Date] through [Review Date]                              ║
+║ 🚨 ESCALATION REQUIREMENTS: [Specific escalation triggers and procedures]            ║
+║ 📊 REPORTING OBLIGATIONS: [Monthly/quarterly reporting requirements]                  ║
+║                                                                                       ║
+║ 🔄 RENEWAL PROCESS: Annual review with performance assessment and scope adjustment    ║
+║                                                                                       ║
+║ _________________________    _________________________                               ║
+║ CISO Signature & Date        BISO Signature & Date                                  ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 #### **Authority Matrix Documentation**
 
-**BISO DECISION AUTHORITY MATRIX**
+### **BISO Decision Authority Matrix**
 
 | Decision Type | Authority Level | Documentation Required | Escalation Trigger | Review Frequency |
 |---------------|----------------|------------------------|--------------------|-----------------|

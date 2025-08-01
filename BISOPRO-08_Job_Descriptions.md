@@ -1,51 +1,16 @@
 # BISO Job Descriptions and Recruitment Materials
 
-## 🎯 **BISO Roles at a Glance & Quick Start**
+## Overview
 
-**Mission**: Define clear, progressive BISO career paths from Senior to Director level, establishing competitive compensation, comprehensive qualifications, and role differentiation that attracts world-class talent to bridge cybersecurity and business operations.
+**Mission**: Define clear, progressive BISO career paths from Senior to Director level, establishing competitive compensation and role differentiation that attracts world-class talent to bridge cybersecurity and business operations.
 
-### **BISO Program Roles Overview**
-- **Senior BISO**: $150-200K | 8+ years | Business unit security leadership for 1-2 units
-- **Principal BISO**: $180-230K | 12+ years | Strategic security leadership across multiple units
+### **BISO Program Roles**
+- **Senior BISO**: $150-200K | 8+ years | Business unit security leadership
+- **Principal BISO**: $180-230K | 12+ years | Strategic security leadership across multiple units  
 - **BISO Program Director**: $220-280K | 15+ years | Overall program leadership and strategy
-- **Team Structure**: 10 total positions (1 Director, 4 Functional BISOs, 3 Product Specialists, 2 Support)
-- **Career Progression**: Clear advancement path with defined competency milestones
+- **Team Structure**: 10 total positions with clear career progression paths
 
-### **Key Differentiators**
-- 💼 **Business Integration**: Primary security liaison embedded within business operations
-- 🛡️ **"Mini CISO" Authority**: Delegated decision-making with defined autonomy levels
-- 📈 **Career Growth**: Clear progression from tactical to strategic leadership roles
-- 💰 **Competitive Compensation**: Market-leading packages with performance incentives
-- 🎓 **Professional Development**: $10-15K annual training budget per role
-
-### **Executive Recruitment Decision Framework**
-```
-           Talent Acquisition Strategy
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-     URGENCY       QUALITY      DIVERSITY
-        │             │             │
-        ▼             ▼             ▼
-   ┌────────┐    ┌────────┐    ┌────────┐
-   │45-60   │    │ >90%   │    │  40%   │
-   │Days to │    │1-Year  │    │Women   │
-   │Fill    │    │Success │    │Target  │
-   └────────┘    └────────┘    └────────┘
-        │             │             │
-        └─────────────┼─────────────┘
-                      ▼
-              Executive Decision
-              Approve • Modify • Defer
-```
-
-### **Recruitment Success Targets**
-- **Time to Fill**: <45 days for Senior, <60 days for Principal/Director positions
-- **Quality of Hire**: >90% meeting/exceeding performance expectations at 1 year
-- **Diversity Goals**: 40% women representation, multi-generational team composition
-- **Retention Rate**: >85% annual retention with career development opportunities
-
-*Jump to [Quick Navigation](#quick-navigation) or [Role Descriptions](#senior-business-information-security-officer)*
+*See [Quick Navigation](#quick-navigation) for role-specific details*
 
 ---
 

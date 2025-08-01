@@ -1,49 +1,16 @@
 # BISO Optimal Reporting Structure Design
 
-## 🎯 **Reporting Structure at a Glance & Quick Start**
+## Overview
 
-**Mission**: Establish dual-reporting BISO structure that balances security independence with business integration, creating "mini CISO" leaders who maintain objectivity while driving business-aligned security outcomes through optimal organizational placement.
+**Mission**: Establish dual-reporting BISO structure that balances security independence with business integration, creating "mini CISO" leaders who maintain objectivity while driving business-aligned security outcomes.
 
-### **Reporting Structure at a Glance**
-- **Primary Reporting**: Direct line to CISO (security expertise, independence, career development)
-- **Secondary Relationship**: Dotted-line to Business Unit Leadership (business context, stakeholder trust)
-- **Authority Model**: "Mini CISO" with delegated decision-making within defined parameters
-- **Independence Safeguards**: Budget separation, technology ownership exclusion, objective performance measurement
-- **Escalation Framework**: Clear 4-level escalation paths for security, business, and resource conflicts
+### **Key Components**
+- **Primary Reporting**: Direct line to CISO for security expertise and independence
+- **Secondary Relationship**: Dotted-line to Business Unit Leadership for business context
+- **Authority Model**: Delegated decision-making within defined parameters
+- **Independence Framework**: Clear separation from technology ownership
 
-### **Reporting Relationship Decision Framework**
-```
-                      BISO Reporting Structure
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-     PRIMARY LINE       OVERSIGHT        SECONDARY LINE
-          │                 │                 │
-          ▼                 ▼                 ▼
-    ┌──────────┐     ┌──────────────┐   ┌──────────┐
-    │   CISO   │     │  Executive   │   │ Business │
-    │  DIRECT  │     │ Leadership   │   │ Unit SVP │
-    │          │     │              │   │          │
-    │Security  │     │ Governance   │   │ Business │
-    │Strategy  │     │& Authority   │   │ Context  │
-    │Independence│   │ Oversight    │   │& Trust   │
-    └──────────┘     └──────────────┘   └──────────┘
-```
-
-### **Key Organizational Decisions**
-- ✅ **CISO Direct Report**: Primary reporting ensures security expertise and independence
-- 🤝 **Business Partnership**: Dotted-line relationship enables deep business integration and trust
-- 🚫 **Technology Separation**: BISOs advise but don't own technology to maintain objectivity
-- ⚖️ **Dual Accountability**: Balanced security and business performance metrics
-- 🔄 **Matrix Coordination**: Cross-functional collaboration with security and business teams
-
-### **Implementation Success Targets**
-- **Organizational Clarity**: 95%+ stakeholder understanding of reporting relationships and authority
-- **Decision Efficiency**: 90% of decisions resolved without escalation using clear authority framework
-- **Independence Maintenance**: 100% compliance with technology separation and budget independence
-- **Business Integration**: >4.0/5.0 business satisfaction with BISO partnership and collaboration
-
-*Jump to [Quick Navigation](#quick-navigation) or [Primary Reporting Structure](#primary-reporting-structure)*
+*See [Quick Navigation](#quick-navigation) for role-specific guidance*
 
 ---
 
@@ -143,103 +110,116 @@ This document defines the optimal organizational reporting structure for the Bus
 
 ### **BISO Dual Reporting Organizational Chart**
 ```
-                    ┌─────────────────────────────────────────────────────────┐
-                    │                    CEO/Executive                        │
-                    │                  Leadership Team                        │
-                    └─────────────────────┬───────────────────────────────────┘
-                                          │
-                    ┌─────────────────────┼───────────────────────────────────┐
-                    │                     │                                   │
-                    ▼                     ▼                                   ▼
-        ┌─────────────────────┐   ┌─────────────────────┐       ┌─────────────────────┐
-        │       CISO          │   │   Business Unit     │       │    Other CXOs       │
-        │   (Primary Line)    │   │    Leadership       │       │  (CRO, CFO, etc.)   │
-        │                     │   │  (Dotted Line)      │       │                     │
-        └─────────┬───────────┘   └─────────────────────┘       └─────────────────────┘
-                  │                           ▲
-                  │                           │ Collaborative
-                  │                           │ Partnership
-                  ▼                           │
-        ┌─────────────────────┐               │
-        │   BISO Program      │◄──────────────┘
-        │     Director        │
-        └─────────┬───────────┘
-                  │
-                  ▼
-     ┌────────────────────────────────────────────────────────────────────┐
-     │                        BISO Team Structure                         │
-     │  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────────┐ │
-     │  │  Functional     │  │  Functional     │  │    Product          │ │
-     │  │    BISOs        │  │    BISOs        │  │  Specialists        │ │
-     │  │ (4 positions)   │  │ (4 positions)   │  │  (3 positions)      │ │
-     │  └─────────────────┘  └─────────────────┘  └─────────────────────┘ │
-     └────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                               BISO DUAL REPORTING STRUCTURE                                         ║
+║                                   Status: 🟢 Operational                                            ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                      ┌─────────────────────────────────────────────────────────┐                   ║
+║                      │                 🏛️ CEO/Executive                          │                   ║
+║                      │                Leadership Team                           │                   ║
+║                      └─────────────────────┬───────────────────────────────────┘                   ║
+║                                            │                                                         ║
+║                      ┌─────────────────────┼───────────────────────────────────┐                   ║
+║                      │                     │                                   │                   ║
+║                      ▼                     ▼                                   ▼                   ║
+║          ┌─────────────────────┐   ┌─────────────────────┐       ┌─────────────────────┐           ║
+║          │     🛡️ CISO         │   │  🏢 Business Unit    │       │   👥 Other CXOs      │           ║
+║          │   (Primary Line)    │   │    Leadership       │       │  (CRO, CFO, etc.)   │           ║
+║          │     🟢 Active       │   │  (Dotted Line)      │       │    🤝 Partnership    │           ║
+║          └─────────┬───────────┘   └─────────────────────┘       └─────────────────────┘           ║
+║                    │                           ▲                                                   ║
+║                    │                           │ Collaborative                                     ║
+║                    │                           │ Partnership                                       ║
+║                    ▼                           │                                                   ║
+║          ┌─────────────────────┐               │                                                   ║
+║          │   👑 BISO Program    │◄──────────────┘                                                   ║
+║          │     Director        │                                                                   ║
+║          │    🎯 10 FTE Team   │                                                                   ║
+║          └─────────┬───────────┘                                                                   ║
+║                    │                                                                               ║
+║                    ▼                                                                               ║
+║       ┌────────────────────────────────────────────────────────────────────┐                     ║
+║       │                     🔧 BISO Team Structure                          │                     ║
+║       │    ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────────┐  │                     ║
+║       │    │   👨‍💼 Functional  │  │   👨‍💼 Functional  │  │   🔬 Product         │  │                     ║
+║       │    │     BISOs        │  │     BISOs        │  │   Specialists       │  │                     ║
+║       │    │  (4 positions)   │  │  (4 positions)   │  │   (3 positions)     │  │                     ║
+║       │    │   🟢 Active      │  │   🟢 Active      │  │    🟢 Active        │  │                     ║
+║       │    └─────────────────┘  └─────────────────┘  └─────────────────────┘  │                     ║
+║       └────────────────────────────────────────────────────────────────────┘                     ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### **Dual Reporting Relationship Framework**
 ```
-                          BISO REPORTING RELATIONSHIP MODEL
-
-    ┌──────────────────────────────────────────────────────────────────────────────┐
-    │                            PRIMARY REPORTING                                 │
-    │                               (CISO Line)                                    │
-    │                                                                              │
-    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │
-    │  │      CISO       │───▶│ • Security Strategy Alignment                 │    │
-    │  │   Management    │    │ • Professional Development                    │    │
-    │  │                 │    │ • Performance Evaluation                      │    │
-    │  └─────────────────┘    │ • Resource Allocation                         │    │
-    │                         │ • Technical Authority                         │    │
-    │                         └───────────────────────────────────────────────┘    │
-    └──────────────────────────────────────────────────────────────────────────────┘
-
-    ┌──────────────────────────────────────────────────────────────────────────────┐
-    │                          SECONDARY RELATIONSHIP                              │
-    │                          (Business Unit Dotted)                              │
-    │                                                                              │
-    │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │
-    │  │  Business Unit  │───▶│ • Business Context & Priorities               │    │
-    │  │   Leadership    │    │ • Stakeholder Relationship Building           │    │
-    │  │                 │    │ • Strategic Planning Participation            │    │
-    │  └─────────────────┘    │ • Business-Aligned Solutions                  │    │
-    │                         │ • Operational Collaboration                   │    │
-    │                         └───────────────────────────────────────────────┘    │
-    └──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                             BISO REPORTING RELATIONSHIP MODEL                                       ║
+║                                    Status: 🟢 Operational                                           ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                      ║
+║   🛡️ PRIMARY REPORTING (CISO Line)                                                                    ║
+║   ┌──────────────────────────────────────────────────────────────────────────────┐                  ║
+║   │                                                                              │                  ║
+║   │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │                  ║
+║   │  │   🛡️ CISO       │───▶│ • Security Strategy Alignment                 │    │                  ║
+║   │  │   Management    │    │ • Professional Development                    │    │                  ║
+║   │  │   🟢 Active     │    │ • Performance Evaluation                      │    │                  ║
+║   │  │                 │    │ • Resource Allocation                         │    │                  ║
+║   │  └─────────────────┘    │ • Technical Authority                         │    │                  ║
+║   │                         └───────────────────────────────────────────────┘    │                  ║
+║   └──────────────────────────────────────────────────────────────────────────────┘                  ║
+║                                                                                                      ║
+║   🏢 SECONDARY RELATIONSHIP (Business Unit Dotted)                                                    ║
+║   ┌──────────────────────────────────────────────────────────────────────────────┐                  ║
+║   │                                                                              │                  ║
+║   │  ┌─────────────────┐    ┌───────────────────────────────────────────────┐    │                  ║
+║   │  │  🏢 Business     │───▶│ • Business Context & Priorities               │    │                  ║
+║   │  │   Unit          │    │ • Stakeholder Relationship Building           │    │                  ║
+║   │  │   Leadership    │    │ • Strategic Planning Participation            │    │                  ║
+║   │  │   🤝 Partner    │    │ • Business-Aligned Solutions                  │    │                  ║
+║   │  └─────────────────┘    │ • Operational Collaboration                   │    │                  ║
+║   │                         └───────────────────────────────────────────────┘    │                  ║
+║   └──────────────────────────────────────────────────────────────────────────────┘                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ### **Authority and Decision Rights Visualization**
 ```
-                            BISO DECISION AUTHORITY FRAMEWORK
-                                   (Mini CISO Model)
-
-        ┌─────────────────────────────────────────────────────────────────────────┐
-        │                           AUTONOMOUS DECISIONS                          │
-        │                              (No Approval)                              │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
-        │  │ Risk Assessment │ │Security Controls│ │ Policy Interpretation   │    │
-        │  │   & Ratings     │ │ Implementation  │ │  & Low Risk Exceptions  │    │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
-        └─────────────────────────────────────────────────────────────────────────┘
-                                           │
-                                           ▼
-        ┌─────────────────────────────────────────────────────────────────────────┐
-        │                         CONSULTATION DECISIONS                          │
-        │                           (Input Required)                              │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
-        │  │Medium Risk      │ │  Architecture   │ │  Resource Allocation    │    │
-        │  │  Exceptions     │ │    Changes      │ │    Recommendations      │    │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
-        └─────────────────────────────────────────────────────────────────────────┘
-                                           │
-                                           ▼
-        ┌─────────────────────────────────────────────────────────────────────────┐
-        │                          APPROVAL DECISIONS                             │
-        │                       (Formal Authorization)                            │
-        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │
-        │  │  High Risk      │ │   Strategic     │ │    Major Resource       │    │
-        │  │  Exceptions     │ │   Direction     │ │      Requests           │    │
-        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │
-        └─────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                           BISO DECISION AUTHORITY FRAMEWORK                                         ║
+║                                  (Mini CISO Model)                                                  ║
+║                                   Status: 🟢 Active                                                 ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                                      ║
+║        🟢 AUTONOMOUS DECISIONS (No Approval)                                                          ║
+║        ┌─────────────────────────────────────────────────────────────────────────┐                  ║
+║        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │                  ║
+║        │  │ Risk Assessment │ │Security Controls│ │ Policy Interpretation   │    │                  ║
+║        │  │   & Ratings     │ │ Implementation  │ │  & Low Risk Exceptions  │    │                  ║
+║        │  │   🎯 90% Auto   │ │   🔧 Standard   │ │    📋 Guidelines       │    │                  ║
+║        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │                  ║
+║        └─────────────────────────────────────────────────────────────────────────┘                  ║
+║                                           │                                                          ║
+║                                           ▼                                                          ║
+║        ⚠️ CONSULTATION DECISIONS (Input Required)                                                      ║
+║        ┌─────────────────────────────────────────────────────────────────────────┐                  ║
+║        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │                  ║
+║        │  │Medium Risk      │ │  Architecture   │ │  Resource Allocation    │    │                  ║
+║        │  │  Exceptions     │ │    Changes      │ │    Recommendations      │    │                  ║
+║        │  │  🤝 Consult     │ │   🏗️ Design     │ │    💰 Budget           │    │                  ║
+║        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │                  ║
+║        └─────────────────────────────────────────────────────────────────────────┘                  ║
+║                                           │                                                          ║
+║                                           ▼                                                          ║
+║        🔺 APPROVAL DECISIONS (Formal Authorization)                                                    ║
+║        ┌─────────────────────────────────────────────────────────────────────────┐                  ║
+║        │  ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────────────┐    │                  ║
+║        │  │  High Risk      │ │   Strategic     │ │    Major Resource       │    │                  ║
+║        │  │  Exceptions     │ │   Direction     │ │      Requests           │    │                  ║
+║        │  │  🚨 Escalate    │ │   🎯 Strategic  │ │     💸 Major >$50K     │    │                  ║
+║        │  └─────────────────┘ └─────────────────┘ └─────────────────────────┘    │                  ║
+║        └─────────────────────────────────────────────────────────────────────────┘                  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ## Authority Framework
