@@ -4,8 +4,6 @@
 
 **Total Cost of Current Problems**: **$3.2-4.8M annually** across six critical security-business alignment gaps
 
-**BISO Solution ROI**: **4-5:1 return** through proactive security-business integration, eliminating reactive costs and enabling business acceleration
-
 The organization faces critical gaps between cybersecurity capabilities and business operations that require dedicated business-aligned security leadership. Without BISO intervention, these problems cost $3.2-4.8M annually in inefficiencies, rework, compliance penalties, and missed opportunities. The Business Information Security Officer (BISO) role addresses these specific challenges to enable secure business growth, as detailed in our [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md) and formalized in our [Charter](./BISOPRO-01_Charter.md).
 
 ### **Financial Impact Summary**
