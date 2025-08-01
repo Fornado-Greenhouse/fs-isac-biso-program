@@ -178,30 +178,26 @@ The BISO operates as a business unit-focused version of the CISO, with:
 
 ### **By Risk Level**
 
-┌──────────────┬─────────────────┬───────────────────────┬─────────────────┐
-│ Risk Level   │ Authority Type  │ Approver Required     │ Documentation   │
-├──────────────┼─────────────────┼───────────────────────┼─────────────────┤
-│ Low          │ Autonomous      │ None                  │ Standard        │
-│ Medium       │ Consultative    │ Consultation Only     │ Enhanced        │
-│ High         │ Approval        │ CISO + Business       │ Formal          │
-│ Critical     │ Escalation      │ Executive Leadership  │ Comprehensive   │
-└──────────────┴─────────────────┴───────────────────────┴─────────────────┘
+| Risk Level | Authority Type | Approver Required | Documentation |
+|------------|----------------|-------------------|---------------|
+| Low | Autonomous | None | Standard |
+| Medium | Consultative | Consultation Only | Enhanced |
+| High | Approval | CISO + Business | Formal |
+| Critical | Escalation | Executive Leadership | Comprehensive |
 
 ### **By Decision Type**
 
-┌─────────────────────┬────────────────┬──────────────────┬─────────────────────┐
-│ Decision Category   │ BISO Authority │ CISO Involvement │ Business Involvement│
-├─────────────────────┼────────────────┼──────────────────┼─────────────────────┤
-│ Risk Assessment     │ Autonomous     │ Informed         │ Consulted           │
-│ Standard Controls   │ Autonomous     │ Informed         │ Consulted           │
-│ Policy Interpretation│ Autonomous     │ Informed         │ Consulted           │
-│ Low-Risk Exceptions │ Autonomous     │ Informed         │ Consulted           │
-│ Medium-Risk Exceptions│ Consultative │ Consulted        │ Consulted           │
-│ High-Risk Exceptions│ Approval       │ Approves         │ Consulted           │
-│ Architecture Changes│ Approval       │ Approves         │ Consulted           │
-│ Resource Requests   │ Approval       │ Consulted        │ Approves            │
-│ Strategic Changes   │ Approval       │ Approves         │ Approves            │
-└─────────────────────┴────────────────┴──────────────────┴─────────────────────┘
+| Decision Category | BISO Authority | CISO Involvement | Business Involvement |
+|-------------------|----------------|------------------|----------------------|
+| Risk Assessment | Autonomous | Informed | Consulted |
+| Standard Controls | Autonomous | Informed | Consulted |
+| Policy Interpretation | Autonomous | Informed | Consulted |
+| Low-Risk Exceptions | Autonomous | Informed | Consulted |
+| Medium-Risk Exceptions | Consultative | Consulted | Consulted |
+| High-Risk Exceptions | Approval | Approves | Consulted |
+| Architecture Changes | Approval | Approves | Consulted |
+| Resource Requests | Approval | Consulted | Approves |
+| Strategic Changes | Approval | Approves | Approves |
 
 ### **Decision Flow Visualization**
 ```
@@ -271,23 +267,19 @@ The BISO operates as a business unit-focused version of the CISO, with:
 ```
 
 #### **Authority Matrix Documentation**
-```
-                            BISO DECISION AUTHORITY MATRIX
 
-┌─────────────────────────┬──────────────┬─────────────────┬──────────────┬─────────────┐
-│    Decision Type        │ Authority    │ Documentation   │ Escalation   │ Review      │
-│                         │ Level        │ Required        │ Trigger      │ Frequency   │
-├─────────────────────────┼──────────────┼─────────────────┼──────────────┼─────────────┤
-│ Business Risk Assessment│ Autonomous   │ Standard Report │ High Risk    │ Monthly     │
-│ Security Control Config │ Autonomous   │ Change Log      │ System Impact│ Quarterly   │
-│ Policy Interpretation   │ Autonomous   │ Decision Record │ Major Change │ As Needed   │
-│ Low-Risk Exceptions     │ Autonomous   │ Exception Form  │ Pattern      │ Monthly     │
-│ Medium-Risk Exceptions  │ Consultative │ Enhanced Form   │ High Impact  │ Weekly      │
-│ Architecture Changes    │ Approval     │ Formal Review   │ Cross-BU     │ Per Change  │
-│ Resource Allocation     │ Approval     │ Budget Request  │ >$50K        │ Quarterly   │
-│ Strategic Direction     │ Approval     │ Business Case   │ Major Shift  │ Annual      │
-└─────────────────────────┴──────────────┴─────────────────┴──────────────┴─────────────┘
-```
+**BISO DECISION AUTHORITY MATRIX**
+
+| Decision Type | Authority Level | Documentation Required | Escalation Trigger | Review Frequency |
+|---------------|----------------|------------------------|--------------------|-----------------|
+| Business Risk Assessment | Autonomous | Standard Report | High Risk | Monthly |
+| Security Control Config | Autonomous | Change Log | System Impact | Quarterly |
+| Policy Interpretation | Autonomous | Decision Record | Major Change | As Needed |
+| Low-Risk Exceptions | Autonomous | Exception Form | Pattern | Monthly |
+| Medium-Risk Exceptions | Consultative | Enhanced Form | High Impact | Weekly |
+| Architecture Changes | Approval | Formal Review | Cross-BU | Per Change |
+| Resource Allocation | Approval | Budget Request | >$50K | Quarterly |
+| Strategic Direction | Approval | Business Case | Major Shift | Annual |
 
 ### **Implementation Templates**
 

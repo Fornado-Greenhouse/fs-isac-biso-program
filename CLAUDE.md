@@ -76,7 +76,9 @@ For complex frameworks, include:
 ## Git Workflow
 - Always commit and push changes after major document updates
 - Use descriptive commit messages with Linear issue references
+- **Line Number Preference**: Include specific line numbers in commit messages when referencing complex document changes for precise tracking
 - Example: "Completes FOR-74: Add financial quantification and navigation to BISOPRO-02 Problem Statement"
+- Example with line numbers: "Completes FOR-76: Transform BISOPRO-06 Authority Framework with executive summary (lines 3-26), navigation (lines 30-55), and visual elements (lines 160-236)"
 
 ## Key Working Patterns
 

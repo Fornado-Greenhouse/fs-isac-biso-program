@@ -219,22 +219,19 @@ The BISO serves as the primary interface between cybersecurity and business oper
 - **HR Leadership**: Personnel and professional development
 
 ### **Authority Matrix - Decision Rights**
-```
-┌─────────────────────────┬──────────┬──────────┬──────────┬──────────┐
-│    Decision Type        │   BISO   │   CISO   │ Business │    CRO   │
-│                         │          │          │   Unit   │          │
-├─────────────────────────┼──────────┼──────────┼──────────┼──────────┤
-│ Risk Assessment (Low)   │ Approve  │ Inform   │ Consult  │ Inform   │
-│ Risk Assessment (Med)   │Recommend │ Approve  │ Consult  │ Consult  │
-│ Risk Assessment (High)  │Recommend │ Consult  │ Consult  │ Approve  │
-│ Security Exceptions     │ Approve* │ Escalate │ Request  │ Consult  │
-│ Business Integration    │ Lead     │ Support  │ Partner  │ Inform   │
-│ Vendor Risk Assessment  │ Conduct  │ Approve  │ Request  │ Consult  │
-│ Compliance Support      │ Support  │ Oversee  │ Own      │ Approve  │
-│ Resource Allocation     │ Request  │ Approve  │ Consult  │ Inform   │
-└─────────────────────────┴──────────┴──────────┴──────────┴──────────┘
+
+| Decision Type | BISO | CISO | Business Unit | CRO |
+|---------------|------|------|---------------|-----|
+| Risk Assessment (Low) | Approve | Inform | Consult | Inform |
+| Risk Assessment (Med) | Recommend | Approve | Consult | Consult |
+| Risk Assessment (High) | Recommend | Consult | Consult | Approve |
+| Security Exceptions | Approve* | Escalate | Request | Consult |
+| Business Integration | Lead | Support | Partner | Inform |
+| Vendor Risk Assessment | Conduct | Approve | Request | Consult |
+| Compliance Support | Support | Oversee | Own | Approve |
+| Resource Allocation | Request | Approve | Consult | Inform |
+
 *Within defined parameters only
-```
 
 ### **Organizational Placement Strategy**
 
@@ -430,18 +427,15 @@ The BISO serves as the primary interface between cybersecurity and business oper
 4. **Implementation Kickoff**: Program team initiation meeting
 
 ### **Approval Tracking Matrix**
-```
-┌──────────────────────────┬─────────────┬─────────────┬─────────────┐
-│      Stakeholder         │   Status    │    Date     │  Comments   │
-├──────────────────────────┼─────────────┼─────────────┼─────────────┤
-│ Chief Info Security Off. │   Pending   │     TBD     │    N/A      │
-│ Chief Risk Officer       │   Pending   │     TBD     │    N/A      │
-│ Business Unit Leaders    │   Pending   │     TBD     │    N/A      │
-│ Chief Financial Officer  │   Pending   │     TBD     │    N/A      │
-│ Chief Executive Officer  │   Pending   │     TBD     │    N/A      │
-│ Legal Counsel            │   Pending   │     TBD     │    N/A      │
-└──────────────────────────┴─────────────┴─────────────┴─────────────┘
-```
+
+| Stakeholder | Status | Date | Comments |
+|-------------|--------|------|----------|
+| Chief Info Security Off. | Pending | TBD | N/A |
+| Chief Risk Officer | Pending | TBD | N/A |
+| Business Unit Leaders | Pending | TBD | N/A |
+| Chief Financial Officer | Pending | TBD | N/A |
+| Chief Executive Officer | Pending | TBD | N/A |
+| Legal Counsel | Pending | TBD | N/A |
 
 ### **Signature Authority**
 
