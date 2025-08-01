@@ -50,10 +50,11 @@ This document defines the core operational processes that enable effective BISO 
 ## Quick Navigation
 
 **For Executives:**
-- [Key Processes at a Glance](#-key-processes-at-a-glance--quick-start) - 30-second process overview
-- [Business Value Metrics](#business-value-metrics) - ROI and value delivery tracking
-- [Implementation Roadmap](#implementation-roadmap) - Phased deployment timeline
-- [Risk Management](#risk-management-and-mitigation) - Process risks and success assurance
+- [Key Processes at a Glance](#-key-processes-at-a-glance--quick-start) - 30-second process overview with $4.8M+ value delivery summary
+- [Executive Process Flow](#executive-process-decision-framework) - Visual decision tree for process oversight and approval
+- [Business Value Metrics](#business-value-metrics) - ROI and value delivery tracking with performance tier monitoring
+- [Implementation Roadmap](#implementation-roadmap) - Phased deployment timeline with executive milestones
+- [Risk Management](#risk-management-and-mitigation) - Process risks and success assurance with executive escalation
 
 **For BISOs:**
 - [Core Process 1: Business Partnership](#core-process-1-business-partnership-and-engagement) - Stakeholder relationship management
@@ -75,6 +76,37 @@ This document defines the core operational processes that enable effective BISO 
 - [RACI Matrices](#process-raci-matrices) - Clear roles and responsibilities
 - [Integration Points](#process-integration-and-coordination) - Cross-process dependencies
 - [Optimization Framework](#process-optimization-framework) - Continuous improvement approach
+
+---
+
+## Executive Process Decision Framework
+
+### **Process Oversight & Approval Matrix**
+```
+                    PROCESS PERFORMANCE MONITORING
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+        ┌──────────┐    ┌──────────┐    ┌──────────┐
+        │🟢 GREEN  │    │🟡 YELLOW │    │🔴 RED    │
+        │Performing│    │ Attention│    │ Action   │
+        │As Target │    │ Needed   │    │ Required │
+        └──────────┘    └──────────┘    └──────────┘
+              │               │               │
+              ▼               ▼               ▼
+        ┌──────────┐    ┌──────────┐    ┌──────────┐
+        │Continue  │    │ Review & │    │Executive │
+        │Current   │    │ Optimize │    │Intervention│
+        │Operations│    │          │    │          │
+        └──────────┘    └──────────┘    └──────────┘
+```
+
+**Executive Decision Points:**
+- **🟢 Green Performance**: Continue current operations, quarterly review
+- **🟡 Yellow Performance**: Monthly executive attention, process optimization required
+- **🔴 Red Performance**: Immediate executive intervention, process redesign consideration
+- **Strategic Changes**: Executive approval required for major process modifications
 
 ---
 

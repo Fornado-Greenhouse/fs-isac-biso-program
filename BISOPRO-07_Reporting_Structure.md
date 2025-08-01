@@ -11,6 +11,25 @@
 - **Independence Safeguards**: Budget separation, technology ownership exclusion, objective performance measurement
 - **Escalation Framework**: Clear 4-level escalation paths for security, business, and resource conflicts
 
+### **Reporting Relationship Decision Framework**
+```
+                      BISO Reporting Structure
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+     PRIMARY LINE       OVERSIGHT        SECONDARY LINE
+          │                 │                 │
+          ▼                 ▼                 ▼
+    ┌──────────┐     ┌──────────────┐   ┌──────────┐
+    │   CISO   │     │  Executive   │   │ Business │
+    │  DIRECT  │     │ Leadership   │   │ Unit SVP │
+    │          │     │              │   │          │
+    │Security  │     │ Governance   │   │ Business │
+    │Strategy  │     │& Authority   │   │ Context  │
+    │Independence│   │ Oversight    │   │& Trust   │
+    └──────────┘     └──────────────┘   └──────────┘
+```
+
 ### **Key Organizational Decisions**
 - ✅ **CISO Direct Report**: Primary reporting ensures security expertise and independence
 - 🤝 **Business Partnership**: Dotted-line relationship enables deep business integration and trust
