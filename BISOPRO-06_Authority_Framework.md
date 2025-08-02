@@ -425,57 +425,41 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 **Decision Quality Improvement**
 - **Business Context**: 90% better business alignment with local authority
 - **Error Reduction**: 65% fewer decision reversals or modifications
-- **Quality Value**: $200K-300K annual rework avoidance
-- **Industry Benchmark**: McKinsey reports 40-60% decision quality improvement with delegated authority
+- **Quality Value**: Contributes to $1.2M-1.8M reduced security rework per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#reduced-security-rework)
 
 **Operational Efficiency Gains**
 - **CISO Time Liberation**: 30% CISO time freed for strategic initiatives
 - **BISO Empowerment**: 85% faster routine security decisions
-- **Process Efficiency**: $400K-500K annual operational savings
-- **Total Annual Value**: $1.5M-2.0M from authority delegation
+- **Process Efficiency**: Key enabler of $1.0M-1.2M accelerated project delivery per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#accelerated-project-delivery)
+- **Total Program Value**: Critical component of $4.8M annual program benefits
 
 ### Investment and Implementation Costs
 
-**Setup Investment**:
-- **Authority Framework Design**: $30K one-time consultant/legal review
-- **Documentation Development**: $20K delegation letters and processes
-- **Training and Enablement**: $25K BISO authority training program
-- **Governance Setup**: $15K oversight and review mechanisms
-- **Total Setup Cost**: $90K one-time investment
+**Part of Total BISO Program Investment**:
+- **Authority Framework Design**: Included in $300K-400K program development per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#program-development)
+- **Documentation Development**: Part of process development and documentation costs
+- **Training and Enablement**: Included in $1.8M-2.4M personnel costs for competency development
+- **Governance Setup**: Part of overall BISO program governance structure
 
-**Ongoing Operational Costs**:
-- **Authority Maintenance**: $20K annual review and updates
-- **Additional Insurance**: $15K annual E&O coverage increase
-- **Governance Overhead**: $25K annual oversight activities
-- **Total Annual Cost**: $60K recurring investment
+**Program-Level Investment**:
+- **Total Program Investment**: $2.4M-3.2M annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#investment-requirements)
+- **Authority framework represents critical enabler of program value delivery**
 
 ### Return on Investment Calculation
 
-**Year 1 ROI**:
-- **Total Benefits**: $1.5M-2.0M
-- **Total Costs**: $150K (setup + first year operations)
-- **Net Value**: $1.35M-1.85M
-- **ROI Ratio**: 9:1 to 12:1
+**Program-Level ROI** (Authority Framework as Key Enabler):
+- **Total Program Benefits**: $4.8M annually
+- **Total Program Investment**: $2.4M-3.2M
+- **Program ROI Ratio**: 1.5:1 to 2:1 first year, building to 4-5:1 long-term
+- **Authority Framework Critical Success Factor**: Enables 40% faster decisions per [Success Metrics](./BISOPRO-05_Success_Metrics.md#efficiency-metrics)
 
-**3-Year ROI**:
-- **Total Benefits**: $4.5M-6.0M
-- **Total Costs**: $210K
-- **Net Present Value**: $4.0M-5.5M
-- **Payback Period**: <2 months
+### Success Metrics Alignment
 
-### Industry Benchmarks
-
-**Authority Delegation Maturity**:
-- **Leading Organizations**: 80% decisions at lowest appropriate level
-- **Industry Average**: 45% decisions delegated from central authority
-- **Lagging Organizations**: <20% delegation, high centralization
-- **BISO Target**: 70% delegation rate within 12 months
-
-**Decision Velocity Comparison**:
-- **Best-in-Class**: <24 hour security decision turnaround
-- **Industry Average**: 5-7 day decision cycles
-- **BISO Authority Target**: 2 day average turnaround
-- **Competitive Advantage**: 60% faster than industry average
+**Authority Framework Performance Targets** per [Success Metrics](./BISOPRO-05_Success_Metrics.md):
+- **Decision Speed**: <5 days average security review time (Target from Success Metrics)
+- **Early Engagement**: >80% of projects include BISO from planning phase
+- **Stakeholder Satisfaction**: >4.0/5.0 satisfaction with BISO decision authority
+- **Risk-Informed Decisions**: 100% of major business decisions include risk context when BISO participates
 
 ---
 

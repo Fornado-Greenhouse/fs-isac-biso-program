@@ -395,30 +395,27 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 **Relationship Quality Impact**
 - **Strong Relationships**: 85% faster security approval times
 - **Trust Premium**: 40% reduction in security requirement challenges
-- **Collaboration Value**: $300K-400K annual efficiency gains
-- **Industry Benchmark**: Gartner reports 35-45% efficiency improvement with strong IT-business relationships
+- **Collaboration Value**: Contributes to $1.0M-1.2M accelerated project delivery per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#accelerated-project-delivery)
 
 **Stakeholder Satisfaction ROI**
 - **High Satisfaction (>4/5)**: 3x more likely to proactively engage security
-- **Early Engagement Value**: $1.2M annual rework avoidance
+- **Early Engagement Value**: Contributes to program-wide $1.2M-1.8M rework avoidance per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#reduced-security-rework)
 - **Reputation Capital**: 60% reduction in security bypass attempts
-- **Total Annual ROI**: $2.1M-2.6M from effective stakeholder engagement
+- **Total Contribution**: Key enabler of program-wide $4.8M annual benefits per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#year-1-projected-benefits)
 
 ### Cost-Benefit Analysis
 
-**Investment Requirements**:
+**Investment Requirements** (as part of total BISO program):
 - **BISO Time Allocation**: 40% of BISO time on stakeholder engagement
-- **Annual Cost**: $120K-160K (40% of BISO fully-loaded cost)
-- **Training Investment**: $20K annual stakeholder management training
-- **Technology Tools**: $15K annual CRM and collaboration platforms
-- **Total Annual Investment**: $155K-195K
+- **Proportional Program Cost**: Part of $2.4M-3.2M total program investment per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#investment-requirements)
+- **Training Investment**: Included in $300K-400K program development costs
+- **Technology Tools**: Part of $300K-400K technology and tools investment
 
 **Return on Investment**:
-- **Total Annual Benefits**: $2.1M-2.6M
-- **Total Annual Investment**: $155K-195K
-- **ROI Ratio**: 11:1 to 13:1
-- **Payback Period**: <2 months
-- **3-Year NPV**: $5.8M-7.2M
+- **Program Benefits**: $4.8M annual benefits (stakeholder engagement is key enabler)
+- **Program Investment**: $2.4M-3.2M total
+- **Program ROI Ratio**: 1.5:1 to 2:1 first year, building to 4-5:1 long-term per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-impact)
+- **Payback Period**: 12-18 months for full program
 
 ### Time-to-Value Projections
 
@@ -433,19 +430,14 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 - Key stakeholder identification: 30% reduction in communication overhead
 - Initial trust building: 25% faster security review approvals
 
-### Industry Benchmarks
+### Success Metrics Alignment
 
-**Stakeholder Engagement Excellence**:
-- **Top Quartile**: >4.2/5.0 stakeholder satisfaction, <3 day decision cycles
-- **Industry Average**: 3.5/5.0 satisfaction, 10-15 day decision cycles
-- **Bottom Quartile**: <3.0/5.0 satisfaction, >20 day decision cycles
-- **Target Position**: Top quartile within 12 months
-
-**Efficiency Metrics Comparison**:
-- **Best-in-Class**: 90% first-time security approval rate
-- **Industry Average**: 65% first-time approval rate
-- **BISO Target**: 85% first-time approval rate
-- **Value of Improvement**: $800K annual efficiency gain
+**Stakeholder Engagement Performance Targets** per [Success Metrics](./BISOPRO-05_Success_Metrics.md):
+- **Stakeholder Satisfaction**: >4.0/5.0 satisfaction with BISO services 
+- **Decision Speed**: <5 days average security review time
+- **Early Engagement**: >80% of projects include BISO from planning phase
+- **Trust and Confidence**: Measurable improvement in executive confidence in security decisions
+- **Business Partnership**: Security perceived as business enabler rather than constraint
 
 ---
 
