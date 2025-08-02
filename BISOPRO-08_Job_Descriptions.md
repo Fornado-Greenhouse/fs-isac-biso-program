@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Mission**: Define clear, progressive BISO career paths from Senior to Director level, establishing competitive compensation and role differentiation that attracts world-class talent to bridge cybersecurity and business operations.
+**Mission**: Define clear, progressive BISO career paths from Senior to Director level, establishing competitive compensation and role differentiation that attracts world-class talent to bridge cybersecurity and business operations, enabling the program value delivery outlined in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md).
 
 ### **BISO Program Roles**
 - **Senior BISO**: $150-200K | 8+ years | Business unit security leadership
