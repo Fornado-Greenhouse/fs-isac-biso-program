@@ -69,18 +69,18 @@ This document defines the optimal organizational reporting structure for the Bus
 - Supports career development within security organization
 
 **Key Benefits**:
-- Unified security strategy and standards
-- Consistent risk management approach
-- Clear security decision authority
-- Professional development and mentoring
-- Resource coordination across business units
+- Unified security strategy and standards per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#security-strategy-coordination)
+- Consistent risk management approach per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#consistency-framework)
+- Clear security decision authority per [Authority Framework](./BISOPRO-06_Authority_Framework.md#decision-authority-matrix)
+- Professional development and mentoring per [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#mentorship-programs) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#career-progression)
+- Resource coordination across business units per [Support Structure](./BISOPRO-10_Support_Structure.md#resource-coordination) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#resource-management-responsibilities)
 
 **Management Activities**:
-- Weekly one-on-one meetings with CISO
-- Participation in security leadership team meetings
-- Quarterly performance reviews
-- Annual goal setting and career planning
-- Security strategy alignment sessions
+- Weekly one-on-one meetings with CISO per [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#reporting-relationships) and [Support Structure](./BISOPRO-10_Support_Structure.md#management-framework)
+- Participation in security leadership team meetings per [Support Structure](./BISOPRO-10_Support_Structure.md#leadership-coordination) and [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#leadership-participation)
+- Quarterly performance reviews per [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#performance-evaluation) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#performance-management)
+- Annual goal setting and career planning per [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#career-progression-framework) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#professional-development)
+- Security strategy alignment sessions per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#strategy-coordination) and [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#strategic-planning-integration)
 
 ### Business Unit Dotted-Line Relationship
 **Secondary Relationship**: Dotted-line reporting to Business Unit Leadership
@@ -100,11 +100,11 @@ This document defines the optimal organizational reporting structure for the Bus
 - Business context for risk decisions
 
 **Collaboration Activities**:
-- Monthly meetings with business unit leaders
-- Participation in business planning sessions
-- Quarterly business unit reviews
-- Business strategy alignment discussions
-- Stakeholder relationship management
+- Monthly meetings with business unit leaders per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#business-unit-leadership-engagement) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#stakeholder-management)
+- Participation in business planning sessions per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#business-planning-integration) and [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#planning-integration)
+- Quarterly business unit reviews per [Success Metrics](./BISOPRO-05_Success_Metrics.md#quarterly-business-review-template) and [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#quarterly-reviews)
+- Business strategy alignment discussions per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#business-strategy-alignment) and [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#strategic-engagement)
+- Stakeholder relationship management per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#relationship-management-framework) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#relationship-building-skills)
 
 ## Visual Reporting Structure Framework
 
@@ -440,10 +440,10 @@ The BISO operates with delegated authority from the CISO to act independently wi
 - Success metric evaluation
 
 ### Governance Structure
-**BISO Council**: Regular meetings of all BISOs for consistency and coordination
-**Security Leadership Team**: BISO participation in security strategy and planning
-**Business Advisory Board**: Business leader input on BISO effectiveness
-**Executive Oversight**: Regular executive review of program effectiveness
+**BISO Council**: Regular meetings of all BISOs for consistency and coordination per [Support Structure](./BISOPRO-10_Support_Structure.md#team-coordination) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#peer-collaboration)
+**Security Leadership Team**: BISO participation in security strategy and planning per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#leadership-participation) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#strategic-responsibilities)
+**Business Advisory Board**: Business leader input on BISO effectiveness per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#advisory-governance) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-feedback-integration)
+**Executive Oversight**: Regular executive review of program effectiveness per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#governance-oversight) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#executive-reporting-framework)
 
 ## Implementation Considerations
 
@@ -461,10 +461,10 @@ REPORTING STRUCTURE IMPLEMENTATION CHECKLIST
   ✓ Establish implementation governance committee and timeline
 
 ☐ ORGANIZATIONAL DOCUMENTATION (Month 4, Week 2)
-  ✓ Create formal BISO position descriptions with reporting relationships
-  ✓ Update organizational charts to reflect dual reporting structure
-  ✓ Document authority delegation framework and decision rights matrix
-  ✓ Prepare change management communications and training materials
+  ✓ Create formal BISO position descriptions with reporting relationships per [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#position-specifications) and [Support Structure](./BISOPRO-10_Support_Structure.md#organizational-design)
+  ✓ Update organizational charts to reflect dual reporting structure coordinating with [Support Structure](./BISOPRO-10_Support_Structure.md#organizational-chart-updates)
+  ✓ Document authority delegation framework and decision rights matrix per [Authority Framework](./BISOPRO-06_Authority_Framework.md#delegation-documentation)
+  ✓ Prepare change management communications and training materials per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#change-management-training)
 
 ☐ POLICY AND PROCEDURE UPDATES (Month 4, Week 3)
   ✓ Update security policies to reflect BISO authority and independence
