@@ -434,30 +434,30 @@ The BISO serves as the primary interface between cybersecurity and business oper
 
 #### **Primary Approvers (Required)**
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           CHARTER APPROVAL SIGNATURES                       ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║ Chief Information Security Officer                                           ║
-║ Signature: _________________________________ Date: _______________           ║
-║ Name: [CISO Name]                                                           ║
-║ Title: Chief Information Security Officer                                    ║
-║                                                                              ║
-║ Chief Risk Officer                                                           ║
-║ Signature: _________________________________ Date: _______________           ║
-║ Name: [CRO Name]                                                            ║
-║ Title: Chief Risk Officer                                                    ║
-║                                                                              ║
-║ Chief Executive Officer                                                      ║
-║ Signature: _________________________________ Date: _______________           ║
-║ Name: [CEO Name]                                                            ║
-║ Title: Chief Executive Officer                                               ║
-║                                                                              ║
-║ Program Director                                                             ║
-║ Signature: _________________________________ Date: _______________           ║
-║ Name: Alex Foley                                                             ║
-║ Title: BISO Program Director                                                 ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           CHARTER APPROVAL SIGNATURES                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│ Chief Information Security Officer                                           │
+│ Signature: _________________________________ Date: _______________           │
+│ Name: [CISO Name]                                                           │
+│ Title: Chief Information Security Officer                                    │
+│                                                                              │
+│ Chief Risk Officer                                                           │
+│ Signature: _________________________________ Date: _______________           │
+│ Name: [CRO Name]                                                            │
+│ Title: Chief Risk Officer                                                    │
+│                                                                              │
+│ Chief Executive Officer                                                      │
+│ Signature: _________________________________ Date: _______________           │
+│ Name: [CEO Name]                                                            │
+│ Title: Chief Executive Officer                                               │
+│                                                                              │
+│ Program Director                                                             │
+│ Signature: _________________________________ Date: _______________           │
+│ Name: Alex Foley                                                             │
+│ Title: BISO Program Director                                                 │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 #### **Supporting Approvers (Advisory)**

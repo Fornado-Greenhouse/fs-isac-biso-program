@@ -167,7 +167,7 @@ Implementation guides should provide:
 ## Visual Framework and Table Standards
 - **PRESERVE MARKDOWN TABLES**: Never convert markdown tables to ASCII/Unicode tables - keep them as standard markdown
 - **LIMIT EMOJI USAGE**: Use minimal emojis in visual frameworks - focus on simple red/yellow/green indicators (🟢🟡🔴)
-- **VISUAL CONSISTENCY**: Standardize box-drawing characters using double-line borders (╔═╗║╚═╝) for dashboard-style frames
+- **VISUAL CONSISTENCY**: Use simple, consistent box-drawing characters for dashboard-style frames (prefer single-line borders for easier alignment)
 - **STATUS INDICATORS**: Use traffic light system consistently across all visual frameworks
 - **TABLE FORMAT**: Always maintain pipe-separated markdown tables for data presentation
 
