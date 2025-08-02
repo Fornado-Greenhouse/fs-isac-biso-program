@@ -869,7 +869,7 @@ Opportunistically identifies and documents instances where security capabilities
 - **Activities**:
   - Develop external communication strategy for security competitive advantages per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#external-communication)
   - Support marketing and public relations with security thought leadership content
-  - Participate in industry conferences and security community leadership per [Professional Development](./BISOPRO-24_Professional_Development.md#external-engagement)
+  - Participate in industry conferences and security community leadership per [Professional Development](./BISOPRO-20_Professional_Development_Framework.md#external-engagement)
   - Measure and communicate security ROI and business value to external stakeholders
 - **Output**: Enhanced market reputation and security-based competitive positioning
 - **Success Criteria**: Measurable improvement in market perception and security-based competitive advantages
