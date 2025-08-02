@@ -242,32 +242,32 @@ The Senior Business Information Security Officer (BISO) serves as the primary cy
 - Track record of successful project management and cross-functional collaboration
 
 **Technical Skills**
-- Deep understanding of cybersecurity frameworks (NIST, ISO 27001, etc.) per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#foundational-certifications) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#advanced-security-frameworks)
-- Knowledge of risk assessment methodologies and tools per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#professional-standards) and [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#risk-management-competencies)
-- Familiarity with security technologies and architectural patterns per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#technical-expertise-requirements) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#emerging-technology-competency)
-- Understanding of cloud security, identity management, and data protection per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#digital-transformation-security) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#cloud-security-certifications)
-- Experience with security metrics, reporting, and dashboard development per [Success Metrics](./BISOPRO-05_Success_Metrics.md#reporting-and-dashboard-requirements) and [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#performance-measurement-competencies)
+- Deep understanding of cybersecurity frameworks (NIST, ISO 27001, etc.)
+- Knowledge of risk assessment methodologies and tools
+- Familiarity with security technologies and architectural patterns
+- Understanding of cloud security, identity management, and data protection
+- Experience with security metrics, reporting, and dashboard development
 
 **Business Skills**
-- Strong understanding of business operations and financial concepts per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#business-acumen-competencies) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#business-acumen-development)
-- Experience with cost-benefit analysis and ROI calculations per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#financial-analysis) and [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#financial-analysis-competencies)
-- Knowledge of business strategy development and execution per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#strategic-planning-competencies) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#strategic-planning-skills)
-- Understanding of vendor management and procurement processes per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#vendor-management) and [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#vendor-management-competencies)
-- Familiarity with business continuity and operational resilience per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#business-continuity-integration) and [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#operational-resilience)
+- Strong understanding of business operations and financial concepts
+- Experience with cost-benefit analysis and ROI calculations
+- Knowledge of business strategy development and execution
+- Understanding of vendor management and procurement processes
+- Familiarity with business continuity and operational resilience
 
 **Soft Skills**
-- Excellent verbal and written communication skills per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#communication-excellence-competencies) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#communication-and-influence)
-- Strong presentation and public speaking abilities per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#presentation-skills) and [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#presentation-skill-development)
-- Executive presence and professional demeanor per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#executive-presence) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#executive-presence-development)
-- Analytical thinking and problem-solving capabilities per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#analytical-thinking-competencies) and [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#problem-solving-frameworks)
-- Adaptability and change management skills per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#change-management-capabilities) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#change-management-training)
+- Excellent verbal and written communication skills
+- Strong presentation and public speaking abilities
+- Executive presence and professional demeanor
+- Analytical thinking and problem-solving capabilities
+- Adaptability and change management skills
 
 ### Compensation and Benefits
-- **Base Salary**: $150,000 - $200,000 (commensurate with experience) per [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#compensation-strategy)
-- **Annual Bonus**: Up to 20% of base salary based on performance per [Success Metrics](./BISOPRO-05_Success_Metrics.md#individual-biso-metrics)
-- **Equity Participation**: Long-term incentive program eligibility per [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#total-compensation-package)  
-- **Professional Development**: $10,000 annual training and conference allowance per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#training-and-education-framework) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#learning-resources-and-platforms)
-- **Comprehensive Benefits**: Health, dental, vision, retirement, and PTO packages per [Support Structure](./BISOPRO-10_Support_Structure.md#career-development-and-advancement) and [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#comprehensive-benefits-package)
+- **Base Salary**: $150,000 - $200,000 (commensurate with experience)
+- **Annual Bonus**: Up to 20% of base salary based on performance
+- **Equity Participation**: Long-term incentive program eligibility
+- **Professional Development**: $10,000 annual training and conference allowance
+- **Comprehensive Benefits**: Health, dental, vision, retirement, and PTO packages
 
 ---
 

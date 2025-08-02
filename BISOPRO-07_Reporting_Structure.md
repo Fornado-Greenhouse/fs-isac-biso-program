@@ -440,10 +440,10 @@ The BISO operates with delegated authority from the CISO to act independently wi
 - Success metric evaluation
 
 ### Governance Structure
-**BISO Council**: Regular meetings of all BISOs for consistency and coordination per [Support Structure](./BISOPRO-10_Support_Structure.md#team-coordination) and [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#peer-collaboration)
-**Security Leadership Team**: BISO participation in security strategy and planning per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#leadership-participation) and [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#strategic-responsibilities)
-**Business Advisory Board**: Business leader input on BISO effectiveness per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#advisory-governance) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-feedback-integration)
-**Executive Oversight**: Regular executive review of program effectiveness per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#governance-oversight) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#executive-reporting-framework)
+**BISO Council**: Regular meetings of all BISOs for consistency and coordination
+**Security Leadership Team**: BISO participation in security strategy and planning
+**Business Advisory Board**: Business leader input on BISO effectiveness
+**Executive Oversight**: Regular executive review of program effectiveness
 
 ## Implementation Considerations
 
@@ -461,10 +461,10 @@ REPORTING STRUCTURE IMPLEMENTATION CHECKLIST
   ✓ Establish implementation governance committee and timeline
 
 ☐ ORGANIZATIONAL DOCUMENTATION (Month 4, Week 2)
-  ✓ Create formal BISO position descriptions with reporting relationships per [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#position-specifications) and [Support Structure](./BISOPRO-10_Support_Structure.md#organizational-design)
-  ✓ Update organizational charts to reflect dual reporting structure coordinating with [Support Structure](./BISOPRO-10_Support_Structure.md#organizational-chart-updates)
-  ✓ Document authority delegation framework and decision rights matrix per [Authority Framework](./BISOPRO-06_Authority_Framework.md#delegation-documentation)
-  ✓ Prepare change management communications and training materials per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#change-management-training)
+  ✓ Create formal BISO position descriptions with reporting relationships
+  ✓ Update organizational charts to reflect dual reporting structure
+  ✓ Document authority delegation framework and decision rights matrix
+  ✓ Prepare change management communications and training materials
 
 ☐ POLICY AND PROCEDURE UPDATES (Month 4, Week 3)
   ✓ Update security policies to reflect BISO authority and independence
