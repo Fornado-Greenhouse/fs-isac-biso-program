@@ -56,32 +56,32 @@ The BISO operates as a business unit-focused version of the CISO, with:
 **Description**: Decisions BISO can make independently without approval
 
 **Risk Assessment and Management**:
-- Conduct risk assessments for business unit systems and processes per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md)
-- Assign risk ratings using organizational risk framework per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#risk-evaluation-framework)
-- Recommend risk mitigation strategies per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#risk-mitigation-consultation)
-- Monitor risk remediation progress per [Success Metrics](./BISOPRO-05_Success_Metrics.md#risk-management-metrics)
-- Report risk status to stakeholders per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#risk-status-reporting)
+- Conduct risk assessments for business unit systems and processes
+- Assign risk ratings using organizational risk framework
+- Recommend risk mitigation strategies
+- Monitor risk remediation progress
+- Report risk status to stakeholders
 
 **Security Control Implementation**:
-- Select and implement standard security controls per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#security-control-competencies)
-- Customize security controls for business unit needs per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#control-customization)
-- Approve compensating controls for standard risks per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#compensating-controls)
-- Monitor control effectiveness per [Success Metrics](./BISOPRO-05_Success_Metrics.md#control-effectiveness-metrics)
-- Update control configurations within guidelines per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#control-management)
+- Select and implement standard security controls
+- Customize security controls for business unit needs
+- Approve compensating controls for standard risks
+- Monitor control effectiveness
+- Update control configurations within guidelines
 
 **Policy and Procedure Interpretation**:
-- Interpret organizational security policies for business context per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#business-context-integration)
-- Create business unit-specific security procedures per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#procedure-development)
-- Provide guidance on policy compliance per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#compliance-guidance)
-- Approve minor policy exceptions within defined parameters per [Independence Framework](./BISOPRO-18_Independence_Framework.md#exception-authority)
-- Document policy interpretation decisions per [Success Metrics](./BISOPRO-05_Success_Metrics.md#decision-documentation)
+- Interpret organizational security policies for business context
+- Create business unit-specific security procedures
+- Provide guidance on policy compliance
+- Approve minor policy exceptions within defined parameters
+- Document policy interpretation decisions
 
 **Operational Security Decisions**:
-- Security tool configuration for business unit per [Support Structure](./BISOPRO-10_Support_Structure.md#technology-management)
-- Security monitoring and alerting customization per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#monitoring-customization)
-- User access reviews and approvals (standard access) per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#access-management-competencies)
-- Security training content customization per [Training Development Programs](./BISOPRO-19_Training_Development_Programs.md#business-specific-training)
-- Routine vendor security assessments per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#vendor-assessment)
+- Security tool configuration for business unit
+- Security monitoring and alerting customization
+- User access reviews and approvals (standard access)
+- Security training content customization
+- Routine vendor security assessments
 
 ### Level 2: Consultative Authority
 **Description**: Decisions requiring consultation but not formal approval
@@ -340,11 +340,11 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 
 ### Reporting Accountability
 **Regular Reporting**: Required to provide:
-- Monthly security status reports per [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#monthly-operational-reporting) and [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#monthly-briefing-templates)
-- Quarterly risk assessment updates per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#quarterly-reporting) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#quarterly-business-review-template)
-- Annual security posture assessment per [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#annual-strategic-reporting) and [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#annual-strategic-review)
-- Incident response reports per [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#incident-reporting-procedures) and [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#incident-communication)
-- Authority usage and decision logs per [Success Metrics](./BISOPRO-05_Success_Metrics.md#decision-tracking) and [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#decision-transparency)
+- Monthly security status reports
+- Quarterly risk assessment updates
+- Annual security posture assessment
+- Incident response reports
+- Authority usage and decision logs
 
 **Ad-Hoc Reporting**: Required for:
 - Significant security incidents
@@ -372,11 +372,11 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 
 ### Business Support
 **Executive Sponsorship**: Business leadership provides:
-- Clear authority recognition per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#authority-reinforcement) and [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#executive-leadership-engagement)
-- Resource allocation support per [Support Structure](./BISOPRO-10_Support_Structure.md#resource-allocation) and [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#resource-optimization)
-- Stakeholder relationship facilitation per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#relationship-management-framework) and [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#stakeholder-relationship-coordination)
-- Decision implementation support per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#decision-implementation-support) and [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#implementation-support)
-- Authority conflict resolution per [Escalation Decision Framework](./BISOPRO-25_Escalation_Decision_Framework.md#authority-conflicts) and [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#conflict-resolution-and-issue-management)
+- Clear authority recognition
+- Resource allocation support
+- Stakeholder relationship facilitation
+- Decision implementation support
+- Authority conflict resolution
 
 **Operational Support**: Business units provide:
 - Access to business information and planning
