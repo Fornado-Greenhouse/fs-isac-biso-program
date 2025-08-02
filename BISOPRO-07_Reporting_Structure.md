@@ -15,7 +15,7 @@
 ---
 
 ## Executive Summary
-This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISOPRO-06_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md).
+This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISOPRO-06_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md). This organizational design enables the business value delivery outlined in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) through effective dual accountability and streamlined decision-making.
 
 ---
 
@@ -607,7 +607,7 @@ ESCALATION PROCEDURES:
 ---
 
 ## Conclusion
-This reporting structure optimally balances security independence with business alignment, providing BISOs with the authority and support needed to effectively bridge cybersecurity and business operations while maintaining objectivity and strategic alignment.
+This reporting structure optimally balances security independence with business alignment, providing BISOs with the authority and support needed to effectively bridge cybersecurity and business operations while maintaining objectivity and strategic alignment. The dual-reporting model enables the accelerated decision-making and improved stakeholder relationships that drive the $4.8M annual program benefits detailed in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md).
 
 ---
 *Document Version: 2.0 (Enhanced with executive navigation and visual hierarchy)*  
