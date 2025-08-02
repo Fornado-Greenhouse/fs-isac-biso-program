@@ -622,7 +622,7 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 
 ## Implementation Roadmap
 
-### Phase 1: Foundation Development (Months 1-6)
+### Phase 1: Foundation Development (Months 1-3)
 
 **Month 1-2: Program Design and Infrastructure**
 - Finalize training program design and competency mapping per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md)
@@ -642,7 +642,15 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 - Establish external partnerships with experts and institutions
 - Create continuous professional development framework
 
-### Phase 2: Full Implementation (Months 7-12)
+### Phase 2: Initial Implementation (Months 4-6)
+
+**Month 4-6: Core Program Launch**
+- Launch foundational training programs for all BISOs
+- Begin initial competency assessment and development planning
+- Establish basic training delivery and quality assurance processes
+- Implement initial mentorship and peer support frameworks
+
+### Phase 3: Full Implementation (Months 7-12)
 
 **Month 7-9: Complete Program Rollout**
 - Launch all foundational and specialization programs
@@ -656,7 +664,7 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 - Create knowledge management and best practice sharing systems
 - Achieve target participation and completion rates
 
-### Phase 3: Optimization and Innovation (Months 13-18)
+### Phase 4: Optimization and Innovation (Months 13-15)
 
 **Month 13-15: Advanced Capability Development**
 - Launch advanced specialization and thought leadership programs

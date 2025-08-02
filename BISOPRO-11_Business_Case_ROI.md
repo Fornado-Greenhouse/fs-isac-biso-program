@@ -185,7 +185,7 @@ The Business Information Security Officer (BISO) program delivers measurable ROI
 - Immediate improvement in security-business communication
 - Initial project delivery acceleration
 
-### Phase 2: Operational (Months 4-9)
+### Phase 2: Operational (Months 4-6)
 **Investment**: $1.2M
 **Key Milestones**:
 - Full BISO team operational
@@ -197,7 +197,7 @@ The Business Information Security Officer (BISO) program delivers measurable ROI
 - Improved compliance posture
 - Risk reduction visible
 
-### Phase 3: Optimization (Months 10-18)
+### Phase 3: Optimization (Months 7-12)
 **Investment**: $800K
 **Key Milestones**:
 - Process optimization complete

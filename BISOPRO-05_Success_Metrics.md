@@ -839,7 +839,7 @@ RECURRING CALENDAR EVENTS:
 - Create measurement tools and dashboard integration
 - Establish baseline and targets
 
-**Phase 2: Pilot Testing (8 weeks)**
+**Phase 2: Pilot Testing (Months 4-6)**
 - Deploy metric with limited stakeholder group
 - Collect feedback on usefulness and actionability
 - Refine calculation and targets based on initial data
@@ -967,7 +967,7 @@ RECURRING CALENDAR EVENTS:
 - [Executive Reporting Framework](#executive-reporting-framework) - Monthly/quarterly briefing templates
 
 **For Implementation Teams:**
-- [Getting Started Guide](#getting-started-implementation-guide) - Step-by-step deployment in 8 weeks
+- [Getting Started Guide](#getting-started-implementation-guide) - Step-by-step deployment in Phase 2 (Months 4-6)
 - [Metrics Ownership RACI](#metrics-ownership-raci-matrix) - Who's responsible for every metric
 - [Baseline Establishment](#baseline-establishment-process) - How to get starting measurements
 - [Automation Implementation](#automation-implementation-guide) - Reduce manual effort by 60-70%
