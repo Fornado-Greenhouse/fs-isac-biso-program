@@ -233,13 +233,13 @@ Based on our [Success Metrics](./BISOPRO-05_Success_Metrics.md):
 - Launch core training programs
 - Establish mentoring relationships
 
-### Phase 2: Development (Months 4-9)
+### Phase 2: Development (Months 4-6)
 - Execute individual development plans
 - Monitor progress and adjust plans
 - Implement rotation programs
 - Begin competency validation
 
-### Phase 3: Validation (Months 10-12)
+### Phase 3: Validation (Months 7-12)
 - Complete initial competency certifications
 - Evaluate program effectiveness
 - Refine development frameworks
