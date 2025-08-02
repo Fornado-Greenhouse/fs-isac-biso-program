@@ -73,6 +73,39 @@ For complex frameworks, include:
 - **contributes to**: Contributing work
 - **toward, towards**: Work progressing toward issue resolution
 
+## Linear Best Practices
+
+### Issue Title Management
+- **NEVER include "FOR-##:" prefixes in Linear issue titles** - these are the project's internal numbering system
+- Issue titles should be clean, professional descriptions without identifier prefixes
+- Example: Use "Visual Framework Standardization" NOT "FOR-90: Visual Framework Standardization"
+- When creating or updating issues, use descriptive titles that stand alone
+
+### Comprehensive Issue Querying
+- **Always search exhaustively** when asked to find or update Linear issues
+- Use multiple search strategies to ensure complete coverage:
+  1. Search by team ID with pagination: `mcp__Linear__list_issues` with `teamId` and `limit` parameters
+  2. Search by project ID: `mcp__Linear__list_issues` with `projectId` parameter  
+  3. Search by query terms: Use `query` parameter to find specific content
+  4. For large result sets, use pagination with `after` parameter to get all results
+- **Check backlog systematically** - don't assume first search captures everything
+- When updating multiple issues, verify each change by fetching the issue afterward
+
+### Issue Search Troubleshooting
+- If search returns "exceeds maximum tokens" error, use smaller `limit` values (10-25)
+- Use `after` parameter for pagination to get complete issue lists
+- Combine multiple search approaches: team-based, project-based, and query-based
+- Always verify team and project IDs are correct before searching
+
+### Issue Update Verification
+- After updating issue titles, fetch the issue again to confirm changes applied
+- When asked to update "all issues with X", search comprehensively first, then update systematically
+- Keep track of updated issues to avoid missing any in the batch
+
+### Project Structure Understanding
+- Project: "FS-ISAC BISO Program"
+- Always filter by correct project when searching to avoid irrelevant results
+
 ## Git Workflow
 - Always commit and push changes after major document updates
 - Use descriptive commit messages with Linear issue references
