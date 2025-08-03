@@ -1380,6 +1380,8 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 ## Implementation Readiness Guide
 *Step-by-step deployment process for BISO key processes implementation*
 
+> **Note**: For high-level implementation sequencing and dependencies, see the [BISO Program Implementation Guide](./BISO_GUIDE-02_Implementation.md#bisopro-9-biso-key-processes-implementation). For customization guidance, see the [BISO Program Customization Guide](./BISO_GUIDE-04_Customization.md).
+
 ### **Phase 2: Process Implementation Foundation (Months 4-6)**
 
 #### **Month 4: Core Process Deployment**
