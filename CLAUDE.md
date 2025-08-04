@@ -28,6 +28,9 @@ All documents must align with this master timeline:
 - **Phase 3**: Months 7-12
 - **Phase 4**: Months 13-15
 
+### Implementation Tracker Maintenance
+**ALWAYS UPDATE BISO_Master_Implementation_Tracker.csv** when modifying implementation timelines, dependencies, or task sequences. This CSV is the authoritative implementation tracking tool used by organizations to monitor progress and manage resources.
+
 ## Document Quality Standards
 
 ### Cross-Reference Requirements

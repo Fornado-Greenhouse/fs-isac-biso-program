@@ -36,6 +36,8 @@ Before beginning implementation, ensure:
 - [ ] Strategic alignment confirmed
 - [ ] Change management readiness
 
+*For detailed charter approval process, see [Charter Post-Approval Actions](./BISOPRO-01_Charter.md#post-approval-actions)*
+
 ### Resource Allocation
 
 Required resources:
@@ -53,6 +55,8 @@ Assessment criteria:
 - [ ] Stakeholder mapping completed
 - [ ] Cultural readiness evaluated
 - [ ] Risk appetite defined
+
+*For comprehensive stakeholder mapping, see [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-identification)*
 
 ## Phase 1: Foundation (Months 1-3)
 
@@ -273,6 +277,12 @@ Before proceeding to Phase 3:
 - [ ] Core processes implemented
 - [ ] Initial BISOs recruited/assigned
 - [ ] Phase 3 planning complete
+
+**Detailed Implementation Checklists:**
+- *Authority deployment*: [Authority Framework Implementation Checklist](./BISOPRO-06_Authority_Framework.md#implementation-templates)
+- *Reporting structure*: [Reporting Structure Implementation](./BISOPRO-07_Reporting_Structure.md#implementation-considerations)
+- *Process deployment*: [Key Processes Implementation Checklists](./BISOPRO-09_Key_Processes_Implementation.md#core-process-implementation)
+- *Team onboarding*: [BISO Hiring and Onboarding Checklists](./BISOPRO-08_Job_Descriptions.md#biso-hiring-process)
 
 ## Phase 3: Strategic Value (Months 7-12)
 
