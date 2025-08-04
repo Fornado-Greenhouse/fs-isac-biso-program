@@ -56,7 +56,7 @@ Charter ─┬─> Problem Statement ─┬─> Alignment Model ─┬─> Stake
          │                      │                    └─> Success Metrics
          │                      │
          │                      └─> Authority Framework ─┬─> Reporting Structure
-         │                                              └─> Job Descriptions
+         │                                               └─> Job Descriptions
          │
          └─> Business Case ROI ──> Executive Briefing ──> Strategic Alignment
 ```
@@ -264,5 +264,5 @@ BISO Effectiveness = (Risk Reduction × Business Enablement × Stakeholder Satis
 ---
 *Quick Reference Version: 1.0*  
 *Pages: 5*  
-*Last Updated: July 31, 2025*  
+*Last Updated: August 4, 2025*  
 *For Complete Details: See full documentation set*
