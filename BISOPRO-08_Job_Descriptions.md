@@ -23,6 +23,7 @@
 - [Application Process](#application-process) - Recruitment timeline and selection criteria
 
 **For HR/Recruiters:**
+- [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) - Critical role boundaries to prevent scope creep
 - [Required Qualifications](#required-qualifications) - Education, certification, and experience requirements
 - [Selection Timeline](#selection-timeline) - Structured recruitment process and timelines
 - [Equal Opportunity Statement](#equal-opportunity-statement) - Diversity and inclusion commitments
@@ -30,6 +31,7 @@
 
 **For Candidates:**
 - [Senior BISO](#senior-business-information-security-officer) - Entry-level BISO position details
+- [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) - Understanding role boundaries and focus areas
 - [Principal BISO](#principal-business-information-security-officer) - Senior strategic position overview
 - [Career Progression](#key-differentiators) - Growth opportunities and advancement paths
 - [How to Apply](#how-to-apply) - Application requirements and process
@@ -226,6 +228,57 @@ The Senior Business Information Security Officer (BISO) serves as the primary cy
 - Manage vendor relationships and security requirements
 - Communicate security incidents and response activities to business stakeholders
 
+### What BISOs Don't Do: Role Boundaries and Exclusions
+
+**Technology Ownership and Operations**
+BISOs do NOT own, operate, or have budget authority for technology infrastructure per [Independence Framework](./BISOPRO-18_Independence_Framework.md#technology-ownership-separation):
+- Security infrastructure (SIEM, EDR, firewalls, IPS, IAM systems)
+- IT infrastructure (servers, networks, cloud platforms, databases)
+- Enterprise applications and communication systems
+- Monitoring, backup, and disaster recovery platforms
+- Any operational technology or security tools
+
+**Operational Responsibilities**
+BISOs are NOT responsible for day-to-day security operations per [Reporting Structure](./BISOPRO-07_Reporting_Structure.md#operational-independence):
+- Security incident response operations (they advise and coordinate)
+- Configuration and maintenance of security tools
+- Network or system administration tasks
+- Patch management execution
+- Log analysis and security monitoring operations
+- Vulnerability scanning execution
+
+**Decision-Making Limitations**
+BISOs do NOT make unilateral decisions outside their authority per [Authority Framework](./BISOPRO-06_Authority_Framework.md#authority-boundaries):
+- Cannot override CISO on enterprise security policies
+- Cannot approve exceptions beyond delegated risk thresholds
+- Cannot make technology purchases or vendor selections independently
+- Cannot modify security findings based on business pressure
+- Cannot commit organizational resources without approval
+
+**Organizational Boundaries**
+BISOs do NOT blur independence requirements per [Independence Framework](./BISOPRO-18_Independence_Framework.md#independence-principles):
+- Do not report primarily to business unit leadership
+- Do not have P&L responsibility for business units
+- Do not own business operational outcomes
+- Do not serve as project managers for business initiatives
+- Do not make business decisions outside security scope
+
+**Common Scope Creep Warnings**
+BISOs must actively avoid scope expansion into areas that compromise their effectiveness:
+- Becoming the "catch-all" for miscellaneous IT or compliance tasks
+- Taking ownership of business processes or applications
+- Serving as general technology consultants beyond security
+- Managing vendor relationships outside security scope
+- Becoming responsible for non-security audit findings
+
+**Maintaining Focus**
+The BISO role succeeds through clear boundaries that enable:
+- Objective security assessments and recommendations
+- Independent risk evaluation without conflicts of interest
+- Trusted advisory relationships with business stakeholders
+- Sustained focus on security and risk management
+- Professional growth within defined competencies
+
 ### Required Qualifications
 
 **Education and Certifications**
@@ -306,6 +359,16 @@ The Principal Business Information Security Officer leads cybersecurity initiati
 - Manage escalated conflicts and complex stakeholder situations per [Escalation Framework](./BISOPRO-25_Escalation_Decision_Framework.md#conflict-resolution)
 - Represent cybersecurity in strategic planning and business development per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#strategic-planning-integration)
 
+### Role Boundaries and Limitations
+
+The Principal BISO role maintains the same fundamental boundaries and exclusions as all BISO positions. See [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) section under Senior BISO for comprehensive role limitations including:
+- Technology ownership and operational exclusions
+- Decision-making authority boundaries  
+- Independence requirements
+- Scope creep prevention guidelines
+
+These boundaries ensure objective security leadership while enabling trusted business partnerships at the strategic level.
+
 ### Required Qualifications
 
 **Education and Certifications**
@@ -371,6 +434,19 @@ The BISO Program Director provides overall leadership for the Business Informati
 - Manage program budget and resource allocation per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#investment-summary)
 - Coordinate with HR, legal, and compliance on program requirements per [Independence Framework](./BISOPRO-18_Independence_Framework.md#cross-functional-collaboration)
 - Ensure regulatory compliance and audit readiness per [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#risk-and-compliance)
+
+### Role Boundaries and Limitations
+
+The BISO Program Director maintains the same fundamental boundaries as all BISO positions while providing overall program leadership. See [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) section under Senior BISO for comprehensive role limitations.
+
+**Additional Director-Level Boundaries**:
+- Does not override business unit operational decisions outside security scope
+- Cannot mandate organizational changes without executive approval
+- Does not own enterprise technology strategy or architecture
+- Maintains independence from vendor relationships and technology decisions
+- Focuses on BISO program excellence rather than broader organizational transformation
+
+These boundaries ensure the Director can provide objective program leadership while maintaining the independence critical to BISO credibility.
 
 ### Required Qualifications
 
