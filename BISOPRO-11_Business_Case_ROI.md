@@ -3,6 +3,20 @@
 ## Executive Summary
 The Business Information Security Officer (BISO) program delivers measurable ROI through reduced security costs, accelerated business delivery, and improved risk management as outlined in our [Problem Statement](./BISOPRO-02_Problem_Statement.md). Conservative estimates show 3:1 ROI within 18 months through reduced rework, faster project delivery, and improved compliance posture, supporting the strategic objectives defined in our [Charter](./BISOPRO-01_Charter.md).
 
+## ROI Realization Timeline
+
+| Phase | Timeline | Investment | Cumulative Benefits | Key Financial Milestone |
+|-------|----------|------------|-------------------|------------------------|
+| Foundation | Months 1-3 | $800K | $400K | Initial ROI visible |
+| Operational | Months 4-6 | $1.2M | $2.1M | Break-even achieved |
+| Optimization | Months 7-12 | $800K | $4.8M | Full ROI realization |
+
+**Total Program Investment**: $2.8M over 12 months
+**Total Program Benefits**: $4.8M by Month 12
+**Net ROI**: 71% first year, building to sustained competitive advantage
+
+*For detailed implementation milestones and operational activities, see [Implementation Guide](./BISO_GUIDE-02_Implementation.md)*
+
 ## Financial Analysis
 
 ### Investment Requirements
@@ -171,20 +185,6 @@ The Business Information Security Officer (BISO) program delivers measurable ROI
 - **Market Position**: 18% faster response to security-dependent opportunities
 - **Regulatory Standing**: 31% fewer regulatory findings vs. industry average
 - **Operational Efficiency**: 28% lower security-related operational costs
-
-## ROI Realization Timeline
-
-| Phase | Timeline | Investment | Cumulative Benefits | Key Financial Milestone |
-|-------|----------|------------|-------------------|------------------------|
-| Foundation | Months 1-3 | $800K | $400K | Initial ROI visible |
-| Operational | Months 4-6 | $1.2M | $2.1M | Break-even achieved |
-| Optimization | Months 7-12 | $800K | $4.8M | Full ROI realization |
-
-**Total Program Investment**: $2.8M over 12 months
-**Total Program Benefits**: $4.8M by Month 12
-**Net ROI**: 71% first year, building to sustained competitive advantage
-
-*For detailed implementation milestones and operational activities, see [Implementation Guide](./BISO_GUIDE-02_Implementation.md)*
 
 ## Risk Mitigation
 
