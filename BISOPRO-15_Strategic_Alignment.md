@@ -474,20 +474,15 @@ Each alignment model determines which level of strategic objectives takes priori
 - **Timeline**: 7-10 business days for collaborative resolution
 - **Governance**: Enterprise-Division Strategic Alignment Committee
 
-#### Strategic Priority Decision Matrix
+#### Strategic Objective Priority Matrix
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│                    STRATEGIC OBJECTIVE PRIORITY MATRIX                          │
-├─────────────────────┬───────────────────┬───────────────────┬─────────────────┤
-│ Conflict Type       │ Centralized Model │ Distributed Model │ Hybrid Model    │
-├─────────────────────┼───────────────────┼───────────────────┼─────────────────┤
-│ Regulatory vs Market│ Regulatory First  │ Market First*     │ Balanced Approach│
-│ Corporate vs Division│ Corporate First   │ Division First    │ Joint Decision  │
-│ Efficiency vs Security│ Security First   │ Efficiency First  │ Risk-Based      │
-│ Short vs Long Term  │ Long Term First   │ Short Term First  │ Strategic Value │
-└─────────────────────┴───────────────────┴───────────────────┴─────────────────┘
-```
+| Conflict Type | Centralized Model | Distributed Model | Hybrid Model |
+|---------------|-------------------|-------------------|--------------|
+| Regulatory vs Market | Regulatory First | Market First* | Balanced Approach |
+| Corporate vs Division | Corporate First | Division First | Joint Decision |
+| Efficiency vs Security | Security First | Efficiency First | Risk-Based |
+| Short vs Long Term | Long Term First | Short Term First | Strategic Value |
+
 *Within regulatory constraints
 
 ### Strategic Dependencies Matrix
