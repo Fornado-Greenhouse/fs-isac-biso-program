@@ -15,7 +15,7 @@ This implementation guide provides a systematic, step-by-step approach for organ
 ### Related Guides
 
 - **[Customization Guide](./BISO_GUIDE-04_Customization.md)**: Detailed instructions for adapting each document to your organization
-- **[Document Reference Guide](./BISO_GUIDE-01_Overview.md)**: Complete framework overview and document descriptions
+- **[Quick Reference Guide](./BISO_GUIDE-01_Quick_Reference.md)**: Complete framework overview and document descriptions
 
 ### Expected Outcomes
 
