@@ -4,7 +4,7 @@
 
 **What**: Business Information Security Officer (BISO) Program
 **Why**: Bridge the gap between cybersecurity and business operations
-**Investment**: $2.5-3M over 18-24 months
+**Investment**: $2.9-3.6M over 18 months (core implementation)
 **ROI**: 4-5:1 long-term return
 **Documents**: 22 comprehensive frameworks
 **Phases**: 4 implementation phases
@@ -149,8 +149,8 @@ Charter ─┬─> Problem Statement ─┬─> Alignment Model ─┬─> Stake
 
 ### For Executives
 - **Value**: Strategic risk management and business enablement
-- **Investment**: $2.5-3M with 4-5:1 ROI
-- **Timeline**: 18-24 months to full operation
+- **Investment**: $2.9-3.6M with 4-5:1 ROI
+- **Timeline**: 18 months to full operation
 - **Outcome**: Competitive advantage through security
 
 ### For Business Leaders
