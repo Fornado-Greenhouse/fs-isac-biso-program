@@ -19,8 +19,8 @@ This implementation guide provides a systematic, step-by-step approach for organ
 
 ### Expected Outcomes
 
-- **Timeline**: 18-24 months for full implementation
-- **Investment**: $2.5-3M total program investment
+- **Timeline**: 18 months for core implementation
+- **Investment**: $2.9-3.6M total investment (includes $400-625K technology)
 - **ROI**: 4-5:1 long-term return on investment
 - **Deliverables**: 22 interconnected documents creating comprehensive program framework
 - **Business Impact**: Enhanced security-business alignment and risk management
@@ -577,7 +577,9 @@ The Customization Guide provides:
 - Challenge mitigation
 - Evolution framework
 
-**Total Program**: $2.5M - $3.25M
+**Total Program**: $2.9M - $3.6M
+- Program costs: $2.5M - $3M
+- Technology investment: $400K - $625K
 
 ### Staffing Requirements
 
@@ -597,13 +599,13 @@ The Customization Guide provides:
 
 ### Timeline Considerations
 
-**Aggressive Timeline**: 18 months
-- Requires full resources
+**Core Timeline**: 18 months
+- Standard implementation with full resources
 - Dedicated team
 - Strong executive support
-- Minimal customization
+- Appropriate customization
 
-**Standard Timeline**: 24 months
+**Extended Timeline**: 24 months
 - Balanced approach
 - Normal resources
 - Steady progress
@@ -680,6 +682,6 @@ With these elements in place and following this guide, any organization can impl
 *Implementation Guide Version: 1.0*  
 *Date: July 31, 2025*  
 *Total Documents: 22*  
-*Implementation Timeline: 18-24 months*  
-*Total Investment: $2.5-3.25M*  
+*Implementation Timeline: 18-24 months  
+*Total Investment: $2.9-3.6M*  
 *Expected ROI: 4-5:1*
