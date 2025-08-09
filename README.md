@@ -26,9 +26,9 @@ This repository contains the most comprehensive Business Information Security Of
 
 ### **🏗️ For Implementation Teams**
 **Goal**: Execute systematic BISO program deployment  
-1. **[Implementation Guide](./BISO_GUIDE-02_Implementation.md)** - Complete step-by-step process
-2. **[Implementation Roadmap](./BISO_GUIDE-03_Roadmap.md)** - Timeline with dependencies
-3. **[Customization Guide](./BISO_GUIDE-04_Customization.md)** - Adapt for your organization
+1. **[Strategic Implementation Guide](./BISO_GUIDE-02_Implementation.md)** - Organizational readiness and change management approach
+2. **[Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md)** - Precise document sequence with dependencies and customization details
+3. **[Customization Guide](./BISO_GUIDE-04_Customization.md)** - Adapt individual documents for your organization
 
 ### **💻 For Technology Teams**
 **Goal**: Implement supporting technology infrastructure
@@ -51,8 +51,8 @@ This repository contains the most comprehensive Business Information Security Of
 | Guide | Purpose | Audience | Time Investment |
 |-------|---------|----------|----------------|
 | **[🎯 Quick Reference](./BISO_GUIDE-01_Quick_Reference.md)** | Executive summary of entire program | Executives, sponsors | 30 minutes |
-| **[📋 Implementation](./BISO_GUIDE-02_Implementation.md)** | Step-by-step deployment instructions | Implementation teams | 4-6 hours |
-| **[🗺️ Roadmap](./BISO_GUIDE-03_Roadmap.md)** | Timeline, dependencies, critical path | Project managers | 2-3 hours |
+| **[📋 Strategic Implementation](./BISO_GUIDE-02_Implementation.md)** | Organizational readiness and change management | Executive sponsors, program directors | 4-6 hours |
+| **[🗺️ Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md)** | Document sequence, dependencies, and customization details | Implementation teams, project managers | 2-3 hours |
 | **[⚙️ Customization](./BISO_GUIDE-04_Customization.md)** | Adapt documents for your organization | All implementers | 3-4 hours |
 | **[💻 Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)** | Technology roadmap and investment | Technology teams | 2-3 hours |
 
