@@ -10,6 +10,36 @@ This is a comprehensive Business Information Security Officer (BISO) program imp
 - **Total Investment**: $2.9-3.6M (program + technology)
 - **Expected ROI**: 4-5:1 long-term
 
+## Git Workflow and Linear Integration (CRITICAL - READ FIRST)
+
+### Linear Branch Naming Convention
+**ALWAYS check Linear for expected branch name** - Linear auto-generates expected branch names in the `gitBranchName` field:
+- **Never guess or assume branch names** - always check the issue details first using `mcp__Linear__get_issue`
+- Example from FOR-117: `alex/for-117-minor-customization-gaps-following-for-116-implementation`
+- **Format Pattern**: `alex/for-[issue-number]-[kebab-case-descriptive-title]`
+- **Branch Lifecycle**: Once a PR is created, do NOT reuse that branch for new work - create new branches for new work
+
+### Git Workflow
+- Always commit and push changes after major document updates
+- Use descriptive commit messages with Linear issue references
+- **Line Number Preference**: Include specific line numbers in commit messages when referencing complex document changes for precise tracking
+- Example: "Completes FOR-74: Add financial quantification and navigation to BISOPRO-02 Problem Statement"
+- Example with line numbers: "Completes FOR-76: Transform BISOPRO-06 Authority Framework with executive summary (lines 3-26), navigation (lines 30-55), and visual elements (lines 160-236)"
+
+### Linear Magic Words for Commits
+**Closing Magic Words (Complete/Close Issues):**
+- **close, closes, closed, closing**: Standard issue closure
+- **fix, fixes, fixed, fixing**: For bug fixes
+- **resolve, resolves, resolved, resolving**: For problem resolution
+- **complete, completes, completed, completing**: For task completion
+
+**Non-Closing Magic Words (Reference Without Closing):**
+- **ref, refs, references**: Simple reference to issue
+- **part of**: Partial contribution to issue
+- **related to**: Related work
+- **contributes to**: Contributing work
+- **toward, towards**: Work progressing toward issue resolution
+
 ## Key Framework Components
 - **Phase 1**: Foundation (Months 1-3) - Charter, Problem Statement, Alignment Model, Stakeholder Protocols, Success Metrics
 - **Phase 2**: Structure (Months 4-6) - Authority Framework, Reporting Structure, Job Descriptions, Key Processes, Support Structure  
@@ -108,13 +138,6 @@ For complex frameworks, include:
 ### Project Structure Understanding
 - Project: "FS-ISAC BISO Program"
 - Always filter by correct project when searching to avoid irrelevant results
-
-## Git Workflow
-- Always commit and push changes after major document updates
-- Use descriptive commit messages with Linear issue references
-- **Line Number Preference**: Include specific line numbers in commit messages when referencing complex document changes for precise tracking
-- Example: "Completes FOR-74: Add financial quantification and navigation to BISOPRO-02 Problem Statement"
-- Example with line numbers: "Completes FOR-76: Transform BISOPRO-06 Authority Framework with executive summary (lines 3-26), navigation (lines 30-55), and visual elements (lines 160-236)"
 
 ## Key Working Patterns
 
