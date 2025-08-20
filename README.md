@@ -16,112 +16,112 @@ This repository contains the most comprehensive Business Information Security Of
 
 ## 🚀 **Quick Start: Choose Your Path**
 
-*For complete quick start guidance, see [BISO_GUIDE-01 Quick Reference](./BISO_GUIDE-01_Quick_Reference.md) and [BISO_GUIDE-02 Implementation](./BISO_GUIDE-02_Implementation.md)*
+*For complete quick start guidance, see [BISO_GUIDE-01 Quick Reference](./guides/BISO_GUIDE-01_Quick_Reference.md) and [BISO_GUIDE-02 Implementation](./guides/BISO_GUIDE-02_Implementation.md)*
 
 ### **👨‍💼 For Executives** 
 **Goal**: Understand business case and authorize program
-1. **[Quick Reference Guide](./BISO_GUIDE-01_Quick_Reference.md)** - 5-page executive summary
-2. **[Business Case & ROI](./BISOPRO-11_Business_Case_ROI.md)** - Financial justification
-3. **[Charter](./BISOPRO-01_Charter.md)** - Program authorization framework
+1. **[Quick Reference Guide](./guides/BISO_GUIDE-01_Quick_Reference.md)** - 5-page executive summary
+2. **[Business Case & ROI](./deliverables/BISOPRO-11_Business_Case_ROI.md)** - Financial justification
+3. **[Charter](./deliverables/BISOPRO-01_Charter.md)** - Program authorization framework
 
 ### **🏗️ For Implementation Teams**
 **Goal**: Execute systematic BISO program deployment  
-1. **[Strategic Implementation Guide](./BISO_GUIDE-02_Implementation.md)** - Organizational readiness and change management approach
-2. **[Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md)** - Precise document sequence with dependencies and customization details
-3. **[Customization Guide](./BISO_GUIDE-04_Customization.md)** - Adapt individual documents for your organization
+1. **[Strategic Implementation Guide](./guides/BISO_GUIDE-02_Implementation.md)** - Organizational readiness and change management approach
+2. **[Document Creation Roadmap](./guides/BISO_GUIDE-03_Roadmap.md)** - Precise document sequence with dependencies and customization details
+3. **[Customization Guide](./guides/BISO_GUIDE-04_Customization.md)** - Adapt individual documents for your organization
 
 ### **💻 For Technology Teams**
 **Goal**: Implement supporting technology infrastructure
-1. **[Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)** - $400-625K focused investment
-2. **[Support Structure](./BISOPRO-10_Support_Structure.md)** - Technology requirements
+1. **[Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md)** - $400-625K focused investment
+2. **[Support Structure](./deliverables/BISOPRO-10_Support_Structure.md)** - Technology requirements
 3. **Integration requirements across all documents**
 
 ### **📈 For Program Managers**
 **Goal**: Operate and optimize ongoing BISO program
-1. **[Success Metrics](./BISOPRO-05_Success_Metrics.md)** - KPIs and measurement
-2. **[Professional Development](./BISOPRO-20_Professional_Development_Framework.md)** - Team excellence
-3. **[Challenge Mitigation](./BISOPRO-21_Challenge_Mitigation_Framework.md)** - Problem solving
+1. **[Success Metrics](./deliverables/BISOPRO-05_Success_Metrics.md)** - KPIs and measurement
+2. **[Professional Development](./deliverables/BISOPRO-20_Professional_Development_Framework.md)** - Team excellence
+3. **[Challenge Mitigation](./deliverables/BISOPRO-21_Challenge_Mitigation_Framework.md)** - Problem solving
 
 ---
 
 ## 📘 **Implementation Guides** (Start Here)
 
-*For detailed implementation framework, see [BISO_GUIDE-02 Implementation](./BISO_GUIDE-02_Implementation.md) and [BISO_GUIDE-03 Roadmap](./BISO_GUIDE-03_Roadmap.md)*
+*For detailed implementation framework, see [BISO_GUIDE-02 Implementation](./guides/BISO_GUIDE-02_Implementation.md) and [BISO_GUIDE-03 Roadmap](./guides/BISO_GUIDE-03_Roadmap.md)*
 
 | Guide | Purpose | Audience | Time Investment |
 |-------|---------|----------|----------------|
-| **[🎯 Quick Reference](./BISO_GUIDE-01_Quick_Reference.md)** | Executive summary of entire program | Executives, sponsors | 30 minutes |
-| **[📋 Strategic Implementation](./BISO_GUIDE-02_Implementation.md)** | Organizational readiness and change management | Executive sponsors, program directors | 4-6 hours |
-| **[🗺️ Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md)** | Document sequence, dependencies, and customization details | Implementation teams, project managers | 2-3 hours |
-| **[⚙️ Customization](./BISO_GUIDE-04_Customization.md)** | Adapt documents for your organization | All implementers | 3-4 hours |
-| **[💻 Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)** | Technology roadmap and investment | Technology teams | 2-3 hours |
+| **[🎯 Quick Reference](./guides/BISO_GUIDE-01_Quick_Reference.md)** | Executive summary of entire program | Executives, sponsors | 30 minutes |
+| **[📋 Strategic Implementation](./guides/BISO_GUIDE-02_Implementation.md)** | Organizational readiness and change management | Executive sponsors, program directors | 4-6 hours |
+| **[🗺️ Document Creation Roadmap](./guides/BISO_GUIDE-03_Roadmap.md)** | Document sequence, dependencies, and customization details | Implementation teams, project managers | 2-3 hours |
+| **[⚙️ Customization](./guides/BISO_GUIDE-04_Customization.md)** | Adapt documents for your organization | All implementers | 3-4 hours |
+| **[💻 Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md)** | Technology roadmap and investment | Technology teams | 2-3 hours |
 
 ---
 
 ## 📚 **Core Program Documents by Phase**
 
-*For phase-specific implementation details, see [BISO_GUIDE-03 Roadmap](./BISO_GUIDE-03_Roadmap.md) and [BISOPRO-01 Charter](./BISOPRO-01_Charter.md)*
+*For phase-specific implementation details, see [BISO_GUIDE-03 Roadmap](./guides/BISO_GUIDE-03_Roadmap.md) and [BISOPRO-01 Charter](./deliverables/BISOPRO-01_Charter.md)*
 
 ### **Phase 1: Foundation** (Months 1-3)
 *Establish program authorization and strategic framework*
 
 | Document | BISOPRO-# | Purpose | Key Output |
 |----------|-----------|---------|------------|
-| **[Charter](./BISOPRO-01_Charter.md)** | BISOPRO-1 | Program authorization | Executive mandate |
-| **[Problem Statement](./BISOPRO-02_Problem_Statement.md)** | BISOPRO-2 | Challenge definition | Business case foundation |
-| **[Alignment Model](./BISOPRO-03_Alignment_Model_Analysis.md)** | BISOPRO-3 | Organizational design | Operating model |
-| **[Stakeholder Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md)** | BISOPRO-4 | Engagement framework | Relationship management |
-| **[Success Metrics](./BISOPRO-05_Success_Metrics.md)** | BISOPRO-5 | KPI definition | Measurement system |
+| **[Charter](./deliverables/BISOPRO-01_Charter.md)** | BISOPRO-1 | Program authorization | Executive mandate |
+| **[Problem Statement](./deliverables/BISOPRO-02_Problem_Statement.md)** | BISOPRO-2 | Challenge definition | Business case foundation |
+| **[Alignment Model](./deliverables/BISOPRO-03_Alignment_Model_Analysis.md)** | BISOPRO-3 | Organizational design | Operating model |
+| **[Stakeholder Protocols](./deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md)** | BISOPRO-4 | Engagement framework | Relationship management |
+| **[Success Metrics](./deliverables/BISOPRO-05_Success_Metrics.md)** | BISOPRO-5 | KPI definition | Measurement system |
 
 ### **Phase 2: Structure** (Months 4-6)
 *Build organizational framework and authority structure*
 
 | Document | BISOPRO-# | Purpose | Key Output |
 |----------|-----------|---------|------------|
-| **[Authority Framework](./BISOPRO-06_Authority_Framework.md)** | BISOPRO-6 | Decision rights | RACI matrix |
-| **[Reporting Structure](./BISOPRO-07_Reporting_Structure.md)** | BISOPRO-7 | Organizational design | Reporting relationships |
-| **[Job Descriptions](./BISOPRO-08_Job_Descriptions.md)** | BISOPRO-8 | Role definition | Hiring framework |
-| **[Key Processes](./BISOPRO-09_Key_Processes_Implementation.md)** | BISOPRO-9 | Operational workflows | Process documentation |
-| **[Support Structure](./BISOPRO-10_Support_Structure.md)** | BISOPRO-10 | Infrastructure needs | Resource model |
+| **[Authority Framework](./deliverables/BISOPRO-06_Authority_Framework.md)** | BISOPRO-6 | Decision rights | RACI matrix |
+| **[Reporting Structure](./deliverables/BISOPRO-07_Reporting_Structure.md)** | BISOPRO-7 | Organizational design | Reporting relationships |
+| **[Job Descriptions](./deliverables/BISOPRO-08_Job_Descriptions.md)** | BISOPRO-8 | Role definition | Hiring framework |
+| **[Key Processes](./deliverables/BISOPRO-09_Key_Processes_Implementation.md)** | BISOPRO-9 | Operational workflows | Process documentation |
+| **[Support Structure](./deliverables/BISOPRO-10_Support_Structure.md)** | BISOPRO-10 | Infrastructure needs | Resource model |
 
 ### **Phase 3: Strategic Value** (Months 7-12)
 *Develop strategic capabilities and demonstrate business value*
 
 | Document | BISOPRO-# | Purpose | Key Output |
 |----------|-----------|---------|------------|
-| **[Business Case ROI](./BISOPRO-11_Business_Case_ROI.md)** | BISOPRO-11 | Value demonstration | ROI justification |
-| **[Risk Assessment](./BISOPRO-12_Risk_Assessment_Methodology.md)** | BISOPRO-12 | Risk methodology | Assessment framework |
-| **[Executive Briefing](./BISOPRO-13_Executive_Briefing_Framework.md)** | BISOPRO-13 | Executive communication | Briefing templates |
-| **[Executive Sponsorship](./BISOPRO-14_Executive_Sponsorship_Plan.md)** | BISOPRO-14 | Leadership engagement | Sponsorship strategy |
-| **[Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md)** | BISOPRO-15 | Business integration | Alignment model |
-| **[Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md)** | BISOPRO-16 | Market positioning | Benchmarking |
-| **[Security Consultation](./BISOPRO-17_Security_Consultation_Framework.md)** | BISOPRO-17 | Advisory services | Service catalog |
-| **[Independence Framework](./BISOPRO-18_Independence_Framework.md)** | BISOPRO-18 | Objectivity assurance | Independence model |
-| **[Training Programs](./BISOPRO-19_Training_Development_Programs.md)** | BISOPRO-19 | Skills development | Training curriculum |
+| **[Business Case ROI](./deliverables/BISOPRO-11_Business_Case_ROI.md)** | BISOPRO-11 | Value demonstration | ROI justification |
+| **[Risk Assessment](./deliverables/BISOPRO-12_Risk_Assessment_Methodology.md)** | BISOPRO-12 | Risk methodology | Assessment framework |
+| **[Executive Briefing](./deliverables/BISOPRO-13_Executive_Briefing_Framework.md)** | BISOPRO-13 | Executive communication | Briefing templates |
+| **[Executive Sponsorship](./deliverables/BISOPRO-14_Executive_Sponsorship_Plan.md)** | BISOPRO-14 | Leadership engagement | Sponsorship strategy |
+| **[Strategic Alignment](./deliverables/BISOPRO-15_Strategic_Alignment.md)** | BISOPRO-15 | Business integration | Alignment model |
+| **[Competitive Analysis](./deliverables/BISOPRO-16_Competitive_Analysis.md)** | BISOPRO-16 | Market positioning | Benchmarking |
+| **[Security Consultation](./deliverables/BISOPRO-17_Security_Consultation_Framework.md)** | BISOPRO-17 | Advisory services | Service catalog |
+| **[Independence Framework](./deliverables/BISOPRO-18_Independence_Framework.md)** | BISOPRO-18 | Objectivity assurance | Independence model |
+| **[Training Programs](./deliverables/BISOPRO-19_Training_Development_Programs.md)** | BISOPRO-19 | Skills development | Training curriculum |
 
 ### **Phase 4: Continuous Improvement** (Months 13-15)
 *Establish frameworks for ongoing excellence and evolution*
 
 | Document | BISOPRO-# | Purpose | Key Output |
 |----------|-----------|---------|------------|
-| **[Professional Development](./BISOPRO-20_Professional_Development_Framework.md)** | BISOPRO-20 | Ongoing learning | Development program |
-| **[Challenge Mitigation](./BISOPRO-21_Challenge_Mitigation_Framework.md)** | BISOPRO-21 | Problem solving | Mitigation strategies |
-| **[Business Evolution](./BISOPRO-22_Business_Evolution_Framework.md)** | BISOPRO-22 | Adaptability | Evolution framework |
+| **[Professional Development](./deliverables/BISOPRO-20_Professional_Development_Framework.md)** | BISOPRO-20 | Ongoing learning | Development program |
+| **[Challenge Mitigation](./deliverables/BISOPRO-21_Challenge_Mitigation_Framework.md)** | BISOPRO-21 | Problem solving | Mitigation strategies |
+| **[Business Evolution](./deliverables/BISOPRO-22_Business_Evolution_Framework.md)** | BISOPRO-22 | Adaptability | Evolution framework |
 
 ### **Supporting Documents**
 *Additional frameworks supporting all phases*
 
 | Document | BISOPRO-# | Purpose | Key Output |
 |----------|-----------|---------|------------|
-| **[Core Competencies](./BISOPRO-23_Core_Competencies_Development.md)** | BISOPRO-23 | Skills framework | Competency model |
-| **[Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md)** | BISOPRO-24 | Talent acquisition | Hiring approach |
-| **[Escalation Framework](./BISOPRO-25_Escalation_Decision_Framework.md)** | BISOPRO-25 | Issue management | Escalation procedures |
+| **[Core Competencies](./deliverables/BISOPRO-23_Core_Competencies_Development.md)** | BISOPRO-23 | Skills framework | Competency model |
+| **[Recruitment Strategy](./deliverables/BISOPRO-24_Recruitment_Strategy.md)** | BISOPRO-24 | Talent acquisition | Hiring approach |
+| **[Escalation Framework](./deliverables/BISOPRO-25_Escalation_Decision_Framework.md)** | BISOPRO-25 | Issue management | Escalation procedures |
 
 ---
 
 ## 🎯 **Implementation Success Path**
 
-*For detailed implementation tracking, see [Master Implementation Tracker](./BISO_Master_Implementation_Tracker.csv) and [BISO_GUIDE-02 Implementation](./BISO_GUIDE-02_Implementation.md)*
+*For detailed implementation tracking, see [Master Implementation Tracker](./BISO_Master_Implementation_Tracker.csv) and [BISO_GUIDE-02 Implementation](./guides/BISO_GUIDE-02_Implementation.md)*
 
 ### **Month 1-3: Foundation** 
 **Investment**: $500-750K | **Team**: 3-5 people
@@ -167,7 +167,7 @@ This repository contains the most comprehensive Business Information Security Of
 
 ## 💰 **Investment & ROI Framework**
 
-*For complete financial analysis, see [BISOPRO-11 Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) and [BISO_GUIDE-05 Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)*
+*For complete financial analysis, see [BISOPRO-11 Business Case ROI](./deliverables/BISOPRO-11_Business_Case_ROI.md) and [BISO_GUIDE-05 Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md)*
 
 ### **Total Program Investment**: $2.9-3.6M
 - **Program Development**: $2.5-3M (salaries, consulting, training, operations)
@@ -190,7 +190,7 @@ This repository contains the most comprehensive Business Information Security Of
 
 ## 🏗️ **Architecture & Integration**
 
-*For detailed integration frameworks, see [BISOPRO-10 Support Structure](./BISOPRO-10_Support_Structure.md) and [BISO_GUIDE-05 Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md)*
+*For detailed integration frameworks, see [BISOPRO-10 Support Structure](./deliverables/BISOPRO-10_Support_Structure.md) and [BISO_GUIDE-05 Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md)*
 
 ### **Document Ecosystem**
 This framework consists of 28 documents with 500+ cross-references creating an integrated ecosystem rather than standalone documents. Key relationship patterns:
@@ -219,7 +219,7 @@ All BISO processes integrate with existing business processes:
 
 ## 📈 **Success Metrics & KPIs**
 
-*For complete measurement framework, see [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md)*
+*For complete measurement framework, see [BISOPRO-05 Success Metrics](./deliverables/BISOPRO-05_Success_Metrics.md)*
 
 ### **Tier 1: Business Impact Metrics**
 **Revenue & Growth**
@@ -261,7 +261,7 @@ All BISO processes integrate with existing business processes:
 
 ## 🎓 **Learning & Development**
 
-*For comprehensive development programs, see [BISOPRO-20 Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md) and [BISOPRO-23 Core Competencies Development](./BISOPRO-23_Core_Competencies_Development.md)*
+*For comprehensive development programs, see [BISOPRO-20 Professional Development Framework](./deliverables/BISOPRO-20_Professional_Development_Framework.md) and [BISOPRO-23 Core Competencies Development](./deliverables/BISOPRO-23_Core_Competencies_Development.md)*
 
 ### **Certification Pathways**
 - **Foundation**: CISSP, CISA, CRISC (required for all BISOs)
@@ -284,7 +284,7 @@ All BISO processes integrate with existing business processes:
 
 ## 🛡️ **Risk Management & Quality Assurance**
 
-*For detailed risk frameworks, see [BISOPRO-12 Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md) and [BISOPRO-21 Challenge Mitigation Framework](./BISOPRO-21_Challenge_Mitigation_Framework.md)*
+*For detailed risk frameworks, see [BISOPRO-12 Risk Assessment Methodology](./deliverables/BISOPRO-12_Risk_Assessment_Methodology.md) and [BISOPRO-21 Challenge Mitigation Framework](./deliverables/BISOPRO-21_Challenge_Mitigation_Framework.md)*
 
 ### **Implementation Risks**
 - **Executive Support**: Maintain visible sponsorship throughout implementation
@@ -308,7 +308,7 @@ All BISO processes integrate with existing business processes:
 
 ## 📞 **Support & Community**
 
-*For implementation support guidance, see [BISO_GUIDE-02 Implementation](./BISO_GUIDE-02_Implementation.md) and [BISO_GUIDE-04 Customization](./BISO_GUIDE-04_Customization.md)*
+*For implementation support guidance, see [BISO_GUIDE-02 Implementation](./guides/BISO_GUIDE-02_Implementation.md) and [BISO_GUIDE-04 Customization](./guides/BISO_GUIDE-04_Customization.md)*
 
 ### **Implementation Support**
 - **Self-Service**: Comprehensive documentation and implementation guides
@@ -326,7 +326,7 @@ All BISO processes integrate with existing business processes:
 
 ## 📝 **Document Governance**
 
-*For governance frameworks, see [BISOPRO-01 Charter](./BISOPRO-01_Charter.md) and [BISOPRO-06 Authority Framework](./BISOPRO-06_Authority_Framework.md)*
+*For governance frameworks, see [BISOPRO-01 Charter](./deliverables/BISOPRO-01_Charter.md) and [BISOPRO-06 Authority Framework](./deliverables/BISOPRO-06_Authority_Framework.md)*
 
 ### **Version Control**
 - **Current Version**: 2.2 (Complete Implementation Framework + Revised Technology Strategy)
@@ -351,11 +351,11 @@ All BISO processes integrate with existing business processes:
 ## 🚀 **Getting Started**
 
 ### **Immediate Next Steps**
-1. **Executive Review**: Share [Quick Reference Guide](./BISO_GUIDE-01_Quick_Reference.md) with executive sponsors
-2. **Team Assembly**: Identify implementation team using [Implementation Guide](./BISO_GUIDE-02_Implementation.md)
-3. **Readiness Assessment**: Complete [organizational readiness assessment](./BISO_GUIDE-02_Implementation.md#organizational-readiness) from implementation guide
-4. **Customization Planning**: Begin document customization using [Customization Guide](./BISO_GUIDE-04_Customization.md)
-5. **Technology Planning**: Review [Technology Strategy](./BISO_GUIDE-05_Technology_Strategy.md) for technology requirements
+1. **Executive Review**: Share [Quick Reference Guide](./guides/BISO_GUIDE-01_Quick_Reference.md) with executive sponsors
+2. **Team Assembly**: Identify implementation team using [Implementation Guide](./guides/BISO_GUIDE-02_Implementation.md)
+3. **Readiness Assessment**: Complete [organizational readiness assessment](./guides/BISO_GUIDE-02_Implementation.md#organizational-readiness) from implementation guide
+4. **Customization Planning**: Begin document customization using [Customization Guide](./guides/BISO_GUIDE-04_Customization.md)
+5. **Technology Planning**: Review [Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md) for technology requirements
 
 ### **Success Factors**
 - **Executive Sponsorship**: Visible, sustained C-level support throughout implementation

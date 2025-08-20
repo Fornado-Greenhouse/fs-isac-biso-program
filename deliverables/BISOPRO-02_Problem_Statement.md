@@ -238,7 +238,7 @@ With effective BISO implementation, the organization will achieve:
 
 3. **Stakeholder Alignment** - Engage key business leaders using [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md)
 
-4. **Implementation Planning** - Begin Phase 1 implementation following [Implementation Guide](./BISO_GUIDE-02_Implementation.md)
+4. **Implementation Planning** - Begin Phase 1 implementation following [Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md)
 
 ### **Decision Framework**
 
@@ -255,8 +255,8 @@ With effective BISO implementation, the organization will achieve:
 
 ### **Implementation Timeline**
 - **Month 1**: Program authorization and executive alignment
-- **Months 1-3**: [Phase 1 Foundation](./BISO_GUIDE-02_Implementation.md#phase-1-foundation-months-1-3) implementation
-- **Months 4-6**: [Phase 2 Structure](./BISO_GUIDE-02_Implementation.md#phase-2-structure-and-authority-months-4-6) deployment
+- **Months 1-3**: [Phase 1 Foundation](../guides/BISO_GUIDE-02_Implementation.md#phase-1-foundation-months-1-3) implementation
+- **Months 4-6**: [Phase 2 Structure](../guides/BISO_GUIDE-02_Implementation.md#phase-2-structure-and-authority-months-4-6) deployment
 - **Month 12**: Full program operational with measurable ROI
 
 **The cost of inaction ($3.2-4.8M annually) far exceeds the cost of BISO program implementation ($2.5-3M total). Every month of delay costs the organization $270K-400K in continued inefficiencies.**
@@ -283,7 +283,7 @@ With effective BISO implementation, the organization will achieve:
 - [BISO Solution Framework](#biso-solution-framework) - How BISO solves each problem
 - [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) - Detailed financial analysis
 - [Charter](./BISOPRO-01_Charter.md) - Program authorization framework
-- [Implementation Guide](./BISO_GUIDE-02_Implementation.md) - Step-by-step deployment
+- [Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md) - Step-by-step deployment
 
 ---
 *Document Version: 2.0*  

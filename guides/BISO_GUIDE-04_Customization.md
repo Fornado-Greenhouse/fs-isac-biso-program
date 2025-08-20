@@ -485,7 +485,7 @@ Certification Priority Matrix:
 
 ### Compliance Framework Integration
 
-Organizations must align their BISO program with relevant compliance frameworks while maintaining operational effectiveness. Different frameworks require specific customization approaches as referenced in [BISOPRO-12 Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#regulatory-and-compliance-context).
+Organizations must align their BISO program with relevant compliance frameworks while maintaining operational effectiveness. Different frameworks require specific customization approaches as referenced in [BISOPRO-12 Risk Assessment Methodology](../deliverables/BISOPRO-12_Risk_Assessment_Methodology.md#regulatory-and-compliance-context).
 
 #### ISO 27001 Alignment
 **Customization Requirements**:
@@ -538,7 +538,7 @@ Organizations must align their BISO program with relevant compliance frameworks 
 
 ### Industry-Specific Regulatory Standards
 
-Beyond general frameworks, organizations must customize for industry-specific standards as outlined in [BISOPRO-16 Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#regulatory-excellence).
+Beyond general frameworks, organizations must customize for industry-specific standards as outlined in [BISOPRO-16 Competitive Analysis](../deliverables/BISOPRO-16_Competitive_Analysis.md#regulatory-excellence).
 
 #### PCI DSS (Payment Card Industry Data Security Standard)
 **Customization Areas**:
@@ -581,7 +581,7 @@ Beyond general frameworks, organizations must customize for industry-specific st
 
 ### Competitive Positioning Factors
 
-Organizations should customize their BISO program to create competitive advantage as detailed in [BISOPRO-16 Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#competitive-advantages).
+Organizations should customize their BISO program to create competitive advantage as detailed in [BISOPRO-16 Competitive Analysis](../deliverables/BISOPRO-16_Competitive_Analysis.md#competitive-advantages).
 
 #### Market Differentiation Strategies
 **Client-Facing Customizations**:
@@ -612,7 +612,7 @@ Organizations should customize their BISO program to create competitive advantag
 
 ### Risk Assessment Methodology Consistency
 
-Ensuring consistent risk assessment across the organization requires careful customization as outlined in [BISOPRO-12 Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#standardized-yet-flexible).
+Ensuring consistent risk assessment across the organization requires careful customization as outlined in [BISOPRO-12 Risk Assessment Methodology](../deliverables/BISOPRO-12_Risk_Assessment_Methodology.md#standardized-yet-flexible).
 
 #### Enterprise Risk Management (ERM) Integration
 **Alignment Requirements**:
@@ -646,7 +646,7 @@ Ensuring consistent risk assessment across the organization requires careful cus
 
 ### Executive Communication Best Practices
 
-Effective executive communication requires customization based on organizational culture and leadership preferences as described in [BISOPRO-13 Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#briefing-architecture).
+Effective executive communication requires customization based on organizational culture and leadership preferences as described in [BISOPRO-13 Executive Briefing Framework](../deliverables/BISOPRO-13_Executive_Briefing_Framework.md#briefing-architecture).
 
 #### Executive Preference Mapping and Customization
 **Assessment Areas**:
@@ -679,7 +679,7 @@ Effective executive communication requires customization based on organizational
 
 ### Continuous Improvement Approaches
 
-Organizations must customize their continuous improvement approach based on organizational maturity and culture as outlined in [BISOPRO-22 Business Evolution Framework](./BISOPRO-22_Business_Evolution_Framework.md#continuous-improvement-framework).
+Organizations must customize their continuous improvement approach based on organizational maturity and culture as outlined in [BISOPRO-22 Business Evolution Framework](../deliverables/BISOPRO-22_Business_Evolution_Framework.md#continuous-improvement-framework).
 
 #### Maturity-Based Evolution Framework
 **Emerging Programs** (Years 1-2):
