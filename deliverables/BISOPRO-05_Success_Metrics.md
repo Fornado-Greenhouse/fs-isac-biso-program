@@ -187,7 +187,7 @@
 ## Getting Started Implementation Guide
 *Step-by-step deployment process for immediate implementation*
 
-> **Note**: For high-level implementation sequencing and dependencies, see the [BISO Program Implementation Guide](./BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics). For customization guidance, see the [BISO Program Customization Guide](./BISO_GUIDE-04_Customization.md#bisopro-5-biso-success-metrics).
+> **Note**: For high-level implementation sequencing and dependencies, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics). For customization guidance, see the [BISO Program Customization Guide](../guides/BISO_GUIDE-04_Customization.md#bisopro-5-biso-success-metrics).
 
 ### **Phase 2: Metrics Foundation (Month 4, Week 1-2)**
 
@@ -634,7 +634,7 @@ RECURRING CALENDAR EVENTS:
 ## Automation Implementation Guide
 *Reduce manual effort through systematic automation of data collection and reporting*
 
-> **Note**: This section provides detailed automation specifications. For overall implementation sequencing, see the [BISO Program Implementation Guide](./BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics).
+> **Note**: This section provides detailed automation specifications. For overall implementation sequencing, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics).
 
 ### **Tier 1: High-Impact Automation (Month 1 Implementation)**
 

@@ -571,9 +571,9 @@ The BISO serves as the primary interface between cybersecurity and business oper
 - [BISOPRO-21: Challenge Mitigation Framework](./BISOPRO-21_Challenge_Mitigation_Framework.md) - Common challenge prevention and resolution
 
 ### **📚 Implementation Guides**
-- [BISO_GUIDE-02: Implementation](./BISO_GUIDE-02_Implementation.md) - Step-by-step deployment guidance
-- [BISO_GUIDE-03: Technology Strategy](./BISO_GUIDE-03_Technology_Strategy.md) - Technology integration framework
-- [BISO_GUIDE-04: Performance Optimization](./BISO_GUIDE-04_Performance_Optimization.md) - Continuous improvement methodology
+- [BISO_GUIDE-02: Implementation](../guides/BISO_GUIDE-02_Implementation.md) - Step-by-step deployment guidance
+- [BISO_GUIDE-03: Technology Strategy](../guides/BISO_GUIDE-03_Technology_Strategy.md) - Technology integration framework
+- [BISO_GUIDE-04: Performance Optimization](../guides/BISO_GUIDE-04_Performance_Optimization.md) - Continuous improvement methodology
 
 ---
 
