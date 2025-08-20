@@ -15,7 +15,7 @@ The Business Information Security Officer (BISO) program delivers measurable ROI
 **Total Program Benefits**: $4.8M by Month 12
 **Net ROI**: 71% first year, building to sustained competitive advantage
 
-*For detailed implementation milestones and operational activities, see [Implementation Guide](./BISO_GUIDE-02_Implementation.md)*
+*For detailed implementation milestones and operational activities, see [Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md)*
 
 ## Financial Analysis
 

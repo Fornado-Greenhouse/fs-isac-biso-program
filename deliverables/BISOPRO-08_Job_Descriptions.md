@@ -580,7 +580,7 @@ We are an equal opportunity employer committed to diversity and inclusion per ou
 ## BISO Onboarding and Integration Implementation Guide
 *Comprehensive deployment process for BISO team members and organizational integration*
 
-> **Note**: For high-level implementation sequencing and dependencies, see the [BISO Program Implementation Guide](./BISO_GUIDE-02_Implementation.md#bisopro-8-biso-job-descriptions). For customization guidance, see the [BISO Program Customization Guide](./BISO_GUIDE-04_Customization.md#bisopro-8-biso-job-descriptions).
+> **Note**: For high-level implementation sequencing and dependencies, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-8-biso-job-descriptions). For customization guidance, see the [BISO Program Customization Guide](../guides/BISO_GUIDE-04_Customization.md#bisopro-8-biso-job-descriptions).
 
 ### **Phase 2: BISO Team Integration (Months 4-6)**
 

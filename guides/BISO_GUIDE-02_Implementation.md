@@ -46,7 +46,7 @@ This strategic implementation guide provides organizational leaders with the com
 - [ ] Contingency budget (10% of total) allocated for program adjustments
 - [ ] External consulting budget ($50-100K) approved for specialized support
 
-*For detailed charter development and approval process, see [Charter Post-Approval Actions](./BISOPRO-01_Charter.md#post-approval-actions)*
+*For detailed charter development and approval process, see [Charter Post-Approval Actions](../deliverables/BISOPRO-01_Charter.md#post-approval-actions)*
 
 ### Strategic Foundation Assessment
 
@@ -62,7 +62,7 @@ This strategic implementation guide provides organizational leaders with the com
 - [ ] Security team capacity and collaboration readiness evaluation
 - [ ] Cross-functional support team identification (HR, Finance, Legal, Audit)
 
-*For comprehensive stakeholder identification methodology, see [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-identification)*
+*For comprehensive stakeholder identification methodology, see [Stakeholder Engagement Protocols](../deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-identification)*
 
 ### Implementation Capacity Assessment
 
@@ -216,10 +216,10 @@ Before proceeding to Phase 3:
 - [ ] Phase 3 planning complete
 
 **Detailed Implementation Checklists:**
-- *Authority deployment*: [Authority Framework Implementation Checklist](./BISOPRO-06_Authority_Framework.md#implementation-templates)
-- *Reporting structure*: [Reporting Structure Implementation](./BISOPRO-07_Reporting_Structure.md#implementation-considerations)
-- *Process deployment*: [Key Processes Implementation Checklists](./BISOPRO-09_Key_Processes_Implementation.md#core-process-implementation)
-- *Team onboarding*: [BISO Hiring and Onboarding Checklists](./BISOPRO-08_Job_Descriptions.md#biso-hiring-process)
+- *Authority deployment*: [Authority Framework Implementation Checklist](../deliverables/BISOPRO-06_Authority_Framework.md#implementation-templates)
+- *Reporting structure*: [Reporting Structure Implementation](../deliverables/BISOPRO-07_Reporting_Structure.md#implementation-considerations)
+- *Process deployment*: [Key Processes Implementation Checklists](../deliverables/BISOPRO-09_Key_Processes_Implementation.md#core-process-implementation)
+- *Team onboarding*: [BISO Hiring and Onboarding Checklists](../deliverables/BISOPRO-08_Job_Descriptions.md#biso-hiring-process)
 
 ## Phase 3: Strategic Value Demonstration (Months 7-12)
 
