@@ -19,9 +19,13 @@ This is a comprehensive Business Information Security Officer (BISO) program imp
 - **Format Pattern**: `alex/for-[issue-number]-[kebab-case-descriptive-title]`
 - **Branch Lifecycle**: Once a PR is created, do NOT reuse that branch for new work - create new branches for new work
 
-### Git Workflow
-- Always commit and push changes after major document updates
-- Use descriptive commit messages with Linear issue references
+### Git Workflow (CRITICAL - ALWAYS FOLLOW)
+- **NEVER push directly to main branch** - all changes must go through pull requests
+- **ALWAYS create feature branches** for any changes, even simple fixes
+- Use Linear branch names from `gitBranchName` field (check issue first with `mcp__Linear__get_issue`)
+- Always commit and push changes to feature branches
+- **ALWAYS create pull requests** for merging to main - no direct pushes allowed
+- Use descriptive commit messages with Linear issue references and magic words
 - **Line Number Preference**: Include specific line numbers in commit messages when referencing complex document changes for precise tracking
 - Example: "Completes FOR-74: Add financial quantification and navigation to BISOPRO-02 Problem Statement"
 - Example with line numbers: "Completes FOR-76: Transform BISOPRO-06 Authority Framework with executive summary (lines 3-26), navigation (lines 30-55), and visual elements (lines 160-236)"
@@ -217,6 +221,7 @@ Implementation guides should provide:
 - Always read full documents before making changes
 - Don't duplicate financial models across documents (centralize in BISOPRO-11)
 - Always check Linear for expected branch names before creating branches
+- **NEVER push directly to main** - always use pull requests for ALL changes
 
 ## Visual Framework and Table Standards
 - **PRESERVE MARKDOWN TABLES**: Never convert markdown tables to ASCII/Unicode tables - keep them as standard markdown
