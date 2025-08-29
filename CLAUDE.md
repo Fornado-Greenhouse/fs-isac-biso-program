@@ -4,7 +4,7 @@
 This is a comprehensive Business Information Security Officer (BISO) program implementation framework consisting of 30 interconnected documents (25 deliverables + 5 guides) with 500+ cross-references. The framework enables organizations to implement world-class BISO programs that deliver 4-5:1 ROI through systematic business-security integration.
 
 ## Current Status
-- **Version**: 2.2 (Complete Implementation Framework + Technology Strategy)
+- **Version**: 2.3 (Complete Implementation Framework + Enhanced Visual Standards)
 - **Total Documents**: 30 (25 deliverables + 5 implementation guides)
 - **Implementation Timeline**: 18-24 months
 - **Total Investment**: $2.9-3.6M (program + technology)
@@ -15,7 +15,7 @@ This is a comprehensive Business Information Security Officer (BISO) program imp
 ### Linear Branch Naming Convention
 **ALWAYS check Linear for expected branch name** - Linear auto-generates expected branch names in the `gitBranchName` field:
 - **Never guess or assume branch names** - always check the issue details first using `mcp__Linear__get_issue`
-- Example from FOR-117: `alex/for-117-minor-customization-gaps-following-for-116-implementation`
+- Example: `alex/for-129-create-visual-strategic-framework`
 - **Format Pattern**: `alex/for-[issue-number]-[kebab-case-descriptive-title]`
 - **Branch Lifecycle**: Once a PR is created, do NOT reuse that branch for new work - create new branches for new work
 
@@ -65,13 +65,15 @@ This is a comprehensive Business Information Security Officer (BISO) program imp
 - **Core Program Documents**: BISOPRO-## format (e.g., BISOPRO-01_Charter.md)
 - **Implementation Guides**: BISO_GUIDE-## format (e.g., BISO_GUIDE-02_Implementation.md)
 - **Supporting Documents**: BISOPRO-## for specialized frameworks (e.g., BISOPRO-23_Core_Competencies_Development.md)
+- **Index Document**: INDEX.md for cross-reference mapping
 
 ## Master Timeline (Critical for Timeline Consistency)
 All documents must align with this master timeline:
-- **Phase 1**: Months 1-3
-- **Phase 2**: Months 4-6  
-- **Phase 3**: Months 7-12
-- **Phase 4**: Months 13-15
+- **Phase 1**: Months 1-3 (Foundation)
+- **Phase 2**: Months 4-6 (Structure)
+- **Phase 3**: Months 7-12 (Strategic Value)
+- **Phase 4**: Months 13-15 (Continuous Improvement)
+- **Total Implementation**: 18-24 months including optimization
 
 ### Implementation Tracker Maintenance
 **ALWAYS UPDATE BISO_Master_Implementation_Tracker.csv** when modifying implementation timelines, dependencies, or task sequences. This CSV is the authoritative implementation tracking tool used by organizations to monitor progress and manage resources.
@@ -82,11 +84,12 @@ All documents must align with this master timeline:
 - Every document should reference 8-15 other framework documents using relative links
 - Format: `[Document Name](./FILENAME.md#specific-section)`
 - Maintain cross-reference integrity when editing any document
+- Use INDEX.md to verify concept coverage before creating new content
 
 ### Wikipedia-Style Navigation
 All major documents should include:
 - Executive Summary with key decisions/outcomes
-- Quick Navigation section for different audiences (Executives, Implementation Teams, Program Managers)
+- Quick Navigation section for different audiences (Executives, Implementation Teams, Program Managers, BISOs)
 - Jump-to links within document for major sections
 - Navigation section at document end for quick reference
 
@@ -96,6 +99,7 @@ When adding business value or cost analysis:
 - Include industry benchmarks and peer comparisons  
 - Show ROI calculations with time horizons
 - Reference supporting analysis in related documents
+- **NOTE**: Financial models are centralized in BISOPRO-11 to avoid duplication
 
 ### Visual Enhancement Standards
 For complex frameworks, include:
@@ -103,10 +107,12 @@ For complex frameworks, include:
 - RACI matrices with clear accountability
 - Implementation timelines with specific phases
 - Process flowcharts using text-based diagrams
+- Professional box-drawing characters with consistent formatting
+- Status indicators using traffic light system (🟢🟡🔴)
 
 ## Linear Issue Integration
-- This project uses Linear for task management (issues like FOR-72, FOR-73, FOR-74)
-- When committing changes that address Linear issues, use magic words in commit messages:
+- This project uses Linear for task management (issues like FOR-129, FOR-123, etc.)
+- When committing changes that address Linear issues, use magic words in commit messages
 
 ### Closing Magic Words (Complete/Close Issues)
 - **close, closes, closed, closing**: Standard issue closure
@@ -152,6 +158,7 @@ For complex frameworks, include:
 
 ### Project Structure Understanding
 - Project: "FS-ISAC BISO Program"
+- Team: "FS-ISAC BISO Program"
 - Always filter by correct project when searching to avoid irrelevant results
 
 ## Key Working Patterns
@@ -169,6 +176,7 @@ When fixing timeline inconsistencies:
 - Update all timeline references throughout each document
 - Verify alignment with master timeline above
 - Search for "week", "month", "year", "day" to catch all references
+- Update BISO_Master_Implementation_Tracker.csv accordingly
 
 ### Implementation Guide Standards
 Implementation guides should provide:
@@ -177,18 +185,21 @@ Implementation guides should provide:
 - Success criteria and checkpoints
 - Customization guidance for different organizations
 - Technology integration requirements
+- Clear differentiation between guides (avoid duplication)
 
 ## Technology Strategy
-- **Focused Investment**: $400-625K (vs. original $1.2-1.8M)
+- **Focused Investment**: $400-625K (reduced from original $1.2-1.8M)
 - **Leverage Existing**: Use 70% of existing enterprise infrastructure
-- **Custom Development**: Only for BISO-specific capabilities
+- **Custom Development**: Only for BISO-specific capabilities (30%)
 - **5 Core Applications**: Risk Assessment Engine, Consultation Management, Performance Dashboard, Stakeholder Portal, Integration Engine
+- **Integration Focus**: Seamless business-security data flow
 
 ## Testing Commands
 - **Lint**: Check if npm run lint or similar commands exist
 - **Build**: Check if npm run build or similar commands exist  
 - **Type Check**: Check if npm run typecheck exists
 - Always run these after major changes if they exist in the project
+- Note: This is primarily a documentation framework (no code to test)
 
 ## Success Metrics
 - **Document Quality**: Comprehensive cross-referencing, executive-ready content
@@ -196,7 +207,7 @@ Implementation guides should provide:
 - **Implementation Ready**: Step-by-step guidance with specific deliverables
 - **Business Value**: Clear ROI and financial quantification throughout
 - **User Feedback**: Detailed line-by-line tracking as requested
-- **CRITICAL REALISM REQUIREMENT**: Processes must be ACHIEVABLE in large organizations - no perfect integration assumptions, no unrealistic automation, no unified systems that don't exist. Focus on pragmatic wins within existing constraints.
+- **CRITICAL REALISM REQUIREMENT**: Processes must be ACHIEVABLE in large organizations - no perfect integration assumptions, no unrealistic automation, no unified systems that don't exist. Focus on pragmatic wins within existing constraints
 
 ## Common Pitfalls to Avoid
 - Don't assume file structure - always check what exists
@@ -204,6 +215,8 @@ Implementation guides should provide:
 - Don't commit without Linear magic words when working on specific issues
 - Don't create new files unless explicitly requested
 - Always read full documents before making changes
+- Don't duplicate financial models across documents (centralize in BISOPRO-11)
+- Always check Linear for expected branch names before creating branches
 
 ## Visual Framework and Table Standards
 - **PRESERVE MARKDOWN TABLES**: Never convert markdown tables to ASCII/Unicode tables - keep them as standard markdown
@@ -211,6 +224,7 @@ Implementation guides should provide:
 - **VISUAL CONSISTENCY**: Use simple, consistent box-drawing characters for dashboard-style frames (prefer single-line borders for easier alignment)
 - **STATUS INDICATORS**: Use traffic light system consistently across all visual frameworks
 - **TABLE FORMAT**: Always maintain pipe-separated markdown tables for data presentation
+- **PROFESSIONAL DESIGN**: Follow BISOPRO-06 Authority Framework visual standards for consistency
 
 ## Context for Future Sessions
-This framework represents 4 phases of intensive development creating the most comprehensive BISO implementation guide available. The documents are highly interconnected and must maintain consistency across all 30 core components. Focus on systematic enhancement rather than individual document optimization.
+This framework represents 4 phases of intensive development creating the most comprehensive BISO implementation guide available. The documents are highly interconnected and must maintain consistency across all 30 core components. Focus on systematic enhancement rather than individual document optimization. Phase 1, 2, and 3 documents have undergone multiple rounds of quality enhancement and now meet 8+/10 quality standards. Phase 4 documents (BISOPRO-20, 21, 22) and supporting documents (BISOPRO-23, 24, 25) still require quality enhancement to meet framework standards.
