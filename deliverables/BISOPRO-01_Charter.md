@@ -1,4 +1,6 @@
 # Business Information Security Officer (BISO) Program Charter
+**Implementation Phase**: 1 (Months 1-3)  
+**Document Type**: Program Authorization
 
 ## Executive Summary
 
@@ -44,12 +46,10 @@
 
 ## Document Control
 
-### **Version Information**
+### **Document Information**
 - **Document Title**: Business Information Security Officer (BISO) Program Charter
 - **Document ID**: BISOPRO-01
-- **Current Version**: 2.0 (Enhanced with navigation and visual hierarchy)
 - **Effective Date**: August 1, 2025
-- **Document Owner**: Alex Foley, BISO Program Director
 - **Document Steward**: BISO Program Management Office
 - **Classification**: Internal Use - Executive Decision Document
 
@@ -62,12 +62,12 @@
 ### **Document Lifecycle Management**
 - **Review Cycle**: Semi-annual (February & August)
 - **Change Control**: Formal change request process via BISO Program Office
-- **Version History**: Maintained in program management system
+- **Change History**: Maintained in program management system
 - **Distribution**: Executive team, business unit leaders, BISO program stakeholders
-- **Archive Policy**: Previous versions retained for 3 years for compliance audit trail
+- **Archive Policy**: Previous iterations retained for 3 years for compliance audit trail
 
 ### **Contact Information**
-- **Program Director**: Alex Foley (alex.foley@organization.com)
+- **Program Director**: [Name] ([email])
 - **Executive Sponsor**: [CISO Name] ([ciso@organization.com])
 - **Program Coordinator**: [Coordinator Name] ([coordinator@organization.com])
 - **Legal Review**: [Legal Counsel] ([legal@organization.com])
@@ -455,7 +455,7 @@ The BISO serves as the primary interface between cybersecurity and business oper
 │                                                                              │
 │ Program Director                                                             │
 │ Signature: _________________________________ Date: _______________           │
-│ Name: Alex Foley                                                             │
+│ Name: [Program Director Name]                                                │
 │ Title: BISO Program Director                                                 │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -578,11 +578,11 @@ The BISO serves as the primary interface between cybersecurity and business oper
 ---
 
 ### **📞 Quick Contact Reference**
-- **Program Director**: Alex Foley - alex.foley@organization.com
+- **Program Director**: [Name] - [email]
 - **Executive Sponsor**: [CISO Name] - ciso@organization.com  
 - **Program Support**: [Coordinator] - biso-program@organization.com
 - **Emergency Escalation**: Follow [Escalation Framework](./BISOPRO-25_Escalation_Decision_Framework.md)
 
 ---
 
-*This charter establishes the foundation for a successful BISO program that aligns cybersecurity capabilities with business objectives, enabling secure business growth and competitive advantage through systematic business-security integration.*
+*Implementation Phase: 1 (Months 1-3)*
