@@ -4,7 +4,6 @@
 This is a comprehensive Business Information Security Officer (BISO) program implementation framework consisting of 30 interconnected documents (25 deliverables + 5 guides) with 500+ cross-references. The framework enables organizations to implement world-class BISO programs that deliver 4-5:1 ROI through systematic business-security integration.
 
 ## Current Status
-- **Version**: 2.3 (Complete Implementation Framework + Enhanced Visual Standards)
 - **Total Documents**: 30 (25 deliverables + 5 implementation guides)
 - **Implementation Timeline**: 18-24 months
 - **Total Investment**: $2.9-3.6M (program + technology)
@@ -222,6 +221,11 @@ Implementation guides should provide:
 - Don't duplicate financial models across documents (centralize in BISOPRO-11)
 - Always check Linear for expected branch names before creating branches
 - **NEVER push directly to main** - always use pull requests for ALL changes
+- **NEVER hard-code progress statements** - use Linear as single source of truth for project status
+- **AVOID quality ratings** - document quality is determined by Linear issue completion, not static ratings
+- **NEVER include version numbers** - avoid document versioning, framework versioning, or any version references in documents
+- **AVOID date metadata** - do not include creation dates, modification dates, or "Last Updated" information in documents
+- **AVOID owner metadata** - do not include "Owner:", "Document Owner", or personal names in document metadata
 
 ## Visual Framework and Table Standards
 - **PRESERVE MARKDOWN TABLES**: Never convert markdown tables to ASCII/Unicode tables - keep them as standard markdown
@@ -232,4 +236,17 @@ Implementation guides should provide:
 - **PROFESSIONAL DESIGN**: Follow BISOPRO-06 Authority Framework visual standards for consistency
 
 ## Context for Future Sessions
-This framework represents 4 phases of intensive development creating the most comprehensive BISO implementation guide available. The documents are highly interconnected and must maintain consistency across all 30 core components. Focus on systematic enhancement rather than individual document optimization. Phase 1, 2, and 3 documents have undergone multiple rounds of quality enhancement and now meet 8+/10 quality standards. Phase 4 documents (BISOPRO-20, 21, 22) and supporting documents (BISOPRO-23, 24, 25) still require quality enhancement to meet framework standards.
+This framework represents 4 phases of intensive development creating the most comprehensive BISO implementation guide available. The documents are highly interconnected and must maintain consistency across all 30 core components. Focus on systematic enhancement rather than individual document optimization. 
+
+**Current Progress Status**: For up-to-date project status and remaining work, consult Linear project management system:
+- Use `mcp__Linear__list_issues` with team="FS-ISAC BISO Program" and project="FS-ISAC BISO Program"
+- Check issue status and priorities to understand current phase completion levels
+- Review open issues to identify remaining enhancement work needed across all phases
+- All project tracking moved to Linear to maintain single source of truth for progress
+
+**Linear Integration Best Practices**:
+- Always query Linear before making progress assessments
+- Reference specific Linear issues (FOR-XXX) in commit messages and documentation
+- Use Linear issue status (Todo/In Progress/Done) rather than static quality ratings
+- Document completion notes should reference the Linear issue that addressed the work
+- Keep documentation focused on framework content, not progress tracking
