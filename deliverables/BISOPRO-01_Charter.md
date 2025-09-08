@@ -19,7 +19,7 @@
 ## Quick Navigation
 
 **For Executives:**
-- [Charter at a Glance](#-executive-summary--quick-start) - 30-second decision summary
+- [Charter at a Glance](#executive-summary) - 30-second decision summary
 - [Authority & Decision Rights](#authority-and-decision-rights) - What BISOs can decide
 - [Success Framework](#success-framework) - How we measure value
 - [Approval Process](#approval-and-authorization) - Next steps for charter authorization

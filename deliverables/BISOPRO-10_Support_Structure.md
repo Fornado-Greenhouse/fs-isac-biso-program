@@ -30,7 +30,7 @@ This document defines the comprehensive support structure required for effective
 ## Quick Navigation
 
 **For Executives:**
-- [Support Structure at a Glance](#-support-structure-at-a-glance--quick-start) - 30-second support strategy overview
+- [Support Structure at a Glance](#overview) - 30-second support strategy overview
 - [Team Architecture Overview](#team-architecture-overview) - Visual team structure and coordination model
 - [Resource Investment Summary](#resource-investment-summary) - Support costs, ROI, and value delivery
 - [Support Performance Dashboard](#support-performance-dashboard) - Real-time effectiveness monitoring
@@ -51,7 +51,7 @@ This document defines the comprehensive support structure required for effective
 - [Support Services Overview](#support-services-overview) - Available support capabilities and engagement procedures
 - [Stakeholder Communication Channels](#stakeholder-communication-channels) - Engagement options and feedback mechanisms
 - [Performance Measurement](#infrastructure-success-metrics) - Support effectiveness tracking and optimization
-- [Resource Request Procedures](#resource-allocation-and-coordination) - How to engage support resources
+- [Resource Request Procedures](#resource-allocation-and-coordination-templates) - How to engage support resources
 
 ---
 

@@ -7,7 +7,7 @@
 ## Quick Navigation
 
 **For Executives:**
-- [Authority at a Glance](#-authority-at-a-glance--quick-start) - 30-second authority overview
+- [Authority at a Glance](#overview) - 30-second authority overview
 - [Decision Authority Matrix](#decision-authority-matrix) - Clear decision rights and approval requirements
 - [Authority Accountability](#authority-accountability) - Performance measurement and responsibility framework
 - [Authority Review and Evolution](#authority-review-and-evolution) - Governance and continuous improvement
@@ -28,7 +28,7 @@
 - [Delegation Documentation](#delegation-documentation) - Formal authority delegation and documentation
 - [Authority Enablement](#authority-enablement) - Resource allocation and information access
 - [Implementation Templates](#implementation-templates) - Authority deployment and management procedures
-- [Authority Measurement](#authority-measurement) - Performance tracking and optimization
+- [Authority Measurement](#authority-accountability) - Performance tracking and optimization
 
 ---
 
