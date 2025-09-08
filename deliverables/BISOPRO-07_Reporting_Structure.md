@@ -24,7 +24,7 @@ This document defines the optimal organizational reporting structure for the Bus
 ## Quick Navigation
 
 **For Executives:**
-- [Reporting Structure at a Glance](#-reporting-structure-at-a-glance--quick-start) - 30-second organizational overview
+- [Reporting Structure at a Glance](#overview) - 30-second organizational overview
 - [Primary Reporting Structure](#primary-reporting-structure) - CISO direct reporting rationale and benefits
 - [Independence Framework](#independence-framework) - Technology separation and objectivity safeguards
 - [Review and Governance](#review-and-governance) - Organizational effectiveness measurement and optimization

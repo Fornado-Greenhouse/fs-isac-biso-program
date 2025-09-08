@@ -20,8 +20,8 @@ The BISO Strategic Alignment Framework enables systematic integration of securit
 ### For Executives
 - [Strategic Decision Requirements](#strategic-decision-requirements) - Key decisions and approvals needed
 - [Implementation Framework](#implementation-framework) - Strategic deployment approach
-- [Implementation Timeline](#executive-implementation-roadmap) - Strategic milestones and commitments
-- [Success Measurement](#executive-dashboard-framework) - Strategic alignment performance tracking
+- [Implementation Timeline](#overview) - Strategic milestones and commitments
+- [Success Measurement](#strategic-alignment-models) - Strategic alignment performance tracking
 
 ### For Implementation Teams  
 - [Alignment Models](#strategic-alignment-models) - Detailed model specifications and deployment guidance

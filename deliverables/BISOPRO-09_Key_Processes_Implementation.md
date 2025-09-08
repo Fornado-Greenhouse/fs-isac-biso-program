@@ -35,10 +35,10 @@ This document defines the core operational processes that enable effective BISO 
 ## Quick Navigation
 
 **For Executives:**
-- [Key Processes at a Glance](#-key-processes-at-a-glance--quick-start) - 30-second process overview with $4.8M+ value delivery summary
+- [Key Processes at a Glance](#overview) - 30-second process overview with value delivery summary
 - [Executive Process Flow](#executive-process-decision-framework) - Visual decision tree for process oversight and approval
-- [Business Value Metrics](#business-value-metrics) - ROI and value delivery tracking with performance tier monitoring
-- [Implementation Roadmap](#implementation-roadmap) - Phased deployment timeline with executive milestones
+- [Business Value Metrics](#executive-summary) - ROI and value delivery tracking with performance tier monitoring
+- [Implementation Roadmap](#process-architecture-overview) - Phased deployment timeline with executive milestones
 - [Risk Management](#risk-management-and-mitigation) - Process risks and success assurance with executive escalation
 
 **For BISOs:**
@@ -58,7 +58,7 @@ This document defines the core operational processes that enable effective BISO 
 
 **For Process Owners:**
 - [Process Steps](#process-steps) - Detailed workflows and activities
-- [RACI Matrices](#process-raci-matrices) - Clear roles and responsibilities
+- [RACI Matrices](#executive-process-decision-framework) - Clear roles and responsibilities
 - [Integration Points](#process-integration-and-coordination) - Cross-process dependencies
 - [Optimization Framework](#process-optimization-framework) - Continuous improvement approach
 

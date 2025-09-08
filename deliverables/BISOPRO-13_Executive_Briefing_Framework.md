@@ -25,13 +25,13 @@ This executive briefing component of the BISO program transforms complex securit
 - [Executive Dashboard Overview](#executive-dashboard) - Real-time visibility into program performance
 - [Quarterly Strategic Briefings](#quarterly-executive-briefings) - Strategic decision support and value demonstration
 - [Crisis Communication Protocols](#crisis-communication-protocols) - Emergency briefing procedures and escalation
-- [ROI and Value Reporting](#business-value-demonstration) - Financial performance and competitive advantage
+- [ROI and Value Reporting](#executive-summary) - Financial performance and competitive advantage
 
 ### For Board/Audit Committee
-- [Board Briefing Templates](#board-reporting) - Governance-focused reporting and oversight
-- [Risk Communication](#risk-reporting-dashboard) - Enterprise risk visibility and management
-- [Regulatory Status Reporting](#regulatory-compliance-communication) - Compliance posture and examiner relationships
-- [Competitive Position Updates](#competitive-advantage-reporting) - Market differentiation and industry leadership
+- [Board Briefing Templates](#briefing-architecture) - Governance-focused reporting and oversight
+- [Risk Communication](#executive-dashboard) - Enterprise risk visibility and management
+- [Regulatory Status Reporting](#quarterly-executive-briefings) - Compliance posture and examiner relationships
+- [Competitive Position Updates](#briefing-architecture) - Market differentiation and industry leadership
 
 ### For Implementation Teams
 - [Briefing Production Process](#briefing-management) - Content creation and review workflows
