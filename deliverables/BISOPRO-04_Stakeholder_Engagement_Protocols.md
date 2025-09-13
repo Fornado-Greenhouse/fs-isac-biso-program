@@ -279,28 +279,285 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 ## Relationship Management Framework
 *This framework supports all [Engagement Strategies](#engagement-strategy-framework) and is measured through [Performance Metrics](#performance-measurement-and-continuous-improvement)*
 
-### Trust Building and Maintenance
+### Trust Equation Measurement Framework
 
-**Trust Building Strategy**:
-- **Consistency**: Consistent delivery on commitments and promises to stakeholders
-- **Transparency**: Open and honest communication about challenges, limitations, and trade-offs
-- **Competence**: Demonstration of technical and business competence through quality deliverables
-- **Reliability**: Reliable performance and stakeholder support across all interactions
-- **Integrity**: Ethical behavior and decision-making that prioritizes stakeholder and organizational interests
+**Trust Equation Foundation** (Green, Maister, Galford Model)
 
-**Relationship Building Activities**:
-- **Regular Engagement**: Consistent and regular engagement with key stakeholders
-- **Value Delivery**: Consistent delivery of value through BISO services and support
-- **Problem Solving**: Proactive problem-solving and issue resolution for stakeholders
-- **Knowledge Sharing**: Sharing of knowledge, insights, and best practices with stakeholders
-- **Support During Challenges**: Active support and partnership during difficult situations
+**Trust = (Credibility + Reliability + Intimacy) / Self-Orientation**
 
-**Trust Measurement and Monitoring**:
-- **Trust Surveys**: Regular surveys to measure stakeholder trust and confidence levels
-- **Relationship Health Metrics**: Metrics to assess relationship health and effectiveness
-- **Feedback Analysis**: Analysis of stakeholder feedback for trust and relationship insights
-- **Behavioral Indicators**: Monitoring of stakeholder behavior for trust and engagement indicators
-- **Continuous Improvement**: Continuous improvement of trust-building activities and approaches
+This operational framework systematically builds and measures trust across all stakeholder relationships using the established Trust Equation model from "The Trusted Advisor" by Charles H. Green, David Maister, and Robert Galford. Trust measurement directly correlates with BISO program effectiveness and stakeholder satisfaction.
+
+### Trust Equation Components Assessment
+
+**Credibility Assessment Framework**:
+- **Technical Expertise**: Demonstrated mastery of security frameworks, business knowledge, and industry standards
+- **Business Acumen**: Understanding of business operations, financial impact, and strategic objectives
+- **Track Record**: History of successful security implementations, risk mitigation, and business value delivery
+- **Industry Recognition**: Professional certifications, speaking engagements, and peer recognition
+- **Competency Validation**: Regular assessment against [Core Competencies Development](./BISOPRO-23_Core_Competencies_Development.md) standards
+
+**Reliability Assessment Framework**:
+- **Delivery Consistency**: Meeting commitments, deadlines, and quality standards consistently
+- **Communication Dependability**: Regular, timely, and consistent stakeholder communication
+- **Availability Responsiveness**: Accessible and responsive to stakeholder needs and urgent situations
+- **Process Adherence**: Following established procedures and maintaining service quality standards
+- **Predictable Excellence**: Stakeholders can depend on consistent, high-quality BISO performance
+
+**Intimacy Assessment Framework**:
+- **Safe Communication Environment**: Stakeholders feel secure discussing sensitive security concerns and business challenges
+- **Confidentiality Assurance**: Stakeholders trust BISO with confidential business information and strategic plans
+- **Discretion in Relationships**: BISO demonstrates appropriate judgment in handling sensitive stakeholder situations
+- **Emotional Safety**: Stakeholders feel comfortable admitting mistakes, asking questions, and expressing concerns
+- **Professional Boundaries**: BISO maintains appropriate professional intimacy that builds confidence without overreach
+
+**Self-Orientation Assessment Framework**:
+- **Personal Agenda Focus**: How much does the BISO promote security team interests over stakeholder business needs
+- **Communication Style**: How much does the BISO talk/promote vs. listen/understand in stakeholder interactions
+- **Decision-Making Approach**: How much does the BISO control/dictate vs. collaborate in security decisions
+- **Success Measurement**: How much does the BISO focus on security compliance vs. business outcome achievement
+- **Recognition Seeking**: How much does the BISO seek personal/team credit vs. shared stakeholder success
+
+### Trust Measurement Scorecards by Stakeholder Category
+
+**Executive Leadership Trust Scorecard** (Quarterly Assessment):
+```
+TRUST EQUATION SCORECARD - EXECUTIVE LEADERSHIP
+═══════════════════════════════════════════════════════════════════════════════
+Stakeholder: [Executive Name/Role]    Assessment Period: [Quarter/Year]
+BISO: [BISO Name]                     Review Date: [Date]
+
+SCORING INSTRUCTIONS:
+• Credibility, Reliability, Intimacy: 1=Poor, 2=Fair, 3=Good, 4=Very Good, 5=Excellent
+• Self-Orientation: 1=Low self-focus (best), 2=Minimal, 3=Moderate, 4=High, 5=Excessive self-focus (worst)
+
+CREDIBILITY ASSESSMENT
+☐ Strategic Security Knowledge         Score: ___/5
+☐ Business Impact Understanding        Score: ___/5
+☐ Executive Communication Skills       Score: ___/5
+☐ Industry Expertise Recognition       Score: ___/5
+☐ Decision Support Quality             Score: ___/5
+                              Credibility Total: ___/25
+
+RELIABILITY ASSESSMENT
+☐ Commitment Delivery                  Score: ___/5
+☐ Executive Briefing Consistency       Score: ___/5
+☐ Crisis Response Availability         Score: ___/5
+☐ Strategic Timeline Adherence         Score: ___/5
+☐ Performance Predictability           Score: ___/5
+                              Reliability Total: ___/25
+
+INTIMACY ASSESSMENT
+☐ Safe Communication Environment       Score: ___/5
+☐ Confidentiality and Discretion       Score: ___/5
+☐ Emotional Safety for Risk Discussions Score: ___/5
+☐ Professional Boundary Management     Score: ___/5
+☐ Stakeholder Comfort Level            Score: ___/5
+                                Intimacy Total: ___/25
+
+SELF-ORIENTATION ASSESSMENT (Lower scores = higher trust)
+☐ Personal Agenda Focus                Score: ___/5
+☐ Communication Style (talk vs listen) Score: ___/5
+☐ Decision-Making Approach (control vs collaborate) Score: ___/5
+☐ Success Measurement Focus            Score: ___/5
+☐ Recognition Seeking Behavior         Score: ___/5
+                           Self-Orientation Total: ___/25
+
+TRUST EQUATION CALCULATION:
+Trust Score = (Credibility + Reliability + Intimacy) ÷ Self-Orientation
+Trust Score = (___/25 + ___/25 + ___/25) ÷ (___/25) = ___
+
+TRUST LEVEL INTERPRETATION:
+☐ Exceptional Trust (3.0+): Strategic partner and trusted advisor
+☐ Strong Trust (2.5-2.9): Reliable business partner with high confidence
+☐ Moderate Trust (2.0-2.4): Developing partnership requiring enhancement
+☐ Low Trust (1.5-1.9): Fundamental trust issues requiring immediate action
+☐ Critical Trust Gap (<1.5): Relationship crisis requiring intervention
+
+ACTION ITEMS BASED ON ASSESSMENT:
+1. ________________________________
+2. ________________________________
+3. ________________________________
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+### Trust Assessment Survey Framework
+
+**Quarterly Comprehensive Trust Survey** (Anonymous):
+
+```
+BISO TRUST ASSESSMENT SURVEY
+═══════════════════════════════════════════════════════════════════════════════
+Stakeholder Information (Optional):
+Role: [Executive/Business Unit/Technology/Risk-Compliance/External]
+Department/Unit: _________________________
+Interaction Frequency: [Daily/Weekly/Monthly/Quarterly]
+
+Part 1: CREDIBILITY ASSESSMENT
+Rate the BISO's credibility in each area (1=Poor, 5=Excellent):
+
+1. Technical security expertise and knowledge         1  2  3  4  5
+2. Understanding of your business/operational needs   1  2  3  4  5
+3. Quality and practicality of security recommendations 1  2  3  4  5
+4. Industry knowledge and best practice awareness     1  2  3  4  5
+5. Ability to explain complex security concepts clearly 1  2  3  4  5
+
+Part 2: RELIABILITY ASSESSMENT
+Rate the BISO's reliability in each area (1=Poor, 5=Excellent):
+
+6. Keeps commitments and meets deadlines             1  2  3  4  5
+7. Responds to requests and communications promptly  1  2  3  4  5
+8. Maintains consistent quality in work and service  1  2  3  4  5
+9. Available when needed for urgent security matters 1  2  3  4  5
+10. Follows through on promises and action items     1  2  3  4  5
+
+Part 3: PSYCHOLOGICAL SAFETY ASSESSMENT
+Rate your comfort level in each area (1=Very Uncomfortable, 5=Very Comfortable):
+
+11. Discussing security concerns and challenges openly 1  2  3  4  5
+12. Reporting security mistakes or near-misses        1  2  3  4  5
+13. Challenging security recommendations when needed  1  2  3  4  5
+14. Sharing confidential business information for security advice 1  2  3  4  5
+15. Asking "basic" security questions without judgment 1  2  3  4  5
+
+Part 4: SELF-ORIENTATION ASSESSMENT
+Rate how well the BISO demonstrates each behavior (1=Never, 5=Always):
+
+16. Prioritizes your business success over security compliance 1  2  3  4  5
+17. Considers business impact when making security recommendations 1  2  3  4  5
+18. Collaborates rather than dictates security requirements 1  2  3  4  5
+19. Admits when they don't know something or makes mistakes 1  2  3  4  5
+20. Shares accountability for business outcomes, not just security compliance 1  2  3  4  5
+
+Part 5: OVERALL TRUST AND EFFECTIVENESS
+
+21. Overall trust level in BISO capabilities          1  2  3  4  5
+22. Likelihood to recommend BISO to other departments 1  2  3  4  5
+23. BISO's contribution to your business success      1  2  3  4  5
+24. Quality of BISO partnership relationship          1  2  3  4  5
+25. Confidence in BISO's security decision-making     1  2  3  4  5
+
+OPEN RESPONSE QUESTIONS:
+
+A. What does the BISO do exceptionally well that builds your trust?
+_____________________________________________________________________
+
+B. What could the BISO do differently to increase your trust and confidence?
+_____________________________________________________________________
+
+C. Describe a specific situation where the BISO's actions built or damaged trust:
+_____________________________________________________________________
+
+D. What business outcomes have improved due to BISO partnership?
+_____________________________________________________________________
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+### Trust Recovery Playbook for Damaged Relationships
+
+**Trust Crisis Assessment and Response Framework**:
+
+**Phase 1: Trust Damage Assessment (24-48 hours)**
+```
+TRUST CRISIS ASSESSMENT CHECKLIST
+☐ Identify specific trust-damaging incident or pattern
+☐ Assess stakeholder(s) affected and relationship impact severity
+☐ Determine trust equation component(s) most impacted:
+  ☐ Credibility damage (competence questioned)
+  ☐ Reliability damage (commitments broken)
+  ☐ Psychological safety damage (stakeholder harmed/blamed)
+  ☐ Self-orientation damage (BISO prioritized security over business)
+☐ Evaluate business impact and urgency of trust repair
+☐ Identify key relationship repair stakeholders and influencers
+☐ Document incident facts and BISO accountability areas
+☐ Assess executive escalation and support requirements
+```
+
+**Phase 2: Immediate Trust Stabilization (1-3 days)**
+```
+TRUST STABILIZATION ACTION PLAN
+☐ Executive/Management Notification:
+  ☐ Brief supervisor/CISO on trust issue and repair approach
+  ☐ Request executive support if stakeholder relationship critical
+  ☐ Align on key messages and stakeholder communication approach
+
+☐ Stakeholder Contact and Acknowledgment:
+  ☐ Schedule immediate meeting with affected stakeholder(s)
+  ☐ Acknowledge trust damage without defensiveness or blame-shifting
+  ☐ Take specific accountability for BISO actions or decisions
+  ☐ Express genuine understanding of stakeholder impact and frustration
+  ☐ Commit to specific trust repair actions with timeline
+
+☐ Immediate Corrective Actions:
+  ☐ Fix any operational issues or process failures immediately
+  ☐ Remove barriers to stakeholder business operations
+  ☐ Provide temporary alternative solutions if needed
+  ☐ Demonstrate competence through rapid, quality problem resolution
+```
+
+**Phase 3: Systematic Trust Rebuilding (2-8 weeks)**
+```
+TRUST REBUILDING PROGRAM
+☐ Credibility Rebuilding (if damaged):
+  ☐ Demonstrate enhanced expertise through quality deliverables
+  ☐ Seek additional training or certification in deficient areas
+  ☐ Bring in expert resources or peer consultation for complex issues
+  ☐ Create stakeholder-specific competence demonstration opportunities
+
+☐ Reliability Rebuilding (if damaged):
+  ☐ Make smaller, achievable commitments and exceed expectations
+  ☐ Implement systematic commitment tracking and delivery confirmation
+  ☐ Increase communication frequency with progress updates
+  ☐ Build track record of consistent, predictable performance
+
+☐ Psychological Safety Rebuilding (if damaged):
+  ☐ Create safe spaces for stakeholder concerns and feedback
+  ☐ Demonstrate non-punitive, collaborative approach to problems
+  ☐ Invite stakeholder challenges and input without defensiveness
+  ☐ Share vulnerable information about BISO challenges and learning
+
+☐ Self-Orientation Improvement (if damaged):
+  ☐ Explicitly prioritize stakeholder business success in all interactions
+  ☐ Ask "how can I help you succeed?" in every engagement
+  ☐ Share accountability for business outcomes, not just security compliance
+  ☐ Demonstrate ego management and collaborative decision-making
+```
+
+**Phase 4: Trust Validation and Relationship Renewal (4-12 weeks)**
+```
+TRUST RENEWAL CONFIRMATION
+☐ Trust Assessment Survey (focused on rebuilt areas)
+☐ Stakeholder feedback sessions on relationship improvement
+☐ Third-party validation of trust repair (manager, peer, executive)
+☐ Business outcome improvements demonstrating renewed partnership
+☐ Stakeholder willingness to recommend BISO to others
+☐ Long-term relationship commitment and future partnership planning
+
+☐ Trust Repair Documentation and Learning:
+  ☐ Document trust repair process and lessons learned
+  ☐ Share anonymous case study with BISO peer community
+  ☐ Update trust-building processes based on repair experience
+  ☐ Create preventive measures to avoid similar trust damage
+```
+
+### Trust Metrics Integration with Stakeholder Engagement Reviews
+
+**Weekly Trust Pulse Monitoring**:
+- **Trust Temperature Check**: Brief stakeholder interaction quality assessment
+- **Trust Indicator Tracking**: Behavioral signals of trust health (responsiveness, openness, collaboration)
+- **Trust Risk Identification**: Early warning signs of potential trust issues
+- **Trust Opportunity Recognition**: Moments for trust-building and relationship strengthening
+
+**Monthly Trust Performance Review**:
+- **Trust Scorecard Completion**: Systematic trust equation assessment for key stakeholders
+- **Trust Trend Analysis**: Trust score changes and relationship trajectory evaluation
+- **Trust-Based Action Planning**: Specific trust-building activities and relationship investments
+- **Trust Success Celebration**: Recognition of trust-building wins and relationship milestones
+
+**Quarterly Trust Strategic Assessment**:
+- **Comprehensive Trust Survey**: Anonymous stakeholder trust assessment and feedback collection
+- **Trust Portfolio Analysis**: Overall trust health across stakeholder ecosystem
+- **Trust-Business Performance Correlation**: Analysis of trust impact on business outcomes
+- **Trust Strategy Optimization**: Enhancement of trust-building approaches and resource allocation
 
 ### Conflict Resolution and Issue Management
 
@@ -332,7 +589,9 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 
 **Engagement Quality Metrics**:
 - **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction with BISO engagement and support (measures effectiveness of [Engagement Strategy Framework](#engagement-strategy-framework) and aligns with [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics))
-- **Trust and Confidence**: Target >4.0/5.0 trust and confidence in BISO capabilities (validates [Trust Building](#trust-building-and-maintenance) activities and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
+- **Trust Equation Score**: Target >2.5 average trust equation score across all stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
+- **Trust Trend Performance**: Target positive trust score trends with >70% of stakeholder relationships showing improvement (measures systematic trust-building success)
+- **Trust Crisis Prevention**: Target <2 major trust incidents annually with 100% successful trust recovery (validates [Trust Recovery Playbook](#trust-recovery-playbook-for-damaged-relationships) effectiveness)
 - **Communication Effectiveness**: Target >4.0/5.0 effectiveness of BISO communication (evaluates [Communication Protocols](#communication-protocols-and-standards) and integrates with [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#communication-effectiveness-metrics))
 - **Relationship Health**: Target >90% of stakeholder relationships rated as healthy (assesses [Relationship Management](#relationship-management-framework) effectiveness and supports [Success Metrics](./BISOPRO-05_Success_Metrics.md#relationship-health-metrics))
 - **Conflict Resolution**: Target <5% of stakeholder interactions resulting in unresolved conflicts (measures [Conflict Resolution Process](#conflict-resolution-and-issue-management) success and correlates with [Success Metrics](./BISOPRO-05_Success_Metrics.md#conflict-resolution-metrics))
