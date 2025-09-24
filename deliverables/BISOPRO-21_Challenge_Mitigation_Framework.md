@@ -169,19 +169,178 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 - **Shared Objectives**: Identifying and pursuing shared objectives across departments per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#cross-functional-alignment)
 - **Coalition Building**: Building coalitions for significant organizational changes
 
+### Political Navigation Playbook
+
+**Strategy 3: Advanced Political Landscape Management**
+
+**Political Landscape Mapping Tools**
+
+*Stakeholder Influence/Interest Matrix*
+```
+High Influence, High Interest (Champions)
+├── Executive Sponsors: CEO, CISO, CRO
+├── Business Unit Leaders: VP Sales, VP Operations
+└── Key IT Leaders: CTO, IT Director
+
+High Influence, Low Interest (Satisficers)
+├── Board Members: Audit Committee Chair
+├── Senior Leadership: CFO, General Counsel
+└── Department Heads: HR Director, Facilities
+
+Low Influence, High Interest (Supporters)
+├── Security Team: Analysts, Engineers
+├── Compliance Team: Risk Managers
+└── IT Teams: Network, Infrastructure
+
+Low Influence, Low Interest (Observers)
+├── General Staff: End users
+├── External: Vendors, consultants
+└── Periphery: Remote offices, contractors
+```
+
+*Political Risk Assessment Framework*
+- **Coalition Strength**: Map supporting vs. opposing stakeholder groups
+- **Resource Control**: Identify who controls budget, personnel, technology decisions
+- **Information Flow**: Map formal and informal communication channels
+- **Decision Authority**: Understand real vs. formal decision-making power
+- **Historical Context**: Document past conflicts and successful resolutions
+- **Cultural Factors**: Assess organizational change tolerance and risk appetite
+
+**Escalation Scripts for Political Conflicts**
+
+*Level 1: Direct Resolution*
+```
+"I understand there are different perspectives on [specific issue].
+Let me share the business risk data I'm seeing, and I'd like to
+understand your concerns so we can find a solution that works for
+both security and [business objective]."
+```
+
+*Level 2: Collaborative Problem-Solving*
+```
+"This seems to be a complex issue affecting multiple areas. Would it
+be helpful to bring together [relevant stakeholders] to work through
+the trade-offs and find an approach that addresses everyone's core
+concerns while managing the security risks?"
+```
+
+*Level 3: Executive Escalation*
+```
+"I've been working with [stakeholder names] on [specific issue] and
+we haven't been able to reach alignment. The core challenge is
+[business vs. security tension]. I'd like to get your guidance on
+how to proceed given the [specific business risks] and
+[security implications]."
+```
+
+*Level 4: Formal Governance*
+```
+"This decision involves significant risk trade-offs that exceed my
+authority level per our charter. I recommend bringing this to
+[appropriate governance committee] with a formal risk assessment
+and recommended options for executive decision."
+```
+
+**Coalition Building and Opposition Management**
+
+*Coalition Building Framework*
+1. **Identify Natural Allies**: Find stakeholders with aligned interests
+2. **Create Win-Win Propositions**: Develop solutions benefiting multiple parties
+3. **Build Incremental Support**: Start with easier wins to build momentum
+4. **Document Success Stories**: Use achievements to attract additional support
+5. **Leverage Champions**: Use influential supporters to convince others
+
+*Opposition Management Strategies*
+- **Understand Root Concerns**: Identify underlying business concerns driving opposition
+- **Address Information Gaps**: Provide data and context to reduce fear of unknown
+- **Find Common Ground**: Focus on shared organizational objectives
+- **Offer Alternatives**: Present multiple options to avoid cornering opponents
+- **Time Strategic Moves**: Choose optimal timing for difficult conversations
+
+**Decision Frameworks for Politically Charged Situations**
+
+*Political Decision Matrix*
+```
+┌─────────────────────┬──────────────┬──────────────┬──────────────┐
+│ Decision Approach   │ High Support │ Mixed Support│ Low Support  │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ High Risk           │ Proceed with │ Build more   │ Escalate to  │
+│                     │ monitoring   │ coalition    │ executive    │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Medium Risk         │ Proceed with │ Compromise   │ Delay/       │
+│                     │ communication│ solution     │ reassess     │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Low Risk            │ Proceed      │ Proceed with │ Document and │
+│                     │              │ monitoring   │ proceed      │
+└─────────────────────┴──────────────┴──────────────┴──────────────┘
+```
+
+*Escalation Decision Tree*
+- **Can I resolve with data?** → Provide business case and risk analysis
+- **Is this a relationship issue?** → Focus on trust-building and communication
+- **Is this a resource conflict?** → Involve appropriate resource owners
+- **Is this an authority question?** → Reference charter and escalate if needed
+- **Is timing the issue?** → Negotiate phased implementation or timeline adjustment
+- **Is this fundamental opposition?** → Executive intervention may be required
+
+**Case Studies of Successful Political Navigation**
+
+*Case Study 1: Business Unit Resistance to Security Controls*
+- **Situation**: Sales team opposing new customer data security requirements
+- **Political Challenge**: Sales leadership concerned about deal velocity impact
+- **Navigation Strategy**: Partnered with Sales Operations to pilot less intrusive controls
+- **Outcome**: 15% improvement in data protection with <2% deal cycle impact
+- **Key Learning**: Find operational partners who understand both business and security needs
+
+*Case Study 2: IT Department Turf Protection*
+- **Situation**: IT team excluding BISO from architecture reviews
+- **Political Challenge**: IT concerned about authority overlap and criticism
+- **Navigation Strategy**: Offered to provide business context rather than technical oversight
+- **Outcome**: Improved security architecture with maintained IT ownership
+- **Key Learning**: Frame BISO role as enablement rather than oversight
+
+*Case Study 3: Executive Priority Conflicts*
+- **Situation**: Two VP's with conflicting priorities affecting security decisions
+- **Political Challenge**: BISO caught between competing executive directions
+- **Navigation Strategy**: Documented risk implications of both approaches and escalated to CEO
+- **Outcome**: CEO established priority framework for future conflicts
+- **Key Learning**: Don't try to resolve executive conflicts at BISO level
+
+**Political Risk Assessment Integration**
+
+*Quarterly Political Landscape Review*
+- **Stakeholder Sentiment Analysis**: Survey key stakeholders on BISO program perception
+- **Influence Network Mapping**: Update stakeholder influence and relationship maps
+- **Conflict Risk Assessment**: Identify emerging political tensions and threats
+- **Coalition Health Check**: Assess strength of support networks and alliances
+- **Opposition Analysis**: Monitor opposition strength and tactics
+- **Executive Engagement**: Review executive support and intervention capacity
+
+*Political Risk Indicators*
+- Meeting exclusions increasing (>10% decline in month)
+- Information sharing restrictions (new barriers to access)
+- Budget or resource questions without business justification
+- Increased escalation frequency (>25% increase)
+- Stakeholder complaints about BISO "overreach"
+- Competing security initiatives launched without BISO involvement
+
 ### Success Metrics and Monitoring
 
 **Leading Indicators**
+- Political risk assessment scores (Target: <2.0/5.0 overall risk level)
+- Coalition strength scores (Target: >70% stakeholder support)
 - Stakeholder relationship health scores (Target: >4.0/5.0 across all groups)
 - Meeting inclusion rate for relevant decision-making processes (Target: >90%)
 - Information sharing effectiveness rating per [Independence Framework](./BISOPRO-18_Independence_Framework.md#information-access-metrics)
 - Executive support availability and responsiveness metrics
 
 **Lagging Indicators**
+- Political conflict resolution success rate (Target: >85% resolved at Level 1-2)
 - BISO influence on organizational security decisions (measured through outcome tracking)
 - Stakeholder trust and credibility scores per [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-metrics)
 - Program objective achievement despite political challenges per [Success Metrics](./BISOPRO-05_Success_Metrics.md#resilience-metrics)
 - Organizational culture assessment scores related to security collaboration
+- Time to resolution for political conflicts (Target: <30 days average)
 
 ## Challenge Category 3: Authority and Decision-Making Limitations
 
