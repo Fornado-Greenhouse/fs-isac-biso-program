@@ -414,6 +414,186 @@
 - **Measurement**: Executive assessment surveys
 - **Business Value**: Strategic alignment, resource support
 
+### Relationship Quality Indicators (RQI) Framework
+
+**Philosophy**: The PDF whitepaper emphasizes that "there are no industry-wide metrics specific to the BISO role" and highlights relationship-based success measures. This framework balances quantitative business metrics with qualitative relationship health indicators that better reflect the BISO's unique value proposition.
+
+#### **RQI Tier 1: Trust Equation Components**
+
+**Metric**: Trust Equation Score (Credibility + Reliability + Intimacy - Self-Orientation)
+- **Definition**: Systematic measurement of the four trust components per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
+- **Target**: >4.0/5.0 overall trust equation score
+- **Measurement**: Quarterly stakeholder assessment using trust scorecards
+- **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation
+
+*Trust Equation Scorecard Template*:
+```
+┌───────────────────────────────────────────────────────────────────────┐
+│                    BISO TRUST EQUATION SCORECARD                     │
+│                        Stakeholder: [Name/Role]                      │
+├───────────────────────────────────────────────────────────────────────┤
+│ CREDIBILITY (Subject Matter Expertise)                          [/5] │
+│ • Demonstrates deep security knowledge                          ___   │
+│ • Understands our business context                             ___   │
+│ • Provides relevant, actionable advice                         ___   │
+│                                                                       │
+│ RELIABILITY (Consistency & Follow-through)                      [/5] │
+│ • Meets commitments and deadlines                              ___   │
+│ • Provides consistent guidance over time                       ___   │
+│ • Available when needed                                        ___   │
+│                                                                       │
+│ INTIMACY (Psychological Safety & Relationship)                  [/5] │
+│ • Creates safe space for honest discussion                     ___   │
+│ • Understands our challenges and pressures                     ___   │
+│ • Maintains confidentiality and discretion                     ___   │
+│                                                                       │
+│ SELF-ORIENTATION (Focus on Others vs. Self)                   [Subtract] │
+│ • Pushes personal/security agenda over business needs          ___   │
+│ • Takes credit for others' work or success                     ___   │
+│ • Makes decisions based on security convenience                ___   │
+│                                                                       │
+│ OVERALL TRUST SCORE: [Credibility + Reliability + Intimacy - Self-Orientation] │
+│ Score: ___/15  |  Rating: ___/5.0  |  Status: 🟢/🟡/🔴            │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+#### **RQI Tier 2: Relationship Health Indicators**
+
+**Metric**: Stakeholder Engagement Quality
+- **Definition**: Depth and frequency of meaningful business-security interactions
+- **Target**: >85% of key stakeholders have monthly meaningful engagement
+- **Measurement**: Interaction tracking with quality assessment
+- **Business Value**: Early indicator of relationship strength and business integration
+
+*Relationship Health Dashboard*:
+```
+┌───────────────────────────────────────────────────────────────────────┐
+│                 STAKEHOLDER RELATIONSHIP HEALTH                      │
+│                        Quarter: Q[X] [Year]                          │
+├───────────────────────────────────────────────────────────────────────┤
+│ 🤝 ENGAGEMENT DEPTH                     📊 INTERACTION QUALITY      │
+│ ┌─────────────────────────────────┐    ┌─────────────────────────────┐ │
+│ │ Strategic Conversations         │    │ Proactive vs. Reactive      │ │
+│ │ Target: >60% | Actual: 67% 🟢  │    │ Target: >70% | Actual: 74%  │ │
+│ │ Business Planning Inclusion     │    │ Solution vs. Problem Focus  │ │
+│ │ Target: >80% | Actual: 89% 🟢  │    │ Target: >80% | Actual: 82%  │ │
+│ └─────────────────────────────────┘    └─────────────────────────────┘ │
+│                                                                       │
+│ 🎯 RELATIONSHIP QUALITY TRENDS                                        │
+│ ┌─────────────────────────────────────────────────────────────────┐   │
+│ │ Business Unit | Trust Score | Engagement | Trend | Risk Level   │   │
+│ ├─────────────────────────────────────────────────────────────────┤   │
+│ │ Sales         | 4.2/5.0     | High       | ⬆️     | Low        │   │
+│ │ Operations    | 3.8/5.0     | Medium     | ➡️     | Medium     │   │
+│ │ Finance       | 4.5/5.0     | High       | ⬆️     | Low        │   │
+│ │ IT            | 3.4/5.0     | Medium     | ⬇️     | High       │   │
+│ └─────────────────────────────────────────────────────────────────┘   │
+└───────────────────────────────────────────────────────────────────────┘
+```
+
+**Metric**: Business Partnership Quality
+- **Definition**: Extent to which BISOs are viewed as business partners vs. security gatekeepers
+- **Target**: >75% of stakeholders view BISO as "business partner with security expertise"
+- **Measurement**: Annual stakeholder perception survey with partnership assessment
+- **Business Value**: Indicates cultural transformation and business integration success
+
+#### **RQI Tier 3: Influence and Impact Indicators**
+
+**Metric**: Decision Influence Score
+- **Definition**: BISO influence on business decisions relative to security risk significance
+- **Target**: High influence on high-risk decisions (>80% influence alignment)
+- **Measurement**: Decision outcome tracking with risk-influence correlation analysis
+- **Business Value**: Measures actual business integration vs. theoretical authority
+
+*Decision Influence Matrix*:
+```
+┌─────────────────────┬──────────────┬──────────────┬──────────────┐
+│ Security Risk Level │ High Influence │ Med Influence│ Low Influence │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ High Risk Decisions │ Target: >80% │ Accept: 15%  │ Concern: <5% │
+│                     │ Actual: 87%🟢│ Actual: 11% │ Actual: 2%   │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Med Risk Decisions  │ Accept: >50% │ Target: >30% │ Accept: <20% │
+│                     │ Actual: 54% │ Actual: 34%  │ Actual: 12%  │
+├─────────────────────┼──────────────┼──────────────┼──────────────┤
+│ Low Risk Decisions  │ Accept: >20% │ Accept: >40% │ Accept: <40% │
+│                     │ Actual: 23% │ Actual: 44%  │ Actual: 33%  │
+└─────────────────────┴──────────────┴──────────────┴──────────────┘
+```
+
+**Metric**: Stakeholder Advocacy Level
+- **Definition**: Extent to which business stakeholders actively advocate for BISO value
+- **Target**: >60% of key stakeholders will recommend BISO consultation to peers
+- **Measurement**: Annual advocacy survey and referral tracking
+- **Business Value**: Ultimate indicator of value recognition and program sustainability
+
+#### **RQI Data Collection Framework**
+
+**Qualitative Assessment Tools**
+
+*Monthly Relationship Pulse Survey (5 questions, 2-minute completion)*:
+1. "This month, how valuable was your interaction with the BISO team?" (1-5 scale)
+2. "Did BISOs help solve business problems or only identify security issues?" (Problem-focused/Solution-focused)
+3. "How would you rate BISO responsiveness to your timeline needs?" (1-5 scale)
+4. "Would you proactively involve BISOs in upcoming initiatives?" (Yes/Maybe/No)
+5. "Overall, do BISOs enable or constrain your business objectives?" (Enable/Neutral/Constrain)
+
+*Quarterly Trust Assessment (15-question comprehensive)*:
+- Deep dive into trust equation components
+- Business partnership perception analysis
+- Specific feedback on relationship quality improvements
+- Prediction of future collaboration willingness
+
+*Annual Relationship Audit*:
+- 360-degree assessment including peers, direct reports, and executives
+- Comparison with other business support functions (Legal, Finance, HR)
+- Correlation analysis between relationship quality and business outcomes
+- Strategic recommendations for relationship enhancement
+
+#### **RQI Integration with Quantitative Metrics**
+
+**Balanced Scorecard Approach**:
+- **30% Weight**: Quantitative business impact metrics (Tier 1-2)
+- **40% Weight**: Relationship quality indicators (RQI framework)
+- **30% Weight**: Operational excellence and strategic impact (Tier 4-5)
+
+**Correlation Analysis**:
+- **Predictive Power**: Track correlation between relationship quality and business outcome metrics
+- **Leading Indicators**: Use relationship health to predict future quantitative performance
+- **Performance Optimization**: Identify relationship improvements that drive business results
+
+**Executive Reporting Integration**:
+- **Monthly Executive Dashboard**: Include relationship health summary with business metrics
+- **Quarterly Business Review**: Detailed relationship quality analysis with business impact correlation
+- **Annual Strategic Review**: Comprehensive relationship audit with competitive analysis
+
+#### **RQI Success Thresholds and Escalation**
+
+**Relationship Health Status System**:
+- **🟢 Green**: Trust scores >4.0/5.0, partnership perception >75%, high stakeholder advocacy
+- **🟡 Yellow**: Trust scores 3.5-4.0/5.0, partnership perception 60-75%, moderate advocacy
+- **🔴 Red**: Trust scores <3.5/5.0, partnership perception <60%, low advocacy
+
+**Escalation Triggers**:
+- **Single Stakeholder**: Trust score drops below 3.0/5.0 for key stakeholder
+- **Business Unit**: Overall business unit relationship health drops to yellow for >1 quarter
+- **Executive Level**: C-suite trust or advocacy scores decline by >20% quarter-over-quarter
+- **Systemic Issues**: Organization-wide relationship trends declining across multiple metrics
+
+**Intervention Protocols**:
+- **Level 1**: Direct BISO-stakeholder relationship improvement planning
+- **Level 2**: Cross-functional team to address systemic relationship challenges
+- **Level 3**: Executive sponsorship engagement per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#relationship-crisis-management)
+- **Level 4**: Strategic program review and potential restructuring
+
+#### **RQI Continuous Improvement**
+
+**Relationship Quality Evolution**:
+- **Baseline Year**: Establish relationship quality baselines and cultural change targets
+- **Development Year**: Active relationship building with systematic improvement programs
+- **Optimization Year**: Fine-tune relationship approaches based on business outcome correlations
+- **Leadership Year**: Use relationship excellence as competitive advantage and industry model
+
 ## Tier 4: Operational Excellence Metrics
 
 ### Process Efficiency
