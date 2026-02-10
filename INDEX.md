@@ -131,6 +131,7 @@ nav_order: 1
 ## 🔍 Concept Quick Finder
 
 ### A-M Concepts
+
 | Concept | Primary Document | Secondary Documents |
 |---------|-----------------|-------------------|
 | **Accountability** | [BISOPRO-06 Authority Framework](./deliverables/BISOPRO-06_Authority_Framework.md) | BISOPRO-07, BISOPRO-14 |
@@ -157,6 +158,7 @@ nav_order: 1
 | **Maturity Model** | [BISOPRO-22 Business Evolution](./deliverables/BISOPRO-22_Business_Evolution_Framework.md) | BISOPRO-05, GUIDE-02 |
 
 ### N-Z Concepts
+
 | Concept | Primary Document | Secondary Documents |
 |---------|-----------------|-------------------|
 | **Operating Model** | [BISOPRO-03 Alignment Model](./deliverables/BISOPRO-03_Alignment_Model_Analysis.md) | BISOPRO-07, BISOPRO-09 |
