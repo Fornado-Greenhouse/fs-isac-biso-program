@@ -1,3 +1,10 @@
+---
+title: "Quick Reference"
+description: "At-a-glance reference guide for BISO program key concepts, processes, decision frameworks, and quick-start checklists"
+parent: "Implementation Guides"
+nav_order: 1
+---
+
 # BISO Program Quick Reference Guide
 
 ## Program Overview At-a-Glance

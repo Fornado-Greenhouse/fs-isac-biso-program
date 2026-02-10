@@ -1,3 +1,10 @@
+---
+title: "Program Guide"
+description: "Comprehensive program overview defining BISO mission, operating model, and organizational integration approach"
+parent: "Core Documents"
+nav_order: 1
+---
+
 # BISO Program Guide
 
 **What This Is:** Your starting point for understanding and launching a Business Information Security Officer program

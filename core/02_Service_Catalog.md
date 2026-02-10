@@ -1,3 +1,10 @@
+---
+title: "Service Catalog"
+description: "Complete catalog of BISO service offerings including advisory, assessment, training, and risk management services"
+parent: "Core Documents"
+nav_order: 2
+---
+
 # BISO Service Catalog
 
 **What BISOs Do:** Help business leaders make informed security decisions

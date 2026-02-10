@@ -1,3 +1,10 @@
+---
+title: "BISO Program Charter"
+description: "Program authorization and governance framework establishing mission, scope, and authority for BISO implementation"
+parent: "Phase 1: Foundation"
+nav_order: 1
+---
+
 # Business Information Security Officer (BISO) Program Charter
 **Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Program Authorization

@@ -1,3 +1,9 @@
+---
+title: "Professional Development Framework"
+description: "Career development pathways and professional growth framework for BISO practitioners at all experience levels"
+parent: "Phase 3: Strategic Value"
+nav_order: 10
+---
 # BISO Professional Development Framework
 **Implementation Phase**: 4 (Months 13-15)  
 **Document Type**: Career Excellence Component

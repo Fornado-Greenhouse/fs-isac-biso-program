@@ -1,3 +1,9 @@
+---
+title: "Executive Sponsorship Plan"
+description: "Strategy for securing and maintaining executive sponsorship essential for BISO program success and organizational influence"
+parent: "Phase 3: Strategic Value"
+nav_order: 4
+---
 # BISO Program Executive Sponsorship and Stakeholder Engagement Plan
 **Implementation Phase**: 3 (Months 7-12)
 

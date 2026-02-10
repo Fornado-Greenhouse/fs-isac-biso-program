@@ -1,3 +1,10 @@
+---
+title: "Success Measurement"
+description: "Performance tracking framework with metrics, dashboards, and reporting cadences for BISO program evaluation"
+parent: "Core Documents"
+nav_order: 6
+---
+
 # BISO Success Measurement
 
 **What This Is:** Practical guidance for measuring BISO program effectiveness

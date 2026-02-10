@@ -1,3 +1,10 @@
+---
+title: "Role Definitions"
+description: "Detailed position specifications defining BISO responsibilities, qualifications, and performance expectations"
+parent: "Core Documents"
+nav_order: 4
+---
+
 # BISO Role Definitions
 
 **What This Is:** Clear definitions of BISO roles, qualifications, and career paths

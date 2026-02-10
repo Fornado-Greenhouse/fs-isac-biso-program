@@ -1,3 +1,10 @@
+---
+title: "Key Processes Implementation"
+description: "Core operational processes for BISO program execution including risk assessment, consultation, and reporting workflows"
+parent: "Phase 2: Structure"
+nav_order: 4
+---
+
 # BISO Key Processes Implementation
 **Implementation Phase**: 2 (Months 4-6)
 

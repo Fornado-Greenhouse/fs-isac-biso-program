@@ -1,3 +1,9 @@
+---
+title: "Escalation Decision Framework"
+description: "Decision framework for escalating security issues through appropriate organizational channels with clear criteria"
+parent: "Phase 4: Continuous Improvement"
+nav_order: 5
+---
 # BISO Escalation Paths and Decision Rights Framework
 **Implementation Phase**: All Phases (Ongoing)  
 **Document Type**: Decision Excellence Component

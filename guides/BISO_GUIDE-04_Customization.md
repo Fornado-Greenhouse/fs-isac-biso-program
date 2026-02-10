@@ -1,3 +1,10 @@
+---
+title: "Customization Guide"
+description: "Guidance for adapting the BISO framework to different organizational sizes, structures, and maturity levels"
+parent: "Implementation Guides"
+nav_order: 4
+---
+
 # BISO Program Customization Guide
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+title: "Monthly Pulse Survey"
+description: "Monthly survey template for assessing BISO program health, stakeholder satisfaction, and engagement levels"
+parent: "Templates"
+nav_order: 3
+---
+
 # Monthly Pulse Survey Template
 
 **Purpose:** Quick monthly check on stakeholder satisfaction with BISO partnership

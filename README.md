@@ -1,3 +1,10 @@
+---
+title: "FS-ISAC BISO Program"
+description: "Complete implementation framework with 30 interconnected documents for Business Information Security Officers in financial services"
+nav_order: 1
+permalink: /
+---
+
 # FS-ISAC BISO Program - Complete Implementation Framework
 
 ## 🎯 **"BISO Program in a Box"**

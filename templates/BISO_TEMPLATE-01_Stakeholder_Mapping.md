@@ -1,3 +1,10 @@
+---
+title: "Stakeholder Mapping Template"
+description: "Ready-to-use template for identifying, categorizing, and prioritizing BISO program stakeholders"
+parent: "Templates"
+nav_order: 1
+---
+
 # BISO Stakeholder Mapping Template
 
 **Purpose:** Identify and prioritize key stakeholders for targeted BISO engagement

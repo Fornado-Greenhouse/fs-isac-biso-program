@@ -1,3 +1,9 @@
+---
+title: "Security Consultation Framework"
+description: "Advisory service framework defining how BISOs provide security guidance to business units and project teams"
+parent: "Phase 3: Strategic Value"
+nav_order: 7
+---
 # BISO Security Consultation Framework
 **Implementation Phase**: 3 (Months 7-12)  
 **Document Type**: Service Delivery Framework Component

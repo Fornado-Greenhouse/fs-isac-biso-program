@@ -1,3 +1,10 @@
+---
+title: "Roadmap"
+description: "Implementation timeline with milestones, dependencies, and phase-gate criteria for BISO program rollout"
+parent: "Implementation Guides"
+nav_order: 3
+---
+
 # BISO Program Document Creation Roadmap
 
 ## Document Creation Sequence and Dependencies

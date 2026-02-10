@@ -1,3 +1,10 @@
+---
+title: "Trust Equation Scorecard"
+description: "Measurement template for evaluating and tracking trust levels between BISOs and business unit stakeholders"
+parent: "Templates"
+nav_order: 2
+---
+
 # Trust Equation Scorecard Template
 
 **Purpose:** Quarterly relationship health assessment with key business stakeholders

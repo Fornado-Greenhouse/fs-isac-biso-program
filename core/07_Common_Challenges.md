@@ -1,3 +1,10 @@
+---
+title: "Common Challenges"
+description: "Identification and resolution strategies for common challenges encountered during BISO program implementation"
+parent: "Core Documents"
+nav_order: 7
+---
+
 # BISO Common Challenges
 
 **What This Is:** Practical solutions to common BISO program challenges

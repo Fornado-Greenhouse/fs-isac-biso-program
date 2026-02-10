@@ -1,3 +1,9 @@
+---
+title: "Cross-Reference Index"
+description: "Comprehensive cross-reference mapping between BISO whitepaper concepts and framework implementation documents"
+nav_order: 1
+---
+
 # BISO Framework Cross-Reference Index
 **Purpose**: Maps BISO whitepaper concepts to framework implementation documents
 

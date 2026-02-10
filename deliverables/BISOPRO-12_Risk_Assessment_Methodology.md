@@ -1,3 +1,9 @@
+---
+title: "Risk Assessment Methodology"
+description: "Structured risk evaluation methodology integrating business context with security risk analysis for informed decision-making"
+parent: "Phase 3: Strategic Value"
+nav_order: 2
+---
 # BISO Risk Assessment Methodology
 **Implementation Phase**: 3 (Months 7-12)
 

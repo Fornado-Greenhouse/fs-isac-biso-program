@@ -1,3 +1,10 @@
+---
+title: "Success Metrics Framework"
+description: "Comprehensive measurement system with KPIs and performance indicators for evaluating BISO program effectiveness"
+parent: "Phase 1: Foundation"
+nav_order: 5
+---
+
 # BISO Program Success Metrics Framework
 **Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Measurement System

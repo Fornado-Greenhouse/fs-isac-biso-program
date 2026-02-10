@@ -1,3 +1,10 @@
+---
+title: "Stakeholder Engagement Protocols"
+description: "Structured communication and engagement protocols for BISO interactions with executives, business units, and security teams"
+parent: "Phase 1: Foundation"
+nav_order: 4
+---
+
 # BISO Stakeholder Engagement Protocols
 **Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Engagement Framework

@@ -1,3 +1,10 @@
+---
+title: "Stakeholder Engagement"
+description: "Engagement methodology for building and maintaining productive relationships across business and security stakeholders"
+parent: "Core Documents"
+nav_order: 5
+---
+
 # BISO Stakeholder Engagement
 
 **What This Is:** Practical guidance for building trust and managing stakeholder relationships
