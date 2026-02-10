@@ -1,3 +1,10 @@
+---
+title: "Job Descriptions"
+description: "Role specifications, competency requirements, and career progression frameworks for BISO positions"
+parent: "Phase 2: Structure"
+nav_order: 3
+---
+
 # BISO Job Descriptions and Recruitment Materials
 **Implementation Phase**: 2 (Months 4-6)
 

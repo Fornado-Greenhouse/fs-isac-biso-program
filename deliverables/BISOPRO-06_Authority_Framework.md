@@ -1,3 +1,10 @@
+---
+title: "Authority Framework"
+description: "Decision rights and authority model defining BISO governance, escalation paths, and organizational accountability"
+parent: "Phase 2: Structure"
+nav_order: 1
+---
+
 # BISO Authority Framework: "Mini CISO" Model
 **Implementation Phase**: 2 (Months 4-6)  
 **Document Type**: Decision Rights Framework

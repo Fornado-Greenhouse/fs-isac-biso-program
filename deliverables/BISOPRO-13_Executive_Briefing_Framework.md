@@ -1,3 +1,9 @@
+---
+title: "Executive Briefing Framework"
+description: "Executive communication framework for presenting security posture, risk status, and program value to senior leadership"
+parent: "Phase 3: Strategic Value"
+nav_order: 3
+---
 # BISO Program Executive Briefing Framework
 **Implementation Phase**: 3 (Months 7-12)
 

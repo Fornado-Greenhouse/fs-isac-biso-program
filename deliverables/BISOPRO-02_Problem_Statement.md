@@ -1,3 +1,10 @@
+---
+title: "Problem Statement"
+description: "Analysis of business-security gaps and organizational challenges that the BISO program addresses in financial services"
+parent: "Phase 1: Foundation"
+nav_order: 2
+---
+
 # BISO Program Problem Statement
 **Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Business Case Foundation

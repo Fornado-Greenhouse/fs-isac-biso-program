@@ -1,3 +1,9 @@
+---
+title: "Competitive Analysis"
+description: "Industry benchmarking and competitive analysis of BISO program maturity across financial services organizations"
+parent: "Phase 3: Strategic Value"
+nav_order: 6
+---
 # BISO Program Competitive Advantage and Market Analysis
 **Implementation Phase**: 3 (Months 7-12)  
 **Document Type**: Strategic Analysis Component

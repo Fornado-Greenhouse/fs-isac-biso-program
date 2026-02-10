@@ -1,3 +1,9 @@
+---
+title: "Independence Framework"
+description: "Framework ensuring BISO objectivity and independence while maintaining collaborative business unit relationships"
+parent: "Phase 3: Strategic Value"
+nav_order: 8
+---
 # BISO Independence Framework
 **Implementation Phase**: 3 (Months 7-12)  
 **Document Type**: Strategic Framework Component

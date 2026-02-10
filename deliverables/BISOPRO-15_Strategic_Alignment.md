@@ -1,3 +1,9 @@
+---
+title: "Strategic Alignment"
+description: "Framework for aligning BISO security initiatives with enterprise business strategy and organizational objectives"
+parent: "Phase 3: Strategic Value"
+nav_order: 5
+---
 # BISO Strategic Alignment Framework
 **Implementation Phase**: 3 (Months 7-12)
 

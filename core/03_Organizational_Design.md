@@ -1,3 +1,10 @@
+---
+title: "Organizational Design"
+description: "Structural framework for positioning BISOs within organizational hierarchies and governance structures"
+parent: "Core Documents"
+nav_order: 3
+---
+
 # BISO Organizational Design
 
 **What This Is:** Guidance on where BISOs fit in your organization and how they should report

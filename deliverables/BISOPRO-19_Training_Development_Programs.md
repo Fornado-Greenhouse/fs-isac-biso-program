@@ -1,3 +1,9 @@
+---
+title: "Training & Development Programs"
+description: "Comprehensive training program design for developing BISO capabilities across technical and business competencies"
+parent: "Phase 3: Strategic Value"
+nav_order: 9
+---
 # BISO Training and Development Programs
 **Implementation Phase**: 3 (Months 7-12)  
 **Document Type**: Human Capital Development Component

@@ -1,3 +1,10 @@
+---
+title: "Support Structure"
+description: "Program support mechanisms including tools, resources, and infrastructure needed for effective BISO operations"
+parent: "Phase 2: Structure"
+nav_order: 5
+---
+
 # BISO Program Support Structure Design
 **Implementation Phase**: 2 (Months 4-6)
 

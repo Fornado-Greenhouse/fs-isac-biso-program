@@ -1,3 +1,9 @@
+---
+title: "Business Case & ROI Analysis"
+description: "Financial justification and return on investment analysis for BISO program implementation in financial services"
+parent: "Phase 3: Strategic Value"
+nav_order: 1
+---
 # BISO Program Business Case and ROI Analysis
 **Implementation Phase**: 3 (Months 7-12)
 

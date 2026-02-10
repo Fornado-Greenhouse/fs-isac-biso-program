@@ -1,3 +1,10 @@
+---
+title: "Technology Strategy"
+description: "Technology integration strategy for BISO program tools, platforms, and automation capabilities"
+parent: "Implementation Guides"
+nav_order: 5
+---
+
 # BISO Program Technology Strategy
 
 ## Executive Summary

@@ -1,3 +1,9 @@
+---
+title: "Recruitment Strategy"
+description: "Talent acquisition strategy for recruiting qualified BISO professionals with security and business acumen"
+parent: "Phase 4: Continuous Improvement"
+nav_order: 4
+---
 # BISO Recruitment Strategy
 **Implementation Phase**: All Phases (Ongoing)  
 **Document Type**: Talent Excellence Component

@@ -1,3 +1,10 @@
+---
+title: "Reporting Structure"
+description: "Organizational reporting lines and communication channels for BISO program integration across business units"
+parent: "Phase 2: Structure"
+nav_order: 2
+---
+
 # BISO Optimal Reporting Structure Design
 **Implementation Phase**: 2 (Months 4-6)  
 **Document Type**: Organizational Design

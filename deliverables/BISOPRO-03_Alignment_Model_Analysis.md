@@ -1,3 +1,10 @@
+---
+title: "Alignment Model Analysis"
+description: "Framework for aligning security objectives with business strategy through structured organizational integration"
+parent: "Phase 1: Foundation"
+nav_order: 3
+---
+
 # BISO Alignment Model Analysis and Recommendation
 **Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Organizational Design

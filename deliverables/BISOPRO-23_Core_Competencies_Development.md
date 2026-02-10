@@ -1,3 +1,9 @@
+---
+title: "Core Competencies Development"
+description: "Competency development framework defining essential skills and knowledge areas for effective BISO practitioners"
+parent: "Phase 4: Continuous Improvement"
+nav_order: 3
+---
 # BISO Core Competencies Development
 **Implementation Phase**: All Phases (Ongoing)  
 **Document Type**: Competency Excellence Component

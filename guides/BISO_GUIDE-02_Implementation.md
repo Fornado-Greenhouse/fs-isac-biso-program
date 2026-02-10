@@ -1,3 +1,10 @@
+---
+title: "Implementation Guide"
+description: "Step-by-step deployment guide for implementing BISO programs with resource requirements and success criteria"
+parent: "Implementation Guides"
+nav_order: 2
+---
+
 # BISO Program Implementation Guide
 
 ## Executive Overview
