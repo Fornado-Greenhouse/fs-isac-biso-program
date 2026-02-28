@@ -24,7 +24,8 @@ This framework takes a relationship-first approach to BISO measurement. Business
 
 The measurement philosophy is straightforward: build trust first, track relationships consistently, and let business outcomes demonstrate value. Start with the Trust Equation and Pulse Survey in Month 1. Add business outcome tracking as relationships mature.
 
-*For comprehensive measurement capabilities including 5-tier systems, automation, and advanced analytics, see the [Appendix: Advanced Measurement Framework](#appendix-advanced-measurement-framework) for Year 2+ programs.*
+{: .maturity }
+For comprehensive measurement capabilities including 5-tier systems, automation, and advanced analytics, see the [Appendix: Advanced Measurement Framework](#appendix-advanced-measurement-framework) for Year 2+ programs.
 
 ---
 
@@ -259,7 +260,8 @@ These six metrics provide practical evidence that strong BISO relationships tran
 
 A simplified implementation roadmap for establishing the core measurement system. The goal is not perfection in 90 days -- it is establishing the habits, baselines, and feedback loops that enable continuous improvement.
 
-> **Note**: For detailed implementation sequencing and dependencies, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics). For customization guidance, see the [BISO Program Customization Guide](../guides/BISO_GUIDE-04_Customization.md#bisopro-5-biso-success-metrics).
+{: .note }
+For detailed implementation sequencing and dependencies, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics). For customization guidance, see the [BISO Program Customization Guide](../guides/BISO_GUIDE-04_Customization.md#bisopro-5-biso-success-metrics).
 
 ### Month 1: Establish Baselines
 
@@ -318,7 +320,8 @@ This framework connects to and depends on several other BISO program components:
 
 ## Appendix: Advanced Measurement Framework
 
-*For mature programs (Year 2+) seeking comprehensive measurement capabilities. The core metrics above are sufficient for program launch and first-year operation.*
+{: .maturity }
+For mature programs (Year 2+) seeking comprehensive measurement capabilities. The core metrics above are sufficient for program launch and first-year operation.
 
 ---
 
@@ -905,7 +908,8 @@ RECURRING CALENDAR EVENTS:
 
 *Reduce manual effort through systematic automation of data collection and reporting*
 
-> **Note**: This section provides detailed automation specifications. For overall implementation sequencing, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics).
+{: .note }
+This section provides detailed automation specifications. For overall implementation sequencing, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics).
 
 #### Tier 1: High-Impact Automation (Month 1 Implementation)
 

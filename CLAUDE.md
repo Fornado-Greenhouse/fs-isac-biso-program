@@ -113,6 +113,22 @@ For complex frameworks, include:
 - Professional box-drawing characters with consistent formatting
 - Status indicators using traffic light system (🟢🟡🔴)
 
+### Callout System (Just the Docs)
+Documents use Just the Docs callouts for structured commentary. Five types configured in `_config.yml`:
+
+| Type | Syntax | Use For |
+|------|--------|---------|
+| `.note` | `{: .note }` | Context, cross-references, "see also" |
+| `.tip` | `{: .tip }` | Practitioner guidance, customization advice |
+| `.warning` | `{: .warning }` | Anti-patterns, pitfalls, scope creep |
+| `.important` | `{: .important }` | Critical implementation constraints |
+| `.maturity` | `{: .maturity }` | Year 2+, advanced content, timing guidance |
+
+**Deliverables**: Use callouts sparingly — for cross-reference notes, maturity boundaries, and critical anti-patterns.
+**Guides**: Use more liberally — for customization tips, common pitfalls, implementation constraints.
+
+**Syntax**: Single paragraph: `{: .note }` on line before paragraph. Multi-paragraph: `{: .note }` then blockquote with `>`.
+
 ## Linear Issue Integration
 - This project uses Linear for task management (issues like FOR-129, FOR-123, etc.)
 - When committing changes that address Linear issues, use magic words in commit messages
