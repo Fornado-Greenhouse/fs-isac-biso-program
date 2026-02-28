@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 # BISO Program Success Metrics Framework
-**Implementation Phase**: 1 (Months 1-3)
+**Implementation Phase**: 1 (Months 1-3)  
 **Document Type**: Measurement System
 
 ## Executive Summary
