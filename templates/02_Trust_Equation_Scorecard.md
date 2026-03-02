@@ -26,8 +26,8 @@ Scoring scale:
 - `9-10` = Promoter
 
 {: .important }
-> **Program standard:** `Net Trust Score (NTS) = % Promoters - % Detractors`.
-> NTS ranges from `-100` to `+100`.
+> **Program standard:** Net Trust Score (NTS) = % Promoters - % Detractors.
+> NTS ranges from -100 to +100.
 
 ---
 
@@ -53,9 +53,9 @@ Use a 1-5 scale for each follow-up (`1 = Strongly Disagree`, `5 = Strongly Agree
 
 {: .important }
 > **NTS thresholds (program standard):**
-> `G = +30 to +100` (Healthy trust)
-> `Y = 0 to +29` (Mixed trust, improvement needed)
-> `R = below 0` (Trust risk, intervention required)
+> **G:** +30 to +100 (Healthy trust)
+> **Y:** 0 to +29 (Mixed trust, improvement needed)
+> **R:** below 0 (Trust risk, intervention required)
 
 - `G`: Maintain cadence, scale best practices, and document what stakeholders value most.
 - `Y`: Use the lowest 1-2 diagnostic dimensions to define a focused quarterly improvement plan.
@@ -65,16 +65,19 @@ Use a 1-5 scale for each follow-up (`1 = Strongly Disagree`, `5 = Strongly Agree
 
 ## Rollup Worksheet
 
-| Item | Value |
-|---|---|
-| Total Responses | ___ |
-| Promoters (9-10) | ___ |
-| Passives (7-8) | ___ |
-| Detractors (0-6) | ___ |
-| % Promoters | ___% |
-| % Detractors | ___% |
-| **Net Trust Score (NTS)** | **___** |
-| Status (G/Y/R) | ___ |
+| Item | Value | Calculation |
+|---|---|---|
+| Total Responses | ___ | Count of all valid primary-question responses |
+| Promoters (9-10) | ___ | Count of responses scored 9 or 10 |
+| Passives (7-8) | ___ | Count of responses scored 7 or 8 |
+| Detractors (0-6) | ___ | Count of responses scored 0 through 6 |
+| % Promoters | ___% | `(Promoters / Total Responses) x 100` |
+| % Detractors | ___% | `(Detractors / Total Responses) x 100` |
+| **Net Trust Score (NTS)** | **___** | **`% Promoters - % Detractors`** |
+| Status (G/Y/R) | ___ | `G` if NTS >= +30; `Y` if NTS is 0 to +29; `R` if NTS < 0 |
+
+{: .note }
+> Validation check: `Promoters + Passives + Detractors` should equal `Total Responses`.
 
 ---
 
