@@ -172,9 +172,9 @@ The BISO serves as the primary interface between cybersecurity and business oper
                     │         Leadership Team             │
                     └─────────────┬───────────────────────┘
                                   │
-        ┌─────────────────────────┼─────────────────────────┐
-        │                         │                         │
-  ┌─────▼──────┐         ┌───────▼────────┐      ┌────────▼─────────┐
+        ┌─────────────────────────┼───────────────────────┐
+        │                         │                       │
+  ┌─────▼──────┐         ┌───── ──▼───────┐      ┌────────▼─────────┐
   │    CISO    │         │  Business Unit │      │   CRO/Legal/     │
   │ (Primary)  │         │   Leadership   │      │   Compliance     │
   │            │         │ (Dotted Line)  │      │  (Coordination)  │
@@ -185,14 +185,14 @@ The BISO serves as the primary interface between cybersecurity and business oper
 │   Director     │                │
 └───────┬────────┘                │
         │                         │
- ┌──────▼──────────────────────────▼──────────────┐
- │              BISO Team                         │
- │  ┌──────────┐ ┌──────────┐ ┌──────────────────┐ │
- │  │Functional│ │Functional│ │    Product       │ │
- │  │ BISOs    │ │ BISOs    │ │  Specialists     │ │
- │  │ (4)      │ │ (4)      │ │     (3-4)       │ │
- │  └──────────┘ └──────────┘ └──────────────────┘ │
- └───────────────────────────────────────────────────┘
+ ┌──────▼─────────────────────────▼───┐
+ │              BISO Team             |             
+ │  ┌──────────┐ ┌──────────────────┐ │
+ │  │Functional│ │    Product       │ │
+ │  │ BISOs    │ │  Specialists     │ │
+ │  │ (4)    │ │ │     (3-4)        │ │
+ │  └──────────┘ └──────────────────┘ │
+ └────────────────────────────────────┘
 ```
 
 ### **Reporting Relationships**
@@ -442,22 +442,22 @@ The BISO serves as the primary interface between cybersecurity and business oper
 #### **Primary Approvers (Required)**
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                           CHARTER APPROVAL SIGNATURES                       │
+│                           CHARTER APPROVAL SIGNATURES                        │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │ Chief Information Security Officer                                           │
 │ Signature: _________________________________ Date: _______________           │
-│ Name: [CISO Name]                                                           │
+│ Name: [CISO Name]                                                            │
 │ Title: Chief Information Security Officer                                    │
 │                                                                              │
 │ Chief Risk Officer                                                           │
 │ Signature: _________________________________ Date: _______________           │
-│ Name: [CRO Name]                                                            │
+│ Name: [CRO Name]                                                             │
 │ Title: Chief Risk Officer                                                    │
 │                                                                              │
 │ Chief Executive Officer                                                      │
 │ Signature: _________________________________ Date: _______________           │
-│ Name: [CEO Name]                                                            │
+│ Name: [CEO Name]                                                             │
 │ Title: Chief Executive Officer                                               │
 │                                                                              │
 │ Program Director                                                             │
@@ -470,7 +470,7 @@ The BISO serves as the primary interface between cybersecurity and business oper
 #### **Supporting Approvers (Advisory)**
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                        ADVISORY STAKEHOLDER ENDORSEMENTS                    │
+│                        ADVISORY STAKEHOLDER ENDORSEMENTS                     │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │ Chief Financial Officer                                                      │
