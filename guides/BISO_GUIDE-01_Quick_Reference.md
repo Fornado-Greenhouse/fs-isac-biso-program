@@ -19,6 +19,7 @@ nav_order: 1
 ## Document Quick Reference
 
 ### Phase 1: Foundation (Months 1-3)
+
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
 | BISOPRO-1 | Charter | Program authorization | Executive approval |
@@ -28,6 +29,7 @@ nav_order: 1
 | BISOPRO-5 | Success Metrics | Define KPIs | Measurement framework |
 
 ### Phase 2: Structure (Months 4-6)
+
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
 | BISOPRO-6 | Authority Framework | Decision rights | RACI matrix |
@@ -37,6 +39,7 @@ nav_order: 1
 | BISOPRO-10 | Support Structure | Infrastructure | Support model |
 
 ### Phase 3: Strategic Value (Months 7-12)
+
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
 | BISOPRO-11 | Business Case ROI | Value demonstration | ROI calculation |
@@ -50,6 +53,7 @@ nav_order: 1
 | BISOPRO-19 | Training Programs | Skills development | Training plan |
 
 ### Phase 4: Continuous Improvement (Months 13-15)
+
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
 | BISOPRO-20 | Professional Development | Ongoing learning | Development framework |
@@ -224,6 +228,7 @@ Charter ─┬─> Problem Statement ─┬─> Alignment Model ─┬─> Stake
 - M&A activity
 
 ### BISO vs. Traditional Security
+
 | Factor | BISO | Traditional |
 |--------|------|-------------|
 | Focus | Business outcomes | Technical controls |
