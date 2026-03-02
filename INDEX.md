@@ -1,7 +1,7 @@
 ---
 title: "Cross-Reference Index"
 description: "Comprehensive cross-reference mapping between BISO whitepaper concepts and framework implementation documents"
-nav_order: 1
+nav_order: 11
 ---
 
 # BISO Framework Cross-Reference Index

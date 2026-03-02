@@ -1,7 +1,7 @@
 ---
 title: "Phase 2: Structure"
 description: "Structure phase building organizational frameworks including authority, reporting, job descriptions, key processes, and support structures"
-nav_order: 3
+nav_order: 4
 has_children: true
 has_toc: false
 ---

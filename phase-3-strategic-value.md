@@ -1,7 +1,7 @@
 ---
 title: "Phase 3: Strategic Value"
 description: "Strategic value phase delivering business cases, risk assessments, executive frameworks, and professional development for BISO programs"
-nav_order: 4
+nav_order: 5
 has_children: true
 has_toc: false
 ---

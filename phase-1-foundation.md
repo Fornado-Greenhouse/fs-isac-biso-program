@@ -1,7 +1,7 @@
 ---
 title: "Phase 1: Foundation"
 description: "Foundation phase establishing core BISO program elements including charter, problem statement, alignment model, stakeholder protocols, and success metrics"
-nav_order: 2
+nav_order: 3
 has_children: true
 has_toc: false
 ---

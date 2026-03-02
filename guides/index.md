@@ -1,7 +1,7 @@
 ---
 title: "Implementation Guides"
 description: "Practical implementation guides for deploying BISO programs including quick reference, roadmaps, customization, and technology strategy"
-nav_order: 6
+nav_order: 7
 has_children: true
 has_toc: false
 ---

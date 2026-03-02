@@ -1,7 +1,7 @@
 ---
 title: "Core Documents"
 description: "Core BISO program documents covering program guide, service catalog, organizational design, role definitions, and stakeholder engagement"
-nav_order: 7
+nav_order: 2
 has_children: true
 has_toc: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Phase 4: Continuous Improvement"
 description: "Continuous improvement phase addressing challenge mitigation, business evolution, core competencies, recruitment, and escalation frameworks"
-nav_order: 5
+nav_order: 6
 has_children: true
 has_toc: false
 ---
