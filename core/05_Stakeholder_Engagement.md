@@ -32,7 +32,8 @@ Most security professionals are trained in technical skills, not relationship ma
 ### The Formula
 
 ```
-Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
+Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
+Reverse Self-Orientation = 6 - Self-Orientation
 ```
 
 **Simplified:**
@@ -41,7 +42,7 @@ Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
 - **Intimacy:** Do they feel safe being candid with you?
 - **Self-Orientation:** Do you focus on their needs or yours?
 
-**Scoring:** Each component rated 1-5, formula gives score of 0-15 (normalized to 0-5.0)
+**Scoring:** Each component rated 1-5. Reverse Self-Orientation using `6 - score`, then average all four components for a clean 1.0-5.0 trust score.
 
 {: .important }
 > **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
@@ -151,7 +152,7 @@ Stakeholders feel comfortable sharing problems, admitting mistakes, and raising 
 ### Component 4: Self-Orientation (Are You Focused on Them or You?)
 
 **What It Means:**
-The degree to which you focus on stakeholder needs vs. your own agenda. **This component REDUCES trust** — lower is better.
+The degree to which you focus on stakeholder needs vs. your own agenda. Lower Self-Orientation is better, so this component is reverse-scored in the final formula.
 
 **Low Self-Orientation (Good):**
 
@@ -220,14 +221,14 @@ Use this quarterly with key stakeholders (self-assessment, then discuss):
 │  - Pushes own agenda                              │
 │  - Takes credit vs. gives credit                  │
 │  - Own convenience vs. stakeholder needs          │
-│  Score: ___/5  (SUBTRACT this)                    │
+│  Score: ___/5                                     │
+│  Reverse score (6 - Self-Orientation): ___/5      │
 │                                                   │
 │  ═══════════════════════════════════════════════  │
 │  OVERALL TRUST SCORE:                             │
-│  (Credibility + Reliability + Intimacy - Self-Orientation) │
+│  (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4 │
 │                                                   │
-│  Raw Score: ___/15                                │
-│  Normalized: ___/5.0                              │
+│  Overall Trust Score: ___/5.0                     │
 │  Status: □ R <3.0  □ Y 3.0-3.9  □ G 4.0-5.0      │
 └───────────────────────────────────────────────────┘
 ```

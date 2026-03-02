@@ -66,7 +66,8 @@ Start simple, add complexity as program matures:
 
 **Formula:**
 ```
-Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
+Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
+Reverse Self-Orientation = 6 - Self-Orientation
 ```
 
 {: .important }
@@ -326,10 +327,10 @@ Document business impact, not security metrics:
 
 **Tab 1: Trust Equation**
 
-| Stakeholder | Quarter | Credibility | Reliability | Intimacy | Self-Orient | Total | Status |
-|-------------|---------|-------------|-------------|----------|-------------|-------|--------|
-| VP Retail   | Q1      | 4           | 3           | 3        | 2           | 8/15  | 🟡 2.7 |
-| VP Retail   | Q2      | 4           | 4           | 4        | 1           | 11/15 | 🟢 3.7 |
+| Stakeholder | Quarter | Credibility | Reliability | Intimacy | Self-Orient | Reverse SO | Trust Score | Status |
+|-------------|---------|-------------|-------------|----------|-------------|------------|-------------|--------|
+| VP Retail   | Q1      | 4           | 3           | 4        | 2           | 4      | 3.75 | Y |
+| VP Retail   | Q2      | 4           | 5           | 4        | 1           | 5      | 4.50 | G |
 
 **Tab 2: Operational Metrics**
 

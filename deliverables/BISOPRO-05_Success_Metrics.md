@@ -51,14 +51,14 @@ The Trust Equation is the centerpiece of BISO success measurement. Adapted from 
 
 ### Trust Equation Score
 
-**Definition**: Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
+**Definition**: Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
 
 Each component is scored on a 1-5 scale through quarterly stakeholder assessments:
 
 - **Credibility** -- Does the BISO demonstrate deep security knowledge and understand the business context? Do they provide relevant, actionable advice?
 - **Reliability** -- Does the BISO meet commitments, provide consistent guidance, and show up when needed?
 - **Intimacy** -- Does the BISO create psychological safety for honest discussion, understand stakeholder pressures, and maintain confidentiality?
-- **Self-Orientation** (subtracted) -- Does the BISO push a security agenda over business needs, take credit for others' work, or make decisions based on security convenience?
+- **Self-Orientation** (reverse-scored) -- Does the BISO push a security agenda over business needs, take credit for others' work, or make decisions based on security convenience? Convert using `Reverse Self-Orientation = 6 - Self-Orientation`.
 
 **Target**: 4.0-5.0/5.0 overall trust equation score
 
@@ -81,16 +81,27 @@ Stakeholder: `[Name/Role]`
 | Intimacy | Creates safe space for honest discussion | ___ / 5 |
 | Intimacy | Understands our challenges and pressures | ___ / 5 |
 | Intimacy | Maintains confidentiality and discretion | ___ / 5 |
-| Self-Orientation (subtract) | Pushes personal/security agenda over business needs | ___ / 5 |
-| Self-Orientation (subtract) | Takes credit for others' work or success | ___ / 5 |
-| Self-Orientation (subtract) | Makes decisions based on security convenience | ___ / 5 |
+| Self-Orientation | Pushes personal/security agenda over business needs | ___ / 5 |
+| Self-Orientation | Takes credit for others' work or success | ___ / 5 |
+| Self-Orientation | Makes decisions based on security convenience | ___ / 5 |
 
-Overall Trust Score Formula: `[Credibility + Reliability + Intimacy - Self-Orientation]`
+Overall Trust Score Formula: `[(Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4]`
+where `Reverse Self-Orientation = 6 - Self-Orientation`.
+
+For the 12 prompts above, calculate component averages first:
+- `Credibility` = average of its 3 prompt scores
+- `Reliability` = average of its 3 prompt scores
+- `Intimacy` = average of its 3 prompt scores
+- `Self-Orientation` = average of its 3 prompt scores, then reverse with `6 - Self-Orientation`
 
 | Output | Value |
 |---|---|
-| Score | ___ / 15 |
-| Rating | ___ / 5.0 |
+| Credibility Average | ___ / 5 |
+| Reliability Average | ___ / 5 |
+| Intimacy Average | ___ / 5 |
+| Self-Orientation Average | ___ / 5 |
+| Reverse Self-Orientation | ___ / 5 |
+| Overall Trust Rating | ___ / 5.0 |
 | Status | G / Y / R |
 
 ### Trust Score Thresholds
@@ -417,7 +428,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 **RQI Tier 1: Trust Equation Components**
 
-**Metric**: Trust Equation Score (Credibility + Reliability + Intimacy - Self-Orientation)
+**Metric**: Trust Equation Score ((Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4)
 - **Definition**: Systematic measurement of the four trust components per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
 - **Target**: 4.0-5.0/5.0 overall trust equation score
 - **Measurement**: Quarterly stakeholder assessment using trust scorecards

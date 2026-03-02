@@ -20,7 +20,8 @@ The Trust Equation is your primary success metric as a BISO. It measures relatio
 
 **Formula:**
 ```
-Trust Score = (Credibility + Reliability + Intimacy) - Self-Orientation
+Trust Score = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
+Reverse Self-Orientation = 6 - Self-Orientation
 ```
 
 {: .important }
@@ -48,7 +49,7 @@ Trust Score = (Credibility + Reliability + Intimacy) - Self-Orientation
 ### 4. Self-Orientation (Focus on Others vs. Self)
 - **What it measures:** Are you serving them or serving yourself?
 - **Indicators:** Pushes own agenda, takes vs. gives credit, own convenience
-- **Important:** This is SUBTRACTED from the total
+- **Important:** This is reverse-scored before final averaging (`Reverse = 6 - Self-Orientation`)
 
 ---
 
@@ -112,19 +113,20 @@ Use this template with each key stakeholder:
 │  • Takes vs. gives credit:           _____        │
 │  • Own convenience vs. theirs:       _____        │
 │                                                   │
-│  Self-Orientation Score: _____/5 (SUBTRACT)       │
+│  Self-Orientation Score: _____/5                  │
+│  Reverse Self-Orientation (6 - score): _____/5    │
 │                                                   │
 │ ═════════════════════════════════════════════════ │
 │                                                   │
 │  OVERALL TRUST SCORE CALCULATION:                 │
 │                                                   │
-│  Credibility:        _____                        │
-│  + Reliability:      _____                        │
-│  + Intimacy:         _____                        │
-│  - Self-Orientation: _____                        │
-│                      ═════                        │
-│  Raw Score:          _____/15                     │
-│  Normalized (÷3):    _____/5.0                    │
+│  Credibility:              _____/5                │
+│  Reliability:              _____/5                │
+│  Intimacy:                 _____/5                │
+│  Reverse Self-Orientation: _____/5                │
+│                                                   │
+│  Trust Score = (C + R + I + Reverse SO) / 4      │
+│  Overall Trust Score:      _____/5.0              │
 │                                                   │
 │  Status:                                          │
 │  □ R <3.0   - At Risk (address immediately)       │

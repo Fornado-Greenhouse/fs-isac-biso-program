@@ -290,7 +290,8 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 
 **Trust Equation Foundation** (Green, Maister, Galford Model)
 
-**Trust = (Credibility + Reliability + Intimacy) / Self-Orientation**
+**Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4**
+with **Reverse Self-Orientation = 6 - Self-Orientation**
 
 This operational framework systematically builds and measures trust across all stakeholder relationships using the established Trust Equation model from "The Trusted Advisor" by Charles H. Green, David Maister, and Robert Galford. Trust measurement directly correlates with BISO program effectiveness and stakeholder satisfaction.
 
@@ -374,8 +375,13 @@ SELF-ORIENTATION ASSESSMENT (Lower scores = higher trust)
                            Self-Orientation Total: ___/25
 
 TRUST EQUATION CALCULATION:
-Trust Score = (Credibility + Reliability + Intimacy) - Self-Orientation
-Trust Score = (___/25 + ___/25 + ___/25) - (___/25) = ___
+Credibility Average = ___/25 ÷ 5 = ___/5
+Reliability Average = ___/25 ÷ 5 = ___/5
+Intimacy Average = ___/25 ÷ 5 = ___/5
+Self-Orientation Average = ___/25 ÷ 5 = ___/5
+Reverse Self-Orientation = 6 - Self-Orientation Average = ___/5
+
+Trust Score = (Credibility Avg + Reliability Avg + Intimacy Avg + Reverse Self-Orientation) ÷ 4 = ___/5.0
 
 TRUST LEVEL INTERPRETATION:
 ☐ G (4.0-5.0): Strategic partner and trusted advisor
