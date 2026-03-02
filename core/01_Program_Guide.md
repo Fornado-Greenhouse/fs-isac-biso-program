@@ -7,10 +7,10 @@ nav_order: 1
 
 # BISO Program Guide
 
-**What This Is:** Your starting point for understanding and launching a Business Information Security Officer program
-**Who This Is For:** Executives, program managers, and anyone planning to implement BISOs
-**Time to Read:** 15-20 minutes
-**What You'll Get:** Clear understanding of what a BISO program is, why it matters, and how to start
+- **What This Is:** Your starting point for understanding and launching a Business Information Security Officer program
+- **Who This Is For:** Executives, program managers, and anyone planning to implement BISOs
+- **Time to Read:** 15-20 minutes
+- **What You'll Get:** Clear understanding of what a BISO program is, why it matters, and how to start
 
 ---
 

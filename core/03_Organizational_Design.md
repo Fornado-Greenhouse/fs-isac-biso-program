@@ -7,10 +7,10 @@ nav_order: 3
 
 # BISO Organizational Design
 
-**What This Is:** Guidance on where BISOs fit in your organization and how they should report
-**Who This Is For:** Executives, HR, organizational design teams
-**Time to Read:** 15 minutes
-**What You'll Get:** Clear understanding of BISO placement, reporting structures, and alignment models
+- **What This Is:** Guidance on where BISOs fit in your organization and how they should report
+- **Who This Is For:** Executives, HR, organizational design teams
+- **Time to Read:** 15 minutes
+- **What You'll Get:** Clear understanding of BISO placement, reporting structures, and alignment models
 
 ---
 

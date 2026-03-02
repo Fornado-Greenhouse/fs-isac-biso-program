@@ -7,10 +7,10 @@ nav_order: 5
 
 # BISO Stakeholder Engagement
 
-**What This Is:** Practical guidance for building trust and managing stakeholder relationships
-**Who This Is For:** BISOs, program managers, anyone managing business-security relationships
-**Time to Read:** 20 minutes
-**What You'll Get:** Net Trust Score (NTS) framework, stakeholder mapping tools, engagement strategies
+- **What This Is:** Practical guidance for building trust and managing stakeholder relationships
+- **Who This Is For:** BISOs, program managers, anyone managing business-security relationships
+- **Time to Read:** 20 minutes
+- **What You'll Get:** Net Trust Score (NTS) framework, stakeholder mapping tools, engagement strategies
 
 ---
 

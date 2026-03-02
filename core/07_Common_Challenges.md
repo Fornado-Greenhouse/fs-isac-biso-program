@@ -7,10 +7,10 @@ nav_order: 7
 
 # BISO Common Challenges
 
-**What This Is:** Practical solutions to common BISO program challenges
-**Who This Is For:** BISOs, program managers, executives facing BISO program issues
-**Time to Read:** 20 minutes
-**What You'll Get:** Recognition of common challenges and proven mitigation strategies
+- **What This Is:** Practical solutions to common BISO program challenges
+- **Who This Is For:** BISOs, program managers, executives facing BISO program issues
+- **Time to Read:** 20 minutes
+- **What You'll Get:** Recognition of common challenges and proven mitigation strategies
 
 ---
 

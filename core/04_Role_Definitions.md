@@ -7,10 +7,10 @@ nav_order: 4
 
 # BISO Role Definitions
 
-**What This Is:** Clear definitions of BISO roles, qualifications, and career paths
-**Who This Is For:** HR, recruiters, hiring managers, BISO candidates
-**Time to Read:** 15 minutes
-**What You'll Get:** Understanding of BISO job requirements and success profiles
+- **What This Is:** Clear definitions of BISO roles, qualifications, and career paths
+- **Who This Is For:** HR, recruiters, hiring managers, BISO candidates
+- **Time to Read:** 15 minutes
+- **What You'll Get:** Understanding of BISO job requirements and success profiles
 
 ---
 

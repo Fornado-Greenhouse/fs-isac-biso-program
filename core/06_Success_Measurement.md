@@ -7,10 +7,10 @@ nav_order: 6
 
 # BISO Success Measurement
 
-**What This Is:** Practical guidance for measuring BISO program effectiveness
-**Who This Is For:** Program managers, BISOs, executives sponsoring BISO programs
-**Time to Read:** 15 minutes
-**What You'll Get:** Metric framework that starts simple and scales with program maturity
+- **What This Is:** Practical guidance for measuring BISO program effectiveness
+- **Who This Is For:** Program managers, BISOs, executives sponsoring BISO programs
+- **Time to Read:** 15 minutes
+- **What You'll Get:** Metric framework that starts simple and scales with program maturity
 
 ---
 
