@@ -223,6 +223,7 @@ Look for themes:
 - What comments are recurring?
 
 **Create action plan:**
+
 | Issue Identified | Stakeholders Affected | Action | Owner | Due Date |
 |------------------|----------------------|--------|-------|----------|
 | Slow response times | 3 BUs | Implement 4-hour SLA | BISO | Next month |
@@ -301,6 +302,7 @@ Thanks,
 ## Sample Tracking Spreadsheet
 
 ### Tab 1: Monthly Responses
+
 | Month | Stakeholder | BU | Score | Comment | Follow-Up | Status |
 |-------|-------------|----|----|---------|-----------|--------|
 | Jan | VP Retail | Retail | 4 | "Good support" | None | ✅ |
@@ -311,6 +313,7 @@ Thanks,
 | Feb | CFO | Finance | 4 | "Better!" | None | ✅ |
 
 ### Tab 2: Monthly Summary
+
 | Month | Avg Score | Response Rate | Red Flags | Actions Taken |
 |-------|-----------|---------------|-----------|---------------|
 | Jan | 3.5 | 80% | 1 (VP Ops) | Implemented daily check-ins |

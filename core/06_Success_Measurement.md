@@ -130,6 +130,7 @@ Thank you! Your feedback helps us serve you better.
 
 **How to Track:**
 Simple Excel log:
+
 | Date | Stakeholder | Type (Proactive/Reactive) | Topic | Outcome |
 |------|------------|---------------------------|-------|---------|
 | 7/15 | CFO        | Proactive                 | Q3 risk review | Scheduled |
@@ -151,6 +152,7 @@ Add these once trust is established (Trust Equation >2.5):
 Fast reviews = security as enabler. Slow reviews = business sees security as blocker.
 
 **How to Measure:**
+
 | Request Date | Completed Date | Days | Project | Status |
 |--------------|----------------|------|---------|--------|
 | 7/15         | 7/19           | 4    | Mobile app | 🟢 |
@@ -170,6 +172,7 @@ Calculate monthly average, trend over time.
 Early engagement = security built in. Late engagement = security bolted on (expensive, slow).
 
 **How to Measure:**
+
 | Project | Engaged Phase | Early? (Y/N) | Impact |
 |---------|---------------|--------------|--------|
 | Mobile app | Planning | Y | Requirements included |
@@ -189,6 +192,7 @@ Track quarterly: # early / total projects = %
 Proves BISOs are influencing business decisions with security insight.
 
 **How to Measure:**
+
 | Decision | Date | Risk Assessment? | BISO Consulted? |
 |----------|------|------------------|-----------------|
 | Launch new product | 7/15 | Yes | Yes |
@@ -214,6 +218,7 @@ Add financial ROI only after trust and operations are solid:
 
 **How to Track:**
 Document specific incidents:
+
 | Date | Situation | Cost Avoided | Confidence |
 |------|-----------|--------------|------------|
 | Q2 | Identified high-risk vendor early | $500K potential breach cost | Medium |
@@ -251,6 +256,7 @@ Document specific incidents:
 
 **How to Track:**
 Document business impact, not security metrics:
+
 | Quarter | Initiative | Revenue Impact | BISO Contribution |
 |---------|------------|----------------|-------------------|
 | Q2 | Mobile app launch | $2M revenue | Security enabled on-time launch |
@@ -315,12 +321,14 @@ Document business impact, not security metrics:
 **Create 3 tabs:**
 
 **Tab 1: Trust Equation**
+
 | Stakeholder | Quarter | Credibility | Reliability | Intimacy | Self-Orient | Total | Status |
 |-------------|---------|-------------|-------------|----------|-------------|-------|--------|
 | VP Retail   | Q1      | 4           | 3           | 3        | 2           | 8/15  | 🟡 2.7 |
 | VP Retail   | Q2      | 4           | 4           | 4        | 1           | 11/15 | 🟢 3.7 |
 
 **Tab 2: Operational Metrics**
+
 | Month | Avg Review Days | Early Engagement % | Risk-Informed % | Satisfaction |
 |-------|-----------------|-------------------|-----------------|--------------|
 | Jan   | 8               | 60%               | 85%             | 3.8          |
@@ -328,6 +336,7 @@ Document business impact, not security metrics:
 | Mar   | 4               | 85%               | 95%             | 4.3          |
 
 **Tab 3: Business Value (when ready)**
+
 | Quarter | Cost Avoided | Time Saved | Revenue Protected | Notes |
 |---------|-------------|------------|-------------------|-------|
 | Q1      | $200K       | 120 hours  | N/A               | Conservative estimates |

@@ -118,6 +118,7 @@ Specific Elements to Customize:
 ```
 
 Stakeholder Mapping Template:
+
 | Stakeholder | Role | Engagement Frequency | Preferred Channel | Key Interests |
 |------------|------|---------------------|------------------|---------------|
 | [Name] | [Title] | [Weekly/Monthly] | [Email/Meeting] | [Specific] |
@@ -163,6 +164,7 @@ Specific Elements to Customize:
 ```
 
 Authority Matrix Template:
+
 | Decision Type | BISO Authority | Approval Required | Escalation Path |
 |--------------|----------------|-------------------|-----------------|
 | Low Risk (<$X) | Autonomous | None | N/A |
@@ -289,6 +291,7 @@ Specific Elements to Customize:
 ```
 
 Certification Priority Matrix:
+
 | Role Level | Primary Cert | Secondary Cert | Timeline |
 |-----------|--------------|----------------|----------|
 | Junior BISO | CISSP | CRISC | 24 months |

@@ -456,6 +456,7 @@ Share these stories to demonstrate value of early involvement.
 **Document and Share Wins Systematically**
 
 **Create "BISO Value Stories" Log:**
+
 | Quarter | Situation | BISO Action | Business Impact |
 |---------|-----------|-------------|-----------------|
 | Q2 | Product launch | Early security design | Launched on time, no delays |
