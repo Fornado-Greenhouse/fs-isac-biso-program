@@ -14,5 +14,4 @@ Ready-to-use templates for implementing and operating BISO program components.
 |----------|---------|
 | [Stakeholder Mapping](BISO_TEMPLATE-01_Stakeholder_Mapping.md) | Stakeholder identification and analysis |
 | [Trust Equation Scorecard](02_Trust_Equation_Scorecard.md) | Executive trust index tool |
-| [Monthly Pulse Survey](03_Monthly_Pulse_Survey.md) | Ongoing program health check |
 | [Implementation Tracker](BISO_Master_Implementation_Tracker.csv) | Milestone and progress tracking |

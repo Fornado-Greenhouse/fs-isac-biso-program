@@ -372,7 +372,7 @@ Clear boundaries and independence safeguards.
 #### 2. Performance Evaluation
 - **CISO leads annual reviews** (60-70% weight)
 - Business unit provides input (30-40% weight)
-- Focus on Trust Equation and relationship metrics, not "saying yes"
+- Focus on NTS and relationship metrics, not "saying yes"
 
 #### 3. Technology Separation
 - **BISOs do NOT implement security tools**
@@ -405,11 +405,11 @@ Clear boundaries and independence safeguards.
 ### Month 2-3: Build Relationships
 - [ ] BISOs attend business unit planning meetings
 - [ ] Establish stakeholder mapping (see templates)
-- [ ] Start Trust Equation measurement
+- [ ] Start NTS measurement
 - [ ] Conduct first business unit risk assessments
 
 ### Month 6: Review and Adjust
-- [ ] Assess relationship health (Trust Equation scores)
+- [ ] Assess relationship health (NTS results)
 - [ ] Gather feedback from business and CISO
 - [ ] Adjust structure if needed (coverage, reporting frequency)
 - [ ] Refine authority matrix based on experience
@@ -443,7 +443,7 @@ Make this explicit in job descriptions and charter.
 **Answer:** CISO has final say, but both perspectives matter.
 
 **Good Performance:**
-- High Trust Equation scores from business (>2.5)
+- High NTS from business stakeholders (G range: +30 to +100)
 - Effective risk management (CISO view)
 - Both security rigor AND business satisfaction
 
@@ -490,7 +490,7 @@ If you have truly independent business units (separate companies in holding stru
 
 ### Healthy Organizational Design Shows:
 ✅ BISOs attend both security AND business meetings regularly
-✅ Trust Equation scores >2.5 with business stakeholders
+✅ NTS in G range (+30 to +100) with business stakeholders
 ✅ Business leaders describe BISOs as "part of the team"
 ✅ CISO sees consistent security rigor across BISOs
 ✅ Clear escalation when BISO and business disagree
@@ -499,7 +499,7 @@ If you have truly independent business units (separate companies in holding stru
 ### Warning Signs of Structure Problems:
 🔴 Business leaders bypass BISOs to negotiate directly with CISO
 🔴 BISOs spend <20% of time with business unit teams
-🔴 Trust Equation scores <2.0 (low trust)
+🔴 NTS below 0 (low trust)
 🔴 BISOs feel torn between security and business loyalties
 🔴 High turnover in BISO roles
 🔴 Frequent escalations due to role confusion

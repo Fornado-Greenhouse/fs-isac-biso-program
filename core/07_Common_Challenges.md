@@ -150,7 +150,7 @@ If scope creep continues, escalate to CISO:
 - Business avoids engaging you early ("They'll just say no")
 - You hear about projects late or after decisions made
 - Stakeholders describe you as "blocker" or "gatekeeper"
-- Trust Equation score <2.0
+- NTS below 0
 
 **Why It Happens:**
 - BISO says "no" without offering alternatives
@@ -470,11 +470,11 @@ Share these stories to demonstrate value of early involvement.
 
 ---
 
-**Use Trust Equation as Primary Metric**
+**Use NTS as Primary Metric**
 
 Stop focusing on security metrics (vulnerabilities, incidents).
 Start focusing on relationship metrics:
-- Trust Equation scores >2.5 (see [Success Measurement](./06_Success_Measurement.md))
+- NTS in G range (+30 to +100) (see [Success Measurement](./06_Success_Measurement.md))
 - Stakeholder satisfaction >4.0/5.0
 - Business leader testimonials
 
@@ -485,7 +485,7 @@ Start focusing on relationship metrics:
 **Create BISO "Annual Report"**
 
 Simple 3-page executive brief:
-1. **Relationships Built:** Trust Equation scores, stakeholder satisfaction
+1. **Relationships Built:** NTS trend, stakeholder satisfaction
 2. **Business Enabled:** Projects supported, time saved, risks mitigated
 3. **Strategic Impact:** Innovation enabled, competitive advantage
 
@@ -550,7 +550,7 @@ Simple 3-page executive brief:
 
 **Red flags:**
 - BISO working evenings/weekends regularly
-- Trust Equation scores declining
+- NTS declining
 - Quality of work degrading
 - BISO expressing frustration or considering leaving
 
@@ -574,21 +574,21 @@ Simple 3-page executive brief:
 ├────────────────────────────────────────────────────────┤
 │                                                        │
 │  🟢 Healthy Program:                                   │
-│  • Trust Equation >2.5                                 │
+│  • NTS +30 to +100                                     │
 │  • Stakeholder satisfaction >4.0                       │
 │  • Early engagement >80%                               │
 │  • Scope creep <20% of time                           │
 │  • BISO morale high                                    │
 │                                                        │
 │  🟡 Warning Signs:                                     │
-│  • Trust Equation 2.0-2.5                              │
+│  • NTS 0 to +29                                        │
 │  • Satisfaction 3.5-4.0                                │
 │  • Early engagement 60-80%                             │
 │  • Scope creep 20-40% of time                         │
 │  • BISO expressing stress                              │
 │                                                        │
 │  🔴 Crisis Indicators:                                 │
-│  • Trust Equation <2.0                                 │
+│  • NTS below 0                                         │
 │  • Satisfaction <3.5                                   │
 │  • Early engagement <60%                               │
 │  • Scope creep >40% of time                           │
@@ -630,7 +630,7 @@ Simple 3-page executive brief:
 
 ### When Value is Questioned:
 1. Document wins systematically
-2. Use Trust Equation as primary metric
+2. Use NTS as primary metric
 3. Create annual report
 
 ### When Burnout Threatens:

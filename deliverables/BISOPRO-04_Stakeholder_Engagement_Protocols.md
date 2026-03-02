@@ -286,7 +286,7 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 ## Relationship Management Framework
 *This framework supports all [Engagement Strategies](#engagement-strategy-framework) and is measured through [Performance Metrics](#performance-measurement-and-continuous-improvement)*
 
-### Trust Equation Measurement Framework
+### Trust Measurement Framework (NTS)
 
 **Executive Trust Foundation (NTS Model)**
 
@@ -311,14 +311,14 @@ How likely are you to recommend early BISO involvement for a major business init
 ### Trust Measurement Scorecards by Stakeholder Category
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
+> **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
 > Keep threshold usage aligned with [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-score-thresholds) and [Trust Equation Scorecard](../templates/02_Trust_Equation_Scorecard.md).
 
-**Executive Leadership Trust Scorecard** (Quarterly Assessment):
+**Executive Leadership Trust Scorecard** (Monthly Assessment):
 ```
 TRUST SCORECARD (NTS MODEL) - EXECUTIVE LEADERSHIP
 ═══════════════════════════════════════════════════════════════════════════════
-Stakeholder: [Executive Name/Role]    Assessment Period: [Quarter/Year]
+Stakeholder: [Executive Name/Role]    Assessment Period: [Month/Year]
 BISO: [BISO Name]                     Review Date: [Date]
 
 SCORING INSTRUCTIONS:
@@ -355,7 +355,7 @@ ACTION ITEMS BASED ON ASSESSMENT:
 
 ### Trust Assessment Survey Framework
 
-**Quarterly Trust Survey** (Anonymous):
+**Monthly Trust Survey** (Anonymous):
 
 ```
 BISO TRUST ASSESSMENT SURVEY (NTS MODEL)
@@ -531,7 +531,7 @@ TRUST RENEWAL CONFIRMATION
 
 **Engagement Quality Metrics**:
 - **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction with BISO engagement and support (measures effectiveness of [Engagement Strategy Framework](#engagement-strategy-framework) and aligns with [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics))
-- **Net Trust Score (NTS)**: Target +30 to +100 average NTS across stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
+- **Net Trust Score (NTS)**: Target +30 to +100 average NTS across stakeholder categories (validates [Trust Measurement Framework (NTS)](#trust-measurement-framework-nts) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
 - **Trust Trend Performance**: Target positive trust score trends with >70% of stakeholder relationships showing improvement (measures systematic trust-building success)
 - **Trust Crisis Prevention**: Target <2 major trust incidents annually with 100% successful trust recovery (validates [Trust Recovery Playbook](#trust-recovery-playbook-for-damaged-relationships) effectiveness)
 - **Communication Effectiveness**: Target >4.0/5.0 effectiveness of BISO communication (evaluates [Communication Protocols](#communication-protocols-and-standards) and integrates with [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#communication-effectiveness-metrics))

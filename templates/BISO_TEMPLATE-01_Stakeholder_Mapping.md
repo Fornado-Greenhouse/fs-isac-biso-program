@@ -145,7 +145,7 @@ Use the **Engagement Strategy Guide** below to plan touchpoints for each stakeho
 - Weekly touchpoints (meetings, status updates, consultations)
 - Involve in major decisions early
 - Seek input and feedback regularly
-- Build deep trust relationships (use Trust Equation scorecard)
+- Build deep trust relationships (use NTS trust scorecard)
 - Make them BISO program champions
 
 **Risk if ignored:** Program failure, lost support, resource cuts
@@ -270,8 +270,8 @@ Use this table to track ongoing stakeholder relationships:
 
 **Use this stakeholder map with:**
 
-1. **Trust Equation Scorecard** → Measure relationship quality with "Manage Closely" stakeholders
-2. **Monthly Pulse Survey** → Gather feedback from "Manage Closely" and "Keep Informed" groups
+1. **Trust Scorecard (NTS)** → Measure relationship quality with "Manage Closely" stakeholders
+2. **Monthly NTS Survey** → Gather trust and diagnostic feedback from "Manage Closely" and "Keep Informed" groups
 3. **Communication Calendar** → Schedule touchpoints based on quadrant strategy
 4. **Escalation Framework** → Know who to escalate to (power dimension)
 5. **Success Metrics** → Track stakeholder satisfaction by quadrant
@@ -311,8 +311,8 @@ Use this table to track ongoing stakeholder relationships:
 
 - **BISOPRO-04**: Stakeholder Engagement Protocols (comprehensive engagement strategies)
 - **BISOPRO-14**: Executive Sponsorship Plan (executive-specific stakeholder management)
-- **BISO_TEMPLATE-03**: Trust Equation Scorecard (relationship quality measurement)
-- **BISO_TEMPLATE-04**: Monthly Pulse Survey (stakeholder feedback collection)
+- **02_Trust_Equation_Scorecard.md**: NTS trust scorecard (relationship quality measurement)
+- **03_Monthly_Pulse_Survey.md**: Monthly stakeholder feedback collection
 
 ---
 

@@ -88,7 +88,7 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 - Reduce project security review time from 3 weeks → 5 days
 - Include security in 100% of new initiative planning
 - Achieve >4.0/5.0 business stakeholder satisfaction with security
-- Build trust equation scores >2.5 with key business leaders
+- Maintain Net Trust Score (NTS) in `G` range (+30 to +100) with key business leaders
 
 ---
 
@@ -165,7 +165,7 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 **Success:** Regular visibility into program health and value
 
 **Start With Relationship Metrics:**
-- **Trust Equation scores** (primary metric for first 6 months)
+- **Net Trust Score (NTS)** (primary relationship metric for first 6 months)
 - Business stakeholder satisfaction surveys
 - Engagement frequency and quality
 
@@ -276,7 +276,7 @@ If you're starting a BISO program **this week**, focus on these essentials:
 
 ### Day 5: Initial Planning
 - [ ] Draft 3-5 program objectives specific to your organization
-- [ ] Review the Trust Equation framework for relationship building
+- [ ] Review the NTS trust framework for relationship building
 - [ ] Plan your 30-day pilot approach
 
 ### Week 2-4: Executive Engagement
@@ -401,7 +401,7 @@ Scale based on business unit complexity, not just headcount.
 **Prevention strategies:**
 - Clear charter: BISOs **advise**, business leaders **decide**
 - Authority framework: Define what BISOs can/can't approve
-- Metrics: Measure relationship quality (Trust Equation), not control
+- Metrics: Measure relationship quality (NTS), not control
 - Culture: Hire for partnership skills, train for advisory approach
 - Escalation: Clear paths when BISOs and business disagree
 

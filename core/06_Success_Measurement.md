@@ -69,13 +69,13 @@ Start simple, add complexity as program matures:
 `Range = -100 to +100`
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
+> **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
 > Keep this threshold model consistent across scorecards, dashboards, and escalation triggers.
 
 **Target:** `G` range (`+30 to +100` NTS) with key stakeholders
 
 **How to Measure:**
-1. Run quarterly NTS survey with key stakeholders (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
+1. Run monthly NTS survey with key stakeholders (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
 2. Review six diagnostic follow-ups for the lowest-trust relationships
 3. Track trend over time (more important than single-quarter values)
 
@@ -470,12 +470,12 @@ Document business impact, not security metrics:
 ### Month 1: Establish Baseline
 - [ ] Identify 5-10 key stakeholders for measurement
 - [ ] Conduct baseline NTS survey with key stakeholders
-- [ ] Send first stakeholder satisfaction pulse survey
+- [ ] Send first monthly NTS survey to key stakeholders
 - [ ] Create simple Excel tracking spreadsheet
 
 ### Month 2: Build Measurement Rhythm
-- [ ] Schedule quarterly NTS review discussions with stakeholders
-- [ ] Set up monthly pulse survey (automated if possible)
+- [ ] Schedule monthly NTS review discussions with stakeholders
+- [ ] Set up monthly NTS survey (automated if possible)
 - [ ] Track engagement activities in log
 - [ ] Establish reporting schedule (monthly to CISO)
 
@@ -511,7 +511,7 @@ Prove relationships first (6 months). Then add operational metrics (6-12 months)
 ### For New Programs
 1. **Week 1:** Create simple Excel tracking sheet
 2. **Month 1:** Baseline NTS with 5 key stakeholders
-3. **Month 2:** Launch monthly pulse survey
+3. **Month 2:** Launch monthly NTS survey
 4. **Quarter 1:** First NTS review cycle
 
 ### For Existing Programs

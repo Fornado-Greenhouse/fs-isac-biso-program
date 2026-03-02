@@ -9,7 +9,7 @@ nav_order: 2
 
 **Purpose:** Executive-level trust signal for BISO partnership quality  
 **Time to Complete:** 3-5 minutes  
-**Frequency:** Quarterly per key stakeholder  
+**Frequency:** Monthly per key stakeholder  
 **Primary Use:** Fast, low-friction trust measurement with clear follow-up actions
 
 ---
@@ -58,7 +58,7 @@ Use a 1-5 scale for each follow-up (`1 = Strongly Disagree`, `5 = Strongly Agree
 > **R:** below 0 (Trust risk, intervention required)
 
 - `G`: Maintain cadence, scale best practices, and document what stakeholders value most.
-- `Y`: Use the lowest 1-2 diagnostic dimensions to define a focused quarterly improvement plan.
+- `Y`: Use the lowest 1-2 diagnostic dimensions to define a focused monthly improvement plan.
 - `R`: Initiate direct reset conversation within 48 hours and establish executive-supported recovery actions.
 
 ---

@@ -464,7 +464,7 @@ Executive leadership role responsible for the entire BISO program. Sets strategy
 **Assess through:**
 - Stakeholder scenario questions
 - Behavioral interview (past relationship examples)
-- Trust Equation framework discussion
+- NTS trust framework discussion
 - Conflict resolution scenarios
 
 **Sample Question:**
@@ -507,7 +507,7 @@ Executive leadership role responsible for the entire BISO program. Sets strategy
 
 **Weeks 3-6: Build Relationships**
 - [ ] Conduct stakeholder 1-on-1s
-- [ ] Start Trust Equation measurement
+- [ ] Start NTS measurement
 - [ ] Participate in business planning sessions
 - [ ] Identify quick wins for security value
 
@@ -543,7 +543,7 @@ BISOs should be compensated competitively with:
 
 **Total Rewards:**
 - Base salary competitive with market
-- Performance bonus tied to Trust Equation and business outcomes
+- Performance bonus tied to NTS trends and business outcomes
 - Professional development budget for continuous learning
 - Career advancement opportunities within security organization
 

@@ -36,12 +36,12 @@ Most security professionals are trained in technical skills, not relationship ma
 `Range = -100 to +100`
 
 **Simplified:**
-- Ask one executive trust question quarterly (0-10 recommendation likelihood).
+- Ask one executive trust question monthly (0-10 recommendation likelihood).
 - Classify each response as Promoter, Passive, or Detractor.
 - Compute NTS to track trust direction by stakeholder group.
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
+> **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
 > Apply the same threshold bands in all scorecards and escalations.
 
 ---
@@ -183,7 +183,7 @@ The degree to which you focus on stakeholder needs vs. your own agenda. Lower Se
 
 ### NTS Scorecard Template
 
-Use this quarterly with key stakeholders:
+Use this monthly with key stakeholders:
 
 | Item | Response |
 |---|---|
@@ -514,7 +514,7 @@ If NTS is below 0 with key stakeholders, fix relationships before launching new 
 4. **Quarter 1:** Achieve `G` range NTS with at least 3 key stakeholders
 
 ### For Existing Programs
-1. **Quarterly:** Measure NTS with all Tier 1 stakeholders
+1. **Monthly:** Measure NTS with all Tier 1 stakeholders
 2. **Monthly:** Review engagement frequency and quality
 3. **Address NTS below 0 immediately** — these are red flags
 4. **Celebrate strong NTS gains** — recognize relationship excellence

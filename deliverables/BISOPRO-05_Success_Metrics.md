@@ -17,8 +17,8 @@ This framework takes a relationship-first approach to BISO measurement. Business
 
 **Core Measurement Components:**
 
-- **Trust Equation Scorecard (NTS Model)** -- The centerpiece framework measuring stakeholder trust using a single recommendation question and six diagnostics. Quarterly assessment with a `G`-range target of +30 to +100 NTS.
-- **Monthly Pulse Survey** -- Five questions, two minutes, every month. Tracks whether BISOs are solving business problems and enabling objectives in near-real-time.
+- **Trust Scorecard (NTS Model)** -- The centerpiece framework measuring stakeholder trust using a single recommendation question and six diagnostics. Monthly assessment with a `G`-range target of +30 to +100 NTS.
+- **Monthly NTS Survey** -- The recurring trust survey mechanism for executive and stakeholder sentiment in near-real-time.
 - **Relationship Health Indicators** -- Stakeholder engagement quality, advocacy levels, and balanced scorecard weighting that puts relationships first (40% weight).
 - **Simple Business Outcome Tracking** -- Six practical metrics covering time-to-market, early engagement, rework reduction, satisfaction, throughput, and exception management.
 
@@ -32,11 +32,11 @@ For comprehensive measurement capabilities including 5-tier systems, automation,
 ## Quick Navigation
 
 **For Executives:**
-- [Trust Framework (NTS)](#trust-equation-framework) -- The primary BISO success measure
+- [Trust Framework (NTS)](#trust-framework-nts) -- The primary BISO success measure
 - [Simple Business Outcome Tracking](#simple-business-outcome-tracking) -- Practical business metrics
 
 **For Practitioners:**
-- [Monthly Pulse Survey](#monthly-pulse-survey) -- Lightweight recurring measurement
+- [Monthly Pulse Survey](#monthly-pulse-survey) -- NTS-based recurring measurement
 - [Getting Started: First 90 Days](#getting-started-first-90-days) -- Implementation roadmap
 
 **For Program Managers:**
@@ -45,7 +45,7 @@ For comprehensive measurement capabilities including 5-tier systems, automation,
 
 ---
 
-## Trust Equation Framework
+## Trust Framework (NTS)
 
 This framework uses an executive-friendly Net Trust Score (NTS) model to measure trust without complex formulas.
 
@@ -62,7 +62,7 @@ How likely are you to recommend early BISO involvement for a major business init
 **Formula:**  
 `NTS = % Promoters - % Detractors` (range `-100` to `+100`)
 
-**Measurement**: Quarterly stakeholder survey using the standardized trust scorecard per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement-framework).
+**Measurement**: Monthly stakeholder survey using the standardized trust scorecard per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-measurement-framework-nts).
 
 **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation. Higher NTS correlates with proactive engagement, faster approvals, and executive advocacy.
 
@@ -85,7 +85,7 @@ Use 1-5 agreement scale:
 ### Trust Score Thresholds
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
+> **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
 > Apply these bands consistently across trust scorecards, relationship health rollups, and escalations.
 
 - **G (+30 to +100)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
@@ -103,25 +103,26 @@ Trust score changes should drive specific actions:
 
 ---
 
-## Monthly Pulse Survey
+## Monthly NTS Survey
+{: #monthly-pulse-survey }
 
-A lightweight, recurring assessment that keeps a finger on the pulse of BISO-stakeholder relationships between quarterly deep dives. Five questions, two-minute completion, deployed to key stakeholders on the first business day of each month.
+A lightweight, recurring assessment that captures trust trend data every month. Use the same NTS primary question and six diagnostic follow-ups in each cycle.
 
-### Five Monthly Questions
+### Monthly Survey Questions
 
-1. **"This month, how valuable was your interaction with the BISO team?"** (1-5 scale) -- Tracks perceived value delivery over time. Look for trends rather than individual scores.
+1. **Primary NTS question (0-10):** "How likely are you to recommend early BISO involvement for a major business initiative in your area?"
+2. **D1 Strategic relevance (1-5):** BISO input improves business decision quality.
+3. **D2 Clarity (1-5):** Security guidance is clear and actionable.
+4. **D3 Responsiveness (1-5):** BISO support matches business timeline needs.
+5. **D4 Partnership behavior (1-5):** BISO teams collaborate on viable options.
+6. **D5 Confidence (1-5):** I trust BISO judgment on high-impact trade-offs.
+7. **D6 Integration (1-5):** Early BISO engagement improves outcomes.
 
-2. **"Did BISOs help solve business problems or only identify security issues?"** (Problem-focused / Solution-focused) -- Distinguishes between BISOs who add value and those who only add friction. Target: >70% Solution-focused responses.
+### Monthly Cadence, Quarterly Review
 
-3. **"How would you rate BISO responsiveness to your timeline needs?"** (1-5 scale) -- Measures whether BISOs operate at the speed of business. A leading indicator of trust erosion when scores drop.
+**Monthly Trust Assessment** (NTS + 6 diagnostics): A focused executive assessment run monthly.
 
-4. **"Would you proactively involve BISOs in upcoming initiatives?"** (Yes / Maybe / No) -- The ultimate test of BISO value. If stakeholders would not voluntarily include you, trust is not established. Target: >70% Yes responses.
-
-5. **"Overall, do BISOs enable or constrain your business objectives?"** (Enable / Neutral / Constrain) -- The fundamental perception metric. Target: >70% Enable responses, <5% Constrain.
-
-### Quarterly and Annual Deep Dives
-
-**Quarterly Trust Assessment** (NTS + 6 diagnostics): A focused executive assessment run every quarter. Includes a single 0-10 recommendation question plus six diagnostic follow-ups for improvement planning.
+**Quarterly Trust Review**: Trend and intervention review based on three monthly cycles.
 
 **Annual Relationship Audit** (360-degree): A comprehensive annual assessment that includes peer, direct report, and executive perspectives. Compares BISO function against other business support functions (Legal, Finance, HR) for benchmarking. Includes correlation analysis between relationship quality and business outcomes, with strategic recommendations for relationship enhancement in the coming year.
 
@@ -214,11 +215,11 @@ These six metrics provide practical evidence that strong BISO relationships tran
 
 ### Stakeholder Satisfaction Score
 
-**Definition**: Business unit satisfaction with BISO services as measured through quarterly surveys and ongoing pulse data.
+**Definition**: Business unit satisfaction with BISO services as measured through monthly NTS surveys and ongoing operating feedback.
 
 **Target**: >4.0/5.0 average satisfaction score.
 
-**Measurement**: Quarterly stakeholder surveys (NTS primary question plus 6 diagnostic follow-ups) supplemented by monthly pulse survey data. Aggregate across business units with individual unit breakdowns.
+**Measurement**: Monthly NTS surveys (primary question plus 6 diagnostic follow-ups), with quarterly trend rollups for executive review. Aggregate across business units with individual unit breakdowns.
 
 **Business Value**: Direct measure of whether the BISO function is meeting business needs. Satisfaction scores above 4.0 correlate with proactive security engagement, faster approvals, and executive advocacy for the BISO program.
 
@@ -253,21 +254,21 @@ For detailed implementation sequencing and dependencies, see the [BISO Program I
 
 ### Month 1: Establish Baselines
 
-- Deploy the Trust Equation Scorecard (NTS model) to 10-15 key stakeholders for initial baseline assessment. Focus on the stakeholders you interact with most frequently -- not all stakeholders at once.
-- Launch the Monthly Pulse Survey for the first time. Keep the audience small (20-30 stakeholders) and personal -- send it yourself, not from a survey tool.
+- Deploy the Trust Scorecard (NTS model) to 10-15 key stakeholders for initial baseline assessment. Focus on the stakeholders you interact with most frequently -- not all stakeholders at once.
+- Launch the Monthly NTS Survey for the first time. Keep the audience small (20-30 stakeholders) and personal -- send it yourself, not from a survey tool.
 - Identify and document your key stakeholder map: who are the critical relationships, what is the current state of trust with each, and where are the gaps?
 - Begin tracking time-to-market and exception management from existing systems. These two metrics typically have the most readily available data.
 
 ### Month 2: First Assessment Cycle
 
-- Conduct the first quarterly trust assessment (NTS + 6 diagnostics) with your top 10 stakeholders. Compare results against Month 1 baseline scorecard.
+- Conduct the second monthly NTS assessment with your top 10 stakeholders. Compare results against Month 1 baseline scorecard.
 - Begin tracking early security engagement and security review throughput. Work with project management teams to establish data feeds.
-- Create a simple dashboard (spreadsheet is fine) showing NTS, diagnostic dimension trends, pulse survey trends, and the two business metrics you started tracking in Month 1.
+- Create a simple dashboard (spreadsheet is fine) showing NTS, diagnostic dimension trends, and the two business metrics you started tracking in Month 1.
 - Hold first relationship health review with BISO leadership to discuss stakeholder patterns and identify improvement opportunities.
 
 ### Month 3: First Reporting Cycle
 
-- Complete the first full monthly reporting cycle: pulse survey results, NTS summaries, and business outcome metrics in a single executive brief.
+- Complete the first full monthly reporting cycle: NTS results, diagnostic summaries, and business outcome metrics in a single executive brief.
 - Integrate stakeholder feedback from the first two months to refine survey questions, adjust measurement approaches, and identify what is working.
 - Set formal targets for each metric based on your 90-day baseline data. Resist the temptation to set aggressive targets -- conservative targets you can exceed build more credibility than ambitious targets you miss.
 - Establish the ongoing reporting cadence that will carry the program forward.
@@ -407,9 +408,9 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 **RQI Tier 1: Net Trust Score (NTS)**
 
 **Metric**: Net Trust Score (`% Promoters - % Detractors`)
-- **Definition**: Executive trust indicator based on recommendation likelihood per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement-framework)
+- **Definition**: Executive trust indicator based on recommendation likelihood per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-measurement-framework-nts)
 - **Target**: +30 to +100 NTS
-- **Measurement**: Quarterly stakeholder assessment using trust scorecards (NTS + 6 diagnostics)
+- **Measurement**: Monthly stakeholder assessment using trust scorecards (NTS + 6 diagnostics), with quarterly trend review
 - **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation
 
 **RQI Tier 2: Relationship Health Indicators**
@@ -452,14 +453,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 *Qualitative Assessment Tools*
 
-*Monthly Relationship Pulse Survey (5 questions, 2-minute completion)*:
-1. "This month, how valuable was your interaction with the BISO team?" (1-5 scale)
-2. "Did BISOs help solve business problems or only identify security issues?" (Problem-focused/Solution-focused)
-3. "How would you rate BISO responsiveness to your timeline needs?" (1-5 scale)
-4. "Would you proactively involve BISOs in upcoming initiatives?" (Yes/Maybe/No)
-5. "Overall, do BISOs enable or constrain your business objectives?" (Enable/Neutral/Constrain)
-
-*Quarterly Trust Assessment (NTS + 6 diagnostics)*:
+*Monthly Trust Assessment (NTS + 6 diagnostics)*:
 - Primary 0-10 recommendation likelihood question
 - Six short diagnostic follow-ups for action planning
 - Business partnership perception analysis
