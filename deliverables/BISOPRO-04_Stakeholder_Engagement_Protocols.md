@@ -326,6 +326,10 @@ This operational framework systematically builds and measures trust across all s
 
 ### Trust Measurement Scorecards by Stakeholder Category
 
+{: .important }
+> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> Keep threshold usage aligned with [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-score-thresholds) and [Trust Equation Scorecard](../templates/02_Trust_Equation_Scorecard.md).
+
 **Executive Leadership Trust Scorecard** (Quarterly Assessment):
 ```
 TRUST EQUATION SCORECARD - EXECUTIVE LEADERSHIP
@@ -370,15 +374,13 @@ SELF-ORIENTATION ASSESSMENT (Lower scores = higher trust)
                            Self-Orientation Total: ___/25
 
 TRUST EQUATION CALCULATION:
-Trust Score = (Credibility + Reliability + Intimacy) ÷ Self-Orientation
-Trust Score = (___/25 + ___/25 + ___/25) ÷ (___/25) = ___
+Trust Score = (Credibility + Reliability + Intimacy) - Self-Orientation
+Trust Score = (___/25 + ___/25 + ___/25) - (___/25) = ___
 
 TRUST LEVEL INTERPRETATION:
-☐ Exceptional Trust (3.0+): Strategic partner and trusted advisor
-☐ Strong Trust (2.5-2.9): Reliable business partner with high confidence
-☐ Moderate Trust (2.0-2.4): Developing partnership requiring enhancement
-☐ Low Trust (1.5-1.9): Fundamental trust issues requiring immediate action
-☐ Critical Trust Gap (<1.5): Relationship crisis requiring intervention
+☐ G (4.0-5.0): Strategic partner and trusted advisor
+☐ Y (3.0-3.9): Developing partnership requiring targeted enhancement
+☐ R (<3.0): Fundamental trust issues requiring immediate action
 
 ACTION ITEMS BASED ON ASSESSMENT:
 1. ________________________________
@@ -596,7 +598,7 @@ TRUST RENEWAL CONFIRMATION
 
 **Engagement Quality Metrics**:
 - **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction with BISO engagement and support (measures effectiveness of [Engagement Strategy Framework](#engagement-strategy-framework) and aligns with [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics))
-- **Trust Equation Score**: Target >2.5 average trust equation score across all stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
+- **Trust Equation Score**: Target 4.0-5.0 average trust equation score across stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
 - **Trust Trend Performance**: Target positive trust score trends with >70% of stakeholder relationships showing improvement (measures systematic trust-building success)
 - **Trust Crisis Prevention**: Target <2 major trust incidents annually with 100% successful trust recovery (validates [Trust Recovery Playbook](#trust-recovery-playbook-for-damaged-relationships) effectiveness)
 - **Communication Effectiveness**: Target >4.0/5.0 effectiveness of BISO communication (evaluates [Communication Protocols](#communication-protocols-and-standards) and integrates with [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#communication-effectiveness-metrics))

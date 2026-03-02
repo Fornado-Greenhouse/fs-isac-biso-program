@@ -23,7 +23,11 @@ The Trust Equation is your primary success metric as a BISO. It measures relatio
 Trust Score = (Credibility + Reliability + Intimacy) - Self-Orientation
 ```
 
-**Target:** >2.5/5.0 with key stakeholders = Trusted advisor status
+{: .important }
+> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> Use this same threshold model in scorecards, dashboards, and escalation criteria.
+
+**Target:** `G` range (`4.0-5.0/5.0`) with key stakeholders = trusted advisor status
 
 ---
 
@@ -123,9 +127,9 @@ Use this template with each key stakeholder:
 │  Normalized (÷3):    _____/5.0                    │
 │                                                   │
 │  Status:                                          │
-│  □ 🔴 <2.0  - Crisis (address immediately)        │
-│  □ 🟡 2.0-2.5 - Building (keep investing)         │
-│  □ 🟢 >2.5  - Trusted Advisor (program working)   │
+│  □ R <3.0   - At Risk (address immediately)       │
+│  □ Y 3.0-3.9 - Building (targeted improvement)    │
+│  □ G 4.0-5.0 - Trusted Advisor (program working)  │
 │                                                   │
 └───────────────────────────────────────────────────┘
 ```
@@ -177,14 +181,14 @@ Maintain a simple tracking log:
 
 | Quarter | Stakeholder | Credibility | Reliability | Intimacy | Self-Orient | Total | Status | Notes |
 |---------|-------------|-------------|-------------|----------|-------------|-------|--------|-------|
-| Q1 2025 | VP Retail   | 4           | 3           | 3        | 2           | 2.7   | 🟡     | Need better follow-up |
-| Q2 2025 | VP Retail   | 4           | 4           | 4        | 1           | 3.7   | 🟢     | Much improved |
+| Q1 2025 | VP Retail   | 4           | 3           | 4        | 2           | 3.0   | Y      | Need better follow-up |
+| Q2 2025 | VP Retail   | 4           | 5           | 4        | 1           | 4.0   | G      | Much improved |
 
 ---
 
 ## Interpreting Your Scores
 
-### 🟢 Score >2.5: Trusted Advisor Status
+### G Score 4.0-5.0: Trusted Advisor Status
 **What this means:** The relationship is working. They trust your advice and see you as a partner, not a gatekeeper.
 
 **What to do:**
@@ -193,7 +197,7 @@ Maintain a simple tracking log:
 - Look for opportunities to deepen partnership
 - Share what's working with other BISOs
 
-### 🟡 Score 2.0-2.5: Building Trust
+### Y Score 3.0-3.9: Building Trust
 **What this means:** Foundation is solid, but not yet at trusted advisor level. Keep investing.
 
 **What to do:**
@@ -202,12 +206,12 @@ Maintain a simple tracking log:
 - Ask explicitly: "What would make this partnership more valuable?"
 - Check in again in 6-8 weeks (don't wait full quarter)
 
-### 🔴 Score <2.0: Relationship Crisis
+### R Score <3.0: Relationship At Risk
 **What this means:** Something is broken. This requires immediate attention.
 
 **What to do:**
 1. **Within 48 hours:** Schedule candid 1-on-1 conversation
-2. **Ask directly:** "I sense our partnership isn't working. What's going wrong from your perspective?"
+2. **Ask directly:** "I sense our partnership is strained. What is not working from your perspective?"
 3. **Listen without defending:** Understand their frustration
 4. **Create recovery plan:** Specific actions, specific timelines
 5. **Check in weekly:** Don't disappear after the conversation
@@ -271,18 +275,18 @@ Maintain a simple tracking log:
 - Measure quarterly
 - Discuss scores in person
 - Track trends rigorously
-- Target: >2.5 minimum, aim for >3.0
+- Target: 4.0+ (G range)
 
 **Tier 2 Stakeholders** (Keep Informed):
 - Measure semi-annually
 - Can discuss via email if needed
 - Track trends casually
-- Target: >2.0 minimum
+- Target: 3.5+ with improving trend toward 4.0
 
 **Tier 3 Stakeholders** (Monitor Minimally):
 - Measure annually or as-needed
 - Brief check-in sufficient
-- Target: >2.0
+- Target: 3.0+ minimum
 
 ---
 
@@ -298,13 +302,13 @@ Maintain a simple tracking log:
 1. **This week:** Self-assess all current Tier 1 stakeholders
 2. **This month:** Conduct quarterly discussions
 3. **Ongoing:** Maintain quarterly rhythm
-4. **Red flags:** Address any <2.0 scores within 48 hours
+4. **Red flags:** Address any <3.0 scores within 48 hours
 
 ---
 
 ## Key Takeaway
 
-Trust Equation >2.5 with 5+ key stakeholders predicts BISO program success better than any technical security metric. Measure it quarterly, discuss it openly, act on the results.
+Trust Equation scores in the `G` range (`4.0-5.0`) across 5+ key stakeholders predict BISO program success better than technical-only metrics. Measure quarterly, discuss openly, and act on results.
 
 Low trust scores are not failures — they're early warnings. Use them to fix relationships before they break.
 

@@ -32,9 +32,7 @@ Most security professionals are trained in technical skills, not relationship ma
 ### The Formula
 
 ```
-              Credibility + Reliability + Intimacy
-Trust  =  ───────────────────────────────────────
-                  Self-Orientation
+Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
 ```
 
 **Simplified:**
@@ -45,10 +43,9 @@ Trust  =  ───────────────────────�
 
 **Scoring:** Each component rated 1-5, formula gives score of 0-15 (normalized to 0-5.0)
 
-**Targets:**
-- 🔴 **Below 2.0:** Crisis — stakeholder doesn't trust you
-- 🟡 **2.0-2.5:** Building — trust developing, keep working
-- 🟢 **Above 2.5:** Healthy — trusted advisor status achieved
+{: .important }
+> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> Apply the same threshold bands in all scorecards and escalations.
 
 ---
 
@@ -231,7 +228,7 @@ Use this quarterly with key stakeholders (self-assessment, then discuss):
 │                                                   │
 │  Raw Score: ___/15                                │
 │  Normalized: ___/5.0                              │
-│  Status: □ 🔴 <2.0  □ 🟡 2.0-2.5  □ 🟢 >2.5       │
+│  Status: □ R <3.0  □ Y 3.0-3.9  □ G 4.0-5.0      │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -291,13 +288,13 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 **Tier 1: Active Partnership (High Power + High Interest)**
 - **Who:** CISO, Business Unit Leaders, CIO
 - **Engagement:** Weekly or bi-weekly touchpoints
-- **Goal:** Trust Equation score >3.0
+- **Goal:** Trust Equation score >=4.0 (G range)
 - **Time Investment:** 40% of your stakeholder time
 
 **Tier 2: Regular Engagement (High Power OR High Interest)**
 - **Who:** CFO, CRO, Legal, Senior Directors
 - **Engagement:** Monthly meetings, regular updates
-- **Goal:** Trust Equation score >2.5
+- **Goal:** Trust Equation score >=3.5 with upward trend toward >=4.0
 - **Time Investment:** 40% of your stakeholder time
 
 **Tier 3: Informed Engagement (Low Power + High Interest)**
@@ -412,7 +409,7 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - Business leaders avoid engaging you early
 - You hear about projects late or not at all
 - Stakeholders describe you as "blocker" or "gatekeeper"
-- Trust Equation score <2.0
+- Trust Equation score <3.0
 
 **Root Cause:**
 High self-orientation — prioritizing security convenience over business outcomes.
@@ -539,8 +536,8 @@ Aim for 70% listening, 30% talking in stakeholder meetings. Understand before be
 ### 4. Focus on Their Success, Not Your Security Goals
 When stakeholders succeed, security succeeds. When security succeeds but business struggles, nobody wins.
 
-### 5. Trust Equation Score >2.5 Predicts Success
-If you're below 2.5 with key stakeholders, fix relationships before launching new security initiatives.
+### 5. Trust Equation Score >=4.0 Predicts Sustained Success
+If you're below 3.0 with key stakeholders, fix relationships before launching new security initiatives.
 
 ---
 
@@ -550,13 +547,13 @@ If you're below 2.5 with key stakeholders, fix relationships before launching ne
 1. **Week 1:** Complete stakeholder mapping using Power-Interest Matrix
 2. **Week 2:** Measure baseline Trust Equation scores (self-assessment)
 3. **Month 1:** Focus on intimacy and reliability (easier wins than credibility)
-4. **Quarter 1:** Achieve >2.5 Trust Equation with at least 3 key stakeholders
+4. **Quarter 1:** Achieve >=4.0 Trust Equation with at least 3 key stakeholders
 
 ### For Existing Programs
 1. **Quarterly:** Measure Trust Equation scores with all Tier 1 stakeholders
 2. **Monthly:** Review engagement frequency and quality
-3. **Address <2.0 scores immediately** — these are red flags
-4. **Celebrate >3.0 scores** — recognize relationship excellence
+3. **Address <3.0 scores immediately** — these are red flags
+4. **Celebrate 4.0+ scores** — recognize relationship excellence
 
 ### For Program Leaders
 1. **Hire for relationship skills** — these are harder to teach than technical skills

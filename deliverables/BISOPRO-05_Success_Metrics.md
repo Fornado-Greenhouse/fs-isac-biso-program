@@ -17,7 +17,7 @@ This framework takes a relationship-first approach to BISO measurement. Business
 
 **Core Measurement Components:**
 
-- **Trust Equation Scorecard** -- The centerpiece framework measuring credibility, reliability, intimacy, and self-orientation across all key stakeholder relationships. Quarterly assessment with a target score of >4.0/5.0.
+- **Trust Equation Scorecard** -- The centerpiece framework measuring credibility, reliability, intimacy, and self-orientation across key stakeholder relationships. Quarterly assessment with a `G`-range target of 4.0-5.0/5.0.
 - **Monthly Pulse Survey** -- Five questions, two minutes, every month. Tracks whether BISOs are solving business problems and enabling objectives in near-real-time.
 - **Relationship Health Indicators** -- Stakeholder engagement quality, advocacy levels, and balanced scorecard weighting that puts relationships first (40% weight).
 - **Simple Business Outcome Tracking** -- Six practical metrics covering time-to-market, early engagement, rework reduction, satisfaction, throughput, and exception management.
@@ -60,7 +60,7 @@ Each component is scored on a 1-5 scale through quarterly stakeholder assessment
 - **Intimacy** -- Does the BISO create psychological safety for honest discussion, understand stakeholder pressures, and maintain confidentiality?
 - **Self-Orientation** (subtracted) -- Does the BISO push a security agenda over business needs, take credit for others' work, or make decisions based on security convenience?
 
-**Target**: >4.0/5.0 overall trust equation score
+**Target**: 4.0-5.0/5.0 overall trust equation score
 
 **Measurement**: Quarterly stakeholder assessment using trust scorecards per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
 
@@ -95,9 +95,13 @@ Overall Trust Score Formula: `[Credibility + Reliability + Intimacy - Self-Orien
 
 ### Trust Score Thresholds
 
-- **G (>4.0/5.0)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
-- **Y (3.5-4.0/5.0)** -- Adequate trust but room for improvement. Identify specific component gaps and address.
-- **R (<3.5/5.0)** -- Trust deficit requiring immediate attention. Develop targeted relationship improvement plan.
+{: .important }
+> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> Apply these bands consistently across trust scorecards, relationship health rollups, and escalations.
+
+- **G (4.0-5.0/5.0)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
+- **Y (3.0-3.9/5.0)** -- Adequate trust but room for improvement. Identify component gaps and address.
+- **R (<3.0/5.0)** -- Trust deficit requiring immediate attention. Develop targeted relationship improvement plan.
 
 ### Escalation Triggers
 
@@ -168,9 +172,9 @@ The BISO success scorecard deliberately weights relationship quality above opera
 
 ### Relationship Health Thresholds
 
-- **G (Healthy)**: Trust scores >4.0/5.0, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
-- **Y (Attention Needed)**: Trust scores 3.5-4.0/5.0, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
-- **R (At Risk)**: Trust scores <3.5/5.0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
+- **G (Healthy)**: Trust scores 4.0-5.0/5.0, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
+- **Y (Attention Needed)**: Trust scores 3.0-3.9/5.0, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
+- **R (At Risk)**: Trust scores <3.0/5.0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
 
 ### Intervention Protocols
 
@@ -415,7 +419,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 **Metric**: Trust Equation Score (Credibility + Reliability + Intimacy - Self-Orientation)
 - **Definition**: Systematic measurement of the four trust components per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
-- **Target**: >4.0/5.0 overall trust equation score
+- **Target**: 4.0-5.0/5.0 overall trust equation score
 - **Measurement**: Quarterly stakeholder assessment using trust scorecards
 - **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation
 
@@ -498,9 +502,9 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 **RQI Success Thresholds and Escalation**
 
 *Relationship Health Status System*:
-- G: Trust scores >4.0/5.0, partnership perception >75%, high stakeholder advocacy
-- Y: Trust scores 3.5-4.0/5.0, partnership perception 60-75%, moderate advocacy
-- R: Trust scores <3.5/5.0, partnership perception <60%, low advocacy
+- G: Trust scores 4.0-5.0/5.0, partnership perception >75%, high stakeholder advocacy
+- Y: Trust scores 3.0-3.9/5.0, partnership perception 60-75%, moderate advocacy
+- R: Trust scores <3.0/5.0, partnership perception <60%, low advocacy
 
 *Escalation Triggers*:
 - **Single Stakeholder**: Trust score drops below 3.0/5.0 for key stakeholder

@@ -69,7 +69,11 @@ Start simple, add complexity as program matures:
 Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
 ```
 
-**Target:** >2.5/5.0 with key stakeholders
+{: .important }
+> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> Keep this threshold model consistent across scorecards, dashboards, and escalation triggers.
+
+**Target:** 4.0-5.0/5.0 (G range) with key stakeholders
 
 **How to Measure:**
 1. Self-assess quarterly using scorecard (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
@@ -77,9 +81,9 @@ Trust = (Credibility + Reliability + Intimacy) - Self-Orientation
 3. Track trend over time (more important than absolute score)
 
 **What Good Looks Like:**
-- 🟢 **>2.5:** Trusted advisor status — program is working
-- 🟡 **2.0-2.5:** Building trust — keep investing in relationships
-- 🔴 **<2.0:** Crisis — address relationship immediately
+- `G` **4.0-5.0:** Trusted advisor status and strong partnership
+- `Y` **3.0-3.9:** Building trust with clear improvement opportunities
+- `R` **<3.0:** Relationship at risk, immediate intervention required
 
 ---
 
@@ -140,7 +144,7 @@ Simple Excel log:
 
 ## Level 2: Operational Metrics (Months 6-12)
 
-Add these once trust is established (Trust Equation >2.5):
+Add these once trust is established (Trust Equation >=4.0):
 
 ### Time to Security Review
 
@@ -279,7 +283,7 @@ Document business impact, not security metrics:
 - ❌ Complex operational metrics (process still maturing)
 - ❌ Business impact metrics (relationships still building)
 
-**Success:** Trust Equation >2.5 with 5+ key stakeholders
+**Success:** Trust Equation >=4.0 with 5+ key stakeholders
 
 ---
 
@@ -294,7 +298,7 @@ Document business impact, not security metrics:
 - ⏰ Basic cost avoidance (conservative estimates only)
 - ⏰ Time savings (if measurable with confidence)
 
-**Success:** Operational metrics green + Trust Equation >3.0
+**Success:** Operational metrics green + Trust Equation >=4.0
 
 ---
 
@@ -389,7 +393,7 @@ Document business impact, not security metrics:
 
 ## Red Flags: When Metrics Show Problems
 
-### 🔴 Trust Equation <2.0 with Key Stakeholder
+### R Trust Equation <3.0 with Key Stakeholder
 **Immediate Action:**
 - Schedule 1-on-1 with stakeholder within 48 hours
 - Ask: "What's not working in our partnership?"
@@ -487,7 +491,7 @@ Document business impact, not security metrics:
 ## Key Principles
 
 ### 1. Trust Equation is Your North Star
-If trust is high (>2.5), everything else will follow. If trust is low (<2.0), other metrics don't matter — fix relationships first.
+If trust is in the `G` range (4.0-5.0), everything else usually follows. If trust is below 3.0, other metrics are secondary — fix relationships first.
 
 ### 2. Start Simple, Add Complexity Gradually
 Month 1: Trust Equation + satisfaction only. Don't overwhelm yourself or stakeholders with measurement burden.
@@ -520,8 +524,8 @@ Prove relationships first (6 months). Then add operational metrics (6-12 months)
 ### For Program Leaders
 1. **Set expectations:** Trust metrics primary for first 6 months
 2. **Review quarterly:** Trust Equation scores with each BISO
-3. **Address red flags:** <2.0 scores get immediate attention
-4. **Celebrate wins:** >3.0 scores show relationship excellence
+3. **Address red flags:** <3.0 scores get immediate attention
+4. **Celebrate wins:** 4.0+ scores show relationship excellence
 
 ---
 
