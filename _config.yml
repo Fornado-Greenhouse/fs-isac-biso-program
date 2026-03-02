@@ -5,6 +5,10 @@ baseurl: "/fs-isac-biso-program"
 
 theme: just-the-docs
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 permalink: pretty
 
 color_scheme: light
