@@ -68,41 +68,36 @@ Each component is scored on a 1-5 scale through quarterly stakeholder assessment
 
 ### Trust Equation Scorecard Template
 
-```
-┌───────────────────────────────────────────────────────────────────────┐
-│                    BISO TRUST EQUATION SCORECARD                     │
-│                        Stakeholder: [Name/Role]                      │
-├───────────────────────────────────────────────────────────────────────┤
-│ CREDIBILITY (Subject Matter Expertise)                          [/5] │
-│ • Demonstrates deep security knowledge                          ___   │
-│ • Understands our business context                             ___   │
-│ • Provides relevant, actionable advice                         ___   │
-│                                                                       │
-│ RELIABILITY (Consistency & Follow-through)                      [/5] │
-│ • Meets commitments and deadlines                              ___   │
-│ • Provides consistent guidance over time                       ___   │
-│ • Available when needed                                        ___   │
-│                                                                       │
-│ INTIMACY (Psychological Safety & Relationship)                  [/5] │
-│ • Creates safe space for honest discussion                     ___   │
-│ • Understands our challenges and pressures                     ___   │
-│ • Maintains confidentiality and discretion                     ___   │
-│                                                                       │
-│ SELF-ORIENTATION (Focus on Others vs. Self)                   [Subtract] │
-│ • Pushes personal/security agenda over business needs          ___   │
-│ • Takes credit for others' work or success                     ___   │
-│ • Makes decisions based on security convenience                ___   │
-│                                                                       │
-│ OVERALL TRUST SCORE: [Credibility + Reliability + Intimacy - Self-Orientation] │
-│ Score: ___/15  |  Rating: ___/5.0  |  Status: 🟢/🟡/🔴            │
-└───────────────────────────────────────────────────────────────────────┘
-```
+Stakeholder: `[Name/Role]`
+
+| Component | Assessment Prompt | Score |
+|---|---|---|
+| Credibility | Demonstrates deep security knowledge | ___ |
+| Credibility | Understands our business context | ___ |
+| Credibility | Provides relevant, actionable advice | ___ |
+| Reliability | Meets commitments and deadlines | ___ |
+| Reliability | Provides consistent guidance over time | ___ |
+| Reliability | Available when needed | ___ |
+| Intimacy | Creates safe space for honest discussion | ___ |
+| Intimacy | Understands our challenges and pressures | ___ |
+| Intimacy | Maintains confidentiality and discretion | ___ |
+| Self-Orientation (subtract) | Pushes personal/security agenda over business needs | ___ |
+| Self-Orientation (subtract) | Takes credit for others' work or success | ___ |
+| Self-Orientation (subtract) | Makes decisions based on security convenience | ___ |
+
+Overall Trust Score Formula: `[Credibility + Reliability + Intimacy - Self-Orientation]`
+
+| Output | Value |
+|---|---|
+| Score | ___ / 15 |
+| Rating | ___ / 5.0 |
+| Status | G / Y / R |
 
 ### Trust Score Thresholds
 
-- 🟢 **>4.0/5.0** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
-- 🟡 **3.5-4.0/5.0** -- Adequate trust but room for improvement. Identify specific component gaps and address.
-- 🔴 **<3.5/5.0** -- Trust deficit requiring immediate attention. Develop targeted relationship improvement plan.
+- **G (>4.0/5.0)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
+- **Y (3.5-4.0/5.0)** -- Adequate trust but room for improvement. Identify specific component gaps and address.
+- **R (<3.5/5.0)** -- Trust deficit requiring immediate attention. Develop targeted relationship improvement plan.
 
 ### Escalation Triggers
 
@@ -173,9 +168,9 @@ The BISO success scorecard deliberately weights relationship quality above opera
 
 ### Relationship Health Thresholds
 
-- 🟢 **Healthy**: Trust scores >4.0/5.0, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
-- 🟡 **Attention Needed**: Trust scores 3.5-4.0/5.0, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
-- 🔴 **At Risk**: Trust scores <3.5/5.0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
+- **G (Healthy)**: Trust scores >4.0/5.0, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
+- **Y (Attention Needed)**: Trust scores 3.5-4.0/5.0, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
+- **R (At Risk)**: Trust scores <3.5/5.0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
 
 ### Intervention Protocols
 
@@ -192,7 +187,7 @@ When relationship health indicators trigger yellow or red status:
 
 These six metrics provide practical evidence that strong BISO relationships translate into measurable business value. Each metric is straightforward to collect, easy to explain to executives, and directly connected to business outcomes stakeholders care about.
 
-**Traffic Light Legend**: 🟢 Meeting or exceeding target | 🟡 75-89% of target | 🔴 Below 75% of target
+**Traffic Light Legend**: G = meeting or exceeding target | Y = 75-89% of target | R = below 75% of target
 
 ### Time-to-Market Acceleration
 
@@ -447,20 +442,12 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Business Value**: Measures actual business integration vs. theoretical authority
 
 *Decision Influence Matrix*:
-```
-┌─────────────────────┬──────────────┬──────────────┬──────────────┐
-│ Security Risk Level │ High Influence │ Med Influence│ Low Influence │
-├─────────────────────┼──────────────┼──────────────┼──────────────┤
-│ High Risk Decisions │ Target: >80% │ Accept: 15%  │ Concern: <5% │
-│                     │ Actual: 87%🟢│ Actual: 11% │ Actual: 2%   │
-├─────────────────────┼──────────────┼──────────────┼──────────────┤
-│ Med Risk Decisions  │ Accept: >50% │ Target: >30% │ Accept: <20% │
-│                     │ Actual: 54% │ Actual: 34%  │ Actual: 12%  │
-├─────────────────────┼──────────────┼──────────────┼──────────────┤
-│ Low Risk Decisions  │ Accept: >20% │ Accept: >40% │ Accept: <40% │
-│                     │ Actual: 23% │ Actual: 44%  │ Actual: 33%  │
-└─────────────────────┴──────────────┴──────────────┴──────────────┘
-```
+
+| Security Risk Level | High Influence | Medium Influence | Low Influence |
+|---|---|---|---|
+| High Risk Decisions | Target: >80%; Actual: 87% (G) | Accept: 15%; Actual: 11% | Concern: <5%; Actual: 2% |
+| Medium Risk Decisions | Accept: >50%; Actual: 54% | Target: >30%; Actual: 34% | Accept: <20%; Actual: 12% |
+| Low Risk Decisions | Accept: >20%; Actual: 23% | Accept: >40%; Actual: 44% | Accept: <40%; Actual: 33% |
 
 **Metric**: Stakeholder Advocacy Level
 - **Definition**: Extent to which business stakeholders actively advocate for BISO value
@@ -511,9 +498,9 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 **RQI Success Thresholds and Escalation**
 
 *Relationship Health Status System*:
-- 🟢 Trust scores >4.0/5.0, partnership perception >75%, high stakeholder advocacy
-- 🟡 Trust scores 3.5-4.0/5.0, partnership perception 60-75%, moderate advocacy
-- 🔴 Trust scores <3.5/5.0, partnership perception <60%, low advocacy
+- G: Trust scores >4.0/5.0, partnership perception >75%, high stakeholder advocacy
+- Y: Trust scores 3.5-4.0/5.0, partnership perception 60-75%, moderate advocacy
+- R: Trust scores <3.5/5.0, partnership perception <60%, low advocacy
 
 *Escalation Triggers*:
 - **Single Stakeholder**: Trust score drops below 3.0/5.0 for key stakeholder
@@ -597,84 +584,57 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 #### Executive Dashboard - Tier 1: Business Impact
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                    BISO PROGRAM - BUSINESS IMPACT DASHBOARD                 │
-│                          Month: July 2025 | Status: 🟢                      │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  💰 REVENUE METRICS                    📉 COST OPTIMIZATION                 │
-│  ┌─────────────────────────────────┐   ┌─────────────────────────────────┐  │
-│  │ Time-to-Market Acceleration     │   │ Security Rework Reduction       │  │
-│  │ Target: <5 days | Actual: 3.2  │   │ Target: 75% | Actual: 82%      │  │
-│  │ Status: 🟢 | Trend: ⬇️         │   │ Status: 🟢 | Trend: ⬇️         │  │
-│  └─────────────────────────────────┘   └─────────────────────────────────┘  │
-│  ┌─────────────────────────────────┐   ┌─────────────────────────────────┐  │
-│  │ Revenue Protection              │   │ Compliance Cost Efficiency     │  │
-│  │ Target: 100% | Actual: 98%     │   │ Target: 20% | Actual: 24%      │  │
-│  │ Status: 🟡 | Trend: ➡️         │   │ Status: 🟢 | Trend: ⬇️         │  │
-│  └─────────────────────────────────┘   └─────────────────────────────────┘  │
-│                                                                              │
-│  📊 MONTHLY TREND ANALYSIS                                                   │
-│  ┌──────────────────────────────────────────────────────────────────────┐   │
-│  │ Business Value Created: $2.4M QTD | Cost Avoided: $1.8M QTD         │   │
-│  │ ROI This Quarter: 3.2:1 | Projected Annual ROI: 4.1:1               │   │
-│  └──────────────────────────────────────────────────────────────────────┘   │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `Month: July 2025` | Status: `G`
+
+| Metric Group | Metric | Target | Actual | Status | Trend |
+|---|---|---|---|---|---|
+| Revenue Metrics | Time-to-Market Acceleration | <5 days | 3.2 days | G | v |
+| Cost Optimization | Security Rework Reduction | 75% | 82% | G | v |
+| Revenue Metrics | Revenue Protection | 100% | 98% | Y | -> |
+| Cost Optimization | Compliance Cost Efficiency | 20% | 24% | G | v |
+
+| Monthly Trend Analysis | Value |
+|---|---|
+| Business Value Created | $2.4M QTD |
+| Cost Avoided | $1.8M QTD |
+| ROI This Quarter | 3.2:1 |
+| Projected Annual ROI | 4.1:1 |
 
 #### Operational Dashboard - Tier 2-4: Risk & Operations
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                   BISO PROGRAM - OPERATIONAL EXCELLENCE                     │
-│                          Week of: July 28, 2025 | Status: 🟢               │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  🛡️ RISK MANAGEMENT (Tier 2)          ⚙️ OPERATIONAL METRICS (Tier 4)     │
-│  ┌─────────────────────────────────┐   ┌─────────────────────────────────┐  │
-│  │ Early Security Engagement       │   │ Security Review Throughput      │  │
-│  │ Target: >80% | Actual: 89%     │   │ Target: 100% | Actual: 97%     │  │
-│  │ Status: 🟢 | This Week: +5%    │   │ Status: 🟡 | Avg Time: 3.8d    │  │
-│  └─────────────────────────────────┘   └─────────────────────────────────┘  │
-│  ┌─────────────────────────────────┐   ┌─────────────────────────────────┐  │
-│  │ Risk-Informed Decisions         │   │ Exception Management            │  │
-│  │ Target: 100% | Actual: 94%     │   │ Target: <48hr | Actual: 42hr   │  │
-│  │ Status: 🟡 | Missing: 2 items  │   │ Status: 🟢 | Trend: ⬇️         │  │
-│  └─────────────────────────────────┘   └─────────────────────────────────┘  │
-│                                                                              │
-│  🤝 STAKEHOLDER SATISFACTION (Tier 3)                                       │
-│  ┌──────────────────────────────────────────────────────────────────────┐   │
-│  │ BISO Service Satisfaction: 4.2/5.0 🟢 | Executive Confidence: 92% 🟢  │   │
-│  │ Security as Enabler: 74% 🟢 | Recent Comments: "Excellent support!"   │   │
-│  └──────────────────────────────────────────────────────────────────────┘   │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `Week of: July 28, 2025` | Status: `G`
+
+| Category | Metric | Target | Actual | Status | Note |
+|---|---|---|---|---|---|
+| Risk Management (Tier 2) | Early Security Engagement | >80% | 89% | G | This week: +5% |
+| Operational Metrics (Tier 4) | Security Review Throughput | 100% | 97% | Y | Avg time: 3.8d |
+| Risk Management (Tier 2) | Risk-Informed Decisions | 100% | 94% | Y | Missing: 2 items |
+| Operational Metrics (Tier 4) | Exception Management | <48hr | 42hr | G | Trend: v |
+
+| Stakeholder Satisfaction (Tier 3) | Value |
+|---|---|
+| BISO Service Satisfaction | 4.2/5.0 (G) |
+| Executive Confidence | 92% (G) |
+| Security as Enabler | 74% (G) |
+| Recent Comments | "Excellent support!" |
 
 #### Strategic Dashboard - Tier 5: Innovation Impact
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                     BISO PROGRAM - STRATEGIC IMPACT                         │
-│                          Quarter: Q3 2025 | Status: 🟢                     │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  🚀 INNOVATION ENABLEMENT                   🏆 COMPETITIVE ADVANTAGE         │
-│  ┌─────────────────────────────────┐       ┌─────────────────────────────┐   │
-│  │ Tech Adoption Security Support  │       │ Security-Enabled Opportunities │  │
-│  │ Target: 100% | Actual: 100%    │       │ Q3 Count: 3 opportunities    │   │
-│  │ Projects: 8/8 supported 🟢     │       │ Est. Value: $2.1M pipeline   │   │
-│  └─────────────────────────────────┘       └─────────────────────────────┘   │
-│  ┌─────────────────────────────────┐       ┌─────────────────────────────┐   │
-│  │ Digital Transformation Security  │       │ Industry Recognition         │   │
-│  │ Target: 100% | Actual: 100%    │       │ Conference Speaking: 2      │   │
-│  │ All initiatives secured 🟢      │       │ Peer Benchmarking: Top 10% │   │
-│  └─────────────────────────────────┘       └─────────────────────────────┘   │
-│                                                                              │
-│  📈 STRATEGIC IMPACT SUMMARY                                                 │
-│  ┌──────────────────────────────────────────────────────────────────────┐   │
-│  │ Strategic Value Created: $3.2M QTD | Innovation Projects: 12 active   │   │
-│  │ Market Differentiation: Measurable | Thought Leadership: Established  │   │
-│  └──────────────────────────────────────────────────────────────────────┘   │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `Quarter: Q3 2025` | Status: `G`
+
+| Category | Metric | Target | Actual | Status | Note |
+|---|---|---|---|---|---|
+| Innovation Enablement | Tech Adoption Security Support | 100% | 100% | G | Projects: 8/8 supported |
+| Competitive Advantage | Security-Enabled Opportunities | N/A | 3 opportunities | G | Est. value: $2.1M pipeline |
+| Innovation Enablement | Digital Transformation Security | 100% | 100% | G | All initiatives secured |
+| Competitive Advantage | Industry Recognition | N/A | Top 10% benchmark | G | Conference speaking: 2 |
+
+| Strategic Impact Summary | Value |
+|---|---|
+| Strategic Value Created | $3.2M QTD |
+| Innovation Projects | 12 active |
+| Market Differentiation | Measurable |
+| Thought Leadership | Established |
 
 ---
 
@@ -684,122 +644,108 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 #### Monthly Executive Dashboard Template
 
-```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                        BISO PROGRAM EXECUTIVE BRIEFING                        │
-│                              Month: [Month Year]                               │
-├────────────────────────────────────────────────────────────────────────────────┤
-│ 📊 PROGRAM STATUS: [Overall Status: 🟢/🟡/🔴]                              │
-│                                                                              │
-│ 💰 BUSINESS IMPACT (Tier 1)                                                 │
-│   • Time-to-Market: [X] days (Target: <5) [🟢/🟡/🔴]                       │
-│   • Revenue Protection: [X]% (Target: 100%) [🟢/🟡/🔴]                    │
-│   • Rework Reduction: [X]% (Target: 75%) [🟢/🟡/🔴]                      │
-│   • Compliance Efficiency: [X]% (Target: 20%) [🟢/🟡/🔴]                  │
-│                                                                              │
-│ 🤝 STAKEHOLDER SATISFACTION (Tier 3)                                        │
-│   • BISO Service Rating: [X]/5.0 (Target: >4.0) [🟢/🟡/🔴]                │
-│   • Security as Enabler: [X]% (Target: >70%) [🟢/🟡/🔴]                   │
-│   • Executive Confidence: [X]% (Target: >90%) [🟢/🟡/🔴]                 │
-│                                                                              │
-│ 🏆 KEY ACHIEVEMENTS THIS MONTH                                                │
-│   1. [Specific achievement with business impact]                             │
-│   2. [Specific achievement with business impact]                             │
-│   3. [Specific achievement with business impact]                             │
-│                                                                              │
-│ ⚠️ ATTENTION REQUIRED                                                           │
-│   • [Issue requiring executive attention/decision]                           │
-│   • [Resource need or strategic decision required]                           │
-│                                                                              │
-│ 📈 NEXT MONTH PRIORITIES                                                       │
-│   1. [Priority initiative with expected outcome]                             │
-│   2. [Priority initiative with expected outcome]                             │
-│   3. [Priority initiative with expected outcome]                             │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `Month: [Month Year]`
+
+| Program Status | Value |
+|---|---|
+| Overall Status | [G/Y/R] |
+
+| Business Impact (Tier 1) | Target | Actual | Status |
+|---|---|---|---|
+| Time-to-Market | <5 days | [X] days | [G/Y/R] |
+| Revenue Protection | 100% | [X]% | [G/Y/R] |
+| Rework Reduction | 75% | [X]% | [G/Y/R] |
+| Compliance Efficiency | 20% | [X]% | [G/Y/R] |
+
+| Stakeholder Satisfaction (Tier 3) | Target | Actual | Status |
+|---|---|---|---|
+| BISO Service Rating | >4.0 | [X]/5.0 | [G/Y/R] |
+| Security as Enabler | >70% | [X]% | [G/Y/R] |
+| Executive Confidence | >90% | [X]% | [G/Y/R] |
+
+Key Achievements This Month:
+1. [Specific achievement with business impact]
+2. [Specific achievement with business impact]
+3. [Specific achievement with business impact]
+
+Attention Required:
+- [Issue requiring executive attention/decision]
+- [Resource need or strategic decision required]
+
+Next Month Priorities:
+1. [Priority initiative with expected outcome]
+2. [Priority initiative with expected outcome]
+3. [Priority initiative with expected outcome]
 
 #### Quarterly Business Review Template
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                    BISO PROGRAM QUARTERLY BUSINESS REVIEW                     │
-│                                 Q[X] [Year]                                   │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ 📈 QUARTERLY PERFORMANCE SUMMARY                                           │
-│                                                                              │
-│ Metrics Status: [X]/[Total] metrics meeting targets (🟢 [%] | 🟡 [%] | 🔴 [%])  │
-│ Business Value Created: $[X]M this quarter                                  │
-│ ROI This Quarter: [X]:1 | YTD ROI: [X]:1                                   │
-│                                                                              │
-│ 💰 BUSINESS IMPACT METRICS (Tier 1)                                         │
-│ ┌──────────────────────────────────────────────────────────────────────┐   │
-│ │ Metric                    | Target    | Actual    | Status | Trend       │   │
-│ ├──────────────────────────────────────────────────────────────────────┤   │
-│ │ Time-to-Market Accel.    | <5 days   | [X] days  | 🟢/🟡/🔴 | ⬆️/➡️/⬇️    │   │
-│ │ Revenue Protection       | 100%      | [X]%      | 🟢/🟡/🔴 | ⬆️/➡️/⬇️    │   │
-│ │ Rework Reduction         | 75%       | [X]%      | 🟢/🟡/🔴 | ⬆️/➡️/⬇️    │   │
-│ │ Compliance Efficiency    | 20%       | [X]%      | 🟢/🟡/🔴 | ⬆️/➡️/⬇️    │   │
-│ └──────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
-│ 🏆 TOP 3 BUSINESS ACHIEVEMENTS                                                │
-│ 1. [Major achievement with quantified business impact]                      │
-│ 2. [Major achievement with quantified business impact]                      │
-│ 3. [Major achievement with quantified business impact]                      │
-│                                                                              │
-│ 📈 STRATEGIC INITIATIVES FOR NEXT QUARTER                                    │
-│ 1. [Initiative with expected business outcome and timeline]                 │
-│ 2. [Initiative with expected business outcome and timeline]                 │
-│ 3. [Initiative with expected business outcome and timeline]                 │
-│                                                                              │
-│ ⚠️ EXECUTIVE DECISIONS REQUIRED                                                 │
-│ • [Decision needed with business impact and timeline]                        │
-│ • [Resource allocation or strategic direction needed]                        │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `Q[X] [Year]`
+
+| Quarterly Performance Summary | Value |
+|---|---|
+| Metrics Status | [X]/[Total] meeting targets (G [%] | Y [%] | R [%]) |
+| Business Value Created | $[X]M this quarter |
+| ROI This Quarter | [X]:1 |
+| YTD ROI | [X]:1 |
+
+| Business Impact Metric (Tier 1) | Target | Actual | Status | Trend |
+|---|---|---|---|---|
+| Time-to-Market Acceleration | <5 days | [X] days | [G/Y/R] | [^/->/v] |
+| Revenue Protection | 100% | [X]% | [G/Y/R] | [^/->/v] |
+| Rework Reduction | 75% | [X]% | [G/Y/R] | [^/->/v] |
+| Compliance Efficiency | 20% | [X]% | [G/Y/R] | [^/->/v] |
+
+Top 3 Business Achievements:
+1. [Major achievement with quantified business impact]
+2. [Major achievement with quantified business impact]
+3. [Major achievement with quantified business impact]
+
+Strategic Initiatives for Next Quarter:
+1. [Initiative with expected business outcome and timeline]
+2. [Initiative with expected business outcome and timeline]
+3. [Initiative with expected business outcome and timeline]
+
+Executive Decisions Required:
+- [Decision needed with business impact and timeline]
+- [Resource allocation or strategic direction needed]
 
 #### Annual Strategic Review Template
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                      BISO PROGRAM ANNUAL STRATEGIC REVIEW                    │
-│                                    [Year]                                    │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ 📈 ANNUAL PERFORMANCE OVERVIEW                                              │
-│                                                                              │
-│ Program Maturity: [Year 1/2/3+] | Overall Status: 🟢 Exceeding Expectations  │
-│ Total Business Value Created: $[X]M                                         │
-│ Annual ROI Achieved: [X]:1 | Cumulative ROI: [X]:1                        │
-│ Stakeholder Satisfaction: [X]/5.0 (Target: >4.0)                           │
-│                                                                              │
-│ 🏆 MAJOR ACCOMPLISHMENTS                                                      │
-│ 1. [Transformational achievement with business impact]                      │
-│ 2. [Strategic initiative completion with ROI]                               │
-│ 3. [Industry recognition or competitive advantage gained]                   │
-│ 4. [Culture change or organizational transformation]                        │
-│ 5. [Innovation enablement or new business opportunities]                    │
-│                                                                              │
-│ 📉 METRICS PERFORMANCE SUMMARY                                               │
-│ ┌──────────────────────────────────────────────────────────────────────┐   │
-│ │ Tier                     | Metrics | 🟢 Green | 🟡 Yellow | 🔴 Red   │   │
-│ ├──────────────────────────────────────────────────────────────────────┤   │
-│ │ Tier 1: Business Impact  | 4       | 3 (75%)  | 1 (25%)  | 0 (0%)   │   │
-│ │ Tier 2: Risk Management | 4       | 4 (100%) | 0 (0%)   | 0 (0%)   │   │
-│ │ Tier 3: Stakeholder Sat. | 3       | 3 (100%) | 0 (0%)   | 0 (0%)   │   │
-│ │ Tier 4: Operational Exc. | 4       | 3 (75%)  | 1 (25%)  | 0 (0%)   │   │
-│ │ Tier 5: Strategic Impact | 3       | 3 (100%) | 0 (0%)   | 0 (0%)   │   │
-│ └──────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
-│ 🚀 STRATEGIC OBJECTIVES FOR NEXT YEAR                                       │
-│ 1. [Strategic objective with measurable outcome]                            │
-│ 2. [Strategic objective with measurable outcome]                            │
-│ 3. [Strategic objective with measurable outcome]                            │
-│                                                                              │
-│ 💼 EXECUTIVE SPONSORSHIP & RESOURCE NEEDS                                     │
-│ • [Sponsorship needs for next year strategic initiatives]                    │
-│ • [Budget requirements with ROI projections]                                 │
-│ • [Organizational changes or resource additions needed]                      │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+Reporting Period: `[Year]`
+
+| Annual Performance Overview | Value |
+|---|---|
+| Program Maturity | [Year 1/2/3+] |
+| Overall Status | [G/Y/R] [summary] |
+| Total Business Value Created | $[X]M |
+| Annual ROI Achieved | [X]:1 |
+| Cumulative ROI | [X]:1 |
+| Stakeholder Satisfaction | [X]/5.0 (Target: >4.0) |
+
+Major Accomplishments:
+1. [Transformational achievement with business impact]
+2. [Strategic initiative completion with ROI]
+3. [Industry recognition or competitive advantage gained]
+4. [Culture change or organizational transformation]
+5. [Innovation enablement or new business opportunities]
+
+| Metrics Performance Summary | Metrics | G (Green) | Y (Yellow) | R (Red) |
+|---|---:|---:|---:|---:|
+| Tier 1: Business Impact | 4 | 3 (75%) | 1 (25%) | 0 (0%) |
+| Tier 2: Risk Management | 4 | 4 (100%) | 0 (0%) | 0 (0%) |
+| Tier 3: Stakeholder Satisfaction | 3 | 3 (100%) | 0 (0%) | 0 (0%) |
+| Tier 4: Operational Excellence | 4 | 3 (75%) | 1 (25%) | 0 (0%) |
+| Tier 5: Strategic Impact | 3 | 3 (100%) | 0 (0%) | 0 (0%) |
+
+Strategic Objectives for Next Year:
+1. [Strategic objective with measurable outcome]
+2. [Strategic objective with measurable outcome]
+3. [Strategic objective with measurable outcome]
+
+Executive Sponsorship and Resource Needs:
+- [Sponsorship needs for next year strategic initiatives]
+- [Budget requirements with ROI projections]
+- [Organizational changes or resource additions needed]
 
 ---
 
@@ -816,26 +762,26 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 | Metric Category | BISO Program Director | Senior BISOs | BISO Analysts | Business Unit Leaders | CISO | CRO | CFO | IT Operations | Security Ops | Data Analytics |
 |-----------------|----------------------|--------------|---------------|---------------------|------|-----|-----|---------------|--------------|----------------|
-| **Tier 1: Business Impact** |
+| **Tier 1: Business Impact** |  |  |  |  |  |  |  |  |  |  |
 | Time-to-Market Acceleration | A | R | C | C | I | I | I | C | C | R |
 | Revenue Protection | A | R | C | A | C | A | I | C | C | R |
 | Security Rework Reduction | A | R | R | C | C | I | A | C | I | R |
 | Compliance Cost Efficiency | A | C | R | C | C | A | A | I | C | R |
-| **Tier 2: Risk Management** |
+| **Tier 2: Risk Management** |  |  |  |  |  |  |  |  |  |  |
 | Early Security Engagement | A | R | R | C | C | I | I | C | C | R |
 | Risk-Informed Decisions | A | R | C | A | C | A | I | I | C | R |
 | Business Impact Minimization | C | R | R | A | A | C | I | A | A | R |
 | Recovery Time Optimization | C | C | R | A | A | C | I | A | A | R |
-| **Tier 3: Stakeholder Satisfaction** |
+| **Tier 3: Stakeholder Satisfaction** |  |  |  |  |  |  |  |  |  |  |
 | BISO Service Satisfaction | A | R | R | A | C | C | C | I | I | R |
 | Security Perceived Value | A | R | C | A | C | C | C | C | C | R |
 | Leadership Trust in Security | A | C | C | A | A | A | A | C | C | R |
-| **Tier 4: Operational Excellence** |
+| **Tier 4: Operational Excellence** |  |  |  |  |  |  |  |  |  |  |
 | Security Review Throughput | A | R | R | C | C | I | I | C | C | R |
 | Exception Management | A | R | R | C | C | C | I | C | C | R |
 | Audit Finding Reduction | C | R | R | C | A | A | I | C | A | R |
 | Repeat Issue Prevention | A | R | R | C | C | C | I | C | C | R |
-| **Tier 5: Strategic Impact** |
+| **Tier 5: Strategic Impact** |  |  |  |  |  |  |  |  |  |  |
 | Technology Adoption Support | A | R | C | A | C | I | I | A | C | R |
 | Digital Transformation Security | A | R | C | A | C | I | I | A | C | R |
 | Security-Enabled Opportunities | A | R | C | A | C | A | A | C | C | R |
@@ -917,7 +863,7 @@ This section provides detailed automation specifications. For overall implementa
 
 **Time-to-Market Acceleration**
 - **System Integration**: Project management APIs (Jira, ServiceNow, Azure DevOps)
-- **Automated Collection**: Security review start/end timestamps → duration calculation
+- **Automated Collection**: Security review start/end timestamps -> duration calculation
 - **Real-time Dashboard**: Updates every 4 hours with current averages
 - **Alert Thresholds**: Automatic alerts when reviews exceed 7 days
 - **Implementation Timeline**: 2 weeks
@@ -935,14 +881,14 @@ This section provides detailed automation specifications. For overall implementa
 
 **Early Security Engagement**
 - **System Integration**: Project initiation systems, security consultation logs
-- **Automated Tracking**: Project creation → security involvement timestamp matching
+- **Automated Tracking**: Project creation -> security involvement timestamp matching
 - **Weekly Reporting**: Automated calculation of engagement percentages
 - **Trend Analysis**: Monthly trend identification with predictive alerts
 - **Implementation Timeline**: 2 weeks
 
 **Exception Management**
 - **System Integration**: GRC systems, risk databases, approval workflows
-- **Automated Tracking**: Exception creation → resolution time calculation
+- **Automated Tracking**: Exception creation -> resolution time calculation
 - **Real-time Alerts**: Automatic escalation at 36-hour mark (before 48-hour target)
 - **Performance Dashboard**: Live status of all active exceptions
 - **Implementation Timeline**: 3 weeks
@@ -1063,9 +1009,9 @@ This section provides detailed automation specifications. For overall implementa
 **Business Context**: Adjustment for organizational changes (growth, M&A, transformation)
 
 **Target Adjustment Examples**:
-- **Time-to-Market**: Historical 8.3 days → Year 1 target <6 days → Year 2 target <5 days
-- **Stakeholder Satisfaction**: Baseline 3.2/5.0 → Year 1 target 3.8/5.0 → Year 2 target >4.0/5.0
-- **Revenue Protection**: Baseline 94% → Year 1 target 97% → Year 2 target 100%
+- **Time-to-Market**: Historical 8.3 days -> Year 1 target <6 days -> Year 2 target <5 days
+- **Stakeholder Satisfaction**: Baseline 3.2/5.0 -> Year 1 target 3.8/5.0 -> Year 2 target >4.0/5.0
+- **Revenue Protection**: Baseline 94% -> Year 1 target 97% -> Year 2 target 100%
 
 **Dynamic Target Adjustment**
 
