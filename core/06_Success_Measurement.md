@@ -62,29 +62,27 @@ Start simple, add complexity as program matures:
 
 ## Level 1: Trust and Relationship Metrics (Months 1-6)
 
-### Primary Metric: Trust Equation Score
+### Primary Metric: Net Trust Score (NTS)
 
-**Formula:**
-```
-Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
-Reverse Self-Orientation = 6 - Self-Orientation
-```
+**Formula:** `NTS = % Promoters (9-10) - % Detractors (0-6)`  
+`Passives = 7-8`  
+`Range = -100 to +100`
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
 > Keep this threshold model consistent across scorecards, dashboards, and escalation triggers.
 
-**Target:** 4.0-5.0/5.0 (G range) with key stakeholders
+**Target:** `G` range (`+30 to +100` NTS) with key stakeholders
 
 **How to Measure:**
-1. Self-assess quarterly using scorecard (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
-2. Discuss scores with stakeholders in 30-minute 1-on-1s
-3. Track trend over time (more important than absolute score)
+1. Run quarterly NTS survey with key stakeholders (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
+2. Review six diagnostic follow-ups for the lowest-trust relationships
+3. Track trend over time (more important than single-quarter values)
 
 **What Good Looks Like:**
-- `G` **4.0-5.0:** Trusted advisor status and strong partnership
-- `Y` **3.0-3.9:** Building trust with clear improvement opportunities
-- `R` **<3.0:** Relationship at risk, immediate intervention required
+- `G` **+30 to +100:** Trusted advisor status and strong partnership
+- `Y` **0 to +29:** Mixed trust with clear improvement opportunities
+- `R` **below 0:** Relationship risk, immediate intervention required
 
 ---
 
@@ -145,7 +143,7 @@ Simple Excel log:
 
 ## Level 2: Operational Metrics (Months 6-12)
 
-Add these once trust is established (Trust Equation >=4.0):
+Add these once trust is established (NTS in `G` range):
 
 ### Time to Security Review
 
@@ -275,7 +273,7 @@ Document business impact, not security metrics:
 
 ### New Program (Months 1-6): Relationship Focus
 **Measure:**
-- ✅ Trust Equation scores (primary)
+- ✅ Net Trust Score (NTS) trend (primary)
 - ✅ Stakeholder satisfaction
 - ✅ Engagement frequency and quality
 
@@ -284,13 +282,13 @@ Document business impact, not security metrics:
 - ❌ Complex operational metrics (process still maturing)
 - ❌ Business impact metrics (relationships still building)
 
-**Success:** Trust Equation >=4.0 with 5+ key stakeholders
+**Success:** NTS in `G` range with 5+ key stakeholders
 
 ---
 
 ### Growing Program (Months 6-12): Add Operations
 **Measure:**
-- ✅ Trust Equation (continue)
+- ✅ NTS (continue)
 - ✅ Time to security review
 - ✅ Early project engagement rate
 - ✅ Risk-informed decision coverage
@@ -299,7 +297,7 @@ Document business impact, not security metrics:
 - ⏰ Basic cost avoidance (conservative estimates only)
 - ⏰ Time savings (if measurable with confidence)
 
-**Success:** Operational metrics green + Trust Equation >=4.0
+**Success:** Operational metrics green + NTS in `G` range
 
 ---
 
@@ -325,12 +323,12 @@ Document business impact, not security metrics:
 
 **Create 3 tabs:**
 
-**Tab 1: Trust Equation**
+**Tab 1: Net Trust Score (NTS)**
 
-| Stakeholder | Quarter | Credibility | Reliability | Intimacy | Self-Orient | Reverse SO | Trust Score | Status |
-|-------------|---------|-------------|-------------|----------|-------------|------------|-------------|--------|
-| VP Retail   | Q1      | 4           | 3           | 4        | 2           | 4      | 3.75 | Y |
-| VP Retail   | Q2      | 4           | 5           | 4        | 1           | 5      | 4.50 | G |
+| Stakeholder Group | Quarter | Promoters | Passives | Detractors | NTS | Status |
+|------------------|---------|-----------|----------|------------|-----|--------|
+| VP/Director Cohort | Q1    | 40%       | 35%      | 25%        | +15 | Y |
+| VP/Director Cohort | Q2    | 58%       | 28%      | 14%        | +44 | G |
 
 **Tab 2: Operational Metrics**
 
@@ -355,7 +353,7 @@ Document business impact, not security metrics:
 **Audience:** CISO, Program Director
 **Format:** Email update (1 page)
 **Content:**
-- Trust Equation trend (last 3 months)
+- NTS trend (last 3 months)
 - Operational metrics vs. targets
 - Key wins and challenges
 - Next month priorities
@@ -368,7 +366,7 @@ Document business impact, not security metrics:
 **Audience:** CISO, Business Unit Leaders, CRO
 **Format:** Presentation (10-15 slides)
 **Content:**
-- Trust Equation scores by stakeholder
+- NTS by stakeholder group
 - Stakeholder satisfaction trends
 - Operational performance
 - Business value delivered (when ready)
@@ -394,7 +392,7 @@ Document business impact, not security metrics:
 
 ## Red Flags: When Metrics Show Problems
 
-### R Trust Equation <3.0 with Key Stakeholder
+### R NTS Below 0
 **Immediate Action:**
 - Schedule 1-on-1 with stakeholder within 48 hours
 - Ask: "What's not working in our partnership?"
@@ -435,14 +433,14 @@ Document business impact, not security metrics:
 ### ❌ Mistake 1: Measuring Too Much Too Soon
 **Problem:** New programs try to measure 20+ metrics from day 1
 **Result:** Overwhelm, manual burden, no focus
-**Solution:** Start with Trust Equation only. Add metrics quarterly as capacity allows.
+**Solution:** Start with NTS only. Add metrics quarterly as capacity allows.
 
 ---
 
 ### ❌ Mistake 2: Focusing on Security Metrics Instead of Relationship Metrics
 **Problem:** Measuring vulnerabilities, compliance scores, incidents
 **Result:** Metrics don't reflect BISO value (those are security ops metrics)
-**Solution:** Trust Equation and stakeholder satisfaction are primary. Everything else is secondary.
+**Solution:** NTS and stakeholder satisfaction are primary. Everything else is secondary.
 
 ---
 
@@ -471,18 +469,18 @@ Document business impact, not security metrics:
 
 ### Month 1: Establish Baseline
 - [ ] Identify 5-10 key stakeholders for measurement
-- [ ] Conduct baseline Trust Equation self-assessment
+- [ ] Conduct baseline NTS survey with key stakeholders
 - [ ] Send first stakeholder satisfaction pulse survey
 - [ ] Create simple Excel tracking spreadsheet
 
 ### Month 2: Build Measurement Rhythm
-- [ ] Schedule quarterly Trust Equation discussions with stakeholders
+- [ ] Schedule quarterly NTS review discussions with stakeholders
 - [ ] Set up monthly pulse survey (automated if possible)
 - [ ] Track engagement activities in log
 - [ ] Establish reporting schedule (monthly to CISO)
 
 ### Month 3: First Review and Adjust
-- [ ] Review first quarter Trust Equation scores
+- [ ] Review first quarter NTS results
 - [ ] Analyze stakeholder satisfaction trends
 - [ ] Identify what's working vs. needs improvement
 - [ ] Adjust engagement approach based on metrics
@@ -491,11 +489,11 @@ Document business impact, not security metrics:
 
 ## Key Principles
 
-### 1. Trust Equation is Your North Star
-If trust is in the `G` range (4.0-5.0), everything else usually follows. If trust is below 3.0, other metrics are secondary — fix relationships first.
+### 1. NTS is Your North Star
+If NTS is in the `G` range (+30 to +100), everything else usually follows. If NTS is below 0, other metrics are secondary — fix relationships first.
 
 ### 2. Start Simple, Add Complexity Gradually
-Month 1: Trust Equation + satisfaction only. Don't overwhelm yourself or stakeholders with measurement burden.
+Month 1: NTS + satisfaction only. Don't overwhelm yourself or stakeholders with measurement burden.
 
 ### 3. Measure What Matters to Stakeholders
 Stakeholders care about business outcomes, not security metrics. Measure what they value: trust, responsiveness, business enablement.
@@ -512,31 +510,31 @@ Prove relationships first (6 months). Then add operational metrics (6-12 months)
 
 ### For New Programs
 1. **Week 1:** Create simple Excel tracking sheet
-2. **Month 1:** Baseline Trust Equation with 5 key stakeholders
+2. **Month 1:** Baseline NTS with 5 key stakeholders
 3. **Month 2:** Launch monthly pulse survey
-4. **Quarter 1:** First Trust Equation review cycle
+4. **Quarter 1:** First NTS review cycle
 
 ### For Existing Programs
 1. **This week:** Assess current measurement approach
-2. **This month:** Add Trust Equation if not already measured
+2. **This month:** Add NTS if not already measured
 3. **This quarter:** Simplify metrics if overloaded (focus on trust + 3-5 operational metrics max)
 4. **Next quarter:** Add financial metrics only if trust and operations are solid
 
 ### For Program Leaders
 1. **Set expectations:** Trust metrics primary for first 6 months
-2. **Review quarterly:** Trust Equation scores with each BISO
-3. **Address red flags:** <3.0 scores get immediate attention
+2. **Review quarterly:** NTS results with each BISO
+3. **Address red flags:** NTS below 0 gets immediate attention
 4. **Celebrate wins:** 4.0+ scores show relationship excellence
 
 ---
 
 **Key Takeaway:**
-Start with Trust Equation (relationship metrics). Add operational metrics when relationships are solid. Demonstrate financial value only when you have baseline and confidence. Simple measurement done consistently beats complex measurement done occasionally.
+Start with NTS (relationship metrics). Add operational metrics when relationships are solid. Demonstrate financial value only when you have baseline and confidence. Simple measurement done consistently beats complex measurement done occasionally.
 
 ---
 
 **Related Core Documents:**
 - **01_Program_Guide.md** - Implementation approach and success criteria
 - **02_Service_Catalog.md** - What BISOs deliver that creates value
-- **05_Stakeholder_Engagement.md** - Trust Equation framework and scorecard
-- **07_Common_Challenges.md** - Fixing low trust scores and measurement problems
+- **05_Stakeholder_Engagement.md** - NTS framework and scorecard
+- **07_Common_Challenges.md** - Fixing low trust indicators and measurement problems

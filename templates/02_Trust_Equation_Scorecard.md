@@ -1,67 +1,85 @@
 ---
 title: "Trust Equation Scorecard"
-description: "Measurement template for evaluating and tracking trust levels between BISOs and business unit stakeholders"
+description: "Executive trust index template for evaluating and tracking BISO stakeholder confidence"
 parent: "Templates"
 nav_order: 2
 ---
 
 # Trust Equation Scorecard Template
 
-**Purpose:** Executive-level trust assessment for BISO partnership quality  
-**Time to Complete:** 5-7 minutes  
+**Purpose:** Executive-level trust signal for BISO partnership quality  
+**Time to Complete:** 3-5 minutes  
 **Frequency:** Quarterly per key stakeholder  
-**Primary Use:** Fast trust signal with clear follow-up actions
+**Primary Use:** Fast, low-friction trust measurement with clear follow-up actions
 
 ---
 
-## Executive Survey (8 Questions)
+## Executive Trust Index (NPS-Style)
 
-Use a 1-5 scale for each question:
-- `1` = Strongly Disagree
-- `2` = Disagree
-- `3` = Neutral
-- `4` = Agree
-- `5` = Strongly Agree
+**Primary question (0-10):**
 
-| ID | Component | Executive Survey Question | Score |
-|---|---|---|---|
-| Q1 | Credibility | The BISO demonstrates strong security judgment relevant to our business decisions. | ___ / 5 |
-| Q2 | Credibility | The BISO translates security risk into clear business impact and options. | ___ / 5 |
-| Q3 | Reliability | The BISO follows through on commitments with predictable quality and timing. | ___ / 5 |
-| Q4 | Reliability | The BISO is responsive at the pace required by business priorities. | ___ / 5 |
-| Q5 | Intimacy | I can raise sensitive concerns with the BISO without fear of blame or escalation theater. | ___ / 5 |
-| Q6 | Intimacy | The BISO demonstrates discretion and sound handling of confidential business context. | ___ / 5 |
-| Q7 | Self-Orientation | The BISO pushes security preferences even when business alternatives are viable. | ___ / 5 |
-| Q8 | Self-Orientation | The BISO optimizes for security-team convenience over business outcomes. | ___ / 5 |
+> How likely are you to recommend early BISO involvement for a major business initiative in your area?
+
+Scoring scale:
+- `0-6` = Detractor
+- `7-8` = Passive
+- `9-10` = Promoter
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
-> Self-Orientation is reverse-scored so higher self-focus lowers trust.
+> **Program standard:** `Net Trust Score (NTS) = % Promoters - % Detractors`.
+> NTS ranges from `-100` to `+100`.
 
 ---
 
-## Scoring
+## Six Diagnostic Follow-Ups (Non-Scored)
 
-1. `Credibility Avg` = `(Q1 + Q2) / 2`  
-2. `Reliability Avg` = `(Q3 + Q4) / 2`  
-3. `Intimacy Avg` = `(Q5 + Q6) / 2`  
-4. `Self-Orientation Avg` = `(Q7 + Q8) / 2`  
-5. `Reverse Self-Orientation` = `6 - Self-Orientation Avg`  
-6. `Trust Score` = `(Credibility Avg + Reliability Avg + Intimacy Avg + Reverse Self-Orientation) / 4`
+Use a 1-5 scale for each follow-up (`1 = Strongly Disagree`, `5 = Strongly Agree`).
+
+| ID | Dimension | Follow-Up Question | Score |
+|---|---|---|---|
+| D1 | Strategic Relevance | BISO input improves business decision quality in meaningful ways. | ___ / 5 |
+| D2 | Clarity | Security guidance is clear, actionable, and appropriately prioritized. | ___ / 5 |
+| D3 | Responsiveness | BISO engagement operates at the speed required by business timelines. | ___ / 5 |
+| D4 | Partnership Behavior | BISO teams collaborate to find viable options rather than blocking progress. | ___ / 5 |
+| D5 | Confidence | I trust BISO judgment on high-impact risk trade-offs. | ___ / 5 |
+| D6 | Integration | BISO involvement is easiest when brought in early, not late. | ___ / 5 |
+
+{: .note }
+> Diagnostic follow-ups guide improvement planning. They do **not** change the NTS calculation.
 
 ---
 
 ## Interpretation And Actions
 
-- `G (4.0-5.0)`: Trusted advisor relationship. Maintain quarterly cadence and replicate successful behaviors.
-- `Y (3.0-3.9)`: Relationship is workable but fragile. Identify the lowest component and assign 1-2 concrete fixes for next quarter.
-- `R (<3.0)`: Relationship risk. Schedule direct reset conversation within 48 hours and create a short recovery plan.
+{: .important }
+> **NTS thresholds (program standard):**
+> `G = +30 to +100` (Healthy trust)
+> `Y = 0 to +29` (Mixed trust, improvement needed)
+> `R = below 0` (Trust risk, intervention required)
+
+- `G`: Maintain cadence, scale best practices, and document what stakeholders value most.
+- `Y`: Use the lowest 1-2 diagnostic dimensions to define a focused quarterly improvement plan.
+- `R`: Initiate direct reset conversation within 48 hours and establish executive-supported recovery actions.
+
+---
+
+## Rollup Worksheet
+
+| Item | Value |
+|---|---|
+| Total Responses | ___ |
+| Promoters (9-10) | ___ |
+| Passives (7-8) | ___ |
+| Detractors (0-6) | ___ |
+| % Promoters | ___% |
+| % Detractors | ___% |
+| **Net Trust Score (NTS)** | **___** |
+| Status (G/Y/R) | ___ |
 
 ---
 
 **Related Resources:**
-- [Core Stakeholder Engagement](../core/05_Stakeholder_Engagement.md) - Trust model, behaviors, and engagement strategies
-- [Core Success Measurement](../core/06_Success_Measurement.md) - Program-level measurement approach
-- [Core Common Challenges](../core/07_Common_Challenges.md) - Response playbooks for low trust scenarios
-- [BISOPRO-04 Stakeholder Engagement Protocols](../deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md) - Operational protocol context
-- [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md) - Threshold and reporting alignment
+- [Core Stakeholder Engagement](../core/05_Stakeholder_Engagement.md) - stakeholder operating model and trust behaviors
+- [Core Success Measurement](../core/06_Success_Measurement.md) - program-level metric framework
+- [BISOPRO-04 Stakeholder Engagement Protocols](../deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md) - operational stakeholder protocol
+- [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md) - reporting and threshold alignment

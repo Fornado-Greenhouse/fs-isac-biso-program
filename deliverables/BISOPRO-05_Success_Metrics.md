@@ -17,12 +17,12 @@ This framework takes a relationship-first approach to BISO measurement. Business
 
 **Core Measurement Components:**
 
-- **Trust Equation Scorecard** -- The centerpiece framework measuring credibility, reliability, intimacy, and self-orientation across key stakeholder relationships. Quarterly assessment with a `G`-range target of 4.0-5.0/5.0.
+- **Trust Equation Scorecard (NTS Model)** -- The centerpiece framework measuring stakeholder trust using a single recommendation question and six diagnostics. Quarterly assessment with a `G`-range target of +30 to +100 NTS.
 - **Monthly Pulse Survey** -- Five questions, two minutes, every month. Tracks whether BISOs are solving business problems and enabling objectives in near-real-time.
 - **Relationship Health Indicators** -- Stakeholder engagement quality, advocacy levels, and balanced scorecard weighting that puts relationships first (40% weight).
 - **Simple Business Outcome Tracking** -- Six practical metrics covering time-to-market, early engagement, rework reduction, satisfaction, throughput, and exception management.
 
-The measurement philosophy is straightforward: build trust first, track relationships consistently, and let business outcomes demonstrate value. Start with the Trust Equation and Pulse Survey in Month 1. Add business outcome tracking as relationships mature.
+The measurement philosophy is straightforward: build trust first, track relationships consistently, and let business outcomes demonstrate value. Start with NTS and the Pulse Survey in Month 1. Add business outcome tracking as relationships mature.
 
 {: .maturity }
 For comprehensive measurement capabilities including 5-tier systems, automation, and advanced analytics, see the [Appendix: Advanced Measurement Framework](#appendix-advanced-measurement-framework) for Year 2+ programs.
@@ -32,7 +32,7 @@ For comprehensive measurement capabilities including 5-tier systems, automation,
 ## Quick Navigation
 
 **For Executives:**
-- [Trust Equation Framework](#trust-equation-framework) -- The primary BISO success measure
+- [Trust Framework (NTS)](#trust-equation-framework) -- The primary BISO success measure
 - [Simple Business Outcome Tracking](#simple-business-outcome-tracking) -- Practical business metrics
 
 **For Practitioners:**
@@ -47,78 +47,56 @@ For comprehensive measurement capabilities including 5-tier systems, automation,
 
 ## Trust Equation Framework
 
-The Trust Equation is the centerpiece of BISO success measurement. Adapted from the Trusted Advisor methodology, it provides a structured way to assess and improve the quality of BISO-stakeholder relationships -- the single most important factor in BISO program effectiveness.
+This framework uses an executive-friendly Net Trust Score (NTS) model to measure trust without complex formulas.
 
-### Trust Equation Score
+### Net Trust Score (NTS)
 
-**Definition**: Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
+**Primary Question (0-10):**  
+How likely are you to recommend early BISO involvement for a major business initiative in your area?
 
-Each component is scored on a 1-5 scale through quarterly stakeholder assessments:
+**Classification:**
+- **Promoters**: 9-10
+- **Passives**: 7-8
+- **Detractors**: 0-6
 
-- **Credibility** -- Does the BISO demonstrate deep security knowledge and understand the business context? Do they provide relevant, actionable advice?
-- **Reliability** -- Does the BISO meet commitments, provide consistent guidance, and show up when needed?
-- **Intimacy** -- Does the BISO create psychological safety for honest discussion, understand stakeholder pressures, and maintain confidentiality?
-- **Self-Orientation** (reverse-scored) -- Does the BISO push a security agenda over business needs, take credit for others' work, or make decisions based on security convenience? Convert using `Reverse Self-Orientation = 6 - Self-Orientation`.
+**Formula:**  
+`NTS = % Promoters - % Detractors` (range `-100` to `+100`)
 
-**Target**: 4.0-5.0/5.0 overall trust equation score
+**Measurement**: Quarterly stakeholder survey using the standardized trust scorecard per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement-framework).
 
-**Measurement**: Quarterly stakeholder assessment using trust scorecards per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
+**Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation. Higher NTS correlates with proactive engagement, faster approvals, and executive advocacy.
 
-**Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation. High trust scores correlate directly with proactive security engagement, faster approvals, and business unit advocacy.
+### Diagnostic Follow-Ups (Six Questions, Non-Scored)
 
-### Trust Equation Scorecard Template
+Use 1-5 agreement scale:
 
-Stakeholder: `[Name/Role]`
-
-| Component | Assessment Prompt | Score (/5) |
+| ID | Diagnostic Area | Prompt |
 |---|---|---|
-| Credibility | Demonstrates deep security knowledge | ___ / 5 |
-| Credibility | Understands our business context | ___ / 5 |
-| Credibility | Provides relevant, actionable advice | ___ / 5 |
-| Reliability | Meets commitments and deadlines | ___ / 5 |
-| Reliability | Provides consistent guidance over time | ___ / 5 |
-| Reliability | Available when needed | ___ / 5 |
-| Intimacy | Creates safe space for honest discussion | ___ / 5 |
-| Intimacy | Understands our challenges and pressures | ___ / 5 |
-| Intimacy | Maintains confidentiality and discretion | ___ / 5 |
-| Self-Orientation | Pushes personal/security agenda over business needs | ___ / 5 |
-| Self-Orientation | Takes credit for others' work or success | ___ / 5 |
-| Self-Orientation | Makes decisions based on security convenience | ___ / 5 |
+| D1 | Strategic relevance | BISO input improves business decision quality. |
+| D2 | Clarity | Security guidance is clear, actionable, and prioritized. |
+| D3 | Responsiveness | BISO support matches business timeline expectations. |
+| D4 | Partnership behavior | BISO teams collaborate to find viable options. |
+| D5 | Confidence | I trust BISO judgment on high-impact risk trade-offs. |
+| D6 | Integration | BISO involvement is most valuable when included early. |
 
-Overall Trust Score Formula: `[(Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4]`
-where `Reverse Self-Orientation = 6 - Self-Orientation`.
-
-For the 12 prompts above, calculate component averages first:
-- `Credibility` = average of its 3 prompt scores
-- `Reliability` = average of its 3 prompt scores
-- `Intimacy` = average of its 3 prompt scores
-- `Self-Orientation` = average of its 3 prompt scores, then reverse with `6 - Self-Orientation`
-
-| Output | Value |
-|---|---|
-| Credibility Average | ___ / 5 |
-| Reliability Average | ___ / 5 |
-| Intimacy Average | ___ / 5 |
-| Self-Orientation Average | ___ / 5 |
-| Reverse Self-Orientation | ___ / 5 |
-| Overall Trust Rating | ___ / 5.0 |
-| Status | G / Y / R |
+{: .note }
+> Diagnostic follow-ups support action planning. They do not change NTS math.
 
 ### Trust Score Thresholds
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
 > Apply these bands consistently across trust scorecards, relationship health rollups, and escalations.
 
-- **G (4.0-5.0/5.0)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
-- **Y (3.0-3.9/5.0)** -- Adequate trust but room for improvement. Identify component gaps and address.
-- **R (<3.0/5.0)** -- Trust deficit requiring immediate attention. Develop targeted relationship improvement plan.
+- **G (+30 to +100)** -- Strong trust relationship. BISO viewed as trusted advisor. Maintain and deepen.
+- **Y (0 to +29)** -- Mixed trust with room for improvement. Address weakest diagnostic dimensions.
+- **R (<0)** -- Trust deficit requiring immediate attention. Execute relationship recovery plan.
 
 ### Escalation Triggers
 
 Trust score changes should drive specific actions:
 
-- **Single Stakeholder Drop**: Trust score drops below 3.0/5.0 for any key stakeholder. Action: Direct BISO-stakeholder relationship improvement planning within one week.
+- **Single Stakeholder Drop**: Primary trust rating of 0-6 (Detractor) from any key stakeholder. Action: Direct BISO-stakeholder relationship improvement planning within one week.
 - **Business Unit Decline**: Overall business unit relationship health drops to yellow for more than one quarter. Action: Cross-functional team engagement to address systemic relationship challenges.
 - **Executive Decline**: C-suite trust or advocacy scores decline by >20% quarter-over-quarter. Action: Executive sponsorship engagement per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#relationship-crisis-management).
 - **Systemic Issues**: Organization-wide relationship trends declining across multiple metrics. Action: Strategic program review with potential restructuring per [Authority Framework](./BISOPRO-06_Authority_Framework.md#risk-based-decision-making).
@@ -143,7 +121,7 @@ A lightweight, recurring assessment that keeps a finger on the pulse of BISO-sta
 
 ### Quarterly and Annual Deep Dives
 
-**Quarterly Trust Assessment** (15-question comprehensive): A deeper examination of trust equation components conducted every quarter. Includes business partnership perception analysis, specific feedback on relationship quality improvements, and prediction of future collaboration willingness. Results feed directly into trust equation scores.
+**Quarterly Trust Assessment** (NTS + 6 diagnostics): A focused executive assessment run every quarter. Includes a single 0-10 recommendation question plus six diagnostic follow-ups for improvement planning.
 
 **Annual Relationship Audit** (360-degree): A comprehensive annual assessment that includes peer, direct report, and executive perspectives. Compares BISO function against other business support functions (Legal, Finance, HR) for benchmarking. Includes correlation analysis between relationship quality and business outcomes, with strategic recommendations for relationship enhancement in the coming year.
 
@@ -177,15 +155,15 @@ Beyond individual trust scores, these indicators measure the overall health of t
 
 The BISO success scorecard deliberately weights relationship quality above operational metrics:
 
-- **40% Weight -- Relationship Quality**: Trust equation scores, pulse survey trends, stakeholder advocacy, engagement depth. This receives the highest weight because relationships are the foundation upon which all other BISO value is built.
+- **40% Weight -- Relationship Quality**: Net Trust Score (NTS), pulse survey trends, stakeholder advocacy, engagement depth. This receives the highest weight because relationships are the foundation upon which all other BISO value is built.
 - **30% Weight -- Business Impact**: Time-to-market acceleration, early engagement rates, rework reduction, revenue protection. These quantitative outcomes demonstrate the tangible value that strong relationships produce.
 - **30% Weight -- Operational Excellence**: Security review throughput, exception management, audit findings, process efficiency. These operational metrics ensure the BISO function delivers reliably on its commitments.
 
 ### Relationship Health Thresholds
 
-- **G (Healthy)**: Trust scores 4.0-5.0/5.0, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
-- **Y (Attention Needed)**: Trust scores 3.0-3.9/5.0, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
-- **R (At Risk)**: Trust scores <3.0/5.0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
+- **G (Healthy)**: NTS +30 to +100, stakeholder advocacy >60%, meaningful engagement >85%, pulse survey trends stable or improving. No intervention needed -- focus on maintaining and sharing best practices.
+- **Y (Attention Needed)**: NTS 0 to +29, advocacy 40-60%, engagement 70-85%, or any single pulse survey question trending down for two consecutive months. Requires targeted improvement planning.
+- **R (At Risk)**: NTS below 0, advocacy <40%, engagement <70%, or multiple pulse survey questions showing decline. Requires immediate intervention and executive sponsorship engagement.
 
 ### Intervention Protocols
 
@@ -240,7 +218,7 @@ These six metrics provide practical evidence that strong BISO relationships tran
 
 **Target**: >4.0/5.0 average satisfaction score.
 
-**Measurement**: Quarterly stakeholder surveys (15-question trust assessment) supplemented by monthly pulse survey data. Aggregate across all business units with individual unit breakdowns.
+**Measurement**: Quarterly stakeholder surveys (NTS primary question plus 6 diagnostic follow-ups) supplemented by monthly pulse survey data. Aggregate across business units with individual unit breakdowns.
 
 **Business Value**: Direct measure of whether the BISO function is meeting business needs. Satisfaction scores above 4.0 correlate with proactive security engagement, faster approvals, and executive advocacy for the BISO program.
 
@@ -275,21 +253,21 @@ For detailed implementation sequencing and dependencies, see the [BISO Program I
 
 ### Month 1: Establish Baselines
 
-- Deploy the Trust Equation Scorecard to 10-15 key stakeholders for initial baseline assessment. Focus on the stakeholders you interact with most frequently -- not all stakeholders at once.
+- Deploy the Trust Equation Scorecard (NTS model) to 10-15 key stakeholders for initial baseline assessment. Focus on the stakeholders you interact with most frequently -- not all stakeholders at once.
 - Launch the Monthly Pulse Survey for the first time. Keep the audience small (20-30 stakeholders) and personal -- send it yourself, not from a survey tool.
 - Identify and document your key stakeholder map: who are the critical relationships, what is the current state of trust with each, and where are the gaps?
 - Begin tracking time-to-market and exception management from existing systems. These two metrics typically have the most readily available data.
 
 ### Month 2: First Assessment Cycle
 
-- Conduct the first quarterly trust assessment (15-question deep dive) with your top 10 stakeholders. Compare results against Month 1 baseline scorecard.
+- Conduct the first quarterly trust assessment (NTS + 6 diagnostics) with your top 10 stakeholders. Compare results against Month 1 baseline scorecard.
 - Begin tracking early security engagement and security review throughput. Work with project management teams to establish data feeds.
-- Create a simple dashboard (spreadsheet is fine) showing trust scores, pulse survey trends, and the two business metrics you started tracking in Month 1.
+- Create a simple dashboard (spreadsheet is fine) showing NTS, diagnostic dimension trends, pulse survey trends, and the two business metrics you started tracking in Month 1.
 - Hold first relationship health review with BISO leadership to discuss stakeholder patterns and identify improvement opportunities.
 
 ### Month 3: First Reporting Cycle
 
-- Complete the first full monthly reporting cycle: pulse survey results, trust score summaries, and business outcome metrics in a single executive brief.
+- Complete the first full monthly reporting cycle: pulse survey results, NTS summaries, and business outcome metrics in a single executive brief.
 - Integrate stakeholder feedback from the first two months to refine survey questions, adjust measurement approaches, and identify what is working.
 - Set formal targets for each metric based on your 90-day baseline data. Resist the temptation to set aggressive targets -- conservative targets you can exceed build more credibility than ambitious targets you miss.
 - Establish the ongoing reporting cadence that will carry the program forward.
@@ -426,12 +404,12 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 **Philosophy**: The PDF whitepaper emphasizes that "there are no industry-wide metrics specific to the BISO role" and highlights relationship-based success measures. This framework balances quantitative business metrics with qualitative relationship health indicators that better reflect the BISO's unique value proposition.
 
-**RQI Tier 1: Trust Equation Components**
+**RQI Tier 1: Net Trust Score (NTS)**
 
-**Metric**: Trust Equation Score ((Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4)
-- **Definition**: Systematic measurement of the four trust components per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement)
-- **Target**: 4.0-5.0/5.0 overall trust equation score
-- **Measurement**: Quarterly stakeholder assessment using trust scorecards
+**Metric**: Net Trust Score (`% Promoters - % Detractors`)
+- **Definition**: Executive trust indicator based on recommendation likelihood per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-equation-measurement-framework)
+- **Target**: +30 to +100 NTS
+- **Measurement**: Quarterly stakeholder assessment using trust scorecards (NTS + 6 diagnostics)
 - **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation
 
 **RQI Tier 2: Relationship Health Indicators**
@@ -481,8 +459,9 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 4. "Would you proactively involve BISOs in upcoming initiatives?" (Yes/Maybe/No)
 5. "Overall, do BISOs enable or constrain your business objectives?" (Enable/Neutral/Constrain)
 
-*Quarterly Trust Assessment (15-question comprehensive)*:
-- Deep dive into trust equation components
+*Quarterly Trust Assessment (NTS + 6 diagnostics)*:
+- Primary 0-10 recommendation likelihood question
+- Six short diagnostic follow-ups for action planning
 - Business partnership perception analysis
 - Specific feedback on relationship quality improvements
 - Prediction of future collaboration willingness
@@ -513,12 +492,12 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 **RQI Success Thresholds and Escalation**
 
 *Relationship Health Status System*:
-- G: Trust scores 4.0-5.0/5.0, partnership perception >75%, high stakeholder advocacy
-- Y: Trust scores 3.0-3.9/5.0, partnership perception 60-75%, moderate advocacy
-- R: Trust scores <3.0/5.0, partnership perception <60%, low advocacy
+- G: NTS +30 to +100, partnership perception >75%, high stakeholder advocacy
+- Y: NTS 0 to +29, partnership perception 60-75%, moderate advocacy
+- R: NTS below 0, partnership perception <60%, low advocacy
 
 *Escalation Triggers*:
-- **Single Stakeholder**: Trust score drops below 3.0/5.0 for key stakeholder
+- **Single Stakeholder**: Trust response in detractor range (0-6) for key stakeholder
 - **Business Unit**: Overall business unit relationship health drops to yellow for >1 quarter
 - **Executive Level**: C-suite trust or advocacy scores decline by >20% quarter-over-quarter
 - **Systemic Issues**: Organization-wide relationship trends declining across multiple metrics

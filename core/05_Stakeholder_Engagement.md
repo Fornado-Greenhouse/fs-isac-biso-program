@@ -10,7 +10,7 @@ nav_order: 5
 **What This Is:** Practical guidance for building trust and managing stakeholder relationships
 **Who This Is For:** BISOs, program managers, anyone managing business-security relationships
 **Time to Read:** 20 minutes
-**What You'll Get:** Trust Equation framework, stakeholder mapping tools, engagement strategies
+**What You'll Get:** Net Trust Score (NTS) framework, stakeholder mapping tools, engagement strategies
 
 ---
 
@@ -27,25 +27,21 @@ Most security professionals are trained in technical skills, not relationship ma
 
 ---
 
-## The Trust Equation (Your Primary Metric)
+## Net Trust Score (NTS) (Your Primary Metric)
 
 ### The Formula
 
-```
-Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
-Reverse Self-Orientation = 6 - Self-Orientation
-```
+`NTS = % Promoters (9-10) - % Detractors (0-6)`  
+`Passives = 7-8`  
+`Range = -100 to +100`
 
 **Simplified:**
-- **Credibility:** Do they believe you know your stuff?
-- **Reliability:** Do you do what you say you'll do?
-- **Intimacy:** Do they feel safe being candid with you?
-- **Self-Orientation:** Do you focus on their needs or yours?
-
-**Scoring:** Each component rated 1-5. Reverse Self-Orientation using `6 - score`, then average all four components for a clean 1.0-5.0 trust score.
+- Ask one executive trust question quarterly (0-10 recommendation likelihood).
+- Classify each response as Promoter, Passive, or Detractor.
+- Compute NTS to track trust direction by stakeholder group.
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
 > Apply the same threshold bands in all scorecards and escalations.
 
 ---
@@ -185,53 +181,20 @@ The degree to which you focus on stakeholder needs vs. your own agenda. Lower Se
 
 ## Measuring Trust: The Scorecard
 
-### Trust Equation Scorecard Template
+### NTS Scorecard Template
 
-Use this quarterly with key stakeholders (self-assessment, then discuss):
+Use this quarterly with key stakeholders:
 
-```
-┌───────────────────────────────────────────────────┐
-│       TRUST EQUATION SCORECARD                    │
-│       Stakeholder: _______________                │
-├───────────────────────────────────────────────────┤
-│                                                   │
-│  CREDIBILITY (Expertise & Competence)             │
-│  Rate 1-5: □ Poor  □ Fair  □ Good  □ Very Good  □ Excellent │
-│  - Security knowledge depth                       │
-│  - Business understanding                         │
-│  - Sound judgment and advice                      │
-│  Score: ___/5                                     │
-│                                                   │
-│  RELIABILITY (Consistency & Follow-Through)       │
-│  Rate 1-5: □ Poor  □ Fair  □ Good  □ Very Good  □ Excellent │
-│  - Keeps commitments                              │
-│  - Consistent availability                        │
-│  - Timely responses                               │
-│  Score: ___/5                                     │
-│                                                   │
-│  INTIMACY (Safety & Trust)                        │
-│  Rate 1-5: □ Poor  □ Fair  □ Good  □ Very Good  □ Excellent │
-│  - Safe to share problems                         │
-│  - Empathy and understanding                      │
-│  - Personal connection                            │
-│  Score: ___/5                                     │
-│                                                   │
-│  SELF-ORIENTATION (Focus on Others vs. Self)      │
-│  Rate 1-5: □ Very Low □ Low □ Medium □ High □ Very High │
-│  - Pushes own agenda                              │
-│  - Takes credit vs. gives credit                  │
-│  - Own convenience vs. stakeholder needs          │
-│  Score: ___/5                                     │
-│  Reverse score (6 - Self-Orientation): ___/5      │
-│                                                   │
-│  ═══════════════════════════════════════════════  │
-│  OVERALL TRUST SCORE:                             │
-│  (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4 │
-│                                                   │
-│  Overall Trust Score: ___/5.0                     │
-│  Status: □ R <3.0  □ Y 3.0-3.9  □ G 4.0-5.0      │
-└───────────────────────────────────────────────────┘
-```
+| Item | Response |
+|---|---|
+| Primary question (0-10): likelihood to recommend early BISO involvement | ___ |
+| Classification | Promoter / Passive / Detractor |
+| D1 Strategic relevance (1-5) | ___ |
+| D2 Clarity (1-5) | ___ |
+| D3 Responsiveness (1-5) | ___ |
+| D4 Partnership behavior (1-5) | ___ |
+| D5 Confidence in judgment (1-5) | ___ |
+| D6 Early integration value (1-5) | ___ |
 
 **How to Use:**
 1. **Self-assess first** — rate yourself on each component
@@ -289,13 +252,13 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 **Tier 1: Active Partnership (High Power + High Interest)**
 - **Who:** CISO, Business Unit Leaders, CIO
 - **Engagement:** Weekly or bi-weekly touchpoints
-- **Goal:** Trust Equation score >=4.0 (G range)
+- **Goal:** NTS in `G` range (+30 to +100)
 - **Time Investment:** 40% of your stakeholder time
 
 **Tier 2: Regular Engagement (High Power OR High Interest)**
 - **Who:** CFO, CRO, Legal, Senior Directors
 - **Engagement:** Monthly meetings, regular updates
-- **Goal:** Trust Equation score >=3.5 with upward trend toward >=4.0
+- **Goal:** NTS at or above 0 with upward trend toward `G`
 - **Time Investment:** 40% of your stakeholder time
 
 **Tier 3: Informed Engagement (Low Power + High Interest)**
@@ -410,7 +373,7 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - Business leaders avoid engaging you early
 - You hear about projects late or not at all
 - Stakeholders describe you as "blocker" or "gatekeeper"
-- Trust Equation score <3.0
+- NTS below 0
 
 **Root Cause:**
 High self-orientation — prioritizing security convenience over business outcomes.
@@ -433,7 +396,7 @@ High self-orientation — prioritizing security convenience over business outcom
 - Developers question your technical recommendations
 - IT teams work around you instead of with you
 - You're not invited to architecture discussions
-- Trust Equation credibility score <3.0
+- Detractor response on primary trust question
 
 **Root Cause:**
 Insufficient technical depth or outdated knowledge.
@@ -510,7 +473,7 @@ Insufficient business acumen or too much technical focus in communications.
 - [ ] Listen 70%, talk 30% in meetings
 
 ### Week 3: Trust Baseline
-- [ ] Self-assess Trust Equation for each Tier 1 stakeholder
+- [ ] Run NTS baseline survey for each Tier 1 stakeholder
 - [ ] Ask stakeholders: "What does good security partnership look like to you?"
 - [ ] Document communication preferences (email, Slack, meetings)
 - [ ] Identify quick wins you can deliver
@@ -537,8 +500,8 @@ Aim for 70% listening, 30% talking in stakeholder meetings. Understand before be
 ### 4. Focus on Their Success, Not Your Security Goals
 When stakeholders succeed, security succeeds. When security succeeds but business struggles, nobody wins.
 
-### 5. Trust Equation Score >=4.0 Predicts Sustained Success
-If you're below 3.0 with key stakeholders, fix relationships before launching new security initiatives.
+### 5. NTS in G Range Predicts Sustained Success
+If NTS is below 0 with key stakeholders, fix relationships before launching new security initiatives.
 
 ---
 
@@ -546,26 +509,26 @@ If you're below 3.0 with key stakeholders, fix relationships before launching ne
 
 ### For New BISOs
 1. **Week 1:** Complete stakeholder mapping using Power-Interest Matrix
-2. **Week 2:** Measure baseline Trust Equation scores (self-assessment)
-3. **Month 1:** Focus on intimacy and reliability (easier wins than credibility)
-4. **Quarter 1:** Achieve >=4.0 Trust Equation with at least 3 key stakeholders
+2. **Week 2:** Measure baseline NTS from key stakeholders
+3. **Month 1:** Focus on the two lowest diagnostic dimensions
+4. **Quarter 1:** Achieve `G` range NTS with at least 3 key stakeholders
 
 ### For Existing Programs
-1. **Quarterly:** Measure Trust Equation scores with all Tier 1 stakeholders
+1. **Quarterly:** Measure NTS with all Tier 1 stakeholders
 2. **Monthly:** Review engagement frequency and quality
-3. **Address <3.0 scores immediately** — these are red flags
-4. **Celebrate 4.0+ scores** — recognize relationship excellence
+3. **Address NTS below 0 immediately** — these are red flags
+4. **Celebrate strong NTS gains** — recognize relationship excellence
 
 ### For Program Leaders
 1. **Hire for relationship skills** — these are harder to teach than technical skills
-2. **Measure Trust Equation formally** — not just informal feedback
+2. **Measure NTS formally** — not just informal feedback
 3. **Coach BISOs on low scores** — provide relationship skill development
 4. **Recognize relationship builders** — not just technical experts
 
 ---
 
 **Key Takeaway:**
-BISO effectiveness is 60% relationships, 40% technical. Measure trust with the Trust Equation, prioritize stakeholders with Power-Interest Matrix, and focus on intimacy and low self-orientation to build trusted advisor status.
+BISO effectiveness is 60% relationships, 40% technical. Measure trust with NTS, prioritize stakeholders with Power-Interest Matrix, and use diagnostics to strengthen trusted advisor behavior.
 
 ---
 
@@ -573,5 +536,5 @@ BISO effectiveness is 60% relationships, 40% technical. Measure trust with the T
 - **01_Program_Guide.md** - Why BISOs exist and how to start
 - **02_Service_Catalog.md** - What BISOs deliver to stakeholders
 - **04_Role_Definitions.md** - Relationship skills as BISO differentiator
-- **06_Success_Measurement.md** - Trust Equation as primary metric
+- **06_Success_Measurement.md** - NTS as primary relationship metric
 - **07_Common_Challenges.md** - Solving relationship problems

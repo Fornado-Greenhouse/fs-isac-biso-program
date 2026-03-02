@@ -288,105 +288,63 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 
 ### Trust Equation Measurement Framework
 
-**Trust Equation Foundation** (Green, Maister, Galford Model)
+**Executive Trust Foundation (NTS Model)**
 
-**Trust = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4**
-with **Reverse Self-Orientation = 6 - Self-Orientation**
+This operational framework measures stakeholder trust using a Net Trust Score (NTS) model that executives can interpret immediately and apply consistently across business units.
 
-This operational framework systematically builds and measures trust across all stakeholder relationships using the established Trust Equation model from "The Trusted Advisor" by Charles H. Green, David Maister, and Robert Galford. Trust measurement directly correlates with BISO program effectiveness and stakeholder satisfaction.
+**Primary Question (0-10):**
+How likely are you to recommend early BISO involvement for a major business initiative in your area?
 
-### Trust Equation Components Assessment
+**NTS Formula:** `% Promoters (9-10) - % Detractors (0-6)`  
+`Passives = 7-8`  
+`Range = -100 to +100`
 
-**Credibility Assessment Framework**:
-- **Technical Expertise**: Demonstrated mastery of security frameworks, business knowledge, and industry standards
-- **Business Acumen**: Understanding of business operations, financial impact, and strategic objectives
-- **Track Record**: History of successful security implementations, risk mitigation, and business value delivery
-- **Industry Recognition**: Professional certifications, speaking engagements, and peer recognition
-- **Competency Validation**: Regular assessment against [Core Competencies Development](./BISOPRO-23_Core_Competencies_Development.md) standards
+### Diagnostic Follow-Up Dimensions (Six, Non-Scored)
 
-**Reliability Assessment Framework**:
-- **Delivery Consistency**: Meeting commitments, deadlines, and quality standards consistently
-- **Communication Dependability**: Regular, timely, and consistent stakeholder communication
-- **Availability Responsiveness**: Accessible and responsive to stakeholder needs and urgent situations
-- **Process Adherence**: Following established procedures and maintaining service quality standards
-- **Predictable Excellence**: Stakeholders can depend on consistent, high-quality BISO performance
-
-**Intimacy Assessment Framework**:
-- **Safe Communication Environment**: Stakeholders feel secure discussing sensitive security concerns and business challenges
-- **Confidentiality Assurance**: Stakeholders trust BISO with confidential business information and strategic plans
-- **Discretion in Relationships**: BISO demonstrates appropriate judgment in handling sensitive stakeholder situations
-- **Emotional Safety**: Stakeholders feel comfortable admitting mistakes, asking questions, and expressing concerns
-- **Professional Boundaries**: BISO maintains appropriate professional intimacy that builds confidence without overreach
-
-**Self-Orientation Assessment Framework**:
-- **Personal Agenda Focus**: How much does the BISO promote security team interests over stakeholder business needs
-- **Communication Style**: How much does the BISO talk/promote vs. listen/understand in stakeholder interactions
-- **Decision-Making Approach**: How much does the BISO control/dictate vs. collaborate in security decisions
-- **Success Measurement**: How much does the BISO focus on security compliance vs. business outcome achievement
-- **Recognition Seeking**: How much does the BISO seek personal/team credit vs. shared stakeholder success
+- **Strategic Relevance**: BISO input improves decision quality for business outcomes.
+- **Clarity**: Security guidance is clear, actionable, and prioritized.
+- **Responsiveness**: BISO support matches business speed requirements.
+- **Partnership Behavior**: BISO teams collaborate to find viable options.
+- **Confidence**: Stakeholders trust BISO judgment on risk trade-offs.
+- **Integration**: Early BISO engagement is demonstrably valuable.
 
 ### Trust Measurement Scorecards by Stakeholder Category
 
 {: .important }
-> **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
+> **Normalized trust thresholds (program standard):** `G = +30 to +100`, `Y = 0 to +29`, `R = below 0`.
 > Keep threshold usage aligned with [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-score-thresholds) and [Trust Equation Scorecard](../templates/02_Trust_Equation_Scorecard.md).
 
 **Executive Leadership Trust Scorecard** (Quarterly Assessment):
 ```
-TRUST EQUATION SCORECARD - EXECUTIVE LEADERSHIP
+TRUST SCORECARD (NTS MODEL) - EXECUTIVE LEADERSHIP
 ═══════════════════════════════════════════════════════════════════════════════
 Stakeholder: [Executive Name/Role]    Assessment Period: [Quarter/Year]
 BISO: [BISO Name]                     Review Date: [Date]
 
 SCORING INSTRUCTIONS:
-• Credibility, Reliability, Intimacy: 1=Poor, 2=Fair, 3=Good, 4=Very Good, 5=Excellent
-• Self-Orientation: 1=Low self-focus (best), 2=Minimal, 3=Moderate, 4=High, 5=Excessive self-focus (worst)
+• Primary trust question uses 0-10 recommendation likelihood
+• Diagnostic follow-ups use 1-5 agreement scale (for action planning only)
 
-CREDIBILITY ASSESSMENT
-☐ Strategic Security Knowledge         Score: ___/5
-☐ Business Impact Understanding        Score: ___/5
-☐ Executive Communication Skills       Score: ___/5
-☐ Industry Expertise Recognition       Score: ___/5
-☐ Decision Support Quality             Score: ___/5
-                              Credibility Total: ___/25
+PRIMARY TRUST QUESTION (0-10)
+How likely are you to recommend early BISO involvement for major initiatives?  ___ / 10
 
-RELIABILITY ASSESSMENT
-☐ Commitment Delivery                  Score: ___/5
-☐ Executive Briefing Consistency       Score: ___/5
-☐ Crisis Response Availability         Score: ___/5
-☐ Strategic Timeline Adherence         Score: ___/5
-☐ Performance Predictability           Score: ___/5
-                              Reliability Total: ___/25
+CLASSIFICATION
+☐ Promoter (9-10)
+☐ Passive  (7-8)
+☐ Detractor (0-6)
 
-INTIMACY ASSESSMENT
-☐ Safe Communication Environment       Score: ___/5
-☐ Confidentiality and Discretion       Score: ___/5
-☐ Emotional Safety for Risk Discussions Score: ___/5
-☐ Professional Boundary Management     Score: ___/5
-☐ Stakeholder Comfort Level            Score: ___/5
-                                Intimacy Total: ___/25
-
-SELF-ORIENTATION ASSESSMENT (Lower scores = higher trust)
-☐ Personal Agenda Focus                Score: ___/5
-☐ Communication Style (talk vs listen) Score: ___/5
-☐ Decision-Making Approach (control vs collaborate) Score: ___/5
-☐ Success Measurement Focus            Score: ___/5
-☐ Recognition Seeking Behavior         Score: ___/5
-                           Self-Orientation Total: ___/25
-
-TRUST EQUATION CALCULATION:
-Credibility Average = ___/25 ÷ 5 = ___/5
-Reliability Average = ___/25 ÷ 5 = ___/5
-Intimacy Average = ___/25 ÷ 5 = ___/5
-Self-Orientation Average = ___/25 ÷ 5 = ___/5
-Reverse Self-Orientation = 6 - Self-Orientation Average = ___/5
-
-Trust Score = (Credibility Avg + Reliability Avg + Intimacy Avg + Reverse Self-Orientation) ÷ 4 = ___/5.0
+DIAGNOSTIC FOLLOW-UPS (1-5, NON-SCORED)
+☐ Strategic Relevance: BISO input improves business decisions.              ___/5
+☐ Clarity: Guidance is clear and actionable.                               ___/5
+☐ Responsiveness: Support matches business speed needs.                    ___/5
+☐ Partnership Behavior: Team collaborates on viable options.               ___/5
+☐ Confidence: I trust BISO judgment on high-impact trade-offs.             ___/5
+☐ Integration: Early BISO engagement improves outcomes.                     ___/5
 
 TRUST LEVEL INTERPRETATION:
-☐ G (4.0-5.0): Strategic partner and trusted advisor
-☐ Y (3.0-3.9): Developing partnership requiring targeted enhancement
-☐ R (<3.0): Fundamental trust issues requiring immediate action
+☐ G (+30 to +100 NTS): Strategic partner and trusted advisor
+☐ Y (0 to +29 NTS): Developing partnership requiring targeted enhancement
+☐ R (below 0 NTS): Fundamental trust issues requiring immediate action
 
 ACTION ITEMS BASED ON ASSESSMENT:
 1. ________________________________
@@ -397,59 +355,26 @@ ACTION ITEMS BASED ON ASSESSMENT:
 
 ### Trust Assessment Survey Framework
 
-**Quarterly Comprehensive Trust Survey** (Anonymous):
+**Quarterly Trust Survey** (Anonymous):
 
 ```
-BISO TRUST ASSESSMENT SURVEY
+BISO TRUST ASSESSMENT SURVEY (NTS MODEL)
 ═══════════════════════════════════════════════════════════════════════════════
 Stakeholder Information (Optional):
 Role: [Executive/Business Unit/Technology/Risk-Compliance/External]
 Department/Unit: _________________________
 Interaction Frequency: [Daily/Weekly/Monthly/Quarterly]
 
-Part 1: CREDIBILITY ASSESSMENT
-Rate the BISO's credibility in each area (1=Poor, 5=Excellent):
+PRIMARY TRUST QUESTION (0-10)
+How likely are you to recommend early BISO involvement for major initiatives?  0 1 2 3 4 5 6 7 8 9 10
 
-1. Technical security expertise and knowledge         1  2  3  4  5
-2. Understanding of your business/operational needs   1  2  3  4  5
-3. Quality and practicality of security recommendations 1  2  3  4  5
-4. Industry knowledge and best practice awareness     1  2  3  4  5
-5. Ability to explain complex security concepts clearly 1  2  3  4  5
-
-Part 2: RELIABILITY ASSESSMENT
-Rate the BISO's reliability in each area (1=Poor, 5=Excellent):
-
-6. Keeps commitments and meets deadlines             1  2  3  4  5
-7. Responds to requests and communications promptly  1  2  3  4  5
-8. Maintains consistent quality in work and service  1  2  3  4  5
-9. Available when needed for urgent security matters 1  2  3  4  5
-10. Follows through on promises and action items     1  2  3  4  5
-
-Part 3: PSYCHOLOGICAL SAFETY ASSESSMENT
-Rate your comfort level in each area (1=Very Uncomfortable, 5=Very Comfortable):
-
-11. Discussing security concerns and challenges openly 1  2  3  4  5
-12. Reporting security mistakes or near-misses        1  2  3  4  5
-13. Challenging security recommendations when needed  1  2  3  4  5
-14. Sharing confidential business information for security advice 1  2  3  4  5
-15. Asking "basic" security questions without judgment 1  2  3  4  5
-
-Part 4: SELF-ORIENTATION ASSESSMENT
-Rate how well the BISO demonstrates each behavior (1=Never, 5=Always):
-
-16. Prioritizes your business success over security compliance 1  2  3  4  5
-17. Considers business impact when making security recommendations 1  2  3  4  5
-18. Collaborates rather than dictates security requirements 1  2  3  4  5
-19. Admits when they don't know something or makes mistakes 1  2  3  4  5
-20. Shares accountability for business outcomes, not just security compliance 1  2  3  4  5
-
-Part 5: OVERALL TRUST AND EFFECTIVENESS
-
-21. Overall trust level in BISO capabilities          1  2  3  4  5
-22. Likelihood to recommend BISO to other departments 1  2  3  4  5
-23. BISO's contribution to your business success      1  2  3  4  5
-24. Quality of BISO partnership relationship          1  2  3  4  5
-25. Confidence in BISO's security decision-making     1  2  3  4  5
+DIAGNOSTIC FOLLOW-UPS (1-5)
+1. BISO input improves business decision quality.                            1  2  3  4  5
+2. Security guidance is clear, actionable, and prioritized.                  1  2  3  4  5
+3. BISO responsiveness matches business timeline needs.                      1  2  3  4  5
+4. BISO teams collaborate on viable options rather than blocking progress.   1  2  3  4  5
+5. I trust BISO judgment on high-impact risk trade-offs.                     1  2  3  4  5
+6. Early BISO engagement measurably improves outcomes.                       1  2  3  4  5
 
 OPEN RESPONSE QUESTIONS:
 
@@ -476,11 +401,13 @@ _____________________________________________________________________
 TRUST CRISIS ASSESSMENT CHECKLIST
 ☐ Identify specific trust-damaging incident or pattern
 ☐ Assess stakeholder(s) affected and relationship impact severity
-☐ Determine trust equation component(s) most impacted:
-  ☐ Credibility damage (competence questioned)
-  ☐ Reliability damage (commitments broken)
-  ☐ Psychological safety damage (stakeholder harmed/blamed)
-  ☐ Self-orientation damage (BISO prioritized security over business)
+☐ Determine primary trust driver(s) most impacted:
+  ☐ Strategic relevance damage
+  ☐ Clarity damage
+  ☐ Responsiveness damage
+  ☐ Partnership behavior damage
+  ☐ Confidence damage
+  ☐ Early integration value damage
 ☐ Evaluate business impact and urgency of trust repair
 ☐ Identify key relationship repair stakeholders and influencers
 ☐ Document incident facts and BISO accountability areas
@@ -563,8 +490,8 @@ TRUST RENEWAL CONFIRMATION
 - **Trust Opportunity Recognition**: Moments for trust-building and relationship strengthening
 
 **Monthly Trust Performance Review**:
-- **Trust Scorecard Completion**: Systematic trust equation assessment for key stakeholders
-- **Trust Trend Analysis**: Trust score changes and relationship trajectory evaluation
+- **Trust Scorecard Completion**: Systematic NTS assessment for key stakeholders
+- **Trust Trend Analysis**: NTS changes and relationship trajectory evaluation
 - **Trust-Based Action Planning**: Specific trust-building activities and relationship investments
 - **Trust Success Celebration**: Recognition of trust-building wins and relationship milestones
 
@@ -604,7 +531,7 @@ TRUST RENEWAL CONFIRMATION
 
 **Engagement Quality Metrics**:
 - **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction with BISO engagement and support (measures effectiveness of [Engagement Strategy Framework](#engagement-strategy-framework) and aligns with [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics))
-- **Trust Equation Score**: Target 4.0-5.0 average trust equation score across stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
+- **Net Trust Score (NTS)**: Target +30 to +100 average NTS across stakeholder categories (validates [Trust Equation Measurement Framework](#trust-equation-measurement-framework) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
 - **Trust Trend Performance**: Target positive trust score trends with >70% of stakeholder relationships showing improvement (measures systematic trust-building success)
 - **Trust Crisis Prevention**: Target <2 major trust incidents annually with 100% successful trust recovery (validates [Trust Recovery Playbook](#trust-recovery-playbook-for-damaged-relationships) effectiveness)
 - **Communication Effectiveness**: Target >4.0/5.0 effectiveness of BISO communication (evaluates [Communication Protocols](#communication-protocols-and-standards) and integrates with [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#communication-effectiveness-metrics))
