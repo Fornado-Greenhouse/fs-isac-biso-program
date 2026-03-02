@@ -7,316 +7,61 @@ nav_order: 2
 
 # Trust Equation Scorecard Template
 
-**Purpose:** Quarterly relationship health assessment with key business stakeholders
-**Time to Complete:** 15 minutes (self-assessment) + 30 minutes (stakeholder discussion)
-**Frequency:** Quarterly with each Tier 1 stakeholder
-**Primary Use:** Measure and improve trusted advisor relationships
+**Purpose:** Executive-level trust assessment for BISO partnership quality  
+**Time to Complete:** 5-7 minutes  
+**Frequency:** Quarterly per key stakeholder  
+**Primary Use:** Fast trust signal with clear follow-up actions
 
 ---
 
-## What is the Trust Equation?
+## Executive Survey (8 Questions)
 
-The Trust Equation is your primary success metric as a BISO. It measures relationship health better than any technical security metric.
+Use a 1-5 scale for each question:
+- `1` = Strongly Disagree
+- `2` = Disagree
+- `3` = Neutral
+- `4` = Agree
+- `5` = Strongly Agree
 
-**Formula:**
-```
-Trust Score = (Credibility + Reliability + Intimacy + Reverse Self-Orientation) / 4
-Reverse Self-Orientation = 6 - Self-Orientation
-```
+| ID | Component | Executive Survey Question | Score |
+|---|---|---|---|
+| Q1 | Credibility | The BISO demonstrates strong security judgment relevant to our business decisions. | ___ / 5 |
+| Q2 | Credibility | The BISO translates security risk into clear business impact and options. | ___ / 5 |
+| Q3 | Reliability | The BISO follows through on commitments with predictable quality and timing. | ___ / 5 |
+| Q4 | Reliability | The BISO is responsive at the pace required by business priorities. | ___ / 5 |
+| Q5 | Intimacy | I can raise sensitive concerns with the BISO without fear of blame or escalation theater. | ___ / 5 |
+| Q6 | Intimacy | The BISO demonstrates discretion and sound handling of confidential business context. | ___ / 5 |
+| Q7 | Self-Orientation | The BISO pushes security preferences even when business alternatives are viable. | ___ / 5 |
+| Q8 | Self-Orientation | The BISO optimizes for security-team convenience over business outcomes. | ___ / 5 |
 
 {: .important }
 > **Normalized trust thresholds (program standard):** `G = 4.0-5.0`, `Y = 3.0-3.9`, `R = below 3.0`.
-> Use this same threshold model in scorecards, dashboards, and escalation criteria.
-
-**Target:** `G` range (`4.0-5.0/5.0`) with key stakeholders = trusted advisor status
+> Self-Orientation is reverse-scored so higher self-focus lowers trust.
 
 ---
 
-## The Four Components
+## Scoring
 
-### 1. Credibility (Expertise & Competence)
-- **What it measures:** Do they believe you know what you're talking about?
-- **Indicators:** Security knowledge depth, business understanding, sound judgment
-
-### 2. Reliability (Consistency & Follow-Through)
-- **What it measures:** Do you do what you say you'll do?
-- **Indicators:** Keeps commitments, consistent availability, timely responses
-
-### 3. Intimacy (Safety & Trust)
-- **What it measures:** Do they feel safe sharing problems with you?
-- **Indicators:** Psychologically safe, empathy, personal connection
-
-### 4. Self-Orientation (Focus on Others vs. Self)
-- **What it measures:** Are you serving them or serving yourself?
-- **Indicators:** Pushes own agenda, takes vs. gives credit, own convenience
-- **Important:** This is reverse-scored before final averaging (`Reverse = 6 - Self-Orientation`)
+1. `Credibility Avg` = `(Q1 + Q2) / 2`  
+2. `Reliability Avg` = `(Q3 + Q4) / 2`  
+3. `Intimacy Avg` = `(Q5 + Q6) / 2`  
+4. `Self-Orientation Avg` = `(Q7 + Q8) / 2`  
+5. `Reverse Self-Orientation` = `6 - Self-Orientation Avg`  
+6. `Trust Score` = `(Credibility Avg + Reliability Avg + Intimacy Avg + Reverse Self-Orientation) / 4`
 
 ---
 
-## Quarterly Scorecard
+## Interpretation And Actions
 
-Use this template with each key stakeholder:
-
-```
-┌───────────────────────────────────────────────────┐
-│       TRUST EQUATION SCORECARD                    │
-│                                                   │
-│       Stakeholder: _______________________        │
-│       Date: ___________  Quarter: _____           │
-├───────────────────────────────────────────────────┤
-│                                                   │
-│  CREDIBILITY (Expertise & Competence)             │
-│  Rate 1-5:                                        │
-│  □ 1-Poor  □ 2-Fair  □ 3-Good  □ 4-Very Good  □ 5-Excellent │
-│                                                   │
-│  Evidence:                                        │
-│  • Security knowledge depth:         _____        │
-│  • Business understanding:           _____        │
-│  • Sound judgment and advice:        _____        │
-│                                                   │
-│  Credibility Score: _____/5                       │
-│                                                   │
-│ ───────────────────────────────────────────────── │
-│                                                   │
-│  RELIABILITY (Consistency & Follow-Through)       │
-│  Rate 1-5:                                        │
-│  □ 1-Poor  □ 2-Fair  □ 3-Good  □ 4-Very Good  □ 5-Excellent │
-│                                                   │
-│  Evidence:                                        │
-│  • Keeps commitments:                _____        │
-│  • Consistent availability:          _____        │
-│  • Timely responses:                 _____        │
-│                                                   │
-│  Reliability Score: _____/5                       │
-│                                                   │
-│ ───────────────────────────────────────────────── │
-│                                                   │
-│  INTIMACY (Safety & Trust)                        │
-│  Rate 1-5:                                        │
-│  □ 1-Poor  □ 2-Fair  □ 3-Good  □ 4-Very Good  □ 5-Excellent │
-│                                                   │
-│  Evidence:                                        │
-│  • Safe to share problems:           _____        │
-│  • Empathy and understanding:        _____        │
-│  • Personal connection:              _____        │
-│                                                   │
-│  Intimacy Score: _____/5                          │
-│                                                   │
-│ ───────────────────────────────────────────────── │
-│                                                   │
-│  SELF-ORIENTATION (Focus on Self vs. Others)      │
-│  Rate 1-5:                                        │
-│  □ 1-Very Low □ 2-Low □ 3-Medium □ 4-High □ 5-Very High │
-│                                                   │
-│  Evidence (higher = more self-focused):           │
-│  • Pushes own agenda:                _____        │
-│  • Takes vs. gives credit:           _____        │
-│  • Own convenience vs. theirs:       _____        │
-│                                                   │
-│  Self-Orientation Score: _____/5                  │
-│  Reverse Self-Orientation (6 - score): _____/5    │
-│                                                   │
-│ ═════════════════════════════════════════════════ │
-│                                                   │
-│  OVERALL TRUST SCORE CALCULATION:                 │
-│                                                   │
-│  Credibility:              _____/5                │
-│  Reliability:              _____/5                │
-│  Intimacy:                 _____/5                │
-│  Reverse Self-Orientation: _____/5                │
-│                                                   │
-│  Trust Score = (C + R + I + Reverse SO) / 4      │
-│  Overall Trust Score:      _____/5.0              │
-│                                                   │
-│  Status:                                          │
-│  □ R <3.0   - At Risk (address immediately)       │
-│  □ Y 3.0-3.9 - Building (targeted improvement)    │
-│  □ G 4.0-5.0 - Trusted Advisor (program working)  │
-│                                                   │
-└───────────────────────────────────────────────────┘
-```
-
----
-
-## How to Use This Scorecard
-
-### Step 1: Self-Assess (15 minutes, done alone)
-- Rate yourself honestly on each component
-- Think of specific examples for each rating
-- Calculate your preliminary score
-- Identify areas where you think you're weakest
-
-### Step 2: Schedule Discussion (30 minutes with stakeholder)
-**Email template:**
-```
-Subject: Quarterly Partnership Check-In (30 minutes)
-
-Hi [Name],
-
-I'd like to schedule a 30-minute quarterly check-in to make sure
-our security partnership is working well for you.
-
-I use a simple framework to assess relationship health and identify
-areas where I can better support your team. Would you have 30 minutes
-in the next two weeks?
-
-Thanks,
-[Your name]
-```
-
-### Step 3: Discuss Openly (30-minute conversation)
-1. **Start with context (2 min):** "I want to make sure I'm serving you well. I've done a self-assessment, and I'd like your perspective."
-2. **Share your self-assessment (5 min):** Walk through your scores and examples
-3. **Ask for their perspective (15 min):** "Where do you see this differently? What am I missing?"
-4. **Create action plan (8 min):** "Based on this, what should I improve? What would make this partnership more valuable for you?"
-
-### Step 4: Create Action Plan
-Document 2-3 specific actions to improve:
-
-| Component | Current Score | Target | Action | By When |
-|-----------|--------------|--------|--------|---------|
-| Example: Reliability | 3.0 | 4.0 | Respond to emails within 4 hours | Ongoing |
-| Example: Intimacy | 2.5 | 3.5 | Schedule monthly coffee chats | Next month |
-
-### Step 5: Track Progress Quarterly
-Maintain a simple tracking log:
-
-| Quarter | Stakeholder | Credibility | Reliability | Intimacy | Self-Orient | Total | Status | Notes |
-|---------|-------------|-------------|-------------|----------|-------------|-------|--------|-------|
-| Q1 2025 | VP Retail   | 4           | 3           | 4        | 2           | 3.0   | Y      | Need better follow-up |
-| Q2 2025 | VP Retail   | 4           | 5           | 4        | 1           | 4.0   | G      | Much improved |
-
----
-
-## Interpreting Your Scores
-
-### G Score 4.0-5.0: Trusted Advisor Status
-**What this means:** The relationship is working. They trust your advice and see you as a partner, not a gatekeeper.
-
-**What to do:**
-- Maintain current approach
-- Continue quarterly check-ins
-- Look for opportunities to deepen partnership
-- Share what's working with other BISOs
-
-### Y Score 3.0-3.9: Building Trust
-**What this means:** Foundation is solid, but not yet at trusted advisor level. Keep investing.
-
-**What to do:**
-- Focus on the lowest-scoring component
-- Increase engagement frequency (monthly vs. quarterly)
-- Ask explicitly: "What would make this partnership more valuable?"
-- Check in again in 6-8 weeks (don't wait full quarter)
-
-### R Score <3.0: Relationship At Risk
-**What this means:** Something is broken. This requires immediate attention.
-
-**What to do:**
-1. **Within 48 hours:** Schedule candid 1-on-1 conversation
-2. **Ask directly:** "I sense our partnership is strained. What is not working from your perspective?"
-3. **Listen without defending:** Understand their frustration
-4. **Create recovery plan:** Specific actions, specific timelines
-5. **Check in weekly:** Don't disappear after the conversation
-6. **Escalate if needed:** If relationship can't be repaired, engage CISO for support
-
----
-
-## Common Patterns & Fixes
-
-### Pattern: High Credibility, Low Intimacy
-**Diagnosis:** You're technically competent but feel distant or unapproachable.
-
-**Fix:**
-- Schedule informal coffee chats (no agenda)
-- Share appropriate personal stories
-- Ask about their challenges beyond security
-- Respond to "how are you?" with honesty, not just "fine"
-
-### Pattern: High Reliability, High Self-Orientation
-**Diagnosis:** You deliver consistently but seem focused on your agenda, not theirs.
-
-**Fix:**
-- Start meetings with "What's on your mind?" not your agenda
-- Give credit to stakeholders publicly
-- Frame recommendations as "for your success" not "for security"
-- Flexible on your convenience (meet them where they are)
-
-### Pattern: Inconsistent scores across components
-**Diagnosis:** You're strong in some areas but weak in others.
-
-**Fix:**
-- Focus on the lowest-scoring component first
-- Don't try to fix everything at once
-- Small, consistent improvements beat big sporadic efforts
-
----
-
-## Best Practices
-
-### Do This:
-✅ Self-assess BEFORE talking to stakeholder
-✅ Bring specific examples to the conversation
-✅ Ask open-ended questions ("What could I improve?")
-✅ Create action plans with dates
-✅ Follow up on action plans
-✅ Track trends over time (more important than absolute scores)
-
-### Don't Do This:
-❌ Skip the self-assessment step
-❌ Get defensive about low scores
-❌ Make excuses ("I was too busy...")
-❌ Skip action planning
-❌ Forget to follow up
-❌ Only measure once and never again
-
----
-
-## Frequency Guide
-
-**Tier 1 Stakeholders** (High Power, High Interest):
-- Measure quarterly
-- Discuss scores in person
-- Track trends rigorously
-- Target: 4.0+ (G range)
-
-**Tier 2 Stakeholders** (Keep Informed):
-- Measure semi-annually
-- Can discuss via email if needed
-- Track trends casually
-- Target: 3.5+ with improving trend toward 4.0
-
-**Tier 3 Stakeholders** (Monitor Minimally):
-- Measure annually or as-needed
-- Brief check-in sufficient
-- Target: 3.0+ minimum
-
----
-
-## Next Steps
-
-### For New BISOs (Month 1):
-1. **Week 1:** Identify your 5-10 key stakeholders (Tier 1)
-2. **Week 2:** Self-assess Trust Equation for each stakeholder
-3. **Week 3-4:** Schedule and conduct first discussions
-4. **End of Month 1:** Baseline scores established
-
-### For Existing Programs:
-1. **This week:** Self-assess all current Tier 1 stakeholders
-2. **This month:** Conduct quarterly discussions
-3. **Ongoing:** Maintain quarterly rhythm
-4. **Red flags:** Address any <3.0 scores within 48 hours
-
----
-
-## Key Takeaway
-
-Trust Equation scores in the `G` range (`4.0-5.0`) across 5+ key stakeholders predict BISO program success better than technical-only metrics. Measure quarterly, discuss openly, and act on results.
-
-Low trust scores are not failures — they're early warnings. Use them to fix relationships before they break.
+- `G (4.0-5.0)`: Trusted advisor relationship. Maintain quarterly cadence and replicate successful behaviors.
+- `Y (3.0-3.9)`: Relationship is workable but fragile. Identify the lowest component and assign 1-2 concrete fixes for next quarter.
+- `R (<3.0)`: Relationship risk. Schedule direct reset conversation within 48 hours and create a short recovery plan.
 
 ---
 
 **Related Resources:**
-- **core/05_Stakeholder_Engagement.md** - Full Trust Equation framework and stakeholder strategies
-- **core/06_Success_Measurement.md** - Trust Equation as primary success metric
-- **core/07_Common_Challenges.md** - Fixing low trust scores and relationship problems
+- [Core Stakeholder Engagement](../core/05_Stakeholder_Engagement.md) - Trust model, behaviors, and engagement strategies
+- [Core Success Measurement](../core/06_Success_Measurement.md) - Program-level measurement approach
+- [Core Common Challenges](../core/07_Common_Challenges.md) - Response playbooks for low trust scenarios
+- [BISOPRO-04 Stakeholder Engagement Protocols](../deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md) - Operational protocol context
+- [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md) - Threshold and reporting alignment
