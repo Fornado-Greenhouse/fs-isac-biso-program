@@ -237,7 +237,7 @@ Start with **[Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md
 1. **Use GitHub Search**: Search across all 30 documents for specific terms
 2. **Check Related Documents**: Each document contains 10-15 cross-references
 3. **Review Phase Documents**: Concepts may be in adjacent phase documents
-4. **Consult CLAUDE.md**: Contains navigation guidance and common patterns
+4. **Consult [CLAUDE.md](./CLAUDE.md)**: Contains navigation guidance and common patterns
 
 ### Still need help?
 

@@ -240,10 +240,10 @@ Charter ─┬─> Problem Statement ─┬─> Alignment Model ─┬─> Stake
 ## Contact and Resources
 
 ### Program Resources
-- Implementation Guide: BISO_Implementation_Guide.md
-- Roadmap: BISO_Implementation_Roadmap.md
-- Customization: BISO_Customization_Guide.md
-- All Documents: /BISO Program/
+- Implementation Guide: [BISO_GUIDE-02_Implementation.md](./BISO_GUIDE-02_Implementation.md)
+- Roadmap: [BISO_GUIDE-03_Roadmap.md](./BISO_GUIDE-03_Roadmap.md)
+- Customization: [BISO_GUIDE-04_Customization.md](./BISO_GUIDE-04_Customization.md)
+- All Documents: [Implementation Guides](./index.md)
 
 ### Industry Resources
 - FS-ISAC BISO Community

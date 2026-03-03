@@ -33,7 +33,22 @@ Wrong organizational placement is the #1 reason BISO programs fail. Get the stru
 
 ### Primary Reporting: BISO → CISO
 
-Primary reporting is shown in the **Complete Structure** diagram below.
+```
+PRIMARY REPORTING (DIRECT AUTHORITY)
+
+┌───────────────────────────┐
+│           CISO            │
+│  Owns performance, role,  │
+│  standards, and decisions │
+└─────────────┬─────────────┘
+              │  Direct line (solid)
+              ▼
+┌───────────────────────────┐
+│           BISO            │
+│  Executes within delegated│
+│  security authority       │
+└───────────────────────────┘
+```
 
 **Why Report to CISO:**
 - ✅ **Independence:** BISOs can say "no" to business without career risk
@@ -53,7 +68,14 @@ Primary reporting is shown in the **Complete Structure** diagram below.
 
 ### Dotted-Line Relationship: BISO ↔ Business Unit
 
-The dotted-line collaboration model is shown in the **Complete Structure** diagram below.
+```
+DOTTED-LINE RELATIONSHIP (COLLABORATIVE, NON-HIERARCHICAL)
+
+┌───────────────────────────┐  . . . . . . . . . . . . . . .  ┌───────────────────────────┐
+│   Business Unit Leader    │  Dotted line = influence, input, │           BISO            │
+│  Owns business outcomes   │  planning cadence, and feedback   │  Advises, does not report │
+└───────────────────────────┘  . . . . . . . . . . . . . . .  └───────────────────────────┘
+```
 
 **Why Partner with Business:**
 - ✅ **Context:** Understand business strategy, priorities, pressures
@@ -72,6 +94,8 @@ The dotted-line collaboration model is shown in the **Complete Structure** diagr
 ---
 
 ## The Complete Structure
+
+For the full operational model, see [BISOPRO-07 Reporting Structure](../deliverables/BISOPRO-07_Reporting_Structure.md).
 
 ```
            ┌─────────────────────────────────────────┐
@@ -458,6 +482,7 @@ If you have truly independent business units (separate companies in holding stru
 ## Success Indicators
 
 ### Healthy Organizational Design Shows:
+
 - ✅ BISOs attend both security AND business meetings regularly
 - ✅ NTS in G range (+30 to +100) with business stakeholders
 - ✅ Business leaders describe BISOs as "part of the team"
@@ -466,6 +491,7 @@ If you have truly independent business units (separate companies in holding stru
 - ✅ BISOs have career development paths in security
 
 ### Warning Signs of Structure Problems:
+
 - 🔴 Business leaders bypass BISOs to negotiate directly with CISO
 - 🔴 BISOs spend <20% of time with business unit teams
 - 🔴 NTS below 0 (low trust)
