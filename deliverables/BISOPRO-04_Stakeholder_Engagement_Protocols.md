@@ -287,7 +287,7 @@ How likely are you to recommend early BISO involvement for a major business init
 
 {: .important }
 > **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
-> Keep threshold usage aligned with [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-score-thresholds) and [Trust Scorecard (NTS)](../templates/02_Trust_Equation_Scorecard.md).
+> Keep threshold usage aligned with [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-score-thresholds) and [Trust Scorecard (NTS)](../templates/BISO_TEMPLATE-02_Trust_Scorecard_NTS.md).
 
 **Executive Leadership Trust Scorecard** (Monthly Assessment):
 ```

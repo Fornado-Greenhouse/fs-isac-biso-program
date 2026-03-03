@@ -1,15 +1,15 @@
 ---
-title: "Trust Scorecard (NTS)"
-description: "Executive trust index template for evaluating and tracking BISO stakeholder confidence"
+title: "Trust Scorecard (NTS Standard)"
+description: "Canonical Net Trust Score (NTS) template and thresholds for BISO trust measurement"
 parent: "Templates"
 nav_order: 2
 ---
 
-# Trust Scorecard (NTS) Template
+# Trust Scorecard (NTS Standard)
 
 - **Purpose:** Executive-level trust signal for BISO partnership quality
 - **Time to Complete:** 3-5 minutes
-- **Frequency:** Monthly per key stakeholder
+- **Frequency:** Monthly (roll up quarterly)
 - **Primary Use:** Fast, low-friction trust measurement with clear follow-up actions
 
 ---
@@ -86,3 +86,4 @@ Use a 1-5 scale for each follow-up (`1 = Strongly Disagree`, `5 = Strongly Agree
 - [Core Success Measurement](../core/06_Success_Measurement.md) - program-level metric framework
 - [BISOPRO-04 Stakeholder Engagement Protocols](../deliverables/BISOPRO-04_Stakeholder_Engagement_Protocols.md) - operational stakeholder protocol
 - [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md) - reporting and threshold alignment
+- [Monthly NTS Pulse](./BISO_TEMPLATE-03_Monthly_NTS_Pulse.md) - recurring collection workflow using this same NTS standard
