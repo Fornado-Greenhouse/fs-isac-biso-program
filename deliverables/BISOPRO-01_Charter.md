@@ -166,6 +166,9 @@ The BISO serves as the primary interface between cybersecurity and business oper
 ## Organizational Structure
 
 ### **BISO Program Organizational Chart**
+{: .note }
+> This chart is illustrative for charter-level governance context. The authoritative operating structure and reporting implementation are maintained in [BISOPRO-07 Reporting Structure](./BISOPRO-07_Reporting_Structure.md).
+
 ```
                     ┌─────────────────────────────────────┐
                     │           CEO/Executive             │
@@ -190,7 +193,7 @@ The BISO serves as the primary interface between cybersecurity and business oper
  │  ┌──────────┐ ┌──────────────────┐ │
  │  │Functional│ │    Product       │ │
  │  │ BISOs    │ │  Specialists     │ │
- │  │ (4)    │ │ │     (3-4)        │ │
+ │  │          │ │                  │ │
  │  └──────────┘ └──────────────────┘ │
  └────────────────────────────────────┘
 ```

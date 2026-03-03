@@ -17,7 +17,7 @@ nav_order: 6
 ## The Measurement Challenge
 
 **The Problem:**
-Most organizations try to measure BISO success with security metrics (vulnerabilities fixed, compliance scores, incidents prevented). But FS-ISAC whitepaper says: *"There are no industry-wide metrics specific to the BISO role."*
+Most organizations try to measure BISO success with security metrics (vulnerabilities fixed, compliance scores, incidents prevented). But FS-ISAC whitepaper says: *"There are no industry-wide performance metrics defined specifically for the BISO role."*
 
 **Why Traditional Metrics Fail:**
 - ❌ Vulnerabilities fixed → Security operations does this, not BISOs

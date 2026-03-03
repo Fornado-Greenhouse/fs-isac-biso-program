@@ -1,11 +1,11 @@
 ---
-title: "Trust Equation Scorecard"
+title: "Trust Scorecard (NTS)"
 description: "Executive trust index template for evaluating and tracking BISO stakeholder confidence"
 parent: "Templates"
 nav_order: 2
 ---
 
-# Trust Equation Scorecard Template
+# Trust Scorecard (NTS) Template
 
 **Purpose:** Executive-level trust signal for BISO partnership quality  
 **Time to Complete:** 3-5 minutes  

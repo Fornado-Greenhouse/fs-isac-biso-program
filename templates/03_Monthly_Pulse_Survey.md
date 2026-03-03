@@ -1,11 +1,11 @@
 ---
-title: "Monthly Pulse Survey"
+title: "Monthly NTS Survey"
 description: "Monthly survey template for assessing BISO program health, stakeholder satisfaction, and engagement levels"
 parent: "Templates"
 nav_order: 3
 ---
 
-# Monthly Pulse Survey Template
+# Monthly NTS Survey Template
 
 **Purpose:** Quick monthly check on stakeholder satisfaction with BISO partnership
 **Time to Complete:** <2 minutes for stakeholders, 10 minutes/month to analyze
@@ -14,7 +14,7 @@ nav_order: 3
 
 ---
 
-## What is the Monthly Pulse Survey?
+## What is the Monthly NTS Survey?
 
 A single-question monthly survey that tracks stakeholder satisfaction trends. This is your early warning system — if satisfaction drops, you know to investigate before trust erodes.
 

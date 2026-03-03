@@ -22,8 +22,11 @@ Your business units need security expertise embedded in their operations, not ju
 **The Solution:**
 BISOs are security professionals who work **with** your business units, not separate from them. They bring security expertise to business planning, help leaders make risk-informed decisions, and build trust between security and business teams.
 
-**Key Insight:**
-*"The role of the BISO is not to slow down the business in favor of cybersecurity. BISOs help the business understand the risks, provide balanced decision-making, and avoid surprises."*
+**Key Insight (Plain Language):**
+BISOs should not slow down the business. They help business leaders understand risk, make balanced decisions, and avoid surprises.
+
+**Whitepaper Basis:**
+*"The BISO is critical in enabling the success of the business by helping to manage operational and cybersecurity risks."*
 — FS-ISAC BISO Whitepaper
 
 ---
@@ -52,25 +55,25 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    BUILDING A BISO PROGRAM (11 STEPS)                        │
+│                    BUILDING A BISO PROGRAM (11 STEPS)                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
+│                                                                             │
 │  FOUNDATION                EXECUTION                SUSTAINABILITY          │
-│                                                                              │
-│  1️⃣ Research demand      5️⃣ Secure exec support   9️⃣ Build the team       │
-│  2️⃣ Identify objectives  6️⃣ Develop framework      🔟 Implement tech        │
-│  3️⃣ Gather data          7️⃣ Establish services    1️⃣1️⃣ Enable success      │
-│  4️⃣ Establish foundation 8️⃣ Monitor & measure                               │
-│                                                                              │
+│                                                                             │
+│  1️⃣ Research demand      5️⃣ Secure exec support   9️⃣ Build the team          │
+│  2️⃣ Identify objectives  6️⃣ Develop framework      🔟 Implement tech         │
+│  3️⃣ Gather data          7️⃣ Establish services    1️⃣1️⃣ Enable success        │
+│  4️⃣ Establish foundation 8️⃣ Monitor & measure                                │
+│                                                                             │
 │  Weeks 1-4               Months 2-6               Months 6-12+              │
-│                                                                              │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Step 1: Research the Demand
-**What:** Understand where BISOs would add most value
-**How:** Talk to business unit leaders, identify pain points, find security gaps
-**Success:** Clear understanding of which business units need BISOs first
+- **What:** Understand where BISOs would add most value
+- **How:** Talk to business unit leaders, identify pain points, find security gaps
+- **Success:** Clear understanding of which business units need BISOs first
 
 **Quick Actions:**
 - Interview 3-5 business unit leaders
@@ -80,9 +83,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 2: Identify the Objectives
-**What:** Define what success looks like for YOUR organization
-**How:** Set specific, measurable goals aligned with business strategy
-**Success:** 3-5 clear objectives everyone agrees on
+- **What:** Define what success looks like for YOUR organization
+- **How:** Set specific, measurable goals aligned with business strategy
+- **Success:** 3-5 clear objectives everyone agrees on
 
 **Example Objectives:**
 - Reduce project security review time from 3 weeks → 5 days
@@ -93,9 +96,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 3: Gather Data
-**What:** Quantify the current state and opportunity
-**How:** Measure current security delays, late findings, rework costs
-**Success:** Data-driven justification for BISO investment
+- **What:** Quantify the current state and opportunity
+- **How:** Measure current security delays, late findings, rework costs
+- **Success:** Data-driven justification for BISO investment
 
 **Data to Collect:**
 - Average time for security reviews
@@ -106,9 +109,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 4: Establish the Foundation
-**What:** Create the formal program structure
-**How:** Develop charter, define roles, clarify authority and scope
-**Success:** Written program charter with executive approval
+- **What:** Create the formal program structure
+- **How:** Develop charter, define roles, clarify authority and scope
+- **Success:** Written program charter with executive approval
 
 **Foundation Elements:**
 - **Mission:** Enable secure business growth through embedded security expertise
@@ -119,9 +122,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 5: Secure Executive Support
-**What:** Get commitment from C-suite leadership
-**How:** Present business case with clear objectives and success metrics
-**Success:** Executive sponsorship and budget approval
+- **What:** Get commitment from C-suite leadership
+- **How:** Present business case with clear objectives and success metrics
+- **Success:** Executive sponsorship and budget approval
 
 **Critical Stakeholders:**
 - CISO (primary sponsor)
@@ -132,9 +135,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 6: Develop the Framework
-**What:** Build the operating model for BISOs
-**How:** Define processes, responsibilities, and engagement protocols
-**Success:** Clear playbook for how BISOs work
+- **What:** Build the operating model for BISOs
+- **How:** Define processes, responsibilities, and engagement protocols
+- **Success:** Clear playbook for how BISOs work
 
 **Framework Components:**
 - Service catalog (what BISOs deliver)
@@ -145,9 +148,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 7: Establish a Service Offer
-**What:** Create the catalog of services BISOs provide
-**How:** Define the 4 core BISO services from FS-ISAC guidance
-**Success:** Business units know exactly what to ask BISOs for
+- **What:** Create the catalog of services BISOs provide
+- **How:** Define the 4 core BISO services from FS-ISAC guidance
+- **Success:** Business units know exactly what to ask BISOs for
 
 **The 4 Core Services:**
 1. 🤝 **Trusted Advisor** - Strategic partnership and security counsel
@@ -160,9 +163,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 8: Monitor and Measure
-**What:** Track BISO program effectiveness
-**How:** Implement relationship and operational metrics
-**Success:** Regular visibility into program health and value
+- **What:** Track BISO program effectiveness
+- **How:** Implement relationship and operational metrics
+- **Success:** Regular visibility into program health and value
 
 **Start With Relationship Metrics:**
 - **Net Trust Score (NTS)** (primary relationship metric for first 6 months)
@@ -179,9 +182,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 9: Build the Team
-**What:** Recruit and onboard BISO professionals
-**How:** Hire for relationship skills + security expertise
-**Success:** BISOs deployed with clear assignments
+- **What:** Recruit and onboard BISO professionals
+- **How:** Hire for relationship skills + security expertise
+- **Success:** BISOs deployed with clear assignments
 
 **Start Small:**
 - Begin with 1-2 BISOs in pilot business units
@@ -199,9 +202,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 10: Implement Technology Solutions
-**What:** Deploy tools to support BISO work
-**How:** Start with basics, add sophistication as program matures
-**Success:** BISOs have tools to deliver effectively
+- **What:** Deploy tools to support BISO work
+- **How:** Start with basics, add sophistication as program matures
+- **Success:** BISOs have tools to deliver effectively
 
 **Level 1 (Manual - Months 1-6):**
 - Excel for stakeholder tracking
@@ -221,9 +224,9 @@ Based on FS-ISAC whitepaper guidance. **Important:** These steps are **not neces
 ---
 
 ### Step 11: Enable Success
-**What:** Support BISO growth and continuous improvement
-**How:** Training, coaching, process refinement, stakeholder feedback
-**Success:** Sustainable, mature BISO program
+- **What:** Support BISO growth and continuous improvement
+- **How:** Training, coaching, process refinement, stakeholder feedback
+- **Success:** Sustainable, mature BISO program
 
 **Enablement Activities:**
 - Quarterly professional development
@@ -292,9 +295,12 @@ If you're starting a BISO program **this week**, focus on these essentials:
 ## Organizational Placement
 
 ### Reporting Structure
-**Primary Reporting:** CISO (maintains security independence)
-**Dotted-Line:** Business Unit Leadership (enables business partnership)
-**Coordination:** CRO, Compliance, Legal (governance alignment)
+- **Primary Reporting:** CISO (maintains security independence)
+- **Dotted-Line:** Business Unit Leadership (enables business partnership)
+- **Coordination:** CRO, Compliance, Legal (governance alignment)
+
+{: .note }
+> This is a summary view. The canonical reporting model, role boundaries, and decision rights are defined in [BISOPRO-07 Reporting Structure](../deliverables/BISOPRO-07_Reporting_Structure.md).
 
 ```
                  ┌──────────────┐
@@ -309,10 +315,10 @@ If you're starting a BISO program **this week**, focus on these essentials:
                         │
               ┌─────────┴─────────┐
               │                   │
-         ┌────▼─────┐      ┌─────▼────┐
-         │  BISOs   │      │  BISOs   │
-         │  (2-3)   │      │  (2-3)   │
-         └──────────┘      └──────────┘
+         ┌────▼────────┐    ┌─────▼───────┐
+         │ BISO Team   │    │ BISO Team   │
+         │ (By Domain) │    │ (By Product)│
+         └─────────────┘    └─────────────┘
 ```
 
 ### Why This Structure Works
@@ -320,7 +326,7 @@ If you're starting a BISO program **this week**, focus on these essentials:
 - **Partnership:** Regular engagement with business leadership (builds trust)
 - **Neutrality:** Can provide objective security advice without business pressure
 
-*See [Organizational Design](./03_Organizational_Design.md) for complete models*
+*See [Organizational Design](./03_Organizational_Design.md) for core model rationale and [BISOPRO-07 Reporting Structure](../deliverables/BISOPRO-07_Reporting_Structure.md) for the authoritative structure.*
 
 ---
 
@@ -406,22 +412,6 @@ Scale based on business unit complexity, not just headcount.
 - Escalation: Clear paths when BISOs and business disagree
 
 *See [Common Challenges](./07_Common_Challenges.md) for detailed mitigation strategies*
-
----
-
-## Success Stories
-
-### Accelerated Time-to-Market
-*"Early BISO engagement meant security requirements built into design from day one. We launched 3 weeks ahead of schedule with no security delays."*
-— VP Product Development, Regional Bank
-
-### Avoided Major Risk
-*"BISO identified high-risk vendor during selection process. We chose a different partner. That original vendor suffered a major breach 6 months later."*
-— SVP Commercial Banking
-
-### Improved Audit Outcomes
-*"Working with our BISO, we passed SOX audit with zero security findings for the first time in 3 years."*
-— Director Operations, Financial Services
 
 ---
 

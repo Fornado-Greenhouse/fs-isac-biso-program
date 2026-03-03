@@ -403,7 +403,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 
 ##### Relationship Quality Indicators (RQI) Framework
 
-**Philosophy**: The PDF whitepaper emphasizes that "there are no industry-wide metrics specific to the BISO role" and highlights relationship-based success measures. This framework balances quantitative business metrics with qualitative relationship health indicators that better reflect the BISO's unique value proposition.
+**Philosophy**: The FS-ISAC whitepaper states: "There are no industry-wide performance metrics defined specifically for the BISO role." This framework balances quantitative business metrics with qualitative relationship health indicators that better reflect the BISO's unique value proposition.
 
 **RQI Tier 1: Net Trust Score (NTS)**
 

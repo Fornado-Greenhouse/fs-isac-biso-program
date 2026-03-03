@@ -20,7 +20,7 @@ nav_order: 5
 BISO success is **60% relationships, 40% technical expertise**. You can have the best security recommendations in the world, but if stakeholders don't trust you, they won't follow your advice.
 
 **The Evidence:**
-FS-ISAC whitepaper emphasizes: *"There are no industry-wide metrics specific to the BISO role"* — meaning you can't measure BISO success purely by security metrics. **Trust and relationship quality are the primary indicators.**
+FS-ISAC whitepaper emphasizes: *"There are no industry-wide performance metrics defined specifically for the BISO role"* — meaning you can't measure BISO success purely by traditional security output metrics. **Trust and relationship quality are primary indicators for BISO effectiveness.**
 
 **The Challenge:**
 Most security professionals are trained in technical skills, not relationship management. This document teaches the relationship skills that make BISOs effective.

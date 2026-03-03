@@ -35,7 +35,7 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 - **[Political Navigation Playbook](#political-navigation-playbook)**: Influence mapping, escalation scripts, and coalition building
 - **[Resistance Strategies](#opposition-management-strategies)**: Managing opposition and building support
 - **[Capability Gap Solutions](#strategy-2-influence-building-and-expertise-demonstration)**: Expertise development and value demonstration
-- **[Case Studies](#case-studies-of-successful-political-navigation)**: Real-world political navigation examples
+- **[Political Risk Assessment](#political-risk-assessment-integration)**: Quarterly political landscape review and risk indicators
 
 ## Challenge Management Philosophy
 
@@ -97,7 +97,7 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 - **Exception Process**: Formal process for handling out-of-scope requests per [Authority Framework](./BISOPRO-06_Authority_Framework.md#exception-management)
 - **Executive Support**: Executive reinforcement of role boundaries per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#role-protection)
 
-**Documentation and Communication Standards**
+#### Documentation and Communication Standards
 - **Service Catalog**: Clear definition of BISO services and limitations per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#service-portfolio)
 - **Engagement Guidelines**: Formal guidelines for BISO engagement requests and approval
 - **Boundary Communication**: Regular communication about what BISOs do and don't do
@@ -181,7 +181,7 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 - **Win-Win Solutions**: Focus on solutions that benefit all stakeholders per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#collaborative-solutions)
 - **Regular Touchpoints**: Proactive communication to prevent misunderstandings
 
-**Strategy 2: Executive Sponsorship and Governance Support**
+#### Strategy 2: Executive Sponsorship and Governance Support
 
 **Executive Engagement**
 - **Regular Executive Updates**: Consistent communication with executive sponsors per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#regular-communication)
@@ -282,7 +282,7 @@ and recommended options for executive decision."
 4. **Document Success Stories**: Use achievements to attract additional support
 5. **Leverage Champions**: Use influential supporters to convince others
 
-*Opposition Management Strategies*
+#### Opposition Management Strategies
 - **Understand Root Concerns**: Identify underlying business concerns driving opposition
 - **Address Information Gaps**: Provide data and context to reduce fear of unknown
 - **Find Common Ground**: Focus on shared organizational objectives
@@ -315,30 +315,7 @@ and recommended options for executive decision."
 - **Is timing the issue?** → Negotiate phased implementation or timeline adjustment
 - **Is this fundamental opposition?** → Executive intervention may be required
 
-**Case Studies of Successful Political Navigation**
-
-*Case Study 1: Business Unit Resistance to Security Controls*
-- **Situation**: Sales team opposing new customer data security requirements
-- **Political Challenge**: Sales leadership concerned about deal velocity impact
-- **Navigation Strategy**: Partnered with Sales Operations to pilot less intrusive controls
-- **Outcome**: 15% improvement in data protection with <2% deal cycle impact
-- **Key Learning**: Find operational partners who understand both business and security needs
-
-*Case Study 2: IT Department Turf Protection*
-- **Situation**: IT team excluding BISO from architecture reviews
-- **Political Challenge**: IT concerned about authority overlap and criticism
-- **Navigation Strategy**: Offered to provide business context rather than technical oversight
-- **Outcome**: Improved security architecture with maintained IT ownership
-- **Key Learning**: Frame BISO role as enablement rather than oversight
-
-*Case Study 3: Executive Priority Conflicts*
-- **Situation**: Two VP's with conflicting priorities affecting security decisions
-- **Political Challenge**: BISO caught between competing executive directions
-- **Navigation Strategy**: Documented risk implications of both approaches and escalated to CEO
-- **Outcome**: CEO established priority framework for future conflicts
-- **Key Learning**: Don't try to resolve executive conflicts at BISO level
-
-**Political Risk Assessment Integration**
+#### Political Risk Assessment Integration
 
 *Quarterly Political Landscape Review*
 - **Stakeholder Sentiment Analysis**: Survey key stakeholders on BISO program perception
@@ -418,7 +395,7 @@ and recommended options for executive decision."
 - **Feedback Loops**: Regular feedback on decision-making effectiveness and efficiency
 - **Continuous Improvement**: Regular improvement of decision-making processes and authority
 
-**Strategy 2: Influence Building and Expertise Demonstration**
+#### Strategy 2: Influence Building and Expertise Demonstration
 
 **Expertise Development**
 - **Technical Credibility**: Maintaining cutting-edge technical knowledge per [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#technical-expertise)

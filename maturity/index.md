@@ -44,8 +44,8 @@ has_toc: false
 ### Optional Accelerators
 
 - [Quick Reference Guide](../guides/BISO_GUIDE-01_Quick_Reference.md)
-- [Trust Equation Scorecard](../templates/02_Trust_Equation_Scorecard.md)
-- [Monthly Pulse Survey](../templates/03_Monthly_Pulse_Survey.md)
+- [Trust Scorecard (NTS)](../templates/02_Trust_Equation_Scorecard.md)
+- [Monthly NTS Survey](../templates/03_Monthly_Pulse_Survey.md)
 
 ### Exit Criteria
 

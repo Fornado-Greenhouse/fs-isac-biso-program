@@ -18,21 +18,21 @@ nav_order: 2
 Based on FS-ISAC whitepaper guidance, BISOs deliver four service categories:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    WHAT BISOs DELIVER                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🤝 TRUSTED ADVISOR      │  🛡️ MANAGES CYBER RISK           │
-│  Strategic partnership   │  Risk assessment &              │
-│  & security counsel      │  mitigation support             │
-│                          │                                  │
-│  ─────────────────────────┼──────────────────────────────  │
-│                          │                                  │
-│  📋 GOVERNANCE          │  🎓 FACILITATES AWARENESS        │
-│  Compliance & policy     │  Training & security            │
-│  guidance                │  communication                   │
-│                          │                                  │
-└─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                    WHAT BISOs DELIVER                     │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  TRUSTED ADVISOR         │  MANAGES CYBER RISK            │
+│  Strategic partnership   │  Risk assessment &             │
+│  & security counsel      │  mitigation support            │
+│                          │                                │
+│  ────────────────────────┼──────────────────────────────  │
+│                          │                                │
+│  GOVERNANCE              │  FACILITATES AWARENESS         │
+│  Compliance & policy     │  Training & security           │
+│  guidance                │  communication                 │
+│                          │                                │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -163,7 +163,7 @@ BISOs partner with security teams to deliver relevant training, provide security
 ## How to Request BISO Services
 
 ### Quick Questions
-📧 Email your BISO | 💬 Slack/Teams message
+📧 Email your BISO | 💬 Slack/Teams message | Ticketing system
 ⏱️ **Response:** Same day (urgent), 1-2 days (standard)
 
 ### Projects
@@ -180,13 +180,13 @@ BISOs partner with security teams to deliver relevant training, provide security
 
 Setting clear expectations:
 
-❌ **Implement security controls** (they advise; security/IT teams implement)
-❌ **Approve/deny business decisions** (they advise; business leaders decide)
-❌ **Own security risk** (business units own risk; BISOs help manage)
-❌ **Slow down business** (they enable faster movement with confidence)
-❌ **Replace security teams** (they bridge business and security)
-❌ **Conduct penetration testing** (specialized security teams handle)
-❌ **Manage security incidents** (security operations leads; BISOs support business impact)
+❌ **Implement security controls** (they advise; security/IT teams implement)  
+❌ **Approve/deny business decisions** (they advise; business leaders decide)  
+❌ **Own security risk** (business units own risk; BISOs help manage)  
+❌ **Slow down business** (they enable faster movement with confidence)  
+❌ **Replace security teams** (they bridge business and security)  
+❌ **Conduct penetration testing** (specialized security teams handle)  
+❌ **Manage security incidents** (security operations leads; BISOs support business impact)  
 
 **Think of BISOs as:** Embedded security consultants, not gatekeepers or implementation teams.
 
@@ -202,22 +202,6 @@ Setting clear expectations:
 | **Operations** | 🎓 Awareness | Monthly/Quarterly | Team training, threat briefings |
 | **Audit/Compliance** | 📋 Governance | Event-driven | Audit support, findings remediation |
 | **Crisis/Incident** | 🛡️ Manages Risk | Immediate | Business impact, recovery planning |
-
----
-
-## Success Stories
-
-### 🚀 Accelerated Time-to-Market
-*"Early BISO engagement meant security requirements built into design. Launched 3 weeks ahead of schedule with no security delays."*
-— VP Product Development
-
-### 💰 Cost Avoidance
-*"BISO identified high-risk vendor during selection, avoiding $2M contract with supplier who later suffered major breach."*
-— SVP Commercial Banking
-
-### ✅ Audit Success
-*"Working with BISO, we passed SOX audit with zero findings. BISO translated complex requirements into practical controls."*
-— Director Operations
 
 ---
 
@@ -256,7 +240,7 @@ Best BISO relationships start with early engagement, regular communication, and 
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - Why BISO programs exist
-- **03_Organizational_Design.md** - How BISOs are organized
-- **05_Stakeholder_Engagement.md** - How to work effectively with BISOs
-- **06_Success_Measurement.md** - How BISO effectiveness is measured
+- **[Program Guide](./01_Program_Guide.md)** - Why BISO programs exist
+- **[Organizational Design](./03_Organizational_Design.md)** - How BISOs are organized
+- **[Stakeholder Engagement](./05_Stakeholder_Engagement.md)** - How to work effectively with BISOs
+- **[Success Measurement](./06_Success_Measurement.md)** - How BISO effectiveness is measured

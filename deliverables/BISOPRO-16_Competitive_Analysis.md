@@ -289,48 +289,6 @@ This competitive analysis component of the BISO program reveals strategic market
 - Customer security expectations continue rising
 - Regulatory expectations evolve toward business-aligned security programs
 
-## Industry Case Studies
-
-### Success Stories
-
-**Case Study 1: Regional Bank ($15B Assets)**
-- **Implementation**: 2022 BISO program launch
-- **Results after 18 months**:
-  - 42% reduction in security review cycle time
-  - 38% decrease in audit findings
-  - 28% improvement in customer security confidence scores
-  - $2.1M ROI on $1.3M investment
-
-**Case Study 2: Healthcare System (12 Hospitals)**
-- **Implementation**: 2021 BISO network establishment
-- **Results after 2 years**:
-  - 55% reduction in security incidents
-  - 47% improvement in HIPAA compliance scores
-  - 33% faster implementation of new health technologies
-  - $3.8M cost savings through improved efficiency
-
-**Case Study 3: Manufacturing Company ($8B Revenue)**
-- **Implementation**: 2020 Business Security Officer roles
-- **Results after 3 years**:
-  - 61% reduction in OT security incidents
-  - 44% faster industrial IoT deployment
-  - 52% improvement in supply chain security posture
-  - $4.2M value from accelerated digital transformation
-
-### Competitive Disadvantage Examples
-
-**Case Study A: Mid-Size Bank Without BISO**
-- **Challenge**: Failed regulatory examination in 2023
-- **Impact**: $2.5M in penalties and remediation costs
-- **Root Cause**: Lack of business-aligned security oversight
-- **Outcome**: Forced to implement BISO program under regulatory mandate
-
-**Case Study B: Technology Company**
-- **Challenge**: Lost major customer contract due to security concerns
-- **Impact**: $8M annual revenue loss
-- **Root Cause**: Inability to demonstrate business-aligned security maturity
-- **Outcome**: Customer selected competitor with established BISO program
-
 ## Implementation Urgency
 
 ### Implementation Timing Impact Visual

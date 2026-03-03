@@ -311,8 +311,8 @@ Use this table to track ongoing stakeholder relationships:
 
 - **BISOPRO-04**: Stakeholder Engagement Protocols (comprehensive engagement strategies)
 - **BISOPRO-14**: Executive Sponsorship Plan (executive-specific stakeholder management)
-- **02_Trust_Equation_Scorecard.md**: NTS trust scorecard (relationship quality measurement)
-- **03_Monthly_Pulse_Survey.md**: Monthly stakeholder feedback collection
+- **02_Trust_Equation_Scorecard.md**: Trust Scorecard (NTS) for relationship quality measurement
+- **03_Monthly_Pulse_Survey.md**: Monthly NTS Survey for recurring stakeholder feedback
 
 ---
 
