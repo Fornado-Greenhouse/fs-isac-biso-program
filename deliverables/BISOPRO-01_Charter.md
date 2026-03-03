@@ -193,15 +193,16 @@ The BISO serves as the primary interface between cybersecurity and business oper
 
 ## Success Framework
 
-### Primary Success Metrics
+### Primary Success Outcomes
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-- Time to security review: <5 days average
-- Business stakeholder satisfaction: >4.0/5.0
-- Early project engagement: >80% of projects
-- Risk-informed decisions: 100% of major business decisions
+- Security review responsiveness improves and remains predictable.
+- Business stakeholder confidence in BISO support improves over time.
+- Early project engagement becomes standard operating behavior.
+- Major decisions consistently include explicit risk context.
+Use BISOPRO-05 for exact formulas and thresholds. In this charter, use these as directional program outcomes and governance priorities.
 
 ### Business Value Indicators
 - Reduced security-related project delays
@@ -475,9 +476,9 @@ The BISO serves as the primary interface between cybersecurity and business oper
 
 ### Appendix C: Success Metrics Framework
 *Performance measurement details found in:*
-- [BISOPRO-05: Success Metrics](./BISOPRO-05_Success_Metrics.md) - Complete KPIs and measurement framework
-- [BISOPRO-11: Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) - ROI calculation methodologies
-- [BISOPRO-13: Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md) - Reporting templates
+- [BISOPRO-05: Success Metrics](./BISOPRO-05_Success_Metrics.md) - Canonical formulas, thresholds, and scoring logic
+- [BISOPRO-11: Business Case Value Analysis](./BISOPRO-11_Business_Case_ROI.md) - Assumptions and value-evidence governance
+- [BISOPRO-13: Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md) - Executive reporting and narrative standards
 
 ### Appendix D: Stakeholder Engagement Resources
 *Stakeholder management guidance in:*
@@ -486,4 +487,3 @@ The BISO serves as the primary interface between cybersecurity and business oper
 - [BISOPRO-03: Alignment Model Analysis](./BISOPRO-03_Alignment_Model_Analysis.md) - Organizational stakeholder mapping
 
 ---
-

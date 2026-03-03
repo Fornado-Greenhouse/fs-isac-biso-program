@@ -391,42 +391,42 @@ IMMEDIATE NOTIFICATION (Within 1 Hour)
 ## Communication Impact Measurement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Briefing Effectiveness Metrics
+### Briefing Effectiveness Signals
 
 **Engagement Quality Indicators**:
-- Executive attendance rates: Target >95% (Current: 97%) 🟢
-- Meeting duration adherence: Target ±10% (Current: +3%) 🟢
-- Question volume and quality: Target 8-12 questions per briefing 🟢
-- Follow-up action completion: Target >90% (Current: 94%) 🟢
+- Executive attendance trend and critical-role coverage.
+- Meeting execution quality (on-time start/end, clear agenda progression).
+- Question quality and decision relevance.
+- Follow-up action ownership and closure discipline.
 
 **Decision Support Effectiveness**:
-- Decision velocity: 50% faster security-related executive decisions 🟢
-- Information quality rating: Target >4.5/5.0 (Current: 4.6/5.0) 🟢
-- Strategic alignment maintenance: 95% executive agreement on priorities 🟢
-- Investment decision support: 100% funding decisions with clear justification 🟢
+- Decision clarity (decision made, deferred with reason, or blocked).
+- Information sufficiency for decision-making.
+- Strategic alignment consistency across executive stakeholders.
+- Funding and prioritization decisions with documented rationale.
 
 **Communication Impact Assessment**:
-- Executive confidence in program: Target >90% (Current: 95%) 🟢
-- Understanding of security value: Target >85% (Current: 91%) 🟢
-- Support for program expansion: Target >80% (Current: 87%) 🟢
-- Advocacy for security investment: Strong across all executive stakeholders 🟢
+- Executive confidence trend based on briefing feedback.
+- Clarity of security value articulation in business terms.
+- Support level for roadmap continuation and expansion.
+- Advocacy strength observed in cross-functional forums.
 
 ### Continuous Improvement Process
 
 **Quarterly Communication Review**:
-- Stakeholder satisfaction survey with specific improvement feedback
-- Briefing format effectiveness assessment and optimization
-- Content relevance analysis and strategic alignment review
-- Technology platform evaluation and enhancement planning
+- Capture stakeholder feedback themes and assign one format/content improvement owner.
+- Review briefing structure for decision speed and clarity.
+- Validate content relevance against current strategic priorities.
+- Confirm platform/tooling supports clear, low-friction executive consumption.
 
 **Annual Program Evolution**:
-- Comprehensive stakeholder needs assessment
-- Industry best practice research and integration
-- Communication technology advancement evaluation
-- Documentation updates and training
+- Reassess executive information needs and update briefing model accordingly.
+- Integrate external practices only where they improve governance outcomes.
+- Reevaluate communication tooling against adoption and decision-quality evidence.
+- Refresh documentation and briefing playbooks used by operators.
 
 ## Implementation Investment
 
@@ -476,4 +476,3 @@ IMMEDIATE NOTIFICATION (Within 1 Hour)
 ---
 
 *Implementation Phase: 3 (Months 7-12)*
-

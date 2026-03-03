@@ -282,33 +282,27 @@ This professional development framework creates industry-leading BISO capabiliti
 - **360-Degree Feedback**: Comprehensive feedback from stakeholders per [Success Metrics](./BISOPRO-05_Success_Metrics.md#360-feedback-process)
 - **Career Coaching**: Professional coaching for senior roles
 
-## Performance Measurement and ROI
+## Performance Measurement and Value Evidence
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Learning Effectiveness Metrics
+### Learning Effectiveness Signals
 
-**Quantitative Measures**
-- **Certification Achievement Rate**: Percentage of BISOs achieving target certifications per timeline
-- **Training Completion Rate**: Completion rates for required training programs
-- **Conference Participation**: Attendance and follow-up implementation rates
-- **Knowledge Sharing**: Contribution to internal knowledge base and forums
-
-**Qualitative Measures**
-- **Stakeholder Feedback**: Business partner assessment of BISO capabilities per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- **Self-Assessment**: BISO self-evaluation of competency improvement per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#competency-assessment)
-- **Peer Review**: Peer evaluation of knowledge and skill development
-- **Industry Recognition**: External recognition and thought leadership opportunities
+Track learning outcomes through operational signals:
+- Completion status for planned development commitments.
+- Evidence that new skills were applied in real stakeholder work.
+- Manager/peer/stakeholder feedback trend on capability growth.
+- Reuse of learning in templates, playbooks, or decisions.
 
 ### Professional Development Impact Assessment
 
-**Performance Enhancement Measures**
-- **Capability Improvement**: Measurable advancement in BISO effectiveness per [Success Metrics](./BISOPRO-05_Success_Metrics.md#performance-improvement-metrics)
-- **Certification Achievement**: Professional credential attainment and industry validation
-- **Retention Enhancement**: Improved talent retention through career development per [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#retention-strategies)
-- **Innovation Implementation**: New approaches and methodologies from continuous learning
+**Performance Enhancement Signals**
+- **Capability Improvement**: Observable advancement in BISO effectiveness per [Success Metrics](./BISOPRO-05_Success_Metrics.md#performance-improvement-metrics)
+- **Certification Achievement**: Credential progress and practical application in role delivery
+- **Retention Enhancement**: Retention and progression trend linked to development investment per [Recruitment Strategy](./BISOPRO-24_Recruitment_Strategy.md#retention-strategies)
+- **Innovation Implementation**: New approaches adopted from continuous learning with visible reuse
 
 **Strategic Value Creation**
 - **Stakeholder Satisfaction**: Enhanced credibility and partnership effectiveness

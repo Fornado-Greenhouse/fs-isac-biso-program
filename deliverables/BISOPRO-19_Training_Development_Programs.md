@@ -610,8 +610,8 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 **Training Program Evaluation**
 - **Participant Feedback**: Regular surveys and focus groups for program improvement
 - **Instructor Evaluation**: Assessment of instructor effectiveness and content quality
-- **Business Impact**: Measurement of training impact on business outcomes per [Success Metrics](./BISOPRO-05_Success_Metrics.md)
-- **ROI Analysis**: Cost-benefit analysis of training investment per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md)
+- **Business Impact**: Evidence of training influence on business outcomes per [Success Metrics](./BISOPRO-05_Success_Metrics.md)
+- **Value Review**: Cost-benefit review of training investment assumptions per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md)
 
 **Continuous Improvement Process**
 - **Regular Reviews**: Quarterly program reviews with stakeholders and participants
@@ -619,31 +619,30 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 - **Method Innovation**: Exploration of new training methods and technologies
 - **Best Practice Integration**: Incorporation of industry best practices and lessons learned
 
-## Success Metrics and ROI
+## Success Metrics and Value Evidence
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Training Program Metrics
+### Training Program Signal Review
 
-**Participation and Completion Metrics**
-- **Enrollment Rates**: Percentage of eligible participants enrolled in programs
-- **Completion Rates**: Percentage of participants completing training programs
-- **Certification Achievement**: Percentage achieving certification requirements
-- **Retention**: Training completion retention and knowledge retention rates
+Use BISOPRO-05 for formulas and thresholds. In this document, track:
 
-**Quality and Satisfaction Metrics**
-- **Participant Satisfaction**: Average satisfaction scores >4.0/5.0 across all programs
-- **Content Quality**: Expert evaluation scores of training content and materials
-- **Instructor Effectiveness**: Participant evaluation scores of instructor performance
-- **Relevance Assessment**: Business stakeholder evaluation of training relevance
+**Participation and Completion Signals**
+- Program participation coverage for target audiences.
+- Completion status and recurring drop-off points.
+- Certification/credential progress where applicable.
 
-**Business Impact Metrics**
-- **Competency Improvement**: Measured improvement in BISO competency levels per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md)
-- **Performance Enhancement**: Improvement in BISO performance metrics per [Success Metrics](./BISOPRO-05_Success_Metrics.md)
-- **Stakeholder Satisfaction**: Improved business stakeholder satisfaction with BISO services
-- **Career Progression**: Career advancement rates and internal promotion success
+**Quality and Relevance Signals**
+- Participant feedback trend on usefulness and clarity.
+- Instructor/content quality trend from post-session reviews.
+- Business relevance signal from managers and stakeholders.
+
+**Business Impact Evidence**
+- Demonstrated competency gains in real work products.
+- Improvements in decision quality and stakeholder interactions.
+- Evidence of career-path progression and retention support.
 
 ### Training Impact Analysis
 
@@ -659,10 +658,10 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 - **Faster Competency Development**: Time savings in achieving competency compared to alternatives
 - **Employee Retention**: Improved job satisfaction and career development outcomes
 
-**Success Progression Targets**
-- **Year 1**: Foundational competency achievement and operational effectiveness
-- **Year 2**: Advanced competency development and stakeholder satisfaction improvement
-- **Year 3+**: Excellence achievement and industry leadership positioning
+**Capability Progression Milestones**
+- **Year 1**: Foundational capabilities established and used in production work.
+- **Year 2**: Advanced capabilities applied consistently in stakeholder-facing outcomes.
+- **Year 3+**: Sustained capability growth with reusable organizational learning patterns.
 
 ### Continuous Improvement Framework
 

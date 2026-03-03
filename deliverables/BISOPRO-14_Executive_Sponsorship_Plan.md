@@ -302,14 +302,14 @@ Solution: Automated dashboards, delegated authorities, exception-based engagemen
 ### Sponsorship Effectiveness Measurement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-**Quantitative Metrics**:
-- Meeting attendance rate (Target: >90%)
-- Decision response time (Target: <48 hours)
-- Resource commitment fulfillment (Target: 100%)
-- Communication effectiveness (Target: >4/5 rating)
+**Operational Signals**:
+- Meeting attendance trend (present and improving, flat, or declining)
+- Decision response timeliness (on-track, at-risk, blocked)
+- Resource commitment status (committed, partially fulfilled, not fulfilled)
+- Communication effectiveness signal (clear, mixed, unclear)
 
 **Qualitative Indicators**:
 - Visible championship of program value
@@ -324,7 +324,7 @@ Solution: Automated dashboards, delegated authorities, exception-based engagemen
 **CEO Communications**:
 - **Frequency**: Quarterly formal, monthly dashboard
 - **Format**: Executive briefing deck (10 slides max)
-- **Focus**: Strategic value, competitive advantage, ROI
+- **Focus**: Strategic value, competitive advantage, and evidence-backed progress
 - **Duration**: 60 minutes quarterly, 5 minutes monthly
 
 **CISO Communications**:
@@ -334,9 +334,9 @@ Solution: Automated dashboards, delegated authorities, exception-based engagemen
 - **Duration**: 30 minutes weekly, 2 hours monthly
 
 **CFO Communications**:
-- **Frequency**: Monthly financial, quarterly ROI
-- **Format**: Financial dashboard, ROI analysis
-- **Focus**: Budget performance, value realization, forecasts
+- **Frequency**: Monthly financial, quarterly value review
+- **Format**: Financial dashboard and value-evidence review
+- **Focus**: Budget performance, value realization, and forecast quality
 - **Duration**: 30 minutes monthly, 1 hour quarterly
 
 ### Stakeholder-Specific Messaging

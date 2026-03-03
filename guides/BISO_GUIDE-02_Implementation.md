@@ -509,39 +509,39 @@ The Customization Guide provides:
 - Evolution capability
 - Sustained excellence
 
-### Long-term Success Metrics
+### Long-term Value Signals
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-**Year 1 Targets**:
+**Year 1 Priorities**:
 - Program operational
 - Initial value demonstrated
-- Stakeholder satisfaction >3.5/5
+- Stakeholder feedback trend is improving
 - Risk reduction measurable
 
-**Year 2 Targets**:
-- ROI positive
+**Year 2 Priorities**:
+- Value evidence is consistently review-ready
 - Full operational capability
-- Stakeholder satisfaction >4.0/5
+- Stakeholder feedback trend is stable-to-strong
 - Industry recognition
 
-**Year 3+ Targets**:
-- 4-5:1 ROI achieved
+**Year 3+ Priorities**:
+- Sustained evidence-backed value realization
 - Industry leadership
-- Stakeholder satisfaction >4.5/5
+- Stakeholder partnership quality is consistently strong
 - Continuous evolution
 
 {: .note}
 > **Key Takeaway:** This strategic implementation guide provides the organizational framework for establishing a world-class BISO program. Success requires strong executive sponsorship, systematic phased implementation, active stakeholder engagement, and continuous value demonstration.
 
-Organizations following this strategic approach while leveraging the [Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md) for technical implementation details can achieve 4-5:1 ROI and industry-leading security-business integration.
+Organizations following this strategic approach while leveraging the [Document Creation Roadmap](./BISO_GUIDE-03_Roadmap.md) can build reliable, evidence-backed security-business integration and sustained executive support.
 
 ---
 *Implementation Guide Version: 1.0*  
 *Date: July 31, 2025*  
 *Total Documents: 22*  
-*Implementation Timeline: 18-24 months  
-*Total Investment: $2.9-3.6M*  
-*Expected ROI: 4-5:1*
+*Implementation Timeline: 18-24 months*  
+*Investment Model: Defined in BISOPRO-11 with evidence governance*  
+*Expected Value Trajectory: Evidence-backed multi-year improvement*

@@ -17,17 +17,17 @@ nav_order: 6
 ## The Measurement Challenge
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 **The Problem:**
 Most organizations try to measure BISO success with security metrics (vulnerabilities fixed, compliance scores, incidents prevented). But FS-ISAC whitepaper says: *"There are no industry-wide performance metrics defined specifically for the BISO role."*
 
 **Why Traditional Metrics Fail:**
-- ❌ Vulnerabilities fixed → Security operations does this, not BISOs
-- ❌ Compliance scores → Audit/compliance owns this
-- ❌ Incidents prevented → Hard to measure what didn't happen
-- ❌ Financial ROI → Impossible to calculate accurately in first 6 months
+- Vulnerabilities fixed -> Security operations does this, not BISOs
+- Compliance scores -> Audit/compliance owns this
+- Incidents prevented -> Hard to measure what did not happen
+- Early financial precision -> Usually unreliable in the first six months
 
 **The Right Approach:**
 Measure what BISOs actually do: **build trusted relationships that enable risk-informed business decisions.**
@@ -46,8 +46,8 @@ Start simple, add complexity as program matures:
 │  MONTHS 1-6              MONTHS 6-12         12+ MONTHS│
 │  Quick Start            Expanding            Mature    │
 │                                                        │
-│  🎯 TRUST EQUATION      + OPERATIONAL        + FINANCIAL│
-│  (Primary Metric)         METRICS             ROI       │
+│  TRUST EQUATION        + OPERATIONAL        + FINANCIAL │
+│  (Primary Metric)         METRICS             VALUE     │
 │                                                        │
 │  • Relationship scores  • Review cycle time  • Cost    │
 │  • Stakeholder trust    • Project coverage     savings │
@@ -60,7 +60,7 @@ Start simple, add complexity as program matures:
 └────────────────────────────────────────────────────────┘
 ```
 
-**Key Principle:** Don't try to measure ROI until you've built trust. Trust metrics predict long-term success better than financial metrics.
+**Key Principle:** Don't try to force financial value claims until you've built trust. Trust metrics predict long-term success better than early cost math.
 
 ---
 
@@ -68,15 +68,13 @@ Start simple, add complexity as program matures:
 
 ### Primary Metric: Net Trust Score (NTS)
 
-**Formula:** `NTS = % Promoters (9-10) - % Detractors (0-6)`  
-`Passives = 7-8`  
-`Range = -100 to +100`
+Use the canonical NTS formula, classifications, and range in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md#net-trust-score-nts).
 
 {: .important }
 > **Normalized trust thresholds (program standard):** G = +30 to +100, Y = 0 to +29, R = below 0.
 > Keep this threshold model consistent across scorecards, dashboards, and escalation triggers.
 
-**Target:** `G` range (`+30 to +100` NTS) with key stakeholders
+**Program Standard:** Apply the normalized threshold bands defined in BISOPRO-05.
 
 **How to Measure:**
 1. Run monthly NTS survey with key stakeholders (see [Stakeholder Engagement](./05_Stakeholder_Engagement.md))
@@ -94,7 +92,7 @@ Start simple, add complexity as program matures:
 
 **Question:** *"On a scale of 1-5, how satisfied are you with the security partnership and support you receive from your BISO?"*
 
-**Target:** >4.0/5.0 average across all stakeholders
+**Program Standard:** Use BISOPRO-05 threshold guidance for interpretation and escalation.
 
 **How to Measure:**
 - Monthly pulse survey (1 question + optional comment)
@@ -130,10 +128,10 @@ Thank you! Your feedback helps us serve you better.
 - BISO participation in business planning meetings
 - Proactive vs. reactive engagement ratio
 
-**Targets:**
-- Monthly meetings with business unit leadership: 100%
-- Participation in strategic planning sessions: >80%
-- Proactive engagement (BISO initiated): >60% of interactions
+**Tracking Focus:**
+- Consistent cadence with key stakeholders.
+- Participation in strategic planning touchpoints.
+- Shift from reactive to proactive engagement over time.
 
 **How to Track:**
 Simple Excel log:
@@ -153,7 +151,7 @@ Add these once trust is established (NTS in `G` range):
 
 **Definition:** Average days from security review request to completed assessment
 
-**Target:** <5 business days average
+**Program Standard:** Use BISOPRO-05 for target values and trend thresholds.
 
 **Why It Matters:**
 Fast reviews = security as enabler. Slow reviews = business sees security as blocker.
@@ -173,7 +171,7 @@ Calculate monthly average, trend over time.
 
 **Definition:** Percentage of projects where BISO engaged before design phase
 
-**Target:** >80% of major projects
+**Program Standard:** Use BISOPRO-05 early-engagement threshold definitions.
 
 **Why It Matters:**
 Early engagement = security built in. Late engagement = security bolted on (expensive, slow).
@@ -193,7 +191,7 @@ Track quarterly: # early / total projects = %
 
 **Definition:** Percentage of major business decisions with documented risk assessment
 
-**Target:** 100% of major decisions
+**Program Standard:** Use BISOPRO-05 decision-support measurement criteria.
 
 **Why It Matters:**
 Proves BISOs are influencing business decisions with security insight.
@@ -209,9 +207,9 @@ Track monthly: # with assessment / total decisions = %
 
 ---
 
-## Level 3: Financial Metrics (12+ Months)
+## Level 3: Financial Value Metrics (12+ Months)
 
-Add financial ROI only after trust and operations are solid:
+Add financial value analysis only after trust and operations are solid:
 
 ### Cost Avoidance
 

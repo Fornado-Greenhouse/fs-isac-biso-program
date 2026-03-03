@@ -473,32 +473,32 @@ The BISO support structure operates on four foundational principles aligned with
 - **Succession Planning**: Diverse succession planning and leadership pipeline development
 - **External Networking**: Support for participation in diverse professional networks and organizations
 
-### D&I Measurement and Accountability
+### D&I Signals and Accountability
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-**Diversity Metrics**:
-- **Representation**: Demographic representation across all levels and roles
-- **Recruitment**: Diversity in candidate pools and hiring outcomes  
-- **Retention**: Retention rates and career progression by demographic groups
-- **Leadership**: Diversity in leadership and high-visibility roles
-- **Development**: Participation in development opportunities by demographic groups
+**Diversity Indicators**:
+- **Representation Mix**: Trend of demographic mix across levels and roles.
+- **Recruiting Funnel Mix**: Candidate-pool and hiring-stage mix by demographic groups.
+- **Retention and Progression**: Year-over-year stability and advancement signals.
+- **Leadership Exposure**: Presence in leadership and high-visibility assignments.
+- **Development Access**: Participation trends in development opportunities.
 
-**Inclusion Metrics**:
-- **Employee Engagement**: Engagement survey results by demographic groups
-- **Psychological Safety**: Team psychological safety and inclusion assessments
-- **Voice and Participation**: Participation rates in team discussions and decision-making
-- **Career Satisfaction**: Career satisfaction and development feedback by demographic groups
-- **Exit Feedback**: Exit interview feedback on inclusion and belonging experiences
+**Inclusion Indicators**:
+- **Engagement Signal**: Engagement trend by demographic groups.
+- **Psychological Safety Signal**: Inclusion-assessment trend across teams.
+- **Voice and Participation**: Observable participation patterns in decisions and discussions.
+- **Career Satisfaction Signal**: Development and progression sentiment trend.
+- **Exit Pattern Signal**: Themes from exit feedback on belonging and inclusion.
 
 **Accountability Framework**:
-- **Leadership Commitment**: Executive sponsorship and visible commitment to D&I goals
-- **Manager Accountability**: D&I goals included in management performance evaluations
-- **Regular Assessment**: Quarterly D&I assessment and reporting
-- **Action Planning**: Data-driven D&I action planning and implementation
-- **Transparency**: Regular communication of D&I progress and challenges
+- **Leadership Commitment**: Executive sponsorship with explicit owners for improvement actions.
+- **Manager Accountability**: D&I expectations included in manager development and review cycles.
+- **Regular Assessment**: Quarterly D&I review with trend narrative and action status.
+- **Action Planning**: Evidence-based action plans with scoped timelines and owners.
+- **Transparency**: Routine updates on progress, blockers, and next actions.
 
 ## Infrastructure and Technology Requirements
 
@@ -527,19 +527,17 @@ The BISO support structure operates on four foundational principles aligned with
 
 ### Infrastructure Success Metrics
 
-**Technology Adoption Metrics**:
-- **Platform Utilization**: Usage rates and engagement with technology platforms
-- **User Satisfaction**: User satisfaction surveys and feedback on technology effectiveness
-- **Performance Metrics**: System performance, uptime, and response time metrics
-- **Integration Success**: Success rate of system integrations and data quality metrics
-- **Security Metrics**: Security incident rates and compliance audit results
+Use BISOPRO-05 for formal metric definitions. In this section, track operational readiness and utility:
 
-**Business Value Metrics**:
-- **Efficiency Gains**: Time savings and productivity improvements from technology enablement per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#efficiency-gains)
-- **Decision Quality**: Improvement in decision quality and speed through better data and analytics per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-value-metrics)
-- **Stakeholder Satisfaction**: Stakeholder satisfaction with technology-enabled services per [Stakeholder Engagement](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-engagement-metrics)
-- **Cost Effectiveness**: Technology ROI and cost-effectiveness measurement per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#roi-calculation-methodology)
-- **Innovation Enablement**: Technology-enabled innovation and capability development per [Problem Statement](./BISOPRO-02_Problem_Statement.md#enabling-business-innovation)
+**Technology Adoption Signals**:
+- Platform usage trend and recurring adoption blockers.
+- User feedback trend on workflow usability.
+- Integration reliability and unresolved data quality issues.
+
+**Business Utility Signals**:
+- Whether tooling improved decision preparation and communication quality.
+- Whether manual coordination burden is decreasing or stable.
+- Whether support tooling materially helps stakeholder-facing delivery.
 
 ## Support Structure Implementation Templates
 

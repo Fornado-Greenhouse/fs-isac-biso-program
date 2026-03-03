@@ -137,24 +137,24 @@ SUPPORTING DOCUMENTS (Created during phases above)
 - Communication templates
 - Meeting schedules
 
-#### BISOPRO-5: BISO Success Metrics (Month 2, Week 1-2)
+#### BISOPRO-5: BISO Success Metrics (Value Signals) (Month 2, Week 1-2)
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-**Purpose**: Define measurable success criteria
+**Purpose**: Define a practical value-evidence model
 **Dependencies**: BISOPRO-3 (Alignment model)
 **Enables**: Business case, performance management
 **Critical Customizations**:
 - Organization KPIs
 - Baseline measurements
-- Target settings
+- Threshold and escalation interpretation
 - Measurement methods
 
 **Key Outputs**:
-- Metrics framework
+- Value signal framework
 - Baseline data
-- Target values
+- Governance-aligned measurement plan
 - Tracking systems
 
 #### BISOPRO-12: BISO Risk Assessment Methodology - Initial (Month 2, Week 3-4)

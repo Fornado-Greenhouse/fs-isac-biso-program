@@ -258,42 +258,32 @@ nav_order: 5
 
 ---
 
-## Success Metrics & ROI Tracking
+## Success Metrics and Value Tracking
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Technology Investment ROI
+### Technology Investment Value Hypothesis
 
-#### **Year 1**: Break-even through operational efficiency
-- **Efficiency Gains**: 40% reduction in BISO administrative tasks
-- **Decision Speed**: 50% faster risk assessment and approval processes
-- **Cost Avoidance**: $200-300K through improved risk management
+Treat ROI here as an implementation hypothesis that must be validated through BISOPRO-05/BISOPRO-11 evidence:
+- Year 1 focus: operational stability and adoption.
+- Year 2 focus: demonstrable business enablement outcomes.
+- Year 3 focus: repeatable strategic value patterns.
 
-#### **Year 2**: 2:1 ROI through business enablement
-- **Business Acceleration**: 25% faster project delivery with BISO involvement
-- **Risk Reduction**: 30% reduction in security-related business disruptions
-- **Stakeholder Satisfaction**: >4.0/5.0 satisfaction with BISO services
-
-#### **Year 3**: 4:1 ROI through strategic value
-- **Competitive Advantage**: Quantified business advantage through superior risk management
-- **Innovation Enablement**: Measurable contribution to business innovation and growth
-- **Industry Leadership**: Recognition as center of excellence for business-security integration
-
-### Key Performance Indicators
+### Operational Value Signals
 
 #### **Technology Performance**
-- **System Availability**: >99.5% uptime for critical BISO systems
-- **User Adoption**: >90% active usage across all stakeholder groups
-- **Performance**: <3 second response time for all dashboards and workflows
-- **Integration Success**: <1% data inconsistency across integrated systems
+- System reliability trend for critical BISO workflows.
+- User adoption trend and primary friction points.
+- Practical performance adequacy for reporting and decision workflows.
+- Integration reliability and data quality issue backlog.
 
 #### **Business Impact**
-- **Process Efficiency**: 50% reduction in BISO process cycle times
-- **Decision Quality**: Measurable improvement in risk-informed business decisions
-- **Stakeholder Experience**: >4.5/5.0 satisfaction with BISO technology tools
-- **Business Value**: $2-3M annual value through improved risk management and business enablement
+- Process support effectiveness for BISO delivery.
+- Improvement in decision preparation quality.
+- Stakeholder experience trend with technology-enabled services.
+- Evidence-backed value stories tied to business outcomes.
 
 ---
 

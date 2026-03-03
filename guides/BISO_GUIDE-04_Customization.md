@@ -123,10 +123,10 @@ Stakeholder Mapping Template:
 |------------|------|---------------------|------------------|---------------|
 | [Name] | [Title] | [Weekly/Monthly] | [Email/Meeting] | [Specific] |
 
-#### BISOPRO-5: BISO Success Metrics
+#### BISOPRO-5: BISO Success Metrics (Value Signals)
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 **High Customization Required**
@@ -134,20 +134,20 @@ Stakeholder Mapping Template:
 Specific Elements to Customize:
 ```
 [ ] Baseline measurements
-[ ] Target values
+[ ] Threshold interpretation rules (from BISOPRO-05)
 [ ] Measurement frequencies
 [ ] Data sources
 [ ] Reporting formats
 [ ] Dashboard designs
-[ ] Success thresholds
+[ ] Escalation criteria
 [ ] Improvement rates
 ```
 
-Metric Customization Framework:
-1. Start with organizational KPIs
+Value Signal Customization Framework:
+1. Start with organizational priorities
 2. Define BISO contribution
-3. Set realistic targets
-4. Establish measurement methods
+3. Align formulas/thresholds to BISOPRO-05 governance
+4. Establish evidence collection methods
 5. Create tracking systems
 
 ### Phase 2: Structure and Authority Documents
@@ -735,7 +735,7 @@ Organizations must customize their continuous improvement approach based on orga
 
 #### Feedback Integration and Continuous Improvement Mechanisms
 **Structured Feedback Collection Channels**:
-- **Quarterly Stakeholder Satisfaction Surveys**: Comprehensive surveys targeting all BISO stakeholder groups with >4.0/5.0 satisfaction target
+- **Quarterly Stakeholder Satisfaction Surveys**: Comprehensive surveys targeting all BISO stakeholder groups with trend-based review.
 - **Monthly BISO Team Retrospectives**: Regular team retrospectives using structured methodologies (e.g., Start/Stop/Continue, Four Ls)
 - **Annual 360-Degree Program Assessments**: Comprehensive program assessments including external perspectives and industry benchmarking
 - **Continuous Digital Suggestion Systems**: Always-available digital feedback channels for real-time input and improvement suggestions
@@ -748,10 +748,10 @@ Organizations must customize their continuous improvement approach based on orga
 5. **Effectiveness Measurement and Iteration**: Measure improvement effectiveness and iterate based on results and continued feedback
 
 **Continuous Improvement Success Metrics**:
-- **Implementation Success Rate**: Percentage of planned improvements successfully implemented (Target: >90%)
-- **Stakeholder Satisfaction Improvement**: Quarter-over-quarter improvement in stakeholder satisfaction scores (Target: +0.1/5.0 per quarter)
-- **Process Efficiency Gains**: Measurable efficiency improvements from process optimization (Target: 5-10% annual improvement)
-- **Innovation Adoption Rate**: Rate of successful innovation adoption and scaling (Target: 75% of pilot programs scaled)
+- **Implementation Follow-Through**: Planned improvements are executed with clear ownership.
+- **Stakeholder Satisfaction Trend**: Satisfaction direction is reviewed quarter over quarter.
+- **Process Efficiency Trend**: Efficiency outcomes are reviewed against baseline and context.
+- **Innovation Adoption Signal**: Pilot learnings are assessed for scale suitability.
 
 ## Customization Tools and Resources
 

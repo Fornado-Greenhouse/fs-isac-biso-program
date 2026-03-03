@@ -395,12 +395,12 @@ BISOs shall NOT have direct ownership, budget authority, or operational responsi
 ### Continuous Improvement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-**Framework Evolution**: Regular updates to independence framework based on experience
-**Best Practice Integration**: Incorporation of industry best practices for independence
-**Stakeholder Input**: Continuous stakeholder input on independence effectiveness
-**Professional Development**: Ongoing training and development to maintain independence
+- **Framework Evolution**: Update controls and guardrails based on recurring decision patterns.
+- **Best Practice Integration**: Add targeted industry practices only where they improve real outcomes.
+- **Stakeholder Input**: Capture where independence is helping, and where it is slowing delivery.
+- **Professional Development**: Maintain training focused on conflict handling and objective advisory behavior.
 
 ## Implementation Investment
 

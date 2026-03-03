@@ -381,11 +381,11 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 ### Continuous Improvement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-**Decision Analysis**: Regular analysis of decision outcomes and effectiveness
-**Stakeholder Feedback**: Ongoing feedback collection on authority usage and impact
-**Process Refinement**: Continuous improvement of authority framework and processes
+- **Decision Analysis**: Review a monthly sample of delegated decisions for quality and consistency.
+- **Stakeholder Feedback**: Capture recurring friction themes from business, security, and leadership.
+- **Process Refinement**: Prioritize one framework adjustment per quarter with named owners.
 
 ---
 
@@ -440,16 +440,16 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 
 ### Success Metrics Alignment
 
-**Authority Framework Performance Targets** per [Success Metrics](./BISOPRO-05_Success_Metrics.md#authority-effectiveness-metrics):
-- **Decision Speed**: <5 days average security review time supporting [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#decision-speed-acceleration) and measured via [Success Metrics](./BISOPRO-05_Success_Metrics.md#time-to-market-acceleration)
-- **Early Engagement**: >80% of projects include BISO from planning phase per [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#early-engagement-metrics) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#early-security-engagement)
-- **Stakeholder Satisfaction**: >4.0/5.0 satisfaction with BISO decision authority measured through [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-satisfaction-metrics) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#biso-service-satisfaction)
-- **Risk-Informed Decisions**: 100% of major business decisions include risk context when BISO participates per [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#decision-support-effectiveness) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#risk-informed-decisions)
+Use BISOPRO-05 for formal metric formulas and thresholds. In this framework, confirm:
+- Authority boundaries are followed and escalations occur through the defined path.
+- Decision rationale is documented with clear business-risk context.
+- Overrides are justified and reviewed for pattern-based improvements.
+- Stakeholders understand when BISO can decide, recommend, or escalate.
 
 ---
 
 {: .note}
-> **Key Takeaway:** The BISO Authority Framework delivers substantial business value through accelerated decision-making, reduced escalations, and improved decision quality. With a 9-12:1 first-year ROI and <2 month payback period, the authority delegation model represents a high-value investment in organizational agility and security effectiveness. The framework transforms security from a bottleneck to a business enabler while maintaining appropriate governance and risk management.
+> **Key Takeaway:** The BISO Authority Framework improves decision quality and organizational clarity when authority boundaries are explicit, applied consistently, and supported by documented escalation discipline. It should be governed through evidence-backed outcomes, not isolated local KPI claims.
 
 ---
 

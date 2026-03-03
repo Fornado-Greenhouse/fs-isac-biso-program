@@ -97,23 +97,15 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 - **Queue Management**: Transparent queue management for BISO services
 - **Expectation Setting**: Clear communication of capacity and timeline constraints
 
-### Success Metrics and Monitoring
+### Operational Monitoring
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-
-**Leading Indicators**
-- Percentage of requests falling within defined BISO scope (Target: >85%)
-- Time spent on core BISO activities vs. out-of-scope work (Target: >80% core activities)
-- Stakeholder understanding of BISO role (measured via quarterly surveys, Target: >4.0/5.0)
-- Request rejection rate with successful alternative solution provision (Target: >90%)
-
-**Lagging Indicators**
-- BISO job satisfaction and role clarity scores per [Success Metrics](./BISOPRO-05_Success_Metrics.md#role-satisfaction-metrics)
-- Stakeholder satisfaction with BISO focus and effectiveness per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- Achievement of core BISO objectives and KPIs per [Success Metrics](./BISOPRO-05_Success_Metrics.md#objective-achievement)
-- Time allocation analysis showing appropriate focus distribution
+Use a lightweight operational review:
+- Scope-drift status (stable, rising, critical) with owner and next action.
+- Evidence of boundary enforcement decisions and stakeholder response quality.
+- Monthly summary of top two recurring out-of-scope request patterns.
 
 ## Challenge Category 2: Internal Politics and Organizational Dynamics
 
@@ -311,23 +303,12 @@ and recommended options for executive decision."
 - Stakeholder complaints about BISO "overreach"
 - Competing security initiatives launched without BISO involvement
 
-### Success Metrics and Monitoring
+### Operational Monitoring
 
-**Leading Indicators**
-- Political risk assessment scores (Target: <2.0/5.0 overall risk level)
-- Coalition strength scores (Target: >70% stakeholder support)
-- Stakeholder relationship health scores (Target: >4.0/5.0 across all groups)
-- Meeting inclusion rate for relevant decision-making processes (Target: >90%)
-- Information sharing effectiveness rating per [Independence Framework](./BISOPRO-18_Independence_Framework.md#information-access-metrics)
-- Executive support availability and responsiveness metrics
-
-**Lagging Indicators**
-- Political conflict resolution success rate (Target: >85% resolved at Level 1-2)
-- BISO influence on organizational security decisions (measured through outcome tracking)
-- Stakeholder trust and credibility scores per [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-metrics)
-- Program objective achievement despite political challenges per [Success Metrics](./BISOPRO-05_Success_Metrics.md#resilience-metrics)
-- Organizational culture assessment scores related to security collaboration
-- Time to resolution for political conflicts (Target: <30 days average)
+Track practical signals, not synthetic percentages:
+- Inclusion signal: key meetings attended vs. missed, with escalation when critical forums are missed.
+- Conflict handling quality: resolved, partially resolved, unresolved with explicit blocker owner.
+- Sponsorship support signal: response timeliness and effectiveness of executive interventions.
 
 ## Challenge Category 3: Authority and Decision-Making Limitations
 
@@ -393,19 +374,12 @@ and recommended options for executive decision."
 - **Consensus Building**: Building consensus around decisions when possible per [Authority Framework](./BISOPRO-06_Authority_Framework.md#consensus-building)
 - **Collaborative Problem-Solving**: Involving stakeholders in problem-solving processes
 
-### Success Metrics and Monitoring
+### Operational Monitoring
 
-**Leading Indicators**
-- Authority utilization rate within defined scope (Target: >80%)
-- Decision override rate with proper justification (Target: <10%)
-- Stakeholder awareness of BISO authority levels (Target: >90% awareness)
-- Time to decision for BISO-authorized items (Target: <48 hours average)
-
-**Lagging Indicators**
-- BISO satisfaction with decision-making authority per [Success Metrics](./BISOPRO-05_Success_Metrics.md#authority-satisfaction)
-- Business stakeholder satisfaction with decision velocity per [Success Metrics](./BISOPRO-05_Success_Metrics.md#decision-satisfaction)
-- Security posture consistency across business units per [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#consistency-metrics)
-- Business impact from improved decision-making per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#decision-impact)
+Track authority execution discipline:
+- Decision-rights adherence status (within authority, escalated correctly, bypassed).
+- Override quality review (well-justified vs. weakly justified) with follow-up owner.
+- Decision latency readiness: only calculate cycle time where trigger/decision timestamps are available.
 
 ## Challenge Category 4: Success Measurement and Value Demonstration
 
@@ -471,19 +445,12 @@ and recommended options for executive decision."
 - **Method Improvement**: Continuous improvement of measurement methods and accuracy
 - **Stakeholder Satisfaction**: Regular assessment and improvement of stakeholder satisfaction with value demonstration
 
-### Success Metrics and Monitoring
+### Operational Monitoring
 
-**Leading Indicators**
-- Stakeholder understanding of BISO value proposition (Target: >4.0/5.0)
-- Frequency and quality of value communication (Target: Monthly with >90% stakeholder reach)
-- Executive engagement with BISO metrics and reporting (Target: >80% engagement rate)
-- Baseline and trend establishment completeness (Target: 100% key metrics tracked)
-
-**Lagging Indicators**
-- Overall BISO program ROI per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#program-roi)
-- Executive and stakeholder satisfaction with value demonstration per [Success Metrics](./BISOPRO-05_Success_Metrics.md#value-satisfaction)
-- Program budget protection and growth based on demonstrated value
-- Stakeholder advocacy for BISO program expansion based on value recognition
+Track value communication effectiveness:
+- Evidence packet completeness for monthly and quarterly executive reviews.
+- Clarity of value narrative (clear, mixed, unclear) from stakeholder feedback.
+- Budget/priority decisions influenced by BISO evidence in the current quarter.
 
 ## Implementation Framework
 

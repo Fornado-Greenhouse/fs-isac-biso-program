@@ -365,20 +365,20 @@ This escalation framework creates operational excellence through systematic deci
 ## Continuous Improvement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 ### Operating Rhythm (Simple and Actionable)
 
-- **Monthly (required):** Run NTS pulse and escalation cycle-time review.
+- **Monthly (required):** Run NTS pulse and review open escalations for age, ownership, and blocked status.
 - **Quarterly (deep-dive):** Review trend direction, top recurring escalation causes, and one process change for next quarter.
-- **Immediate trigger:** If NTS enters `R` range or escalation cycle time materially degrades, execute targeted recovery actions within the same reporting cycle.
+- **Immediate trigger:** If NTS enters `R` range or escalation backlog grows materially, execute targeted recovery actions within the same reporting cycle.
 
 ### Local Health Checks
 
-- **Escalation Cycle Time:** Track average time from trigger to decision and compare against current target in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md).
-- **Escalation Quality:** Confirm each escalation included clear trigger rationale, impact summary, and owner for next action.
-- **Closure Discipline:** Confirm escalations are closed with decision record and stakeholder communication.
+- **Readiness Check:** Confirm escalation logging captures trigger date, decision date, owner, and closure note. If not, treat as a data-readiness gap, not a performance score.
+- **Decision Quality:** Confirm each escalation includes clear trigger rationale, impact summary, and explicit decision owner.
+- **Closure Discipline:** Confirm escalations close with decision record and stakeholder communication.
 
 ## Navigation Reference
 
@@ -401,13 +401,13 @@ This escalation framework creates operational excellence through systematic deci
 > **Key Takeaway:** The BISO Escalation Decision Framework creates systematic decision excellence through clear authority boundaries, structured escalation procedures, and rapid resolution mechanisms. This comprehensive approach prevents costly decision delays while ensuring appropriate oversight for critical security matters.
 
 **Strategic Decision Excellence**:
-1. **Operational Efficiency**: 65% reduction in decision delays saves $800K-1.2M annually
-2. **Conflict Prevention**: Structured escalation prevents authority disputes and relationship damage
-3. **Risk Management**: Appropriate oversight ensures critical risks receive executive attention
-4. **Stakeholder Confidence**: Transparent procedures build trust in decision-making processes
-5. **Continuous Improvement**: Systematic optimization ensures evolving decision effectiveness
+1. **Operational Clarity**: Clear escalation paths reduce ad hoc decision handling and avoid bottlenecks.
+2. **Conflict Prevention**: Structured escalation reduces authority disputes and relationship damage.
+3. **Risk Management**: Appropriate oversight ensures critical risks receive executive attention.
+4. **Stakeholder Confidence**: Transparent procedures support trust in decision-making.
+5. **Continuous Improvement**: Monthly and quarterly reviews drive focused process improvement.
 
-**Implementation Success**: Organizations with structured escalation frameworks achieve rapid security decision-making, reduced conflict costs, and enhanced stakeholder confidence through transparent, efficient escalation procedures.
+**Implementation Success**: Use this framework to enforce decision discipline, detect escalation process gaps early, and improve execution consistency over time.
 
 ---
 

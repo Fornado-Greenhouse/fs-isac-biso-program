@@ -55,7 +55,7 @@ nav_order: 1
 ### Phase 4: Continuous Improvement (Months 13-15)
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 | Doc # | Title | Purpose | Key Output |
@@ -80,7 +80,7 @@ Charter ─┬─> Problem Statement ─┬─> Alignment Model ─┬─> Stake
 
 **Months 1-3**: Foundation
 - Establish charter and authorization
-- Define problems and success metrics
+- Define problems and value signal model
 - Design stakeholder engagement
 
 **Months 4-6**: Structure

@@ -329,34 +329,30 @@ This comprehensive approach ensures BISO program sustainability through systemat
 - Business partnership premium through superior evolution support
 - Talent attraction and retention through innovative program management
 
-## Success Metrics and Performance Framework
+## Value Signals and Performance Framework
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Evolution Effectiveness Metrics
+### Evolution Effectiveness Signals
 
-**Adaptation Speed Metrics**
-- **Response Time**: Average time from business change identification to BISO adaptation (Target: <30 days)
-- **Implementation Speed**: Time from adaptation planning to full implementation (Target: <90 days)
-- **Stakeholder Satisfaction**: Stakeholder satisfaction with BISO adaptation speed and effectiveness (Target: >4.0/5.0)
-- **Business Alignment**: Continuous business alignment assessment score (Target: >4.5/5.0)
-- **Value Delivery**: Maintained or improved value delivery during business evolution (Target: >95% value retention)
+Use BISOPRO-05 for formal metrics. In this framework, track evolution execution quality:
 
-**Capability Evolution Metrics**
-- **Competency Development**: Rate of new competency acquisition supporting business evolution (Target: 85% of identified needs met within 6 months)
-- **Service Portfolio Evolution**: Percentage of services evolved to support business transformation (Target: 100% within 12 months)
-- **Process Adaptation**: Percentage of processes successfully adapted to business changes (Target: 95% within 6 months)
-- **Technology Integration**: Success rate of technology integration supporting business evolution (Target: >90%)
-- **Innovation Adoption**: Rate of innovation adoption in BISO program evolution (Target: 75% of relevant innovations adopted within 18 months)
+**Adaptation Signals**
+- Whether change-response plans were produced quickly enough for the business need.
+- Whether adaptation actions were implemented with clear owners and closure notes.
+- Whether stakeholders reported adaptation as useful for decision-making.
 
-**Business Impact Metrics**
-- **Transformation Support**: Business transformation success rate with BISO support vs. without (Target: 20% improvement)
-- **Risk Management**: Risk reduction during business transformation periods (Target: Maintain <10% increase in residual risk)
-- **Competitive Advantage**: Quantified competitive advantage from BISO program evolution per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#competitive-metrics)
-- **Stakeholder Value**: Stakeholder-reported value from BISO program evolution (Target: >4.2/5.0)
-- **Market Position**: Industry recognition and market position improvement through BISO program evolution
+**Capability Signals**
+- Whether required new capabilities were identified and developed in time.
+- Whether services/processes were materially updated for new business conditions.
+- Whether technology changes improved operational clarity rather than adding complexity.
+
+**Business Impact Evidence**
+- Whether transformation initiatives proceeded with fewer security-driven blockers.
+- Whether risk decisions during change periods remained explicit and documented.
+- Whether value claims are supported by evidence packets linked to BISOPRO-11/BISOPRO-05.
 
 ### Continuous Improvement Framework
 

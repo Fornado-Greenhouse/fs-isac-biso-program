@@ -255,12 +255,12 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 - **Social Platforms**: Internal social platforms for informal communication and knowledge sharing
 
 ## Relationship Management Framework
-*This framework supports all [Engagement Strategies](#engagement-strategy-framework) and is measured through [Performance Metrics](#performance-measurement-and-continuous-improvement)*
+*This framework supports all [Engagement Strategies](#engagement-strategy-framework) and is reviewed through [Performance Measurement and Continuous Improvement](#performance-measurement-and-continuous-improvement)*
 
 ### Trust Measurement Framework (NTS)
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 **Executive Trust Foundation (NTS Model)**
@@ -504,28 +504,22 @@ TRUST RENEWAL CONFIRMATION
 
 ### Stakeholder Engagement Metrics
 
-**Engagement Quality Metrics**:
-- **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction with BISO engagement and support (measures effectiveness of [Engagement Strategy Framework](#engagement-strategy-framework) and aligns with [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics))
-- **Net Trust Score (NTS)**: Target +30 to +100 average NTS across stakeholder categories (validates [Trust Measurement Framework (NTS)](#trust-measurement-framework-nts) effectiveness and supports [Authority Framework](./BISOPRO-06_Authority_Framework.md#trust-based-authority))
-- **Trust Trend Performance**: Target positive trust score trends with >70% of stakeholder relationships showing improvement (measures systematic trust-building success)
-- **Trust Crisis Prevention**: Target <2 major trust incidents annually with 100% successful trust recovery (validates [Trust Recovery Playbook](#trust-recovery-playbook-for-damaged-relationships) effectiveness)
-- **Communication Effectiveness**: Target >4.0/5.0 effectiveness of BISO communication (evaluates [Communication Protocols](#communication-protocols-and-standards) and integrates with [Executive Briefing Framework](./BISOPRO-13_Executive_Briefing_Framework.md#communication-effectiveness-metrics))
-- **Relationship Health**: Target >90% of stakeholder relationships rated as healthy (assesses [Relationship Management](#relationship-management-framework) effectiveness and supports [Success Metrics](./BISOPRO-05_Success_Metrics.md#relationship-health-metrics))
-- **Conflict Resolution**: Target <5% of stakeholder interactions resulting in unresolved conflicts (measures [Conflict Resolution Process](#conflict-resolution-and-issue-management) success and correlates with [Success Metrics](./BISOPRO-05_Success_Metrics.md#conflict-resolution-metrics))
+Use BISOPRO-05 for formulas and thresholds. In this document, focus on execution quality:
 
-**Engagement Efficiency Metrics**:
-- **Response Time**: Target <24 hours for urgent stakeholder requests
-- **Meeting Effectiveness**: Target >4.0/5.0 stakeholder rating of meeting value and effectiveness
-- **Communication Reach**: Target >95% of stakeholders receiving regular BISO communications
-- **Engagement Frequency**: Target monthly engagement with all key stakeholders
-- **Resource Efficiency**: Stakeholder engagement cost as percentage of BISO program budget
+**Engagement Quality Signals**:
+- Relationship trust trend by stakeholder group (improving, stable, declining).
+- Communication quality signal (clear, mixed, unclear) from stakeholder feedback.
+- Conflict handling quality (resolved, partially resolved, unresolved with owner).
 
-**Business Impact Metrics**:
-- **Decision Support**: Stakeholder rating of BISO contribution to business decision quality (validates [Executive Leadership Engagement](#executive-leadership-engagement) effectiveness and measures [Authority Framework](./BISOPRO-06_Authority_Framework.md#decision-influence-metrics))
-- **Business Enablement**: Quantified business value enabled through stakeholder engagement (measures [Business Unit Leadership](#business-unit-leadership-engagement) partnership success and aligns with [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#stakeholder-value-metrics))
-- **Risk Reduction**: Risk reduction achieved through effective stakeholder collaboration (assesses [Risk and Compliance Engagement](#risk-and-compliance-engagement) coordination and integrates with [Risk Assessment Methodology](./BISOPRO-12_Risk_Assessment_Methodology.md#stakeholder-risk-reduction))
-- **Strategic Alignment**: Stakeholder confirmation of BISO alignment with business strategy (evaluates [Stakeholder Analysis Framework](#stakeholder-analysis-framework) implementation and validates [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#stakeholder-alignment-metrics))
-- **Competitive Advantage**: Stakeholder rating of BISO contribution to competitive position (measures overall [Engagement Strategy](#engagement-strategy-framework) success and correlates with [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#stakeholder-advantage-metrics))
+**Engagement Execution Signals**:
+- Coverage of key stakeholders with a current engagement rhythm.
+- Follow-through quality on commitments made in stakeholder meetings.
+- Escalation readiness when trust or alignment degrades.
+
+**Business Impact Evidence**:
+- Examples where stakeholder engagement changed a decision outcome.
+- Examples where early engagement reduced rework or avoided escalation.
+- Examples where stakeholder trust improved business-security partnership quality.
 
 ### Continuous Improvement Framework
 
@@ -554,32 +548,13 @@ TRUST RENEWAL CONFIRMATION
 
 ## Business Value Delivery Framework
 
-### ROI Metrics for Stakeholder Engagement
+### Value Evidence for Stakeholder Engagement
 
-**Quantified Benefits of Effective Stakeholder Engagement**:
-
-**Decision Speed Acceleration**
-- **Current State**: Average 15-20 days for security decisions requiring business approval
-- **Target State**: <5 days through improved stakeholder relationships
-- **Annual Value**: $400K-600K in accelerated project delivery
-- **Calculation**: 10 days saved × 50 decisions/year × $800-1,200/day project delay cost
-
-**Conflict Reduction and Resolution**
-- **Current State**: 40-50 security/business conflicts annually requiring escalation
-- **Target State**: 50% reduction through proactive engagement
-- **Annual Value**: $200K-300K in reduced escalation and rework costs
-- **Calculation**: 20-25 conflicts avoided × $10K average resolution cost
-
-**Relationship Quality Impact**
-- **Strong Relationships**: 85% faster security approval times
-- **Trust Premium**: 40% reduction in security requirement challenges
-- **Collaboration Value**: Contributes to $1.0M-1.2M accelerated project delivery per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#accelerated-project-delivery)
-
-**Stakeholder Satisfaction ROI**
-- **High Satisfaction (>4/5)**: 3x more likely to proactively engage security
-- **Early Engagement Value**: Contributes to program-wide $1.2M-1.8M rework avoidance per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#reduced-security-rework)
-- **Reputation Capital**: 60% reduction in security bypass attempts
-- **Total Contribution**: Key enabler of program-wide $4.8M annual benefits per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#year-1-projected-benefits)
+Treat ROI here as an evidence narrative, not precision math:
+- Track where stakeholder engagement shortened decision cycles in real initiatives.
+- Track where trust-based collaboration reduced security-business friction.
+- Track where escalation was avoided through early alignment.
+- Use BISOPRO-11 and BISOPRO-05 for any formal value calculations.
 
 ### Cost-Benefit Analysis
 
@@ -610,12 +585,11 @@ TRUST RENEWAL CONFIRMATION
 
 ### Success Metrics Alignment
 
-**Stakeholder Engagement Performance Targets** per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-engagement-metrics):
-- **Stakeholder Satisfaction**: >4.0/5.0 satisfaction with BISO services per [Success Metrics](./BISOPRO-05_Success_Metrics.md#satisfaction-measurement-framework)
-- **Decision Speed**: <5 days average security review time supporting [Authority Framework](./BISOPRO-06_Authority_Framework.md#decision-velocity-targets)
-- **Early Engagement**: >80% of projects include BISO from planning phase enabling [Security Consultation Framework](./BISOPRO-17_Security_Consultation_Framework.md#early-engagement-metrics)
-- **Trust and Confidence**: Measurable improvement in executive confidence in security decisions per [Authority Framework](./BISOPRO-06_Authority_Framework.md#confidence-metrics) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-measurement)
-- **Business Partnership**: Security perceived as business enabler rather than constraint validated through [Strategic Alignment](./BISOPRO-15_Strategic_Alignment.md#partnership-perception-metrics) and [Success Metrics](./BISOPRO-05_Success_Metrics.md#partnership-assessment)
+This protocol aligns to BISOPRO-05 by ensuring:
+- Trust measurement uses standardized NTS model and threshold bands.
+- Engagement quality signals are reviewed monthly and acted on quickly.
+- Escalation and recovery actions are documented with explicit ownership.
+- Value narratives are evidence-backed before executive reporting.
 
 ---
 
@@ -723,26 +697,26 @@ ENGAGEMENT SCALING AND SUSTAINABILITY FRAMEWORK
 
 ### **Implementation Success Criteria**
 
-#### **Month 4 Success Targets:**
-- [ ] 100% of identified stakeholders contacted and initial relationships established
-- [ ] Stakeholder mapping completed with >95% accuracy and comprehensive coverage
-- [ ] Communication protocols deployed with stakeholder preference alignment
-- [ ] Initial trust building achieved with positive stakeholder feedback (>3.5/5.0)
-- [ ] Regular engagement rhythm established with reliable communication cadence
+#### **Month 4 Success Checklist**
+- [ ] Key stakeholders identified and contacted with documented owners.
+- [ ] Stakeholder mapping reviewed for major coverage gaps.
+- [ ] Communication protocols deployed and tested with feedback.
+- [ ] Initial trust baseline captured using standardized NTS approach.
+- [ ] Regular engagement rhythm established and tracked.
 
-#### **Month 5 Success Targets:**
-- [ ] Communication effectiveness optimized with >4.0/5.0 stakeholder satisfaction
-- [ ] Business integration achieved with BISO participation in planning processes
-- [ ] Trusted advisor relationships established with key stakeholder groups
-- [ ] Proactive partnership demonstrated through value-added contributions
-- [ ] Engagement maturity advanced from reactive support to business partnership
+#### **Month 5 Success Checklist**
+- [ ] Communication approach adjusted based on stakeholder feedback.
+- [ ] BISO participation in planning processes is consistent and visible.
+- [ ] Trusted-advisor behaviors observed in key stakeholder interactions.
+- [ ] Proactive partnership examples documented for quarterly review.
+- [ ] Engagement model is moving from reactive support to planned partnership.
 
-#### **Month 6 Success Targets:**
-- [ ] Stakeholder satisfaction target achieved (>4.0/5.0) with sustained performance
-- [ ] Business value delivery demonstrated through measurable engagement ROI
-- [ ] Strategic influence established with participation in organizational decisions
-- [ ] Engagement excellence recognized by stakeholders and organizational leadership
-- [ ] Scalable engagement framework documented for enterprise replication
+#### **Month 6 Success Checklist**
+- [ ] Trust and engagement trends are stable or improving across key stakeholders.
+- [ ] Evidence-backed value stories are prepared for executive review.
+- [ ] Strategic influence is visible in decision records and meeting outcomes.
+- [ ] Stakeholder feedback confirms sustained engagement quality.
+- [ ] Scalable engagement playbook is documented for broader rollout.
 
 ### **Risk Mitigation and Troubleshooting**
 
@@ -834,4 +808,3 @@ Best regards,
 ```
 
 ---
-

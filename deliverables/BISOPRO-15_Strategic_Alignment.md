@@ -406,26 +406,26 @@ Each alignment model determines which level of strategic objectives takes priori
 ## Alignment Measurement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Business Alignment Metrics
-- Time to market for new products/services
-- Business stakeholder satisfaction scores
-- Revenue protected through security measures
-- Cost of security exceptions and rework
+### Business Alignment Signals
+- Time-to-market direction for key initiatives.
+- Business stakeholder confidence trend.
+- Revenue protection evidence linked to security-informed decisions.
+- Frequency and cost pattern of security exceptions and rework.
 
-### Cybersecurity Alignment Metrics
-- Security findings in business systems
-- Incident response time and effectiveness
-- Compliance posture by business unit
-- Security control effectiveness ratings
+### Cybersecurity Alignment Signals
+- Trend of material security findings in business systems.
+- Incident-response effectiveness pattern for business-critical events.
+- Compliance posture trend by business unit.
+- Control effectiveness evidence from audits, exercises, and incident reviews.
 
 ### Integration Success Indicators
-- Early security engagement in projects (>80%)
-- Security requirements incorporated in planning (>90%)
-- Risk decisions made with business context (100%)
-- Stakeholder satisfaction with BISO services (>4/5)
+- Early security engagement becomes standard in project intake.
+- Security requirements are consistently represented in planning artifacts.
+- Risk decisions include explicit business context and accountable owners.
+- Stakeholder sentiment on BISO service quality trends stable-to-improving.
 
 ## Strategic Review Process
 
@@ -530,105 +530,56 @@ READINESS INTERPRETATION:
 
 #### Strategic Alignment KPIs and Success Criteria
 
-**Tier 1: Strategic Integration Metrics**
-- **Business-Security Alignment Score**: >90% (Target: 95%)
-  - Measurement: Quarterly stakeholder survey + objective process assessment
-  - Data Collection: Monthly alignment review meetings + project retrospectives
-  - Success Threshold: Sustained >90% for 2 consecutive quarters
-
-- **Strategic Decision Support Coverage**: 100% (Target: 100%)
-  - Measurement: Percentage of strategic decisions with security context
-  - Data Collection: Executive decision tracking + security consultation logs
-  - Success Threshold: 3 months consecutive 100% coverage
-
-- **Cross-Organizational Coordination Effectiveness**: >85% (Target: 90%)
-  - Measurement: Enterprise-division coordination quality assessment
-  - Data Collection: Coordination meeting effectiveness + stakeholder feedback
-  - Success Threshold: >85% effectiveness rating for 4 consecutive months
-
-**Tier 2: Operational Effectiveness Metrics**
-- **Strategic Objective Conflict Resolution Time**: <10 business days (Target: <7 days)
-  - Measurement: Average time from conflict identification to resolution
-  - Data Collection: Conflict tracking system + escalation logs
-  - Success Threshold: <10 days average for 6-month period
-
-- **Stakeholder Satisfaction with Strategic Alignment**: >4.2/5 (Target: >4.5/5)
-  - Measurement: Quarterly stakeholder satisfaction survey
-  - Data Collection: Executive, division, and department satisfaction ratings
-  - Success Threshold: >4.2/5 average across all stakeholder categories
-
-- **Resource Allocation Optimization Score**: >80% (Target: >85%)
-  - Measurement: Strategic resource allocation effectiveness assessment
-  - Data Collection: Resource utilization tracking + outcome measurement
-  - Success Threshold: >80% optimization score for 3 consecutive quarters
+Use BISOPRO-05 for formula and threshold definitions. In this document, track strategic alignment execution quality:
+- Whether strategic decisions include explicit risk context before approval.
+- Whether cross-level conflicts are resolved with documented rationale and owner.
+- Whether quarterly alignment reviews produce concrete priority adjustments.
 
 #### Measurement Data Collection Templates
 
 **Monthly Strategic Alignment Review Template**:
 ```
 STRATEGIC ALIGNMENT MONTHLY REVIEW - [Month/Year]
-═══════════════════════════════════════════════════
 
-1. STRATEGIC DECISION TRACKING
-   □ Strategic decisions requiring security input: ___
-   □ Decisions with adequate security context: ___
-   □ Coverage percentage: ___%
-   □ Escalated decisions: ___
+1) Decisions this month that required security-business alignment:
+   - Count:
+   - Decisions with explicit risk context attached:
+   - Decisions deferred due to unclear alignment:
 
-2. CROSS-ORGANIZATIONAL COORDINATION
-   □ Enterprise-division coordination meetings: ___
-   □ Coordination effectiveness rating: ___/5
-   □ Outstanding coordination issues: ___
-   □ Resolution timeline: ___
+2) Cross-organizational conflicts:
+   - New conflicts opened:
+   - Resolved:
+   - Oldest open conflict + owner:
 
-3. STAKEHOLDER ENGAGEMENT QUALITY
-   □ Executive engagement sessions: ___
-   □ Business unit participation rate: ___%
-   □ Satisfaction feedback average: ___/5
-   □ Escalated stakeholder concerns: ___
+3) Priority and resource adjustments:
+   - Priority changes approved:
+   - Resource shifts approved:
+   - Escalations still pending:
 
-4. RESOURCE ALLOCATION & PRIORITIES
-   □ Strategic initiative resource requests: ___
-   □ Resource allocation decisions: ___
-   □ Priority conflicts identified: ___
-   □ Resolution effectiveness: ___/5
-
-5. SUCCESS METRICS PROGRESS
-   □ Business-Security Alignment Score: ___%
-   □ Decision Support Coverage: ___%  
-   □ Stakeholder Satisfaction: ___/5
-   □ Trend analysis: [Improving/Stable/Declining]
+4) Evidence quality check:
+   - Data complete for BISOPRO-05 reporting: [yes/partial/no]
+   - Missing inputs:
+   - Assigned owner + due date:
 ```
 
 **Quarterly Strategic Alignment Assessment Template**:
 ```
 QUARTERLY STRATEGIC ALIGNMENT ASSESSMENT - Q[#] [Year]
-═══════════════════════════════════════════════════════
 
-EXECUTIVE SUMMARY
-□ Overall alignment effectiveness: ___/100
-□ Key achievements this quarter: _______________
-□ Critical challenges addressed: _______________
-□ Recommended adjustments: ____________________
+Executive Summary:
+- What improved:
+- What remained blocked:
+- What changed in strategic priorities:
 
-QUANTITATIVE PERFORMANCE
-□ Business-Security Alignment Score: ___% (Target: >90%)
-□ Strategic Decision Coverage: ___% (Target: 100%)
-□ Stakeholder Satisfaction: ___/5 (Target: >4.2)
-□ Conflict Resolution Time: ___ days (Target: <10)
-□ Resource Optimization: ___% (Target: >80%)
+Operational Assessment:
+- Decision quality: [clear/mixed/unclear]
+- Conflict resolution discipline: [strong/moderate/weak]
+- Stakeholder alignment signal: [improving/stable/declining]
 
-QUALITATIVE ASSESSMENT
-□ Strategic objective clarity: [Excellent/Good/Needs Improvement]
-□ Cross-level coordination: [Excellent/Good/Needs Improvement]  
-□ Business unit engagement: [Excellent/Good/Needs Improvement]
-□ Executive confidence: [High/Medium/Low]
-
-ACTION ITEMS & RECOMMENDATIONS
-□ Process optimizations needed: _______________
-□ Resource adjustments required: ______________
-□ Stakeholder engagement improvements: _______
-□ Next quarter priorities: ___________________
+Next-Quarter Actions:
+- Top 3 adjustments:
+- Owners:
+- Due dates:
 ```
 
 ## Implementation Framework
@@ -774,13 +725,13 @@ The BISO program successfully aligns with organizational strategies when:
 - **Compliance Excellence**: Regulatory compliance enables business growth per [Independence Framework](./BISOPRO-18_Independence_Framework.md#compliance-enablement)
 - **Cultural Transformation**: Security culture permeates business operations per [Professional Development Framework](./BISOPRO-20_Professional_Development_Framework.md#organizational-culture-development)
 
-### Strategic Value Realization Targets
+### Strategic Value Realization Priorities
 
 **Year 1 Achievement Goals**:
-- Strategic alignment effectiveness score >90% per [Success Metrics](./BISOPRO-05_Success_Metrics.md#strategic-impact-metrics)
-- Executive satisfaction with security-business integration >4.2/5
-- Business unit participation in strategic planning >85%
-- Implementation challenges successfully addressed per [Challenge Mitigation Framework](./BISOPRO-21_Challenge_Mitigation_Framework.md#implementation-readiness)
+- Demonstrate consistent use of risk context in strategic decision records.
+- Show predictable conflict-resolution discipline across enterprise and business units.
+- Confirm strategic planning participation includes relevant security leadership.
+- Document resolved implementation blockers with ownership and closure evidence.
 
 **Strategic Competitive Advantage Indicators**:
 - Market differentiation through security excellence per [Competitive Analysis](./BISOPRO-16_Competitive_Analysis.md#strategic-advantages)

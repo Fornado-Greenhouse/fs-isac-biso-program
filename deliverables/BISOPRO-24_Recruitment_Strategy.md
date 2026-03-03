@@ -308,39 +308,39 @@ This systematic approach ensures acquisition of industry-leading BISO talent thr
 - Peer networking and best practice sharing per [Support Structure](./BISOPRO-10_Support_Structure.md#external-networking)
 - Professional certification maintenance and advancement per [Job Descriptions](./BISOPRO-08_Job_Descriptions.md#education-and-certifications)
 
-## Success Metrics
+## Hiring Quality and Value Signals
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Recruitment Success Indicators
+### Recruitment Success Signals
 
-**Time-to-Fill Metrics**:
-- Target: 60-90 days from posting to offer acceptance
-- Quality assessment: Candidate quality scores throughout funnel
-- Source effectiveness: Success rate by recruitment channel
-- Cost per hire: Total recruitment costs per successful placement
+**Time-to-Fill Signals**:
+- Time from posting to accepted offer by role.
+- Funnel quality trend across sourcing, screening, and interview stages.
+- Source effectiveness trend by channel.
+- Hiring process friction points that create avoidable delay.
 
-**Quality Metrics**:
-- 90-day retention rate (target: >95%) per [Support Structure](./BISOPRO-10_Support_Structure.md#retention-and-development)
-- Performance review scores at 6 months (target: >4.0/5.0) per [Success Metrics](./BISOPRO-05_Success_Metrics.md#individual-biso-metrics)
-- Stakeholder satisfaction with new hires (target: >4.0/5.0) per [Stakeholder Engagement](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#stakeholder-engagement-metrics)
-- Cultural fit and integration success (target: >90% positive feedback) per [Core Competencies](./BISOPRO-23_Core_Competencies_Development.md#competency-validation-and-certification)
+**Quality Signals**:
+- Early retention status and integration quality signal.
+- Manager and stakeholder feedback trend for new-hire effectiveness.
+- Role-fit signal based on observed competencies in practice.
+- Cultural integration signal from onboarding and peer feedback.
 
 ### Long-term Success Indicators
 
 **Retention and Development**:
-- 2-year retention rate (target: >85%)
+- Retention stability over multi-year periods.
 - Internal promotion and career advancement rates
 - Professional development participation and success
 - Industry recognition and leadership visibility
 
 **Performance Impact**:
-- Achievement of BISO program success metrics
-- Stakeholder satisfaction with BISO services
-- Business value delivery and ROI contribution
-- Security posture improvement attributable to BISO effectiveness
+- Demonstrated contribution to program outcomes defined in [Success Metrics](./BISOPRO-05_Success_Metrics.md)
+- Stakeholder confidence trend in BISO services
+- Evidence-backed business value contribution in quarterly reviews
+- Security posture improvement patterns influenced by BISO effectiveness
 
 ## Navigation Reference
 

@@ -361,31 +361,29 @@ L=Low | M=Medium | H=High | C=Critical | E=Extreme
 ## Measurement and Continuous Improvement
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-### Assessment Effectiveness Metrics
+### Assessment Effectiveness Signal Review
 
-**Process Efficiency Metrics**:
-- **Assessment Cycle Time**: Target 30 days for standard assessments
-- **Stakeholder Satisfaction**: Target >4.0/5.0 satisfaction rating
-- **Resource Utilization**: Assessment cost vs. project value ratio
-- **Quality Metrics**: Defect rate and rework requirements
-- **Completion Rate**: Percentage of assessments completed on time
+Use BISOPRO-05 for quantified formulas and thresholds. In this methodology, assess execution quality:
 
-**Business Value Metrics**:
-- **Decision Support**: Quality and timeliness of business decision support
-- **Risk Reduction**: Measured risk reduction from implemented recommendations
-- **Business Enablement**: Assessment contribution to business objective achievement
-- **Cost Avoidance**: Quantified value of risks avoided or mitigated
-- **ROI Realization**: Actual ROI vs. projected ROI for risk treatments
+**Process Quality Signals**:
+- Assessment completeness and decision-usefulness of outputs.
+- Clear ownership and closure of treatment recommendations.
+- Consistency of methodology application across business units.
+
+**Business Utility Signals**:
+- Whether assessments materially improved business decision quality.
+- Whether recommended treatments reduced avoidable rework/escalation.
+- Whether assessment artifacts were used in executive and audit discussions.
 
 **Continuous Improvement Framework**:
-- **Quarterly Assessment Review**: Review of assessment quality and effectiveness
-- **Annual Methodology Review**: Comprehensive review and enhancement of methodology
-- **Stakeholder Feedback Integration**: Regular collection and integration of stakeholder feedback
-- **Industry Best Practice Integration**: Integration of emerging best practices and standards
-- **Technology Enhancement**: Evaluation and integration of assessment tools and technologies
+- **Quarterly Assessment Review**: Review quality trends, unresolved friction, and one priority fix.
+- **Annual Methodology Review**: Revalidate method fit for current business and risk context.
+- **Stakeholder Feedback Integration**: Capture recurring feedback themes and assign action owners.
+- **Industry Best Practice Integration**: Adopt external practices only when they improve decisions.
+- **Technology Enhancement**: Evaluate tool changes based on evidence quality and workflow fit.
 
 ### Assessment Tool and Technology Requirements
 

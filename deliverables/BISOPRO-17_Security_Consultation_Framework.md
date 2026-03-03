@@ -214,32 +214,31 @@ This security consultation framework component of the BISO program establishes s
 - **Value Focus**: Clear articulation of business value and return on investment
 - **Decision Support**: Content organized to support stakeholder decision-making
 
-### Consultation Performance Metrics
+### Consultation Performance Signals
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
-**Quality Metrics**:
-- **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction rating from stakeholders per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
-- **Recommendation Adoption**: Target >80% adoption rate of primary recommendations per [Success Metrics](./BISOPRO-05_Success_Metrics.md#consultation-effectiveness-metrics)
-- **Implementation Success**: Target >90% successful implementation of adopted recommendations per [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md#implementation-success-metrics)
-- **Business Value Realization**: Target >3:1 ROI on consultation investment per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#consultation-roi)
-- **Repeat Engagement**: Target >70% repeat engagement rate from business units per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#engagement-continuity)
+**Quality Signals**:
+- **Stakeholder Sentiment**: Capture promoter/passive/detractor trend using the standardized model in [Success Metrics](./BISOPRO-05_Success_Metrics.md#trust-framework-nts).
+- **Recommendation Follow-Through**: Track whether accepted recommendations are implemented with clear owners and due dates.
+- **Implementation Quality**: Record whether implemented recommendations reduced rework or escalation in practice.
+- **Business Value Evidence**: Attach concrete consultation outcomes to business decisions and delivery impact.
+- **Repeat Engagement Signal**: Track whether business units proactively request consultation in earlier project phases.
 
-**Efficiency Metrics**:
-- **Consultation Cycle Time**: Target 30 days for standard consultations
-- **Resource Utilization**: Target 80% utilization of BISO consultation capacity
-- **Cost Effectiveness**: Consultation cost as percentage of project value (<5%)
-- **Stakeholder Time Investment**: Minimize stakeholder time requirements
-- **Process Efficiency**: Continuous improvement in consultation processes
+**Efficiency Signals**:
+- **Cycle-Time Readiness**: Only calculate cycle time where intake and closure timestamps are reliably captured.
+- **Capacity Transparency**: Track queued, active, and blocked consultations with clear owner assignment.
+- **Stakeholder Time Burden**: Flag engagements that impose avoidable meeting or rework overhead.
+- **Process Friction**: Log recurring blockers and assign one process fix per quarter.
 
-**Business Impact Metrics**:
-- **Risk Reduction**: Measurable risk reduction from implemented recommendations
-- **Business Enablement**: Contribution to business objective achievement
-- **Compliance Improvement**: Improvement in compliance posture and audit results
-- **Innovation Support**: Support for business innovation and competitive advantage
-- **Stakeholder Confidence**: Improvement in stakeholder confidence in security
+**Business Impact Signals**:
+- **Risk Reduction**: Document examples where consultation prevented late-stage risk surprises.
+- **Business Enablement**: Record initiatives that progressed faster due to early consultation.
+- **Compliance Improvement**: Capture audit/exam outcomes influenced by consultation deliverables.
+- **Innovation Support**: Document innovations enabled through practical risk framing.
+- **Stakeholder Confidence**: Track qualitative confidence trend in monthly and quarterly reviews.
 
 ## Stakeholder Engagement Framework
 

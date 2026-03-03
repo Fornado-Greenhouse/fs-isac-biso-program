@@ -180,45 +180,38 @@ Total Program: $9.4M Investment → $19.0M Cost Savings → $9.6M Net Value Crea
 
 ## Quantitative Benefits Analysis
 
-### Risk Reduction Metrics
+### Risk Reduction Value Evidence
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
 
 **Security Incident Reduction**:
-- **Baseline**: 12 security incidents annually (industry average)
-- **Target**: 9 incidents annually (25% reduction)
-- **Value**: 3 incidents × $180K average cost = $540K annually
+- Treat as an assumptions row in the business case, not a local KPI target.
+- Record source system, owner, and confidence level for each estimate.
+- If the evidence packet is incomplete, report directional status instead of precision math.
 
 **Vulnerability Management Improvement**:
-- **Baseline**: 85% critical vulnerabilities remediated within SLA
-- **Target**: 95% critical vulnerabilities remediated within SLA
-- **Value**: Reduced risk exposure and compliance improvement
+- Use this as a qualitative risk posture indicator tied to decision context.
+- Validate that remediation timeliness data exists before presenting percentage changes.
 
 **Compliance Posture Enhancement**:
-- **Baseline**: 15 audit findings annually requiring remediation
-- **Target**: 8 audit findings annually (47% reduction)
-- **Value**: $35K average finding remediation cost × 7 = $245K annually
+- Track whether compliance finding trends are improving, stable, or worsening.
+- Tie findings to concrete program actions rather than standalone target percentages.
 
 ### Operational Efficiency Gains
 
 **Project Delivery Acceleration**:
-- **Baseline**: 12-day average security review cycle
-- **Target**: 5-day average security review cycle (58% improvement)
-- **Impact**: 100+ projects annually
-- **Value**: 7 days × $15K daily cost of delay × 100 projects = $1.05M annually
+- Track whether key initiatives experienced earlier security engagement and fewer late blockers.
+- Use verified examples from completed initiatives as primary evidence.
 
 **Security Rework Reduction**:
-- **Baseline**: 40% of projects require post-development security changes
-- **Target**: 15% of projects require post-development security changes
-- **Impact**: 25% reduction across 120 projects annually
-- **Value**: 30 projects × $50K average rework cost = $1.5M annually
+- Record rework classes observed this quarter and whether frequency is trending down.
+- Attribute changes to specific process interventions where possible.
 
 **Resource Optimization**:
-- **Security Team Efficiency**: 20% improvement in security team productivity
-- **Business Team Efficiency**: 15% reduction in security-related delays
-- **Vendor Management**: 25% improvement in third-party security assessment efficiency
+- Capture whether security and business teams can absorb workload without extra escalation.
+- Note recurring coordination bottlenecks and assigned owners.
 
 ### Strategic Business Value
 
@@ -294,31 +287,26 @@ Total Program: $9.4M Investment → $19.0M Cost Savings → $9.6M Net Value Crea
 ## Success Metrics and Monitoring
 
 ### Financial Metrics
-- Monthly cost tracking vs. budget
-- Quarterly benefit realization reporting
-- Annual ROI calculation and validation
+- Use BISOPRO-05 as the calculation source of truth.
+- In this document, track whether financial evidence is complete and review-ready.
 
 ### Operational Metrics
-- Security review cycle time
-- Project rework frequency
-- Compliance audit results
-- Stakeholder satisfaction scores
+- Track operational evidence readiness (available, partial, missing) for each metric family.
+- Escalate missing data ownership issues in monthly governance reviews.
 
 ### Strategic Metrics
-- Business-security alignment scores
-- Innovation enablement metrics
-- Competitive advantage indicators
-- Regulatory relationship quality
+- Maintain decision narratives that show strategic impact with linked artifacts.
+- Use annual executive review to validate which strategic outcomes are evidence-backed.
 
 {: .note}
-> **Key Takeaway:** The BISO program represents a strategic investment with clear, measurable returns that exceed costs within the first year. With conservative estimates showing 3:1 ROI and competitive benchmarking demonstrating clear advantages, executive commitment to this program will:
+> **Key Takeaway:** The BISO program is a strategic investment that should be governed through evidence-backed value tracking, not isolated KPI claims. Executive commitment should focus on decision quality, delivery friction reduction, and validated business outcomes.
 
-1. **Reduce Costs**: $2.8M+ annually through operational efficiency
-2. **Mitigate Risks**: $1.4M+ value through improved risk management
-3. **Enable Growth**: $800K+ value through accelerated business delivery
-4. **Create Advantage**: Competitive differentiation through security excellence
+1. **Reduce Costs**: Through measurable process and rework improvements.
+2. **Mitigate Risks**: Through earlier, better-informed decisions.
+3. **Enable Growth**: By reducing late-stage security friction.
+4. **Create Advantage**: With consistent business-security partnership execution.
 
-**Recommendation**: Approve BISO program implementation with initial $2.8M investment for demonstrable $4.8M first-year benefits and sustained competitive advantage.
+**Recommendation**: Approve implementation with monthly evidence reviews and quarterly recalibration of assumptions against BISOPRO-05 measurement standards.
 
 ---
 

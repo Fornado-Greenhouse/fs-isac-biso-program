@@ -1043,16 +1043,16 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 
 **Expected Outcome**: 75-85% overall automation level with 180+ hours/month time savings
 
-### **Automation Success Metrics**
+### **Automation Readiness Signals**
 
 {: .important }
-> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only. If reliable local data collection is not in place, do not compute local KPI rates or cycle-time figures; record qualitative status, owner, and next action instead.
 
-- **Manual Effort Reduction**: Target 60-70% reduction in manual data collection and reporting
-- **Process Speed**: Target 50-75% improvement in process execution time
-- **Data Accuracy**: Target >95% automated data accuracy vs. manual collection  
-- **Cost Efficiency**: Target 40-60% reduction in process operational costs
-- **Scalability**: Target ability to handle 3x process volume without proportional resource increase
+- **Data Readiness**: Required timestamps and ownership fields are captured consistently.
+- **Workflow Reliability**: Automated handoffs complete without recurring manual intervention.
+- **Decision Support Utility**: Automation outputs are used in real governance decisions.
+- **Error Visibility**: Failed automations are surfaced with owner and remediation path.
+- **Operational Sustainability**: Team can maintain automation without hidden process debt.
 
 ## Process Performance Tier Integration
 
@@ -1060,108 +1060,12 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 *Aligns with BISOPRO-05 traffic light indicators: 🟢 Green, 🟡 Yellow, 🔴 Red*
 
 ### **Core Process Performance Thresholds**
+Use one common tiering approach across processes:
+- **G (Green)**: Process is stable, evidence is complete, no material blockers.
+- **Y (Yellow)**: Process is functioning with recurring frictions that need owner-led remediation.
+- **R (Red)**: Process is unstable or blocked; escalate within the defined governance cadence.
 
-#### **Process 1: Business Partnership Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Stakeholder satisfaction: >4.0/5.0 (quarterly survey results)
-  - Relationship health: >80% of stakeholders rate relationship as "strong" 
-  - Response time: <24 hours for stakeholder requests
-  - Meeting commitments: >90% of commitments met on time
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Stakeholder satisfaction: 3.0-4.0/5.0
-  - Relationship health: 60-80% stakeholders rate relationship as "adequate" or better
-  - Response time: 24-48 hours for stakeholder requests
-  - Meeting commitments: 70-90% of commitments met on time
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Stakeholder satisfaction: <3.0/5.0
-  - Relationship health: <60% stakeholders rate relationship positively
-  - Response time: >48 hours for stakeholder requests
-  - Meeting commitments: <70% of commitments met on time
-
-#### **Process 2: Project Integration Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Security review time: <5 days average
-  - Early engagement: >70% of projects engaged during planning
-  - On-time completion: >85% of security reviews completed on schedule
-  - Rework instances: <15% of projects require security rework
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Security review time: 5-10 days average
-  - Early engagement: 50-70% of projects engaged during planning
-  - On-time completion: 70-85% of security reviews completed on schedule
-  - Rework instances: 15-30% of projects require security rework
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Security review time: >10 days average
-  - Early engagement: <50% of projects engaged during planning
-  - On-time completion: <70% of security reviews completed on schedule
-  - Rework instances: >30% of projects require security rework
-
-#### **Process 3: Risk Management Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Risk assessment completion: <72 hours for standard assessments
-  - Decision support: Risk context provided for >70% of business decisions where BISO participates
-  - Risk communication: >90% of risk reports delivered on schedule
-  - Business impact: <8 hours average business impact from security incidents
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Risk assessment completion: 72-120 hours for standard assessments  
-  - Decision support: Risk context provided for 50-70% of business decisions
-  - Risk communication: 70-90% of risk reports delivered on schedule
-  - Business impact: 8-16 hours average business impact from security incidents
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Risk assessment completion: >120 hours for standard assessments
-  - Decision support: Risk context provided for <50% of business decisions
-  - Risk communication: <70% of risk reports delivered on schedule
-  - Business impact: >16 hours average business impact from security incidents
-
-#### **Process 4: Compliance Support Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Exception resolution: <72 hours average resolution time
-  - Audit findings: Stable or reduced security findings year-over-year
-  - Compliance efficiency: Improved time allocation to compliance activities
-  - Stakeholder support: >85% of compliance requests completed on time
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Exception resolution: 72-120 hours average resolution time
-  - Audit findings: Stable security findings with some increases
-  - Compliance efficiency: Mixed efficiency in compliance support
-  - Stakeholder support: 70-85% of compliance requests completed on time
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Exception resolution: >120 hours average resolution time
-  - Audit findings: Increasing security findings trend
-  - Compliance efficiency: Declining efficiency in compliance support
-  - Stakeholder support: <70% of compliance requests completed on time
-
-#### **Process 5: Incident Response Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Response time: <30 minutes for initial business impact assessment
-  - Business impact: <12 hours average business downtime from security incidents
-  - Recovery time: <48 hours to full operational recovery
-  - Communication satisfaction: Positive stakeholder feedback on incident communication
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Response time: 30-60 minutes for initial business impact assessment
-  - Business impact: 12-24 hours average business downtime
-  - Recovery time: 48-96 hours to full operational recovery
-  - Communication satisfaction: Mixed stakeholder feedback on incident communication
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Response time: >60 minutes for initial business impact assessment
-  - Business impact: >24 hours average business downtime
-  - Recovery time: >96 hours to full operational recovery
-  - Communication satisfaction: Negative stakeholder feedback on incident communication
-
-#### **Process 6-7: Strategic Impact Performance Tiers**
-- **🟢 Green Performance (Excellent)**:
-  - Innovation support: >70% of technology projects where BISO engaged have security input
-  - Success stories: 5+ documented instances annually of security-enabled business value
-  - Competitive advantage: Measurable business opportunities enabled by security posture
-  - Industry recognition: Active participation in industry forums and thought leadership
-- **🟡 Yellow Performance (Attention Needed)**:
-  - Innovation support: 50-70% of technology projects have adequate security input
-  - Success stories: 2-5 documented instances annually of security business value
-  - Competitive advantage: Some evidence of security-enabled business opportunities
-  - Industry recognition: Limited participation in industry activities
-- **🔴 Red Performance (Immediate Action Required)**:
-  - Innovation support: <50% of technology projects have adequate security input
-  - Success stories: <2 documented instances annually of security business value
-  - Competitive advantage: No evidence of security-enabled business opportunities
-  - Industry recognition: No participation in industry activities
+For process-specific formulas and thresholds, use [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md).
 
 ### **Performance Monitoring and Escalation Framework**
 
@@ -1195,29 +1099,11 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 - **Historical Tracking**: 6-month performance history for trend analysis
 
 ### **Process Efficiency Metrics Dashboard**
-```
-                 BISO PROCESS EFFICIENCY DASHBOARD
-
-┌─────────────────────────────────┬─────────────────────────────────┐
-│      RESPONSE TIME METRICS      │     QUALITY & VALUE METRICS     │
-├─────────────────────────────────┼─────────────────────────────────┤
-│ Security Review: ⏱ 4.2 days     │ Satisfaction: ★★★★☆ 4.2/5.0    │
-│    Target: <5 days ✔            │    Target: >4.0/5.0 ✔          │
-│                                 │                                 │
-│ Risk Assessment: ⏱ 48 hrs       │ Early Engagement: 82%           │
-│    Target: <72 hrs ✔            │    Target: >80% ✔              │
-│                                 │                                 │
-│ Incident Response: ⏱ 25 min     │ Rework Reduction: 72%           │
-│    Target: <30 min ✔            │    Target: 75% ⚠               │
-├─────────────────────────────────┼─────────────────────────────────┤
-│      VOLUME & THROUGHPUT        │        FINANCIAL IMPACT         │
-├─────────────────────────────────┼─────────────────────────────────┤
-│ Projects/Month: 45              │ Cost Savings: $1.2M/year        │
-│ Risk Assessments: 28            │ Revenue Protected: $3.5M        │
-│ Compliance Reviews: 15          │ Audit Finding ↓: 28%            │
-│ Incidents Managed: 12           │ ROI Delivered: 4.1:1            │
-└─────────────────────────────────┴─────────────────────────────────┘
-```
+Use a lightweight monthly dashboard format:
+- Process status (`G/Y/R`) by core process.
+- Top blockers and owner.
+- Data-readiness status (`complete/partial/missing`) for BISOPRO-05 calculations.
+- One committed improvement action for next month.
 
 ## Process Integration and Coordination
 
@@ -1314,47 +1200,17 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 
 ### Process Efficiency Metrics
 
-**Business Partnership Process**
-- Stakeholder engagement coverage: 100% of key business stakeholders per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-coverage-metrics)
-- Relationship satisfaction scores: >4.0/5.0 quarterly average per [Success Metrics](./BISOPRO-05_Success_Metrics.md#relationship-satisfaction-metrics)
-- Communication frequency and effectiveness per [Success Metrics](./BISOPRO-05_Success_Metrics.md#tier-3-stakeholder-satisfaction-metrics)
-
-**Project Integration Process**
-- Early engagement rate: 80%+ projects engaged from inception per [Success Metrics](./BISOPRO-05_Success_Metrics.md#early-engagement-metrics)
-- Security review cycle time: <5 days average per [Success Metrics](./BISOPRO-05_Success_Metrics.md#review-cycle-metrics)
-- Security rework reduction: 75% decrease in post-development changes per [Success Metrics](./BISOPRO-05_Success_Metrics.md#rework-reduction-metrics)
-
-**Risk Management Process**
-- Risk assessment completion time: Within agreed SLAs per [Success Metrics](./BISOPRO-05_Success_Metrics.md#risk-assessment-efficiency)
-- Risk treatment effectiveness: Measured residual risk reduction per [Success Metrics](./BISOPRO-05_Success_Metrics.md#risk-treatment-effectiveness)
-- Business decision risk integration: 100% of major decisions per [Success Metrics](./BISOPRO-05_Success_Metrics.md#decision-risk-integration)
-
-**Compliance Support Process**
-- Audit finding reduction: 25% annual decrease per [Success Metrics](./BISOPRO-05_Success_Metrics.md#audit-finding-reduction)
-- Compliance implementation success: 95% on-schedule completion per [Success Metrics](./BISOPRO-05_Success_Metrics.md#compliance-implementation-success)
-- Regulatory relationship quality: Measured through feedback and outcomes per [Success Metrics](./BISOPRO-05_Success_Metrics.md#regulatory-relationship-metrics)
-
-**Incident Response Process**
-- Response time to business impact assessment: <30 minutes per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-response-time)
-- Business downtime minimization: <4 hours average per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-downtime-metrics)
-- Stakeholder communication satisfaction: >4.0/5.0 per [Success Metrics](./BISOPRO-05_Success_Metrics.md#incident-communication-satisfaction)
+Do not redefine process KPIs here. Use BISOPRO-05 as the source of truth and report:
+- Data readiness for each process metric family.
+- Current status (`G/Y/R`) with explicit owner and next action.
+- Exceptions where process reality does not match expected operating model.
 
 ### Business Value Metrics
 
-**Cost Reduction**
-- Security rework cost savings: $1.2M+ annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#security-rework-savings)
-- Project delivery acceleration value: $1.0M+ annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#project-acceleration-value)
-- Compliance efficiency savings: $600K+ annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#compliance-efficiency-savings)
-
-**Risk Reduction Value**
-- Incident prevention value: $400K+ annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#incident-prevention-value)
-- Regulatory risk mitigation: $400K+ annually per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#regulatory-risk-value)
-- Business continuity improvement: Measured through reduced disruption per [Success Metrics](./BISOPRO-05_Success_Metrics.md#business-continuity-metrics)
-
-**Revenue Protection and Growth**
-- Time-to-market acceleration: 2-week average improvement per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#time-to-market-value)
-- Customer trust and retention: Measured through security-related customer feedback per [Success Metrics](./BISOPRO-05_Success_Metrics.md#customer-trust-metrics)
-- Competitive advantage: Security-enabled business opportunities per [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md#competitive-advantage-value)
+Use business value narratives backed by traceable evidence:
+- What changed in cost, risk exposure, or delivery friction.
+- Which decision or process change drove the outcome.
+- Which evidence artifacts validate the claim (owner, source, date).
 
 ## Implementation Readiness Guide
 *Step-by-step deployment process for BISO key processes implementation*
@@ -1472,26 +1328,26 @@ PROCESS SCALING AND SUSTAINABILITY FRAMEWORK
 
 ### **Implementation Success Criteria**
 
-#### **Month 4 Success Targets:**
-- [ ] All 5 core processes deployed across business units with stakeholder engagement
-- [ ] Process workflow integration completed with business unit operational procedures
-- [ ] Initial process effectiveness measurement established with baseline data collection
-- [ ] BISO team trained on all process procedures with competency validation
-- [ ] Stakeholder satisfaction with new processes achieved (>3.5/5.0 initial target)
+#### **Month 4 Success Checklist**
+- [ ] Core processes deployed with documented ownership and intake/closure workflow.
+- [ ] Integration touchpoints with business units defined and communicated.
+- [ ] Data-readiness gaps logged with owners and remediation dates.
+- [ ] BISO team trained on process execution and escalation paths.
+- [ ] Stakeholder feedback collected and actioned.
 
-#### **Month 5 Success Targets:**
-- [ ] Advanced process capabilities operational with incident response and innovation support
-- [ ] Cross-process integration achieved with seamless stakeholder experience
-- [ ] Process optimization implemented with efficiency and business value improvements
-- [ ] Automation readiness established with basic automated workflow capabilities
-- [ ] Business value demonstration achieved with measurable ROI from process execution
+#### **Month 5 Success Checklist**
+- [ ] Incident and innovation processes operating with clear handoffs.
+- [ ] Cross-process dependencies documented and reviewed monthly.
+- [ ] One optimization action completed for each `Y` status process.
+- [ ] Automation readiness assessed with data quality checkpoints.
+- [ ] Business value evidence packet prepared for quarterly review.
 
-#### **Month 6 Success Targets:**
-- [ ] Process performance excellence achieved with >4.0/5.0 stakeholder satisfaction
-- [ ] Business value targets met with documented ROI and competitive advantage development
-- [ ] Process scaling prepared with documented excellence patterns and best practices
-- [ ] Sustainability framework established with continuous improvement and optimization
-- [ ] Industry leadership preparation with advanced process capabilities and thought leadership
+#### **Month 6 Success Checklist**
+- [ ] Process governance cadence is stable and repeatable.
+- [ ] Evidence-backed value narrative is available for executive review.
+- [ ] Scaling playbooks are documented for highest-value process patterns.
+- [ ] Continuous improvement backlog is prioritized with owners.
+- [ ] Phase transition risks and mitigations are documented.
 
 ### **Process Implementation Risk Mitigation**
 
