@@ -149,14 +149,14 @@ File: BISO_Monthly_Pulse_Tracking.xlsx or .csv
 
 ### Get >70% Response Rate:
 
-✅ **Keep it short:** 1 question = 2 minutes max
-✅ **Personalize:** Use stakeholder names, not generic "Dear User"
-✅ **Timing:** Avoid Monday AM, Friday PM, month-end
-✅ **Mobile-friendly:** Test on phone before sending
-✅ **Show appreciation:** Thank responders, show you act on feedback
-✅ **Close the loop:** Share what you changed based on feedback
+- ✅ **Keep it short:** 1 question = 2 minutes max
+- ✅ **Personalize:** Use stakeholder names, not generic "Dear User"
+- ✅ **Timing:** Avoid Monday AM, Friday PM, month-end
+- ✅ **Mobile-friendly:** Test on phone before sending
+- ✅ **Show appreciation:** Thank responders, show you act on feedback
+- ✅ **Close the loop:** Share what you changed based on feedback
 
-❌ **Don't do this:**
+- ❌ **Don't do this:**
 - Don't send long surveys (kills response rates)
 - Don't make it anonymous IF you need to follow up (defeats purpose)
 - Don't send surveys too frequently (survey fatigue)
@@ -335,20 +335,20 @@ CRO:          5 → 5 → 5 (Consistently excellent ✅)
 ## Best Practices
 
 ### Do This:
-✅ Send surveys same day each month (build routine)
-✅ Keep surveys short (1 question + optional comment)
-✅ Follow up on low scores within 24 hours
-✅ Close the loop (tell stakeholders what you changed)
-✅ Track trends over time (more important than single-month scores)
-✅ Celebrate improvements (share wins with CISO)
+- ✅ Send surveys same day each month (build routine)
+- ✅ Keep surveys short (1 question + optional comment)
+- ✅ Follow up on low scores within 24 hours
+- ✅ Close the loop (tell stakeholders what you changed)
+- ✅ Track trends over time (more important than single-month scores)
+- ✅ Celebrate improvements (share wins with CISO)
 
 ### Don't Do This:
-❌ Skip months (breaks rhythm, loses trust)
-❌ Make surveys too long (kills response rates)
-❌ Ignore negative feedback (destroys credibility)
-❌ Get defensive about criticism (misses opportunity to improve)
-❌ Only survey when things are good (defeats early warning purpose)
-❌ Make it anonymous if you need to follow up (can't address specific issues)
+- ❌ Skip months (breaks rhythm, loses trust)
+- ❌ Make surveys too long (kills response rates)
+- ❌ Ignore negative feedback (destroys credibility)
+- ❌ Get defensive about criticism (misses opportunity to improve)
+- ❌ Only survey when things are good (defeats early warning purpose)
+- ❌ Make it anonymous if you need to follow up (can't address specific issues)
 
 ---
 
@@ -413,7 +413,7 @@ Start simple, send monthly, act on feedback.
 ---
 
 **Related Resources:**
-- **core/06_Success_Measurement.md** - Complete success measurement framework
-- **core/05_Stakeholder_Engagement.md** - Stakeholder engagement strategies
-- **templates/02_Trust_Equation_Scorecard.md** - Quarterly deep-dive assessment
-- **core/07_Common_Challenges.md** - Addressing low satisfaction scores
+- [core/06_Success_Measurement.md](../core/06_Success_Measurement.md) - Complete success measurement framework
+- [core/05_Stakeholder_Engagement.md](../core/05_Stakeholder_Engagement.md) - Stakeholder engagement strategies
+- [templates/02_Trust_Equation_Scorecard.md](./02_Trust_Equation_Scorecard.md) - Quarterly deep-dive assessment
+- [core/07_Common_Challenges.md](../core/07_Common_Challenges.md) - Addressing low satisfaction scores

@@ -61,9 +61,9 @@ BISOs establish partnerships with business leaders, foster trust, and deliver st
 *"We want faster time-to-market. How can security enable instead of slow us down?"*
 
 ### Value
-✅ Faster decisions with security confidence
-✅ Reduced surprises and last-minute roadblocks
-✅ Competitive advantage through secure innovation
+- ✅ Faster decisions with security confidence
+- ✅ Reduced surprises and last-minute roadblocks
+- ✅ Competitive advantage through secure innovation
 
 ---
 
@@ -91,10 +91,10 @@ BISOs identify security risks in business operations, support risk management de
 *"Launch by Q3 - what are risks and how do we mitigate?"*
 
 ### Value
-✅ Avoid costly security incidents
-✅ Make informed risk decisions
-✅ Reduce compliance violations
-✅ Protect revenue and customer trust
+- ✅ Avoid costly security incidents
+- ✅ Make informed risk decisions
+- ✅ Reduce compliance violations
+- ✅ Protect revenue and customer trust
 
 ---
 
@@ -122,10 +122,10 @@ BISOs provide compliance guidance, engage with audit/risk teams on your behalf, 
 *"Audit found 15 findings. Help prioritize and remediate?"*
 
 ### Value
-✅ Pass audits without disrupting business
-✅ Avoid regulatory fines
-✅ Balance compliance with business practicality
-✅ Reduce security policy friction
+- ✅ Pass audits without disrupting business
+- ✅ Avoid regulatory fines
+- ✅ Balance compliance with business practicality
+- ✅ Reduce security policy friction
 
 ---
 
@@ -153,10 +153,10 @@ BISOs partner with security teams to deliver relevant training, provide security
 *"Present at monthly team meeting about our business line's security risks?"*
 
 ### Value
-✅ Reduce human error and security mistakes
-✅ Build security-aware culture
-✅ Improve team confidence handling security
-✅ Decrease incidents from lack of awareness
+- ✅ Reduce human error and security mistakes
+- ✅ Build security-aware culture
+- ✅ Improve team confidence handling security
+- ✅ Decrease incidents from lack of awareness
 
 ---
 
@@ -180,13 +180,13 @@ BISOs partner with security teams to deliver relevant training, provide security
 
 Setting clear expectations:
 
-❌ **Implement security controls** (they advise; security/IT teams implement)  
-❌ **Approve/deny business decisions** (they advise; business leaders decide)  
-❌ **Own security risk** (business units own risk; BISOs help manage)  
-❌ **Slow down business** (they enable faster movement with confidence)  
-❌ **Replace security teams** (they bridge business and security)  
-❌ **Conduct penetration testing** (specialized security teams handle)  
-❌ **Manage security incidents** (security operations leads; BISOs support business impact)  
+- ❌ **Implement security controls** (they advise; security/IT teams implement)  
+- ❌ **Approve/deny business decisions** (they advise; business leaders decide)  
+- ❌ **Own security risk** (business units own risk; BISOs help manage)  
+- ❌ **Slow down business** (they enable faster movement with confidence)  
+- ❌ **Replace security teams** (they bridge business and security)  
+- ❌ **Conduct penetration testing** (specialized security teams handle)  
+- ❌ **Manage security incidents** (security operations leads; BISOs support business impact)  
 
 **Think of BISOs as:** Embedded security consultants, not gatekeepers or implementation teams.
 

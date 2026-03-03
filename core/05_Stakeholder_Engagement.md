@@ -53,29 +53,29 @@ Stakeholders believe you have the security knowledge and business understanding 
 
 **How to Build Credibility:**
 
-✅ **Demonstrate security expertise**
+- ✅ **Demonstrate security expertise**
 - Answer technical questions confidently
 - Explain security concepts clearly
 - Stay current on threats and trends
 - Share industry insights and best practices
 
-✅ **Show business understanding**
+- ✅ **Show business understanding**
 - Ask about business goals before recommending security
 - Speak in business terms (revenue, time-to-market, customer impact)
 - Understand their industry and competitive landscape
 - Connect security decisions to business outcomes
 
-✅ **Admit what you don't know**
+- ✅ **Admit what you don't know**
 - Say "I don't know, let me find out" instead of guessing
 - Bring in specialists when needed
 - Learn from mistakes publicly
 - Show intellectual honesty
 
 **Red Flags that Hurt Credibility:**
-❌ Overpromising and underdelivering
-❌ Giving advice outside your expertise
-❌ Using jargon without explanation
-❌ Dismissing business concerns as "not security"
+- ❌ Overpromising and underdelivering
+- ❌ Giving advice outside your expertise
+- ❌ Using jargon without explanation
+- ❌ Dismissing business concerns as "not security"
 
 ---
 
@@ -86,29 +86,29 @@ Stakeholders can count on you to follow through, meet deadlines, and keep commit
 
 **How to Build Reliability:**
 
-✅ **Keep commitments**
+- ✅ **Keep commitments**
 - If you say you'll review something by Friday, deliver by Friday
 - Set realistic timelines, not optimistic ones
 - Communicate early if you'll miss a deadline
 - Track your commitments (use a system)
 
-✅ **Be consistently available**
+- ✅ **Be consistently available**
 - Respond to messages within 24 hours (or set expectations)
 - Attend scheduled meetings
 - Show up when you say you will
 - Be present and engaged when meeting
 
-✅ **Follow established processes**
+- ✅ **Follow established processes**
 - Use agreed-upon communication channels
 - Follow meeting agendas and time limits
 - Document decisions and action items
 - Close loops on open issues
 
 **Red Flags that Hurt Reliability:**
-❌ Ghosting on emails or requests
-❌ Showing up late or unprepared
-❌ Changing recommendations without explanation
-❌ Forgetting previous commitments
+- ❌ Ghosting on emails or requests
+- ❌ Showing up late or unprepared
+- ❌ Changing recommendations without explanation
+- ❌ Forgetting previous commitments
 
 ---
 
@@ -119,29 +119,29 @@ Stakeholders feel comfortable sharing problems, admitting mistakes, and raising 
 
 **How to Build Intimacy:**
 
-✅ **Create psychological safety**
+- ✅ **Create psychological safety**
 - Respond non-judgmentally to bad news
 - Thank people for raising concerns early
 - Separate "learning moments" from "performance issues"
 - Make it safe to say "I don't understand"
 
-✅ **Show empathy and understanding**
+- ✅ **Show empathy and understanding**
 - Acknowledge business pressures they face
 - Validate their concerns before offering solutions
 - Show you understand their constraints
 - Remember personal details (birthdays, family, interests)
 
-✅ **Be authentic and vulnerable**
+- ✅ **Be authentic and vulnerable**
 - Share your own challenges and mistakes
 - Admit when security has been a blocker
 - Show your human side
 - Build personal connection, not just professional
 
 **Red Flags that Hurt Intimacy:**
-❌ Lecturing stakeholders about security basics
-❌ Making people feel stupid for not knowing security
-❌ Using security issues as "gotcha" moments
-❌ Maintaining distant, purely professional relationship
+- ❌ Lecturing stakeholders about security basics
+- ❌ Making people feel stupid for not knowing security
+- ❌ Using security issues as "gotcha" moments
+- ❌ Maintaining distant, purely professional relationship
 
 ---
 
@@ -152,19 +152,19 @@ The degree to which you focus on stakeholder needs vs. your own agenda. Lower Se
 
 **Low Self-Orientation (Good):**
 
-✅ **Focus on their success**
+- ✅ **Focus on their success**
 - Ask "How can I help you achieve your goals?"
 - Customize security advice to their situation
 - Celebrate their wins, not just security compliance
 - Measure success by business outcomes, not security metrics
 
-✅ **Adapt to their preferences**
+- ✅ **Adapt to their preferences**
 - Use their communication style and channels
 - Work on their timeline when possible
 - Meet them where they are (their office, their meetings)
 - Respect their time and priorities
 
-✅ **Give credit generously**
+- ✅ **Give credit generously**
 - Acknowledge business unit's security efforts publicly
 - Share credit for security wins
 - Highlight team accomplishments
@@ -172,10 +172,10 @@ The degree to which you focus on stakeholder needs vs. your own agenda. Lower Se
 
 **High Self-Orientation (Bad):**
 
-❌ **Pushing security agenda regardless of business impact**
-❌ **Taking credit for security improvements**
-❌ **Making decisions for security convenience, not business benefit**
-❌ **Prioritizing your goals over stakeholder needs**
+- ❌ **Pushing security agenda regardless of business impact**
+- ❌ **Taking credit for security improvements**
+- ❌ **Making decisions for security convenience, not business benefit**
+- ❌ **Prioritizing your goals over stakeholder needs**
 
 ---
 
@@ -292,10 +292,10 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - **Time:** 30 minutes max, agenda sent in advance
 
 **Communication Tips:**
-✅ Start with business impact, not technical details
-✅ Provide 2-3 options with pros/cons, recommend one
-✅ Use financial terms (ROI, cost avoidance, revenue protection)
-✅ Connect to strategic priorities and competitive position
+- ✅ Start with business impact, not technical details
+- ✅ Provide 2-3 options with pros/cons, recommend one
+- ✅ Use financial terms (ROI, cost avoidance, revenue protection)
+- ✅ Connect to strategic priorities and competitive position
 
 ---
 
@@ -314,10 +314,10 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - **Time:** 30-60 minutes monthly, responsive ad-hoc
 
 **Communication Tips:**
-✅ Attend their meetings, not just invite them to yours
-✅ Ask about goals and challenges before offering security advice
-✅ Frame security as enabler, not blocker
-✅ Celebrate business wins where security contributed
+- ✅ Attend their meetings, not just invite them to yours
+- ✅ Ask about goals and challenges before offering security advice
+- ✅ Frame security as enabler, not blocker
+- ✅ Celebrate business wins where security contributed
 
 ---
 
@@ -336,10 +336,10 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - **Time:** 30-60 minutes, hands-on collaboration
 
 **Communication Tips:**
-✅ Get technical — they want depth, not high-level
-✅ Understand their constraints (deadlines, technical debt, resources)
-✅ Offer solutions, not just requirements
-✅ Partner on implementation, don't hand off and disappear
+- ✅ Get technical — they want depth, not high-level
+- ✅ Understand their constraints (deadlines, technical debt, resources)
+- ✅ Offer solutions, not just requirements
+- ✅ Partner on implementation, don't hand off and disappear
 
 ---
 
@@ -358,10 +358,10 @@ INTEREST│  MONITOR      │  KEEP         │  INTEREST
 - **Time:** 60 minutes monthly, collaborative
 
 **Communication Tips:**
-✅ Align with their frameworks (use their terminology)
-✅ Share information proactively (no surprises in audits)
-✅ Co-develop policies and controls
-✅ Respect their accountability and governance role
+- ✅ Align with their frameworks (use their terminology)
+- ✅ Share information proactively (no surprises in audits)
+- ✅ Co-develop policies and controls
+- ✅ Respect their accountability and governance role
 
 ---
 
@@ -385,8 +385,8 @@ High self-orientation — prioritizing security convenience over business outcom
 - Say "how can we make this work?" not "this won't work"
 
 **Example:**
-❌ **Bad:** "We can't launch without penetration testing, that takes 3 weeks."
-✅ **Good:** "Here are three options: (1) Launch in 4 weeks with pen test, (2) Launch now with enhanced monitoring and pen test after, or (3) Launch to limited users now, full launch after pen test. Which aligns with your business goals?"
+- ❌ **Bad:** "We can't launch without penetration testing, that takes 3 weeks."
+- ✅ **Good:** "Here are three options: (1) Launch in 4 weeks with pen test, (2) Launch now with enhanced monitoring and pen test after, or (3) Launch to limited users now, full launch after pen test. Which aligns with your business goals?"
 
 ---
 
@@ -408,7 +408,7 @@ Insufficient technical depth or outdated knowledge.
 - Stay current with technology trends and best practices
 
 **Example:**
-✅ "I'm not an expert on Kubernetes security, so I've brought in [Cloud Security Specialist] to work with you on the container security architecture. I'll handle the business risk assessment while they dive deep technically."
+- ✅ "I'm not an expert on Kubernetes security, so I've brought in [Cloud Security Specialist] to work with you on the container security architecture. I'll handle the business risk assessment while they dive deep technically."
 
 ---
 
@@ -431,7 +431,7 @@ Low intimacy (not feeling connected) or high self-orientation (you're not focuse
 - Make engagement valuable for them (provide insights, not just requests)
 
 **Example:**
-✅ "I know you're focused on the Q3 product launch. Instead of a separate security meeting, can I attend your weekly product planning standup? I'll keep security updates to 5 minutes and can answer questions as they come up."
+- ✅ "I know you're focused on the Q3 product launch. Instead of a separate security meeting, can I attend your weekly product planning standup? I'll keep security updates to 5 minutes and can answer questions as they come up."
 
 ---
 
@@ -454,7 +454,7 @@ Insufficient business acumen or too much technical focus in communications.
 - Demonstrate understanding of business pressures and priorities
 
 **Example:**
-✅ "I've been reviewing your business unit strategy and see you're focused on growing SMB market share 20% this year. Security can enable that by reducing friction in the onboarding process. Can we discuss how to balance speed-to-onboard with fraud risk?"
+- ✅ "I've been reviewing your business unit strategy and see you're focused on growing SMB market share 20% this year. Security can enable that by reducing friction in the onboarding process. Can we discuss how to balance speed-to-onboard with fraud risk?"
 
 ---
 
@@ -533,8 +533,8 @@ BISO effectiveness is 60% relationships, 40% technical. Measure trust with NTS, 
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - Why BISOs exist and how to start
-- **02_Service_Catalog.md** - What BISOs deliver to stakeholders
-- **04_Role_Definitions.md** - Relationship skills as BISO differentiator
-- **06_Success_Measurement.md** - NTS as primary relationship metric
-- **07_Common_Challenges.md** - Solving relationship problems
+- [01_Program_Guide.md](./01_Program_Guide.md) - Why BISOs exist and how to start
+- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver to stakeholders
+- [04_Role_Definitions.md](./04_Role_Definitions.md) - Relationship skills as BISO differentiator
+- [06_Success_Measurement.md](./06_Success_Measurement.md) - NTS as primary relationship metric
+- [07_Common_Challenges.md](./07_Common_Challenges.md) - Solving relationship problems

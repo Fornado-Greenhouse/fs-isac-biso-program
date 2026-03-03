@@ -34,38 +34,38 @@ If someone excels at technical security but struggles with stakeholder relations
 ## The BISO Success Formula
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│              SUCCESSFUL BISO = 3 DIMENSIONS              │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🔐 SECURITY EXPERTISE                                   │
+┌─────────────────────────────────────────────────────────┐
+│              SUCCESSFUL BISO = 3 DIMENSIONS             │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  🔐 SECURITY EXPERTISE                                  │
 │  ├─ Risk assessment and management                      │
 │  ├─ Security architecture and controls                  │
 │  ├─ Threat landscape and attack patterns                │
 │  └─ Regulatory compliance requirements                  │
-│                                                          │
-│           +                                              │
-│                                                          │
-│  🤝 RELATIONSHIP EXCELLENCE                              │
+│                                                         │
+│           +                                             │
+│                                                         │
+│  🤝 RELATIONSHIP EXCELLENCE                             │
 │  ├─ Trust building and stakeholder management           │
 │  ├─ Influencing without authority                       │
 │  ├─ Executive presence and communication                │
 │  └─ Conflict resolution and negotiation                 │
-│                                                          │
-│           +                                              │
-│                                                          │
-│  💼 BUSINESS ACUMEN                                       │
+│                                                         │
+│           +                                             │
+│                                                         │
+│  💼 BUSINESS ACUMEN                                     │
 │  ├─ Understanding business models and strategy          │
 │  ├─ Financial literacy (P&L, budgets, ROI)              │
 │  ├─ Industry knowledge and competitive landscape        │
 │  └─ Risk-based decision making                          │
-│                                                          │
-│           =                                              │
-│                                                          │
-│  ⭐ EFFECTIVE BISO                                        │
+│                                                         │
+│           =                                             │
+│                                                         │
+│  ⭐ EFFECTIVE BISO                                      │
 │  └─ Enables secure business growth                      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 **Weighting:**
@@ -80,7 +80,7 @@ If someone excels at technical security but struggles with stakeholder relations
 ### Three-Level Progression
 
 ```
-SENIOR BISO          PRINCIPAL BISO         BISO DIRECTOR
+SENIOR BISO            PRINCIPAL BISO          BISO DIRECTOR
    (Entry)              (Mid-Career)            (Executive)
      │                      │                       │
      │                      │                       │
@@ -198,12 +198,12 @@ The frontline BISO role. Embedded in 1-2 business units, providing day-to-day se
 
 ### What Senior BISOs DON'T Do
 
-❌ **Implement security tools** (security operations does this)
-❌ **Approve or deny business decisions** (BISOs advise; business decides)
-❌ **Own technology budgets** (maintains independence)
-❌ **Conduct penetration testing** (specialized teams handle this)
-❌ **Manage security operations** (focus is advisory, not operational)
-❌ **Create security policies** (collaborative input only)
+- ❌ **Implement security tools** (security operations does this)
+- ❌ **Approve or deny business decisions** (BISOs advise; business decides)
+- ❌ **Own technology budgets** (maintains independence)
+- ❌ **Conduct penetration testing** (specialized teams handle this)
+- ❌ **Manage security operations** (focus is advisory, not operational)
+- ❌ **Create security policies** (collaborative input only)
 
 **Think:** Embedded consultant, not implementer or gatekeeper.
 
@@ -582,8 +582,8 @@ Hire for **relationship skills and business acumen**. You can teach security fra
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - BISO program overview
-- **02_Service_Catalog.md** - What BISOs deliver
-- **03_Organizational_Design.md** - Where BISOs fit organizationally
-- **05_Stakeholder_Engagement.md** - Relationship building framework
-- **06_Success_Measurement.md** - Performance expectations
+- [01_Program_Guide.md](./01_Program_Guide.md) - BISO program overview
+- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
+- [03_Organizational_Design.md](./03_Organizational_Design.md) - Where BISOs fit organizationally
+- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Relationship building framework
+- [06_Success_Measurement.md](./06_Success_Measurement.md) - Performance expectations

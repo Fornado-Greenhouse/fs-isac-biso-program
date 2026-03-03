@@ -534,7 +534,7 @@ Start with NTS (relationship metrics). Add operational metrics when relationship
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - Implementation approach and success criteria
-- **02_Service_Catalog.md** - What BISOs deliver that creates value
-- **05_Stakeholder_Engagement.md** - NTS framework and scorecard
-- **07_Common_Challenges.md** - Fixing low trust indicators and measurement problems
+- [01_Program_Guide.md](./01_Program_Guide.md) - Implementation approach and success criteria
+- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver that creates value
+- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - NTS framework and scorecard
+- [07_Common_Challenges.md](./07_Common_Challenges.md) - Fixing low trust indicators and measurement problems

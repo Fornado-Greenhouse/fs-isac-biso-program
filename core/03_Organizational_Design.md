@@ -33,22 +33,7 @@ Wrong organizational placement is the #1 reason BISO programs fail. Get the stru
 
 ### Primary Reporting: BISO → CISO
 
-```
-                 ┌──────────────┐
-                 │     CISO     │
-                 │  (Primary)   │
-                 └──────┬───────┘
-                        │
-                        │ Direct Line
-                        │ • Performance reviews
-                        │ • Career development
-                        │ • Security strategy
-                        │ • Technical authority
-                        │
-                 ┌──────▼───────┐
-                 │     BISO     │
-                 └──────────────┘
-```
+Primary reporting is shown in the **Complete Structure** diagram below.
 
 **Why Report to CISO:**
 - ✅ **Independence:** BISOs can say "no" to business without career risk
@@ -68,23 +53,7 @@ Wrong organizational placement is the #1 reason BISO programs fail. Get the stru
 
 ### Dotted-Line Relationship: BISO ↔ Business Unit
 
-```
-                 ┌──────────────┐
-                 │  Business    │
-                 │Unit Leader   │
-                 │  (Dotted)    │
-                 └──────┬───────┘
-                        │
-                        │ Collaborative
-                        │ • Business planning
-                        │ • Stakeholder mgmt
-                        │ • Risk decisions
-                        │ • Trust building
-                        │
-                 ┌──────▼───────┐
-                 │     BISO     │
-                 └──────────────┘
-```
+The dotted-line collaboration model is shown in the **Complete Structure** diagram below.
 
 **Why Partner with Business:**
 - ✅ **Context:** Understand business strategy, priorities, pressures
@@ -154,16 +123,16 @@ You have four options for **how** to organize your BISO team. Each has tradeoffs
 - Varied risk profiles
 
 **Advantages:**
-✅ Deep business understanding
-✅ Strong stakeholder relationships
-✅ Tailored security solutions
-✅ Clear accountability per unit
+- ✅ Deep business understanding
+- ✅ Strong stakeholder relationships
+- ✅ Tailored security solutions
+- ✅ Clear accountability per unit
 
 **Disadvantages:**
-❌ Potential security silos
-❌ Duplication of expertise
-❌ Knowledge gaps (enterprise view)
-❌ Harder to scale specialized knowledge
+- ❌ Potential security silos
+- ❌ Duplication of expertise
+- ❌ Knowledge gaps (enterprise view)
+- ❌ Harder to scale specialized knowledge
 
 **Example:**
 ```
@@ -187,16 +156,16 @@ BISO Team (4 functional):
 - Regional business models
 
 **Advantages:**
-✅ Local regulatory expertise
-✅ Cultural and language fit
-✅ Time zone coverage
-✅ Regional relationship management
+- ✅ Local regulatory expertise
+- ✅ Cultural and language fit
+- ✅ Time zone coverage
+- ✅ Regional relationship management
 
 **Disadvantages:**
-❌ Limited business focus
-❌ Uneven resource distribution
-❌ Coordination complexity
-❌ Career mobility constraints
+- ❌ Limited business focus
+- ❌ Uneven resource distribution
+- ❌ Coordination complexity
+- ❌ Career mobility constraints
 
 **When to Use:**
 Only if you have major operations in multiple countries with distinct regulatory requirements (GDPR, APAC data laws, etc.)
@@ -214,16 +183,16 @@ Only if you have major operations in multiple countries with distinct regulatory
 - Deep technical expertise needed
 
 **Advantages:**
-✅ Deep technical specialization
-✅ Cross-business value
-✅ Efficiency of scale
-✅ Innovation leadership
+- ✅ Deep technical specialization
+- ✅ Cross-business value
+- ✅ Efficiency of scale
+- ✅ Innovation leadership
 
 **Disadvantages:**
-❌ Weak business relationships
-❌ Limited business context
-❌ Complex stakeholder matrix
-❌ Competing priorities
+- ❌ Weak business relationships
+- ❌ Limited business context
+- ❌ Complex stakeholder matrix
+- ❌ Competing priorities
 
 **When to Use:**
 As a **secondary layer** (not primary structure) — see Hybrid Model below
@@ -238,11 +207,11 @@ As a **secondary layer** (not primary structure) — see Hybrid Model below
 Combines deep business understanding (functional) with specialized expertise (product) for comprehensive coverage without the disadvantages of pure models.
 
 ```
-┌────────────────────────────────────────────────────────┐
-│              HYBRID BISO STRUCTURE                     │
-├────────────────────────────────────────────────────────┤
-│                                                        │
-│  PRIMARY LAYER: Functional BISOs (4)                  │
+┌──────────────────────────────────────────────────────┐
+│              HYBRID BISO STRUCTURE                   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  PRIMARY LAYER: Functional BISOs (4)                 │
 │  ┌──────────────┐  ┌──────────────┐                  │
 │  │  Consumer/   │  │  Commercial/ │                  │
 │  │   Retail     │  │  Corporate   │                  │
@@ -251,15 +220,15 @@ Combines deep business understanding (functional) with specialized expertise (pr
 │  │ Investment   │  │  Corporate   │                  │
 │  │  Services    │  │  Functions   │                  │
 │  └──────────────┘  └──────────────┘                  │
-│                                                        │
-│  SECONDARY LAYER: Product Specialists (3-4)           │
+│                                                      │
+│  SECONDARY LAYER: Product Specialists (3-4)          │
 │  ┌──────────┐ ┌──────────┐ ┌────────────┐            │
 │  │  Cloud   │ │   Data   │ │ Third-Party│            │
 │  │ Security │ │Protection│ │    Risk    │            │
 │  └──────────┘ └──────────┘ └────────────┘            │
-│                                                        │
-│  Total Team: 7-8 BISOs                                │
-└────────────────────────────────────────────────────────┘
+│                                                      │
+│  Total Team: 7-8 BISOs                               │
+└──────────────────────────────────────────────────────┘
 ```
 
 **How It Works:**
@@ -279,11 +248,11 @@ Combines deep business understanding (functional) with specialized expertise (pr
 *Commercial Banking BISO* is working on vendor selection for payment processing. They call in the *Third-Party Risk Specialist* for deep vendor assessment expertise, while maintaining the primary relationship with the Commercial Banking leadership.
 
 **Advantages:**
-✅ Comprehensive coverage
-✅ Resource optimization
-✅ Flexibility and adaptability
-✅ Knowledge sharing
-✅ Multiple career paths
+- ✅ Comprehensive coverage
+- ✅ Resource optimization
+- ✅ Flexibility and adaptability
+- ✅ Knowledge sharing
+- ✅ Multiple career paths
 
 **Implementation:**
 - Start with 4 functional BISOs (core)
@@ -489,20 +458,20 @@ If you have truly independent business units (separate companies in holding stru
 ## Success Indicators
 
 ### Healthy Organizational Design Shows:
-✅ BISOs attend both security AND business meetings regularly
-✅ NTS in G range (+30 to +100) with business stakeholders
-✅ Business leaders describe BISOs as "part of the team"
-✅ CISO sees consistent security rigor across BISOs
-✅ Clear escalation when BISO and business disagree
-✅ BISOs have career development paths in security
+- ✅ BISOs attend both security AND business meetings regularly
+- ✅ NTS in G range (+30 to +100) with business stakeholders
+- ✅ Business leaders describe BISOs as "part of the team"
+- ✅ CISO sees consistent security rigor across BISOs
+- ✅ Clear escalation when BISO and business disagree
+- ✅ BISOs have career development paths in security
 
 ### Warning Signs of Structure Problems:
-🔴 Business leaders bypass BISOs to negotiate directly with CISO
-🔴 BISOs spend <20% of time with business unit teams
-🔴 NTS below 0 (low trust)
-🔴 BISOs feel torn between security and business loyalties
-🔴 High turnover in BISO roles
-🔴 Frequent escalations due to role confusion
+- 🔴 Business leaders bypass BISOs to negotiate directly with CISO
+- 🔴 BISOs spend <20% of time with business unit teams
+- 🔴 NTS below 0 (low trust)
+- 🔴 BISOs feel torn between security and business loyalties
+- 🔴 High turnover in BISO roles
+- 🔴 Frequent escalations due to role confusion
 
 ---
 
@@ -529,8 +498,8 @@ The dual reporting structure (CISO primary, business dotted-line) with a hybrid 
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - BISO program foundations
-- **02_Service_Catalog.md** - What BISOs deliver
-- **04_Role_Definitions.md** - BISO job requirements
-- **05_Stakeholder_Engagement.md** - Building trust with dual reporting
-- **06_Success_Measurement.md** - Measuring organizational effectiveness
+- [01_Program_Guide.md](./01_Program_Guide.md) - BISO program foundations
+- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
+- [04_Role_Definitions.md](./04_Role_Definitions.md) - BISO job requirements
+- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust with dual reporting
+- [06_Success_Measurement.md](./06_Success_Measurement.md) - Measuring organizational effectiveness

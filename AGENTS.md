@@ -33,6 +33,7 @@ CI uses:
 
 ## Testing Guidelines
 There is no code test suite in this repo; validation is content and build based:
+- Run `scripts/markdown-format-audit.sh --check` before committing content updates.
 - Run `bundle exec jekyll build` before committing.
 - Manually spot-check navigation, links, and callouts in `bundle exec jekyll serve`.
 - For major content edits, verify cross-references and phase timeline consistency.

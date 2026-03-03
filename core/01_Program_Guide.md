@@ -34,16 +34,16 @@ BISOs should not slow down the business. They help business leaders understand r
 ## What Makes BISOs Different
 
 ### BISOs Are NOT:
-❌ **Gatekeepers** who approve/deny business decisions
-❌ **Technical implementers** who configure security tools
-❌ **Policy enforcers** who punish non-compliance
-❌ **Risk owners** who take accountability away from business
+- ❌ **Gatekeepers** who approve/deny business decisions
+- ❌ **Technical implementers** who configure security tools
+- ❌ **Policy enforcers** who punish non-compliance
+- ❌ **Risk owners** who take accountability away from business
 
 ### BISOs ARE:
-✅ **Trusted advisors** who provide security counsel
-✅ **Risk translators** who explain security in business language
-✅ **Business partners** who enable secure innovation
-✅ **Relationship builders** who bridge security and business teams
+- ✅ **Trusted advisors** who provide security counsel
+- ✅ **Risk translators** who explain security in business language
+- ✅ **Business partners** who enable secure innovation
+- ✅ **Relationship builders** who bridge security and business teams
 
 **Think of BISOs as:** Embedded security consultants who make business leaders more confident in their security decisions.
 
@@ -441,9 +441,9 @@ BISO programs succeed when they **enable business velocity** rather than control
 ---
 
 **Related Core Documents:**
-- **02_Service_Catalog.md** - What BISOs deliver
-- **03_Organizational_Design.md** - Where BISOs fit
-- **04_Role_Definitions.md** - BISO qualifications and responsibilities
-- **05_Stakeholder_Engagement.md** - Building trust and relationships
-- **06_Success_Measurement.md** - Measuring program effectiveness
-- **07_Common_Challenges.md** - Preventing and solving problems
+- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
+- [03_Organizational_Design.md](./03_Organizational_Design.md) - Where BISOs fit
+- [04_Role_Definitions.md](./04_Role_Definitions.md) - BISO qualifications and responsibilities
+- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust and relationships
+- [06_Success_Measurement.md](./06_Success_Measurement.md) - Measuring program effectiveness
+- [07_Common_Challenges.md](./07_Common_Challenges.md) - Preventing and solving problems

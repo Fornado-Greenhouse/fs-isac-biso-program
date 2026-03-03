@@ -217,18 +217,18 @@ nav_order: 5
 ## Build vs. Buy Decision Framework
 
 ### Custom Development Criteria (Build When):
-✅ **Unique BISO Requirements**: No COTS solution addresses specific need  
-✅ **Business Integration**: Deep integration with business processes required  
-✅ **Competitive Advantage**: Capability provides strategic differentiation  
-✅ **Complex Workflows**: Custom business logic and process flows needed  
-✅ **Stakeholder Experience**: Specific user experience requirements  
+- ✅ **Unique BISO Requirements**: No COTS solution addresses specific need  
+- ✅ **Business Integration**: Deep integration with business processes required  
+- ✅ **Competitive Advantage**: Capability provides strategic differentiation  
+- ✅ **Complex Workflows**: Custom business logic and process flows needed  
+- ✅ **Stakeholder Experience**: Specific user experience requirements  
 
 ### COTS Solution Criteria (Buy When):
-✅ **Standard Functionality**: Common enterprise need with existing solutions  
-✅ **Time Constraints**: Rapid implementation required  
-✅ **Vendor Support**: Ongoing support and maintenance important  
-✅ **Integration Available**: APIs and integration capabilities exist  
-✅ **Cost Effective**: Total cost of ownership lower than custom development  
+- ✅ **Standard Functionality**: Common enterprise need with existing solutions  
+- ✅ **Time Constraints**: Rapid implementation required  
+- ✅ **Vendor Support**: Ongoing support and maintenance important  
+- ✅ **Integration Available**: APIs and integration capabilities exist  
+- ✅ **Cost Effective**: Total cost of ownership lower than custom development  
 
 ## Technology Architecture Principles
 

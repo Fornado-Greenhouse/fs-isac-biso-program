@@ -113,12 +113,12 @@ Share with ALL stakeholders quarterly.
 When asked to do out-of-scope work:
 
 **BAD Response:**
-❌ "That's not my job."
-❌ "I'm too busy."
-❌ "Talk to security operations."
+- ❌ "That's not my job."
+- ❌ "I'm too busy."
+- ❌ "Talk to security operations."
 
 **GOOD Response:**
-✅ "That's security operations work, not BISO advisory work. Let me connect you with [Name] on the security ops team who handles firewall configurations. I'm happy to consult on the security architecture if helpful."
+- ✅ "That's security operations work, not BISO advisory work. Let me connect you with [Name] on the security ops team who handles firewall configurations. I'm happy to consult on the security architecture if helpful."
 
 **Formula:**
 1. **Acknowledge request:** "I understand you need this done..."
@@ -171,16 +171,16 @@ If scope creep continues, escalate to CISO:
 **Shift 1: Change Your Language**
 
 **OLD (Gatekeeper):**
-❌ "No, that violates policy."
-❌ "That's too risky."
-❌ "You can't do that."
-❌ "This requires 3 weeks of pen testing first."
+- ❌ "No, that violates policy."
+- ❌ "That's too risky."
+- ❌ "You can't do that."
+- ❌ "This requires 3 weeks of pen testing first."
 
 **NEW (Enabler):**
-✅ "Here are three options with different risk/speed tradeoffs..."
-✅ "We can enable this if we add monitoring and review after 30 days..."
-✅ "Let's design this to meet both your timeline and security requirements..."
-✅ "How can we make this work within your business constraints?"
+- ✅ "Here are three options with different risk/speed tradeoffs..."
+- ✅ "We can enable this if we add monitoring and review after 30 days..."
+- ✅ "Let's design this to meet both your timeline and security requirements..."
+- ✅ "How can we make this work within your business constraints?"
 
 **Key:** Offer 2-3 options, recommend one, let business decide.
 
@@ -646,7 +646,7 @@ Most BISO challenges are organizational and political, not technical. Prevent pr
 ---
 
 **Related Core Documents:**
-- **01_Program_Guide.md** - Setting up program for success
-- **05_Stakeholder_Engagement.md** - Building trust to prevent challenges
-- **06_Success_Measurement.md** - Monitoring program health
-- **03_Organizational_Design.md** - Clear authority and reporting
+- [01_Program_Guide.md](./01_Program_Guide.md) - Setting up program for success
+- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust to prevent challenges
+- [06_Success_Measurement.md](./06_Success_Measurement.md) - Monitoring program health
+- [03_Organizational_Design.md](./03_Organizational_Design.md) - Clear authority and reporting
