@@ -216,6 +216,10 @@ This security consultation framework component of the BISO program establishes s
 
 ### Consultation Performance Metrics
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Quality Metrics**:
 - **Stakeholder Satisfaction**: Target >4.5/5.0 satisfaction rating from stakeholders per [Success Metrics](./BISOPRO-05_Success_Metrics.md#stakeholder-satisfaction-metrics)
 - **Recommendation Adoption**: Target >80% adoption rate of primary recommendations per [Success Metrics](./BISOPRO-05_Success_Metrics.md#consultation-effectiveness-metrics)

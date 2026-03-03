@@ -379,6 +379,10 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 **Authority Renewal**: Annual renewal process with updated delegation documentation
 
 ### Continuous Improvement
+
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
 **Decision Analysis**: Regular analysis of decision outcomes and effectiveness
 **Stakeholder Feedback**: Ongoing feedback collection on authority usage and impact
 **Process Refinement**: Continuous improvement of authority framework and processes

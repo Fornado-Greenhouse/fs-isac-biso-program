@@ -331,6 +331,10 @@ This comprehensive approach ensures BISO program sustainability through systemat
 
 ## Success Metrics and Performance Framework
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Evolution Effectiveness Metrics
 
 **Adaptation Speed Metrics**

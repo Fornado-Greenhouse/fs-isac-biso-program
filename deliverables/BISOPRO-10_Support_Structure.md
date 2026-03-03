@@ -475,6 +475,10 @@ The BISO support structure operates on four foundational principles aligned with
 
 ### D&I Measurement and Accountability
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Diversity Metrics**:
 - **Representation**: Demographic representation across all levels and roles
 - **Recruitment**: Diversity in candidate pools and hiring outcomes  

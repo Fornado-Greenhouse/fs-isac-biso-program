@@ -138,6 +138,10 @@ SUPPORTING DOCUMENTS (Created during phases above)
 - Meeting schedules
 
 #### BISOPRO-5: BISO Success Metrics (Month 2, Week 1-2)
+
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
 **Purpose**: Define measurable success criteria
 **Dependencies**: BISOPRO-3 (Alignment model)
 **Enables**: Business case, performance management

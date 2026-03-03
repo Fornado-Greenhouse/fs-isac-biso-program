@@ -405,6 +405,10 @@ Each alignment model determines which level of strategic objectives takes priori
 
 ## Alignment Measurement
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Business Alignment Metrics
 - Time to market for new products/services
 - Business stakeholder satisfaction scores

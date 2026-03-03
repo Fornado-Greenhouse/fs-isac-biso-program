@@ -284,6 +284,10 @@ This professional development framework creates industry-leading BISO capabiliti
 
 ## Performance Measurement and ROI
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Learning Effectiveness Metrics
 
 **Quantitative Measures**

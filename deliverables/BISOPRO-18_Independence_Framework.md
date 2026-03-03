@@ -393,6 +393,10 @@ BISOs shall NOT have direct ownership, budget authority, or operational responsi
 **Peer Feedback**: Professional security community input on independence maintenance
 
 ### Continuous Improvement
+
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
 **Framework Evolution**: Regular updates to independence framework based on experience
 **Best Practice Integration**: Incorporation of industry best practices for independence
 **Stakeholder Input**: Continuous stakeholder input on independence effectiveness

@@ -194,6 +194,10 @@ The BISO serves as the primary interface between cybersecurity and business oper
 ## Success Framework
 
 ### Primary Success Metrics
+
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
 - Time to security review: <5 days average
 - Business stakeholder satisfaction: >4.0/5.0
 - Early project engagement: >80% of projects

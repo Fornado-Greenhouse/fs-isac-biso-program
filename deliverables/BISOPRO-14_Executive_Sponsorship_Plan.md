@@ -301,6 +301,10 @@ Solution: Automated dashboards, delegated authorities, exception-based engagemen
 
 ### Sponsorship Effectiveness Measurement
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Quantitative Metrics**:
 - Meeting attendance rate (Target: >90%)
 - Decision response time (Target: <48 hours)

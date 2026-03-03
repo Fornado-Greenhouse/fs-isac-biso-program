@@ -15,6 +15,9 @@ There are no industry-wide metrics specific to the BISO role. Unlike security op
 
 This framework takes a relationship-first approach to BISO measurement. Business outcomes follow naturally when trust is established, stakeholder engagement is genuine, and the BISO is viewed as a valued business partner. Programs that lead with dashboards and financial metrics before building relationships measure the wrong things at the wrong time.
 
+{: .important }
+> **Metric Governance Rule:** This document is the program's single source of truth for KPI/KRI formulas, thresholds, and scoring logic. Other documents may include local operational health checks, but they must not redefine formulas, thresholds, or scoring models.
+
 **Core Measurement Components:**
 
 - **Trust Scorecard (NTS Model)** -- The centerpiece framework measuring stakeholder trust using a single recommendation question and six diagnostics. Monthly assessment with a `G`-range target of +30 to +100 NTS.

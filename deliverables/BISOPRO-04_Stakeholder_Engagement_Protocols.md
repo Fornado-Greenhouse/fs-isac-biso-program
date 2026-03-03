@@ -259,6 +259,10 @@ This document establishes comprehensive stakeholder engagement protocols for BIS
 
 ### Trust Measurement Framework (NTS)
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Executive Trust Foundation (NTS Model)**
 
 This operational framework measures stakeholder trust using a Net Trust Score (NTS) model that executives can interpret immediately and apply consistently across business units.

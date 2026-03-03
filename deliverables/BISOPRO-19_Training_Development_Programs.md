@@ -621,6 +621,10 @@ Provides essential knowledge and skills for all BISO roles, establishing baselin
 
 ## Success Metrics and ROI
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Training Program Metrics
 
 **Participation and Completion Metrics**

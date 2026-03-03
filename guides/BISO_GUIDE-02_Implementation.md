@@ -511,6 +511,10 @@ The Customization Guide provides:
 
 ### Long-term Success Metrics
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Year 1 Targets**:
 - Program operational
 - Initial value demonstrated

@@ -1044,6 +1044,10 @@ PROCESS MATURITY: FULLY AUTOMATED + AI
 **Expected Outcome**: 75-85% overall automation level with 180+ hours/month time savings
 
 ### **Automation Success Metrics**
+
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
 - **Manual Effort Reduction**: Target 60-70% reduction in manual data collection and reporting
 - **Process Speed**: Target 50-75% improvement in process execution time
 - **Data Accuracy**: Target >95% automated data accuracy vs. manual collection  

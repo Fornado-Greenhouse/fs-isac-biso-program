@@ -260,6 +260,10 @@ nav_order: 5
 
 ## Success Metrics & ROI Tracking
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Technology Investment ROI
 
 #### **Year 1**: Break-even through operational efficiency

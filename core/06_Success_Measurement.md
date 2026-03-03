@@ -16,6 +16,10 @@ nav_order: 6
 
 ## The Measurement Challenge
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **The Problem:**
 Most organizations try to measure BISO success with security metrics (vulnerabilities fixed, compliance scores, incidents prevented). But FS-ISAC whitepaper says: *"There are no industry-wide performance metrics defined specifically for the BISO role."*
 

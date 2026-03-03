@@ -182,6 +182,10 @@ Total Program: $9.4M Investment → $19.0M Cost Savings → $9.6M Net Value Crea
 
 ### Risk Reduction Metrics
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Security Incident Reduction**:
 - **Baseline**: 12 security incidents annually (industry average)
 - **Target**: 9 incidents annually (25% reduction)

@@ -310,6 +310,10 @@ This systematic approach ensures acquisition of industry-leading BISO talent thr
 
 ## Success Metrics
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Recruitment Success Indicators
 
 **Time-to-Fill Metrics**:

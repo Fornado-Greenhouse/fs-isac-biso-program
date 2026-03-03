@@ -99,6 +99,10 @@ This framework provides systematic approaches to identify, prevent, and resolve 
 
 ### Success Metrics and Monitoring
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **Leading Indicators**
 - Percentage of requests falling within defined BISO scope (Target: >85%)
 - Time spent on core BISO activities vs. out-of-scope work (Target: >80% core activities)

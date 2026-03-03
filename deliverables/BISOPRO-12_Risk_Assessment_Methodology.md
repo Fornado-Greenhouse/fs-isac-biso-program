@@ -360,6 +360,10 @@ L=Low | M=Medium | H=High | C=Critical | E=Extreme
 
 ## Measurement and Continuous Improvement
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 ### Assessment Effectiveness Metrics
 
 **Process Efficiency Metrics**:

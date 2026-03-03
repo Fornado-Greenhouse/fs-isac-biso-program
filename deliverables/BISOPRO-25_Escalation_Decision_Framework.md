@@ -364,33 +364,21 @@ This escalation framework creates operational excellence through systematic deci
 
 ## Continuous Improvement
 
-### Escalation Effectiveness Metrics
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
 
-**Performance Indicators**:
-- **Decision Velocity**: Average time from trigger to resolution
-- **Escalation Accuracy**: % of appropriate escalations
-- **Resolution Quality**: Stakeholder satisfaction with outcomes
-- **Process Compliance**: % following documented procedures
 
-### Process Optimization Framework
+### Operating Rhythm (Simple and Actionable)
 
-**Monthly Reviews**: 
-- Escalation pattern analysis
-- Resolution time tracking
-- Stakeholder feedback collection
-- Process refinement recommendations
+- **Monthly (required):** Run NTS pulse and escalation cycle-time review.
+- **Quarterly (deep-dive):** Review trend direction, top recurring escalation causes, and one process change for next quarter.
+- **Immediate trigger:** If NTS enters `R` range or escalation cycle time materially degrades, execute targeted recovery actions within the same reporting cycle.
 
-**Quarterly Assessments**:
-- Comprehensive metrics review
-- Stakeholder satisfaction surveys
-- Process improvement implementation
-- Training needs identification
+### Local Health Checks
 
-**Annual Evaluations**:
-- Complete framework effectiveness review
-- Industry benchmark comparison
-- Strategic alignment validation
-- Major process updates
+- **Escalation Cycle Time:** Track average time from trigger to decision and compare against current target in [BISOPRO-05 Success Metrics](./BISOPRO-05_Success_Metrics.md).
+- **Escalation Quality:** Confirm each escalation included clear trigger rationale, impact summary, and owner for next action.
+- **Closure Discipline:** Confirm escalations are closed with decision record and stakeholder communication.
 
 ## Navigation Reference
 

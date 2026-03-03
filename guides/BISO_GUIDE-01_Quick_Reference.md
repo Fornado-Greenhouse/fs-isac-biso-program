@@ -54,6 +54,10 @@ nav_order: 1
 
 ### Phase 4: Continuous Improvement (Months 13-15)
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 | Doc # | Title | Purpose | Key Output |
 |-------|-------|---------|------------|
 | BISOPRO-20 | Professional Development | Ongoing learning | Development framework |

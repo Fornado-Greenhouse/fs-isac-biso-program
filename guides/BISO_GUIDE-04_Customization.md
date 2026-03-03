@@ -125,6 +125,10 @@ Stakeholder Mapping Template:
 
 #### BISOPRO-5: BISO Success Metrics
 
+{: .important }
+> **Metric Governance:** Canonical KPI/KRI formulas, thresholds, and scoring logic are defined in [BISOPRO-05 Success Metrics](../deliverables/BISOPRO-05_Success_Metrics.md). Use this document for local operational checks only.
+
+
 **High Customization Required**
 
 Specific Elements to Customize:
