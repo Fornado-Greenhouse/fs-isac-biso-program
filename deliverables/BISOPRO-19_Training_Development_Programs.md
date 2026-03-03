@@ -50,6 +50,7 @@ This architecture systematically builds BISO capabilities across four progressiv
 
 ### Program Structure Overview
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 BISO TRAINING ARCHITECTURE                                  │
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -79,6 +80,7 @@ This architecture systematically builds BISO capabilities across four progressiv
 │  ▪ Organizational context and alignment                 └─────────────────────────────┘  │
 │                                                                                             │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 **Progressive Development Path**: Each tier builds upon previous capabilities, creating systematic competency advancement with clear performance milestones and business impact measurement.
 

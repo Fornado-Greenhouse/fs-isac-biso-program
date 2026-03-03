@@ -30,3 +30,11 @@ config.json
 *.log
 
 # Internal analysis and documentation
+/docs/plans/
+
+# Jekyll / Bundler local artifacts
+/_site/
+/.bundle_home/
+/.jekyll-cache/
+/.sass-cache/
+/vendor/bundle/

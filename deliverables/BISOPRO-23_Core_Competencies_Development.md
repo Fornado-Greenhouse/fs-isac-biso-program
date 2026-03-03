@@ -50,6 +50,7 @@ This competency framework creates industry-leading BISO capabilities through sys
 
 This systematic framework ensures BISO excellence through structured capability development across four foundational competency domains. The framework creates industry-leading performance through measurable skill advancement and continuous improvement.
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                             BISO COMPETENCY FRAMEWORK                                   │
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -77,6 +78,7 @@ This systematic framework ensures BISO excellence through structured capability 
 │  (0-6 months)   (6-18 months) (18-36 months) (3+ years)  (5+ years)                     │
 │                                                                                             │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Trust Building Competencies
 

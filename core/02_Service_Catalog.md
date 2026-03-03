@@ -7,9 +7,9 @@ nav_order: 2
 
 # BISO Service Catalog
 
-**What BISOs Do:** Help business leaders make informed security decisions
-**Core Principle:** Enable business success while managing security risks
-**Not gatekeepers:** BISOs advise; business leaders decide and own risk
+- **What BISOs Do:** Help business leaders make informed security decisions
+- **Core Principle:** Enable business success while managing security risks
+- **Not Gatekeepers:** BISOs advise; business leaders decide and own risk
 
 ---
 

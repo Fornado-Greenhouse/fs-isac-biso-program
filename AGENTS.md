@@ -14,6 +14,10 @@ Use Ruby/Bundler for local work:
 - `bundle install`: Install Jekyll and theme dependencies from `Gemfile`.
 - `bundle exec jekyll serve --livereload`: Run the site locally for authoring/review.
 - `bundle exec jekyll build`: Produce a production-style site build in `_site/`.
+- If system Ruby is too old for current gems, use Homebrew Ruby 3.3 for this repo only:
+  - `export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"`
+  - `BUNDLE_USER_HOME=.bundle_home BUNDLE_PATH=vendor/bundle bundle install`
+  - `BUNDLE_USER_HOME=.bundle_home BUNDLE_PATH=vendor/bundle bundle exec jekyll build`
 
 CI uses:
 - `bundle exec jekyll build --baseurl "${BASE_PATH}"` (see workflow), so verify local changes with `jekyll build` before opening a PR.

@@ -7,9 +7,9 @@ nav_order: 1
 
 # BISO Stakeholder Mapping Template
 
-**Purpose:** Identify and prioritize key stakeholders for targeted BISO engagement
-**Usage:** Complete quarterly (Month 1, 4, 7, 10) or when stakeholder landscape changes
-**Time Required:** 30-45 minutes initial mapping, 15-20 minutes quarterly updates
+- **Purpose:** Identify and prioritize key stakeholders for targeted BISO engagement
+- **Usage:** Complete quarterly (Month 1, 4, 7, 10) or when stakeholder landscape changes
+- **Time Required:** 30-45 minutes initial mapping, 15-20 minutes quarterly updates
 
 ---
 

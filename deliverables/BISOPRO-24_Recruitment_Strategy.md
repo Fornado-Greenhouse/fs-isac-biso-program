@@ -50,6 +50,7 @@ This recruitment strategy creates competitive advantage through systematic acqui
 
 This systematic approach ensures acquisition of industry-leading BISO talent through structured competency assessment and strategic selection criteria. The framework creates sustainable competitive advantage through superior talent quality and performance optimization.
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                           BISO TALENT EXCELLENCE MATRIX                                    │
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -78,6 +79,7 @@ This systematic approach ensures acquisition of industry-leading BISO talent thr
 │  Screen    Interview  Interview  Assessment Validation                                     │
 │                                                                                             │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ## Ideal Candidate Profile
 

@@ -7,10 +7,10 @@ nav_order: 2
 
 # Trust Scorecard (NTS) Template
 
-**Purpose:** Executive-level trust signal for BISO partnership quality  
-**Time to Complete:** 3-5 minutes  
-**Frequency:** Monthly per key stakeholder  
-**Primary Use:** Fast, low-friction trust measurement with clear follow-up actions
+- **Purpose:** Executive-level trust signal for BISO partnership quality
+- **Time to Complete:** 3-5 minutes
+- **Frequency:** Monthly per key stakeholder
+- **Primary Use:** Fast, low-friction trust measurement with clear follow-up actions
 
 ---
 

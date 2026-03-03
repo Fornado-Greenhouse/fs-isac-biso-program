@@ -350,9 +350,9 @@ Document business impact, not security metrics:
 ## Reporting Framework
 
 ### Monthly (Operational Focus)
-**Audience:** CISO, Program Director
-**Format:** Email update (1 page)
-**Content:**
+- **Audience:** CISO, Program Director
+- **Format:** Email update (1 page)
+- **Content:**
 - NTS trend (last 3 months)
 - Operational metrics vs. targets
 - Key wins and challenges
@@ -363,9 +363,9 @@ Document business impact, not security metrics:
 ---
 
 ### Quarterly (Strategic Focus)
-**Audience:** CISO, Business Unit Leaders, CRO
-**Format:** Presentation (10-15 slides)
-**Content:**
+- **Audience:** CISO, Business Unit Leaders, CRO
+- **Format:** Presentation (10-15 slides)
+- **Content:**
 - NTS by stakeholder group
 - Stakeholder satisfaction trends
 - Operational performance
@@ -377,9 +377,9 @@ Document business impact, not security metrics:
 ---
 
 ### Annual (Business Value Focus)
-**Audience:** Executive committee, Board (if requested)
-**Format:** Executive brief (3-5 pages)
-**Content:**
+- **Audience:** Executive committee, Board (if requested)
+- **Format:** Executive brief (3-5 pages)
+- **Content:**
 - Program maturity assessment
 - Relationship health across organization
 - Business value delivered
@@ -431,37 +431,37 @@ Document business impact, not security metrics:
 ## Common Measurement Mistakes
 
 ### ❌ Mistake 1: Measuring Too Much Too Soon
-**Problem:** New programs try to measure 20+ metrics from day 1
-**Result:** Overwhelm, manual burden, no focus
-**Solution:** Start with NTS only. Add metrics quarterly as capacity allows.
+- **Problem:** New programs try to measure 20+ metrics from day 1
+- **Result:** Overwhelm, manual burden, no focus
+- **Solution:** Start with NTS only. Add metrics quarterly as capacity allows.
 
 ---
 
 ### ❌ Mistake 2: Focusing on Security Metrics Instead of Relationship Metrics
-**Problem:** Measuring vulnerabilities, compliance scores, incidents
-**Result:** Metrics don't reflect BISO value (those are security ops metrics)
-**Solution:** NTS and stakeholder satisfaction are primary. Everything else is secondary.
+- **Problem:** Measuring vulnerabilities, compliance scores, incidents
+- **Result:** Metrics don't reflect BISO value (those are security ops metrics)
+- **Solution:** NTS and stakeholder satisfaction are primary. Everything else is secondary.
 
 ---
 
 ### ❌ Mistake 3: Claiming ROI Too Early
-**Problem:** Calculating ROI in first 6 months without baseline
-**Result:** Inflated, unbelievable numbers that hurt credibility
-**Solution:** Wait 12 months for ROI. Focus on trust metrics first.
+- **Problem:** Calculating ROI in first 6 months without baseline
+- **Result:** Inflated, unbelievable numbers that hurt credibility
+- **Solution:** Wait 12 months for ROI. Focus on trust metrics first.
 
 ---
 
 ### ❌ Mistake 4: Manual Metrics That Become Burdensome
-**Problem:** Complex tracking that takes hours every month
-**Result:** Metrics become obstacle, eventually abandoned
-**Solution:** Keep it simple. Excel is fine for first year. Automate only when manual becomes unsustainable.
+- **Problem:** Complex tracking that takes hours every month
+- **Result:** Metrics become obstacle, eventually abandoned
+- **Solution:** Keep it simple. Excel is fine for first year. Automate only when manual becomes unsustainable.
 
 ---
 
 ### ❌ Mistake 5: Metrics Without Action
-**Problem:** Measuring but not responding to red flags
-**Result:** Metrics become theater, not management tool
-**Solution:** Every red metric gets action plan within 1 week.
+- **Problem:** Measuring but not responding to red flags
+- **Result:** Metrics become theater, not management tool
+- **Solution:** Every red metric gets action plan within 1 week.
 
 ---
 

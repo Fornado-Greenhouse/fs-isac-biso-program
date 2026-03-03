@@ -7,10 +7,10 @@ nav_order: 3
 
 # Monthly NTS Survey Template
 
-**Purpose:** Quick monthly check on stakeholder satisfaction with BISO partnership
-**Time to Complete:** <2 minutes for stakeholders, 10 minutes/month to analyze
-**Frequency:** Monthly
-**Primary Use:** Early warning system for relationship health issues
+- **Purpose:** Quick monthly check on stakeholder satisfaction with BISO partnership
+- **Time to Complete:** <2 minutes for stakeholders, 10 minutes/month to analyze
+- **Frequency:** Monthly
+- **Primary Use:** Early warning system for relationship health issues
 
 ---
 

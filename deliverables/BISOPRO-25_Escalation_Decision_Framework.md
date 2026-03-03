@@ -48,6 +48,7 @@ This escalation framework creates operational excellence through systematic deci
 
 ### Visual Decision Authority Framework
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                           BISO DECISION RIGHTS ARCHITECTURE                               │
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -78,6 +79,7 @@ This escalation framework creates operational excellence through systematic deci
 │  🔴 Critical: Executive/Board              Critical: >$5M / Severe disruption               │
 │                                                                                             │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Decision Categories
 

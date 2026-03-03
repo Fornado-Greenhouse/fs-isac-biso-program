@@ -74,6 +74,7 @@ This comprehensive approach ensures BISO program sustainability through systemat
 
 ### Business Transformation Monitoring Dashboard
 
+```
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
 │                          BUSINESS EVOLUTION MONITORING SYSTEM                             │
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -97,6 +98,7 @@ This comprehensive approach ensures BISO program sustainability through systemat
 │  ▪ AI/ML and emerging tech adoption       ▪ Industry analyst and competitor monitoring      │
 │                                                                                             │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ### Transformation Detection Framework
 
