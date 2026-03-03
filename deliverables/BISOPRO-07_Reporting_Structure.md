@@ -586,8 +586,8 @@ ESCALATION PROCEDURES:
 
 ---
 
-## Conclusion
-This reporting structure optimally balances security independence with business alignment, providing BISOs with the authority and support needed to effectively bridge cybersecurity and business operations while maintaining objectivity and strategic alignment. The dual-reporting model enables the accelerated decision-making and improved stakeholder relationships that drive the $4.8M annual program benefits detailed in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md).
+{: .note}
+> **Key Takeaway:** This reporting structure optimally balances security independence with business alignment, providing BISOs with the authority and support needed to effectively bridge cybersecurity and business operations while maintaining objectivity and strategic alignment. The dual-reporting model enables the accelerated decision-making and improved stakeholder relationships that drive the $4.8M annual program benefits detailed in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md).
 
 ---
 

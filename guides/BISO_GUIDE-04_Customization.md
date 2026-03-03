@@ -765,9 +765,8 @@ Organizations must customize their continuous improvement approach based on orga
 - Salary surveys
 - Certification bodies
 
-## Conclusion
-
-Successful customization balances organizational specificity with proven methodology. Focus customization efforts on:
+{: .note}
+> **Key Takeaway:** Successful customization balances organizational specificity with proven methodology. Focus customization efforts on:
 1. Organization-specific information
 2. Financial and metric data
 3. Compliance requirements

@@ -598,9 +598,8 @@ Phase 2 focuses on implementing the frameworks created in Phase 1, with new docu
 4. Executive testimonials
 5. Industry recognition
 
-## Conclusion
-
-This roadmap provides a proven sequence for implementing a comprehensive BISO program. The key to success is maintaining the documented dependencies while allowing for organizational customization. By following this sequence and timeline, organizations can implement a world-class BISO program in 18 months with full documentation and sustainable processes.
+{: .note}
+> **Key Takeaway:** This roadmap provides a proven sequence for implementing a comprehensive BISO program. The key to success is maintaining the documented dependencies while allowing for organizational customization. By following this sequence and timeline, organizations can implement a world-class BISO program in 18 months with full documentation and sustainable processes.
 
 Remember: The cross-referencing between documents is critical - it creates an integrated ecosystem rather than standalone documents. Maintain these connections as you customize for your organization.
 

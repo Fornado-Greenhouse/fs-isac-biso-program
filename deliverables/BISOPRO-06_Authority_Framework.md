@@ -444,9 +444,8 @@ BISO AUTHORITY IMPLEMENTATION CHECKLIST
 
 ---
 
-## Conclusion
-
-The BISO Authority Framework delivers substantial business value through accelerated decision-making, reduced escalations, and improved decision quality. With a 9-12:1 first-year ROI and <2 month payback period, the authority delegation model represents a high-value investment in organizational agility and security effectiveness. The framework transforms security from a bottleneck to a business enabler while maintaining appropriate governance and risk management.
+{: .note}
+> **Key Takeaway:** The BISO Authority Framework delivers substantial business value through accelerated decision-making, reduced escalations, and improved decision quality. With a 9-12:1 first-year ROI and <2 month payback period, the authority delegation model represents a high-value investment in organizational agility and security effectiveness. The framework transforms security from a bottleneck to a business enabler while maintaining appropriate governance and risk management.
 
 ---
 

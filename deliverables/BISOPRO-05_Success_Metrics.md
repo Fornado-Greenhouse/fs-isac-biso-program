@@ -385,11 +385,11 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Measurement**: Executive assessment surveys
 - **Business Value**: Strategic alignment, resource support
 
-##### Relationship Quality Indicators (RQI) Framework
+#### Relationship Quality Indicators (RQI) Framework
 
 **Philosophy**: The FS-ISAC whitepaper states: "There are no industry-wide performance metrics defined specifically for the BISO role." This framework balances quantitative business metrics with qualitative relationship health indicators that better reflect the BISO's unique value proposition.
 
-**RQI Tier 1: Net Trust Score (NTS)**
+##### RQI Tier 1: Net Trust Score (NTS)
 
 **Metric**: Net Trust Score (`% Promoters - % Detractors`)
 - **Definition**: Executive trust indicator based on recommendation likelihood per [Stakeholder Engagement Protocols](./BISOPRO-04_Stakeholder_Engagement_Protocols.md#trust-measurement-framework-nts)
@@ -397,7 +397,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Measurement**: Monthly stakeholder assessment using trust scorecards (NTS + 6 diagnostics), with quarterly trend review
 - **Business Value**: Predictive indicator of BISO effectiveness and stakeholder cooperation
 
-**RQI Tier 2: Relationship Health Indicators**
+##### RQI Tier 2: Relationship Health Indicators
 
 **Metric**: Stakeholder Engagement Quality
 - **Definition**: Depth and frequency of meaningful business-security interactions
@@ -411,7 +411,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Measurement**: Annual stakeholder perception survey with partnership assessment
 - **Business Value**: Indicates cultural transformation and business integration success
 
-**RQI Tier 3: Influence and Impact Indicators**
+##### RQI Tier 3: Influence and Impact Indicators
 
 **Metric**: Decision Influence Score
 - **Definition**: BISO influence on business decisions relative to security risk significance
@@ -433,7 +433,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Measurement**: Annual advocacy survey and referral tracking
 - **Business Value**: Ultimate indicator of value recognition and program sustainability
 
-**RQI Data Collection Framework**
+##### RQI Data Collection Framework
 
 *Qualitative Assessment Tools*
 
@@ -450,7 +450,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - Correlation analysis between relationship quality and business outcomes
 - Strategic recommendations for relationship enhancement
 
-**RQI Integration with Quantitative Metrics**
+##### RQI Integration with Quantitative Metrics
 
 *Balanced Scorecard Approach*:
 - **30% Weight**: Quantitative business impact metrics (Tier 1-2)
@@ -467,7 +467,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Quarterly Business Review**: Detailed relationship quality analysis with business impact correlation
 - **Annual Strategic Review**: Comprehensive relationship audit with competitive analysis
 
-**RQI Success Thresholds and Escalation**
+##### RQI Success Thresholds and Escalation
 
 *Relationship Health Status System*:
 - G: NTS +30 to +100, partnership perception >75%, high stakeholder advocacy
@@ -486,7 +486,7 @@ For mature programs (Year 2+) seeking comprehensive measurement capabilities. Th
 - **Level 3**: Executive sponsorship engagement per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#relationship-crisis-management)
 - **Level 4**: Strategic program review and potential restructuring
 
-**RQI Continuous Improvement**
+##### RQI Continuous Improvement
 
 *Relationship Quality Evolution*:
 - **Baseline Year**: Establish relationship quality baselines and cultural change targets
@@ -859,89 +859,6 @@ RECURRING CALENDAR EVENTS:
 • ANNUALLY: January 15 - Annual planning session (full day)
 
 ```
-
----
-
-### Automation Implementation Guide
-
-*Reduce manual effort through systematic automation of data collection and reporting*
-
-{: .note }
-This section provides detailed automation specifications. For overall implementation sequencing, see the [BISO Program Implementation Guide](../guides/BISO_GUIDE-02_Implementation.md#bisopro-5-biso-success-metrics).
-
-#### Tier 1: High-Impact Automation (Month 1 Implementation)
-
-**Business Impact Metrics Automation**
-
-**Time-to-Market Acceleration**
-- **System Integration**: Project management APIs (Jira, ServiceNow, Azure DevOps)
-- **Automated Collection**: Security review start/end timestamps -> duration calculation
-- **Real-time Dashboard**: Updates every 4 hours with current averages
-- **Alert Thresholds**: Automatic alerts when reviews exceed 7 days
-- **Implementation Timeline**: 2 weeks
-
-**Revenue Protection**
-- **System Integration**: Business continuity systems, incident response tools
-- **Automated Collection**: Revenue impact calculations from incident data
-- **Monthly Calculation**: Automatic percentage calculation of protected vs. at-risk revenue
-- **Executive Alerts**: Immediate notification of any revenue protection gaps
-- **Implementation Timeline**: 3 weeks
-
-#### Tier 2: Operational Automation (Month 2 Implementation)
-
-**Risk Management Metrics Automation**
-
-**Early Security Engagement**
-- **System Integration**: Project initiation systems, security consultation logs
-- **Automated Tracking**: Project creation -> security involvement timestamp matching
-- **Weekly Reporting**: Automated calculation of engagement percentages
-- **Trend Analysis**: Monthly trend identification with predictive alerts
-- **Implementation Timeline**: 2 weeks
-
-**Exception Management**
-- **System Integration**: GRC systems, risk databases, approval workflows
-- **Automated Tracking**: Exception creation -> resolution time calculation
-- **Real-time Alerts**: Automatic escalation at 36-hour mark (before 48-hour target)
-- **Performance Dashboard**: Live status of all active exceptions
-- **Implementation Timeline**: 3 weeks
-
-#### Tier 3: Advanced Analytics Automation (Month 3+ Implementation)
-
-**Predictive Analytics**
-
-**Stakeholder Satisfaction Prediction**
-- **Data Sources**: Email sentiment analysis, meeting feedback, project completion satisfaction
-- **Machine Learning**: Predict satisfaction scores between quarterly surveys
-- **Early Warning System**: Alert when satisfaction likely to drop below 4.0/5.0
-- **Intervention Triggers**: Automatic stakeholder engagement protocols
-- **Implementation Timeline**: 6-8 weeks
-
-**Business Impact Forecasting**
-- **Data Sources**: Historical metrics, business planning data, market conditions
-- **Predictive Models**: Forecast quarterly business impact and ROI
-- **Scenario Planning**: Automated "what-if" analysis for strategic decisions
-- **Executive Intelligence**: Monthly strategic insight reports
-- **Implementation Timeline**: 8-12 weeks
-
-#### Implementation Priority Matrix
-
-| Automation | Business Impact | Implementation Effort | Priority | Timeline |
-|------------|-----------------|----------------------|----------|----------|
-| **Time-to-Market Tracking** | Very High | Medium | 1 | Week 1-2 |
-| **Exception Management** | High | Low | 2 | Week 2-3 |
-| **Early Engagement Tracking** | High | Medium | 3 | Week 3-4 |
-| **Revenue Protection** | Very High | High | 4 | Week 4-6 |
-| **Stakeholder Satisfaction** | Medium | High | 5 | Month 2-3 |
-| **Predictive Analytics** | High | Very High | 6 | Month 3+ |
-
-#### Automation Success Metrics
-
-- **Manual Effort Reduction**: Target 60-70% reduction in manual data collection
-- **Reporting Speed**: Target 80% faster report generation
-- **Data Accuracy**: Target >95% automated data accuracy vs. manual collection
-- **Real-time Insights**: Target <2 hour data freshness for critical metrics
-
----
 
 ### Continuous Improvement Process
 

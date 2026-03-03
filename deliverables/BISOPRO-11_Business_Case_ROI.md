@@ -306,9 +306,8 @@ Total Program: $9.4M Investment → $19.0M Cost Savings → $9.6M Net Value Crea
 - Competitive advantage indicators
 - Regulatory relationship quality
 
-## Conclusion and Recommendation
-
-The BISO program represents a strategic investment with clear, measurable returns that exceed costs within the first year. With conservative estimates showing 3:1 ROI and competitive benchmarking demonstrating clear advantages, executive commitment to this program will:
+{: .note}
+> **Key Takeaway:** The BISO program represents a strategic investment with clear, measurable returns that exceed costs within the first year. With conservative estimates showing 3:1 ROI and competitive benchmarking demonstrating clear advantages, executive commitment to this program will:
 
 1. **Reduce Costs**: $2.8M+ annually through operational efficiency
 2. **Mitigate Risks**: $1.4M+ value through improved risk management
