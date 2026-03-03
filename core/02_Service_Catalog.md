@@ -219,7 +219,9 @@ Setting clear expectations:
 
 ---
 
-## Next Steps for Business Leaders
+## Next Steps
+
+### For Business Leaders
 
 1. **Identify your assigned BISO** (check with security team)
 2. **Schedule introductory meeting** (30 minutes)
@@ -229,18 +231,13 @@ Setting clear expectations:
 
 ---
 
-## Key Takeaway
+### Need More Detail?
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
 
-**BISOs exist to enable your business success, not slow you down.**
-
-Best BISO relationships start with early engagement, regular communication, and shared accountability for business outcomes. Treat your BISO as a strategic partner, not a security gatekeeper.
-
-**Questions about BISO services?** Ask your BISO – that's what we're here for.
-
----
-
-**Related Core Documents:**
-- **[Program Guide](./01_Program_Guide.md)** - Why BISO programs exist
-- **[Organizational Design](./03_Organizational_Design.md)** - How BISOs are organized
-- **[Stakeholder Engagement](./05_Stakeholder_Engagement.md)** - How to work effectively with BISOs
-- **[Success Measurement](./06_Success_Measurement.md)** - How BISO effectiveness is measured
+{: .note }
+> **Key Takeaway:** BISOs exist to enable your business success, not slow you down. Best results come from early engagement, regular communication, and shared accountability for business outcomes.

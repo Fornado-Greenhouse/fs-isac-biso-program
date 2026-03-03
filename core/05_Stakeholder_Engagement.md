@@ -525,16 +525,13 @@ If NTS is below 0 with key stakeholders, fix relationships before launching new 
 3. **Coach BISOs on low scores** — provide relationship skill development
 4. **Recognize relationship builders** — not just technical experts
 
----
+### Need More Detail?
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
 
-**Key Takeaway:**
-BISO effectiveness is 60% relationships, 40% technical. Measure trust with NTS, prioritize stakeholders with Power-Interest Matrix, and use diagnostics to strengthen trusted advisor behavior.
-
----
-
-**Related Core Documents:**
-- [01_Program_Guide.md](./01_Program_Guide.md) - Why BISOs exist and how to start
-- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver to stakeholders
-- [04_Role_Definitions.md](./04_Role_Definitions.md) - Relationship skills as BISO differentiator
-- [06_Success_Measurement.md](./06_Success_Measurement.md) - NTS as primary relationship metric
-- [07_Common_Challenges.md](./07_Common_Challenges.md) - Solving relationship problems
+{: .note }
+> **Key Takeaway:** BISO effectiveness is relationship-first. Measure trust with NTS, prioritize stakeholders deliberately, and use diagnostics to strengthen trusted-advisor behavior.

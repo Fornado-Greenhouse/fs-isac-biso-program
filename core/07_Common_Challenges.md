@@ -601,7 +601,9 @@ Simple 3-page executive brief:
 
 ---
 
-## Quick Reference: Challenge Toolkit
+## Next Steps
+
+### Challenge Toolkit
 
 ### When Scope Creep Happens:
 1. Use "No" Framework (acknowledge, clarify, redirect, offer advisory)
@@ -638,15 +640,13 @@ Simple 3-page executive brief:
 2. Call in specialists for deep work
 3. Program leadership: monitor and redistribute
 
----
+### Need More Detail?
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
 
-**Key Takeaway:**
-Most BISO challenges are organizational and political, not technical. Prevent problems with clear boundaries, early engagement, strong relationships, and executive support. Address red flags immediately before they become crises.
-
----
-
-**Related Core Documents:**
-- [01_Program_Guide.md](./01_Program_Guide.md) - Setting up program for success
-- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust to prevent challenges
-- [06_Success_Measurement.md](./06_Success_Measurement.md) - Monitoring program health
-- [03_Organizational_Design.md](./03_Organizational_Design.md) - Clear authority and reporting
+{: .note }
+> **Key Takeaway:** Most BISO challenges are organizational and political, not technical. Prevent issues with clear boundaries, early engagement, strong relationships, and executive support.

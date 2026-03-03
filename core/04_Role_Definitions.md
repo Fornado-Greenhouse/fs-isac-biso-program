@@ -574,16 +574,13 @@ BISOs should be compensated competitively with:
 4. **Ask about business unit challenges**, not just security tools
 5. **Show advisory mindset**, not gatekeeper mentality
 
----
+### Need More Detail?
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
 
-**Key Takeaway:**
-Hire for **relationship skills and business acumen**. You can teach security frameworks easier than you can teach someone to build trust and influence without authority.
-
----
-
-**Related Core Documents:**
-- [01_Program_Guide.md](./01_Program_Guide.md) - BISO program overview
-- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
-- [03_Organizational_Design.md](./03_Organizational_Design.md) - Where BISOs fit organizationally
-- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Relationship building framework
-- [06_Success_Measurement.md](./06_Success_Measurement.md) - Performance expectations
+{: .note }
+> **Key Takeaway:** Hire for **relationship skills and business acumen** first. Security frameworks can be trained more easily than trust-building and influence without authority.

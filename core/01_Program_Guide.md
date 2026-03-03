@@ -424,26 +424,17 @@ Scale based on business unit complexity, not just headcount.
 4. **Month 4:** Start measuring trust and relationship metrics
 
 ### Need More Detail?
-- **Service Catalog** → [What BISOs deliver](./02_Service_Catalog.md)
-- **Organizational Design** → [Where BISOs fit](./03_Organizational_Design.md)
-- **Role Definitions** → [BISO qualifications](./04_Role_Definitions.md)
-- **Stakeholder Engagement** → [Building relationships](./05_Stakeholder_Engagement.md)
-- **Success Measurement** → [Tracking effectiveness](./06_Success_Measurement.md)
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
 
 ### Questions?
 This guide provides the foundation. The core documents above provide depth. Start simple, prove value, scale thoughtfully.
 
----
-
-**Key Takeaway:**
-BISO programs succeed when they **enable business velocity** rather than control it. Start with trust, scale with success, measure what matters.
+{: .note }
+> **Key Takeaway:** BISO programs succeed when they **enable business velocity** rather than control it. Start with trust, scale with success, measure what matters.
 
 ---
-
-**Related Core Documents:**
-- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
-- [03_Organizational_Design.md](./03_Organizational_Design.md) - Where BISOs fit
-- [04_Role_Definitions.md](./04_Role_Definitions.md) - BISO qualifications and responsibilities
-- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust and relationships
-- [06_Success_Measurement.md](./06_Success_Measurement.md) - Measuring program effectiveness
-- [07_Common_Challenges.md](./07_Common_Challenges.md) - Preventing and solving problems

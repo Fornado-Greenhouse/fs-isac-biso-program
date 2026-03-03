@@ -526,15 +526,13 @@ Prove relationships first (6 months). Then add operational metrics (6-12 months)
 3. **Address red flags:** NTS below 0 gets immediate attention
 4. **Celebrate wins:** 4.0+ scores show relationship excellence
 
----
+### Need More Detail?
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Organizational Design](./03_Organizational_Design.md) → Where BISOs fit
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
 
-**Key Takeaway:**
-Start with NTS (relationship metrics). Add operational metrics when relationships are solid. Demonstrate financial value only when you have baseline and confidence. Simple measurement done consistently beats complex measurement done occasionally.
-
----
-
-**Related Core Documents:**
-- [01_Program_Guide.md](./01_Program_Guide.md) - Implementation approach and success criteria
-- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver that creates value
-- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - NTS framework and scorecard
-- [07_Common_Challenges.md](./07_Common_Challenges.md) - Fixing low trust indicators and measurement problems
+{: .note }
+> **Key Takeaway:** Start with NTS (relationship metrics), then add operational metrics, then financial value. Simple measurement done consistently beats complex measurement done occasionally.

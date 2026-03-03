@@ -511,21 +511,14 @@ If you have truly independent business units (separate companies in holding stru
 5. **Communicate structure** to all stakeholders clearly
 
 ### Need More Detail?
-- **Program Guide** → [Why BISOs exist](./01_Program_Guide.md)
-- **Role Definitions** → [BISO responsibilities](./04_Role_Definitions.md)
-- **Stakeholder Engagement** → [Building relationships](./05_Stakeholder_Engagement.md)
-- **Success Measurement** → [Tracking performance](./06_Success_Measurement.md)
+- [Program Guide](./01_Program_Guide.md) → Why BISOs exist and how to start
+- [Service Catalog](./02_Service_Catalog.md) → What BISOs deliver
+- [Role Definitions](./04_Role_Definitions.md) → BISO qualifications
+- [Stakeholder Engagement](./05_Stakeholder_Engagement.md) → Building relationships
+- [Success Measurement](./06_Success_Measurement.md) → Tracking effectiveness
+- [Common Challenges](./07_Common_Challenges.md) → Preventing and resolving issues
+
+{: .note }
+> **Key Takeaway:** The dual reporting structure (CISO primary, business dotted-line) with a hybrid functional-product alignment model gives the best balance of security independence and business partnership.
 
 ---
-
-**Key Takeaway:**
-The dual reporting structure (CISO primary, business dotted-line) with a hybrid functional-product alignment model provides the best balance of security independence and business partnership. Start with this model unless you have compelling reasons for alternatives.
-
----
-
-**Related Core Documents:**
-- [01_Program_Guide.md](./01_Program_Guide.md) - BISO program foundations
-- [02_Service_Catalog.md](./02_Service_Catalog.md) - What BISOs deliver
-- [04_Role_Definitions.md](./04_Role_Definitions.md) - BISO job requirements
-- [05_Stakeholder_Engagement.md](./05_Stakeholder_Engagement.md) - Building trust with dual reporting
-- [06_Success_Measurement.md](./06_Success_Measurement.md) - Measuring organizational effectiveness
