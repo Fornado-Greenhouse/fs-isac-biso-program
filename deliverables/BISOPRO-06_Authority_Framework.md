@@ -11,34 +11,6 @@ nav_order: 1
 
 ---
 
-## Quick Navigation
-
-**For Executives:**
-- [Authority at a Glance](#overview) - 30-second authority overview
-- [Decision Authority Matrix](#decision-authority-matrix) - Clear decision rights and approval requirements
-- [Authority Accountability](#authority-accountability) - Performance measurement and responsibility framework
-- [Authority Review and Evolution](#authority-review-and-evolution) - Governance and continuous improvement
-
-**For BISOs:**
-- [Authority Levels](#authority-levels) - Detailed decision authority and scope definitions
-- [Authority Enablement](#authority-enablement) - Delegation documentation and resource authority
-- [Authority Support Structure](#authority-support-structure) - CISO and business support framework
-- [Authority Accountability](#authority-accountability) - Performance expectations and reporting requirements
-
-**For Business Leaders:**
-- [Mini CISO Concept](#mini-ciso-concept) - BISO authority model and business partnership
-- [Decision Authority Matrix](#decision-authority-matrix) - Business involvement in security decisions
-- [Authority Support Structure](#authority-support-structure) - Business support and escalation procedures
-- [Authority Review and Evolution](#authority-review-and-evolution) - Regular authority assessment and feedback
-
-**For Implementation Teams:**
-- [Delegation Documentation](#delegation-documentation) - Formal authority delegation and documentation
-- [Authority Enablement](#authority-enablement) - Resource allocation and information access
-- [Implementation Templates](#implementation-templates) - Authority deployment and management procedures
-- [Authority Measurement](#authority-accountability) - Performance tracking and optimization
-
----
-
 ## Overview
 This framework establishes the BISO as a "mini CISO" with delegated authority to make security decisions within their business unit scope, ensuring effective security leadership while maintaining appropriate oversight and escalation procedures. This framework implements the authority structure defined in our [Charter](./BISOPRO-01_Charter.md#authority-and-decision-rights) and directly addresses the decision-making challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#inconsistent-risk-management). The framework supports the operational processes outlined in our [Key Processes Implementation](./BISOPRO-09_Key_Processes_Implementation.md) and aligns with the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md).
 

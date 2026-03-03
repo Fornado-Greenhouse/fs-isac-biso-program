@@ -25,32 +25,6 @@ The BISO Executive Sponsorship Plan establishes the framework for securing and m
 
 **Implementation Reality Check**: Success requires sustained executive attention competing with 15-20 other strategic initiatives. This plan addresses attention management through structured engagement cadences, delegated decision authorities per [Authority Framework](./BISOPRO-06_Authority_Framework.md), and automated performance dashboards minimizing executive time investment while maintaining oversight effectiveness.
 
-## Quick Navigation
-
-### For C-Suite Executives
-- [Executive Decision Matrix](#executive-decision-matrix) - Critical decisions with timing and impact
-- [Investment & ROI Dashboard](#investment-roi-dashboard) - Financial commitment and return tracking
-- [Executive Time Commitment](#executive-time-commitment) - Realistic time investment requirements
-- [Success Accountability Framework](#success-accountability-framework) - Performance oversight structure
-
-### For Board/Audit Committee
-- [Governance Oversight Model](#governance-oversight-model) - Board-level accountability
-- [Risk Reduction Metrics](#risk-reduction-metrics) - Enterprise risk impact measurement
-- [Regulatory Compliance Status](#regulatory-compliance-status) - Compliance improvement tracking
-- [Industry Positioning](#industry-positioning) - Competitive advantage realization
-
-### For Implementation Teams
-- [Stakeholder Engagement Roadmap](#stakeholder-engagement-roadmap) - Detailed engagement timeline
-- [Communication Protocols](#communication-protocols) - Stakeholder-specific messaging
-- [Commitment Tracking Tools](#commitment-tracking-tools) - Sponsorship effectiveness measurement
-- [Escalation Procedures](#escalation-procedures) - Issue resolution pathways
-
-### For Program Managers
-- [Sponsorship Health Metrics](#sponsorship-health-metrics) - Executive engagement monitoring
-- [Resource Commitment Tracking](#resource-commitment-tracking) - Budget and resource allocation
-- [Milestone Achievement](#milestone-achievement) - Program progress reporting
-- [Risk Mitigation Strategies](#risk-mitigation-strategies) - Sponsorship risk management
-
 ## Executive Decision Matrix
 
 ```

@@ -18,37 +18,6 @@ nav_order: 3
 - **BISO Program Director**: $220-280K | 15+ years | Overall program leadership and strategy
 - **Team Structure**: 10 total positions with clear career progression paths
 
-*See [Quick Navigation](#quick-navigation) for role-specific details*
-
----
-
-## Quick Navigation
-
-**For Executives:**
-- [BISO Roles at a Glance](#overview) - 30-second overview of all positions
-- [BISO Program Director](#biso-program-director) - Senior leadership role overview and requirements
-- [Compensation Summary](#compensation-and-benefits) - Total compensation packages across all levels
-- [Application Process](#application-process) - Recruitment timeline and selection criteria
-
-**For HR/Recruiters:**
-- [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) - Critical role boundaries to prevent scope creep
-- [Required Qualifications](#required-qualifications) - Education, certification, and experience requirements
-- [Selection Timeline](#selection-timeline) - Structured recruitment process and timelines
-- [Equal Opportunity Statement](#equal-opportunity-statement) - Diversity and inclusion commitments
-- [Contact Information](#contact-information) - Recruitment team contacts and resources
-
-**For Candidates:**
-- [Senior BISO](#senior-business-information-security-officer) - Entry-level BISO position details
-- [What BISOs Don't Do](#what-bisos-dont-do-role-boundaries-and-exclusions) - Understanding role boundaries and focus areas
-- [Principal BISO](#principal-business-information-security-officer) - Senior strategic position overview
-- [Career Progression](#biso-career-progression-framework) - Growth opportunities and advancement paths
-- [How to Apply](#how-to-apply) - Application requirements and process
-
-**For Program Managers:**
-- [Team Structure Overview](#biso-program-roles-overview) - Full team composition and reporting
-- [Role Differentiation](#role-differentiation-framework) - Clear distinctions between levels
-- [Performance Expectations](#key-responsibilities) - Role-specific accountability measures
-- [Professional Development](#compensation-and-benefits) - Training and growth investments
 
 ---
 

@@ -19,40 +19,11 @@ nav_order: 2
 - **Authority Model**: Delegated decision-making within defined parameters
 - **Independence Framework**: Clear separation from technology ownership
 
-*See [Quick Navigation](#quick-navigation) for role-specific guidance*
 
 ---
 
 ## Executive Summary
 This document defines the optimal organizational reporting structure for the Business Information Security Officer (BISO) program, balancing security expertise with business alignment while maintaining appropriate authority and independence. This structure implements the organizational design requirements established in our [Charter](./BISOPRO-01_Charter.md#organizational-structure) and addresses the alignment challenges identified in our [Problem Statement](./BISOPRO-02_Problem_Statement.md#security-business-alignment-gap). The structure supports the authority framework defined in our [Authority Framework](./BISOPRO-06_Authority_Framework.md) while maintaining the independence requirements specified in our [Independence Framework](./BISOPRO-18_Independence_Framework.md). This organizational design enables the business value delivery outlined in our [Business Case ROI](./BISOPRO-11_Business_Case_ROI.md) through effective dual accountability and streamlined decision-making.
-
----
-
-## Quick Navigation
-
-**For Executives:**
-- [Reporting Structure at a Glance](#overview) - 30-second organizational overview
-- [Primary Reporting Structure](#primary-reporting-structure) - CISO direct reporting rationale and benefits
-- [Independence Framework](#independence-framework) - Technology separation and objectivity safeguards
-- [Review and Governance](#review-and-governance) - Organizational effectiveness measurement and optimization
-
-**For BISOs:**
-- [BISO → CISO Direct Reporting](#biso--ciso-direct-reporting) - Primary reporting relationship details and expectations
-- [Business Unit Dotted-Line Relationship](#business-unit-dotted-line-relationship) - Secondary relationship management and collaboration
-- [Authority Framework](#authority-framework) - "Mini CISO" authority model and decision rights
-- [Escalation Framework](#escalation-framework) - Clear escalation paths and conflict resolution procedures
-
-**For Business Leaders:**
-- [Business Unit Dotted-Line Relationship](#business-unit-dotted-line-relationship) - Business partnership model and collaboration
-- [Dual Accountability](#organizational-design-principles) - Balanced security and business performance expectations
-- [Escalation Framework](#escalation-framework) - Business conflict resolution and resource coordination
-- [Implementation Considerations](#implementation-considerations) - Change management and stakeholder engagement
-
-**For Implementation Teams:**
-- [Organizational Design Principles](#organizational-design-principles) - Core design philosophy and requirements
-- [Independence Framework](#independence-framework) - Implementation of separation requirements and safeguards
-- [Implementation Considerations](#implementation-considerations) - Change management, success factors, and risk mitigation
-- [Review and Governance](#review-and-governance) - Monitoring, assessment, and continuous improvement procedures
 
 ---
 

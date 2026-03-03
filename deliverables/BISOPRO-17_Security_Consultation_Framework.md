@@ -22,32 +22,6 @@ This security consultation framework component of the BISO program establishes s
 
 **Strategic Value**: Professional consultation framework positions BISOs as trusted business advisors enabling innovation while maintaining security effectiveness through structured advisory processes.
 
-## Quick Navigation
-
-### For C-Suite Executives
-- **[Service Portfolio](#consultation-service-portfolio)**: Available advisory services and business value
-- **[Quality Standards](#consultation-quality-standards)**: Professional service commitments and metrics
-- **[Resource Requirements](#implementation-investment)**: Business unit time and engagement needs
-- **[Performance Framework](#consultation-performance-metrics)**: Success measurement and ROI tracking
-
-### For Business Unit Leaders
-- **[Engagement Requirements](#stakeholder-engagement-framework)**: SME participation and collaboration expectations
-- **[Service Delivery Process](#consultation-delivery-framework)**: How consultation services work
-- **[Quality Assurance](#consultation-quality-standards)**: Service standards and deliverable expectations
-- **[Success Measurement](#consultation-performance-metrics)**: Business impact tracking
-
-### For Implementation Teams
-- **[Delivery Framework](#consultation-delivery-framework)**: Consultation methodology and workflow processes
-- **[Request Management](#consultation-request-and-intake-process)**: Intake, prioritization, and response procedures
-- **[Quality Controls](#consultation-quality-standards)**: Standards enforcement and validation
-- **[Continuous Improvement](#continuous-improvement-framework)**: Service optimization and enhancement
-
-### For Program Managers
-- **[Resource Planning](#implementation-investment)**: SME time allocation and capacity management
-- **[Process Coordination](#consultation-delivery-framework)**: Service delivery workflow management
-- **[Performance Management](#consultation-performance-metrics)**: Success tracking and reporting
-- **[Stakeholder Coordination](#stakeholder-engagement-framework)**: Cross-functional engagement management
-
 ## Consultation Service Portfolio
 
 ### Service Architecture Framework

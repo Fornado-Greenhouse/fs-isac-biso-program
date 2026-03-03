@@ -21,32 +21,6 @@ nav_order: 2
 
 **🎯 Business Outcomes**: Consistent risk evaluation, improved audit outcomes, enhanced regulatory confidence, and systematic business-security risk integration across all organizational initiatives.
 
-## 🧭 Quick Navigation
-
-### 👨‍💼 For Executive Decision Makers
-- [ROI Analysis & Investment](#assessment-program-roi-analysis) - Investment justification and business value
-- [Business Impact Framework](#business-impact-assessment-framework) - Financial risk quantification approach
-- [Executive Review Process](#executive-review-process) - Leadership approval and oversight requirements
-- [Strategic Value](#strategic-business-alignment) - Competitive advantage through superior risk management
-
-### 🏗️ For Implementation Teams
-- [Risk Assessment Methodology](#risk-assessment-methodology) - Complete 4-phase assessment process
-- [Assessment Deliverables](#assessment-deliverables) - Standard reports and communication materials
-- [Quality Assurance Framework](#quality-assurance-framework) - Standards and peer review requirements
-- [Technology Requirements](#assessment-tool-and-technology-requirements) - Platform and integration needs
-
-### 📊 For Program Managers
-- [Process Workflow](#risk-assessment-workflow-visualization) - Visual methodology workflow and timeline
-- [Resource Requirements](#assessment-resource-allocation) - Team capacity and skill requirements
-- [Success Metrics](#assessment-effectiveness-metrics) - Performance measurement and KPIs
-- [Continuous Improvement](#continuous-improvement-framework) - Enhancement and optimization processes
-
-### 🔍 For BISOs
-- [Assessment Execution](#risk-assessment-methodology) - Step-by-step assessment methodology
-- [Risk Rating Framework](#risk-evaluation-and-prioritization) - Standardized risk scoring and prioritization
-- [Stakeholder Engagement](#stakeholder-engagement-framework) - Business stakeholder collaboration approach
-- [Business Translation](#business-risk-communication) - Technical risk to business impact translation
-
 ## 🔄 Risk Assessment Workflow Visualization
 
 ```

@@ -18,32 +18,6 @@ This escalation framework creates operational excellence through systematic deci
 
 **Implementation Excellence**: Complete decision rights architecture that transforms potential conflicts into structured resolutions while maintaining business velocity and stakeholder confidence through transparent escalation procedures.
 
-## Quick Navigation
-
-### For C-Suite Executives
-- **[Decision Rights Matrix](#decision-rights-matrix)**: Authority levels and approval requirements
-- **[Escalation Triggers](#escalation-trigger-framework)**: Risk-based and situational escalation criteria
-- **[Executive Escalations](#executive-resolution)**: Board and C-level decision procedures
-- **[Cost Impact](#operational-value)**: Decision delay prevention and conflict cost reduction
-
-### For Board Members
-- **[Critical Risk Escalations](#critical-risk-executive-escalation)**: Board-level security decisions
-- **[Strategic Decisions](#decision-categories)**: Authority boundaries and oversight requirements
-- **[Governance Framework](#decision-rights-architecture)**: Decision rights and accountability structure
-- **[Risk Thresholds](#risk-based-escalation-triggers)**: Financial and operational impact triggers
-
-### For Implementation Teams
-- **[Escalation Procedures](#escalation-procedures)**: Step-by-step escalation processes
-- **[Decision Categories](#decision-categories)**: Autonomous vs escalated decision types
-- **[Documentation Standards](#escalation-documentation)**: Required documentation and templates
-- **[Communication Framework](#communication-framework)**: Stakeholder notification procedures
-
-### For Program Managers
-- **[Escalation Paths](#escalation-paths)**: Security, stakeholder, and resource escalation routes
-- **[Timeline Requirements](#situational-escalation-triggers)**: Response time requirements by urgency
-- **[Conflict Resolution](#stakeholder-conflict-escalations)**: Structured conflict management levels
-- **[Continuous Improvement](#continuous-improvement)**: Escalation effectiveness optimization
-
 ## Decision Rights Architecture
 
 ### Visual Decision Authority Framework

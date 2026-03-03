@@ -21,7 +21,6 @@ nav_order: 4
 - **Innovation Enablement**: Security support for strategic technology initiatives
 - **Competitive Advantage**: Security-enabled business opportunities and differentiation
 
-*See [Quick Navigation](#quick-navigation) for detailed process implementation*
 
 ---
 
@@ -36,38 +35,6 @@ This document defines the core operational processes that enable effective BISO 
 - **Performance Tier Monitoring**: 🟢🟡🔴 performance indicators with clear escalation procedures aligned with BISOPRO-05 dashboards
 - **Automation Readiness**: Process maturity progression from manual to automated operations based on organizational capabilities
 - **Large Organization Reality**: All processes designed for the complex, multi-system environment typical of large enterprises
-
----
-
-## Quick Navigation
-
-**For Executives:**
-- [Key Processes at a Glance](#overview) - 30-second process overview with value delivery summary
-- [Executive Process Flow](#executive-process-decision-framework) - Visual decision tree for process oversight and approval
-- [Business Value Metrics](#executive-summary) - ROI and value delivery tracking with performance tier monitoring
-- [Implementation Roadmap](#process-architecture-overview) - Phased deployment timeline with executive milestones
-- [Risk Management](#risk-management-and-mitigation) - Process risks and success assurance with executive escalation
-
-**For BISOs:**
-- [Core Process 1: Business Partnership](#core-process-1-business-partnership-and-engagement) - Stakeholder relationship management
-- [Core Process 2: Project Integration](#core-process-2-project-security-integration) - Early security engagement
-- [Core Process 3: Risk Management](#core-process-3-business-risk-assessment-and-management) - Business-aligned risk processes
-- [Core Process 4: Compliance](#core-process-4-regulatory-compliance-support) - Regulatory and audit support
-- [Core Process 5: Incident Response](#core-process-5-incident-response-and-communication) - Business-focused incident management
-- [Core Process 6: Innovation Enablement](#core-process-6-innovation-enablement) - Technology adoption and digital transformation security
-- [Core Process 7: Competitive Advantage](#core-process-7-competitive-advantage-development) - Security differentiation and market positioning
-
-**For Implementation Teams:**
-- [Process Architecture](#process-architecture-overview) - Framework and dependencies
-- [Technology Requirements](#technology-and-tool-requirements) - Platform and integration needs
-- [Process Templates](#process-templates-and-checklists) - Ready-to-use operational tools
-- [Success Metrics](#success-metrics-and-kpis) - Measurement and monitoring framework
-
-**For Process Owners:**
-- [Process Steps](#process-steps) - Detailed workflows and activities
-- [RACI Matrices](#executive-process-decision-framework) - Clear roles and responsibilities
-- [Integration Points](#process-integration-and-coordination) - Cross-process dependencies
-- [Optimization Framework](#process-optimization-framework) - Continuous improvement approach
 
 ---
 

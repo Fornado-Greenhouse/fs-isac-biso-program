@@ -18,7 +18,6 @@ nav_order: 5
 - **Communication Infrastructure**: Executive reporting and stakeholder collaboration tools
 - **Technology Integration**: Platforms supporting all framework operations
 
-*See [Quick Navigation](#quick-navigation) for detailed support framework*
 
 ---
 
@@ -31,34 +30,6 @@ This document defines the comprehensive support structure required for effective
 - **Performance Dashboard Templates**: Real-time monitoring of support effectiveness and resource utilization
 - **Implementation Readiness**: Complete deployment templates, onboarding procedures, and success measurement
 - **Inclusive Excellence Framework**: Comprehensive D&I strategy driving innovation and superior outcomes
-
----
-
-## Quick Navigation
-
-**For Executives:**
-- [Support Structure at a Glance](#overview) - 30-second support strategy overview
-- [Team Architecture Overview](#team-architecture-overview) - Visual team structure and coordination model
-- [Resource Investment Summary](#resource-investment-summary) - Support costs, ROI, and value delivery
-- [Support Performance Dashboard](#support-performance-dashboard) - Real-time effectiveness monitoring
-
-**For Team Leaders:**
-- [Team Coordination Framework](#team-coordination-framework) - Operational coordination and management procedures
-- [Communication Infrastructure](#communication-infrastructure) - Platform capabilities and stakeholder engagement
-- [D&I Implementation Strategy](#di-implementation-strategy) - Inclusive excellence deployment and measurement
-- [Technology Platform Management](#technology-platform-requirements) - System administration and optimization
-
-**For Support Staff:**
-- [Data Analytics Service Catalog](#data-analytics-service-catalog) - Analytics capabilities and delivery framework
-- [Communication Standards](#communication-standards-and-protocols) - Professional communication and branding requirements
-- [Team Development Framework](#team-development-and-culture) - Professional development and career advancement
-- [Technology User Guides](#infrastructure-and-technology-requirements) - Platform utilization and best practices
-
-**For Stakeholders:**
-- [Support Services Overview](#support-services-overview) - Available support capabilities and engagement procedures
-- [Stakeholder Communication Channels](#stakeholder-communication-channels) - Engagement options and feedback mechanisms
-- [Performance Measurement](#infrastructure-success-metrics) - Support effectiveness tracking and optimization
-- [Resource Request Procedures](#resource-allocation-and-coordination-templates) - How to engage support resources
 
 ---
 

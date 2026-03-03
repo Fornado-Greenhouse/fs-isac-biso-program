@@ -18,32 +18,6 @@ This competency framework creates industry-leading BISO capabilities through sys
 
 **Implementation Value**: Complete competency system that transforms individual BISOs into strategic business partners while ensuring consistent excellence standards across all program phases and organizational levels.
 
-## Quick Navigation
-
-### For C-Suite Executives
-- **[Strategic Competencies](#business-partnership-competencies)**: Business integration and executive partnership capabilities
-- **[Performance Excellence](#competency-assessment-and-development)**: Competency-driven performance optimization
-- **[Competitive Advantage](#trust-building-competencies)**: Superior stakeholder relationship and trust-building capabilities
-- **[Development Investment](#competency-development-resources)**: Competency program resource requirements and value
-
-### For Board Members
-- **[Strategic Oversight](#executive-communication-competencies)**: Board-level communication and risk translation capabilities
-- **[Risk Management](#risk-management-competencies)**: Advanced risk assessment and mitigation competencies
-- **[Performance Assurance](#success-metrics-and-continuous-improvement)**: Competency effectiveness measurement and tracking
-- **[Talent Excellence](#professional-development-integration)**: Industry-leading competency standards and development
-
-### For Implementation Teams
-- **[Competency Assessment](#competency-assessment-framework)**: Systematic competency evaluation and gap analysis
-- **[Development Planning](#individual-development-planning)**: Structured capability building and skill enhancement
-- **[Performance Measurement](#competency-performance-metrics)**: Competency tracking and improvement measurement
-- **[Resource Allocation](#competency-development-resources)**: Development program implementation and coordination
-
-### For Program Managers
-- **[Team Development](#team-competency-coordination)**: Cross-functional competency building and coordination
-- **[Performance Management](#competency-based-performance-management)**: Competency-driven performance optimization
-- **[Success Tracking](#competency-success-indicators)**: Achievement measurement and milestone monitoring
-- **[Continuous Improvement](#ongoing-competency-enhancement)**: Evolving competency standards and enhancement
-
 ## Core Competency Framework
 
 ### Comprehensive Competency Architecture

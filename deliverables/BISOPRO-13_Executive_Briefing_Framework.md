@@ -25,32 +25,6 @@ This executive briefing component of the BISO program transforms complex securit
 
 **Implementation Realism**: Executives manage 25-30 strategic initiatives simultaneously with limited attention spans. This briefing approach employs exception-based reporting, automated dashboards, and concise formats to maximize impact while minimizing executive time burden per [Executive Sponsorship Plan](./BISOPRO-14_Executive_Sponsorship_Plan.md#realistic-time-commitments).
 
-## Quick Navigation
-
-### For C-Suite Executives
-- [Executive Dashboard Overview](#executive-dashboard) - Real-time visibility into program performance
-- [Quarterly Strategic Briefings](#quarterly-executive-briefings) - Strategic decision support and value demonstration
-- [Crisis Communication Protocols](#crisis-communication-protocols) - Emergency briefing procedures and escalation
-- [ROI and Value Reporting](#executive-summary) - Financial performance and competitive advantage
-
-### For Board/Audit Committee
-- [Board Briefing Templates](#briefing-architecture) - Governance-focused reporting and oversight
-- [Risk Communication](#executive-dashboard) - Enterprise risk visibility and management
-- [Regulatory Status Reporting](#quarterly-executive-briefings) - Compliance posture and examiner relationships
-- [Competitive Position Updates](#briefing-architecture) - Market differentiation and industry leadership
-
-### For Implementation Teams
-- [Briefing Production Process](#briefing-management) - Content creation and review workflows
-- [Stakeholder Communication Plans](#stakeholder-engagement) - Multi-audience communication strategy
-- [Performance Metrics](#briefing-effectiveness-metrics) - Success measurement and optimization
-- [Content Standards and Templates](#deliverable-quality) - Quality assurance and consistency
-
-### For Program Managers
-- [Communication Calendar](#briefing-calendar) - Integrated reporting schedule and dependencies
-- [Resource Requirements](#briefing-resource-allocation) - Staffing and budget planning for communications
-- [Success Metrics Tracking](#communication-impact-measurement) - Effectiveness measurement and improvement
-- [Continuous Improvement Process](#briefing-optimization) - Evolution and enhancement
-
 ## Executive Dashboard
 
 ```

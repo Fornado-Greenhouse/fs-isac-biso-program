@@ -29,22 +29,6 @@ For comprehensive measurement capabilities including 5-tier systems, automation,
 
 ---
 
-## Quick Navigation
-
-**For Executives:**
-- [Trust Framework (NTS)](#trust-framework-nts) -- The primary BISO success measure
-- [Simple Business Outcome Tracking](#simple-business-outcome-tracking) -- Practical business metrics
-
-**For Practitioners:**
-- [Monthly Pulse Survey](#monthly-pulse-survey) -- NTS-based recurring measurement
-- [Getting Started: First 90 Days](#getting-started-first-90-days) -- Implementation roadmap
-
-**For Program Managers:**
-- [Relationship Health Indicators](#relationship-health-indicators) -- Engagement quality and advocacy
-- [Getting Started: First 90 Days](#getting-started-first-90-days) -- Reporting cadence and rhythm
-
----
-
 ## Trust Framework (NTS)
 
 This framework uses an executive-friendly Net Trust Score (NTS) model to measure trust without complex formulas.
