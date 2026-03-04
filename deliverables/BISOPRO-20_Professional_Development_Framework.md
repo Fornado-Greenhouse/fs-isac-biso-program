@@ -12,6 +12,8 @@ nav_order: 10
 
 This professional development framework creates industry-leading BISO capabilities through structured career advancement, certification achievement, and thought leadership development. This Phase 4 deliverable (Months 13-15) establishes sustainable excellence that maintains competitive advantage and drives long-term program success.
 
+This document aligns with both the 2024 FS-ISAC BISO Program Role Whitepaper and the 2025 companion paper, translating role guidance into a practical development pathway for operational teams.
+
 **Executive Decision Required**: Approve comprehensive professional development investment to establish industry-leading BISO capabilities and retain top talent through strategic career advancement.
 
 **Strategic Investment**: Professional development program that transforms individual BISOs into industry thought leaders while ensuring organizational knowledge retention and capability advancement.

@@ -7,6 +7,10 @@ nav_order: 11
 # BISO Framework Cross-Reference Index
 **Purpose**: Maps BISO whitepaper concepts to framework implementation documents
 
+## Source Lineage
+This index maps concepts from the 2024 FS-ISAC BISO Program Role Whitepaper to their implementation locations in this repository. Updates from the 2025 companion paper inform terminology where relevant, but this page remains a concept-to-location index, not a full source-by-source concordance.
+For preserved external citations used during alignment, see [Source Bibliography](./core/07_Source_Bibliography.md).
+
 ## 🎯 Quick Navigation
 
 ### Most Searched Topics
@@ -237,7 +241,7 @@ Start with **[Technology Strategy](./guides/BISO_GUIDE-05_Technology_Strategy.md
 1. **Use GitHub Search**: Search across all 30 documents for specific terms
 2. **Check Related Documents**: Each document contains 10-15 cross-references
 3. **Review Phase Documents**: Concepts may be in adjacent phase documents
-4. **Consult [CLAUDE.md](./CLAUDE.md)**: Contains navigation guidance and common patterns
+4. **Use section indexes**: Start with each document's "Need More Detail?" and related-links sections for fast navigation
 
 ### Still need help?
 

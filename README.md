@@ -7,6 +7,8 @@ permalink: /
 
 # FS-ISAC BISO Program - Complete Implementation Framework
 
+> **Disclaimer:** This repository is not associated with FS-ISAC and was produced by an independent individual contributor unassociated with any particular institution.
+
 ## 🎯 **"BISO Program in a Box"**
 
 This repository contains the most comprehensive Business Information Security Officer (BISO) program implementation framework available. With 30 core documents (25 deliverables + 5 guides) totaling 500+ pages, this framework enables any organization to implement a world-class BISO program that delivers 4-5:1 ROI while bridging cybersecurity and business operations.
@@ -387,9 +389,3 @@ All BISO processes integrate with existing business processes:
 - **Cross-References**: 500+ interconnections creating integrated ecosystem
 - **Development**: 4 phases over 18 months of intensive development
 - **Validation**: Multiple organizational reviews and industry expert input
-
-**Contact & Governance**:
-- **Owner**: BISO Program Team
-- **Repository**: FS-ISAC BISO Program Implementation Framework
-- **Support**: FS-ISAC BISO Community
-- **Updates**: Quarterly improvements and annual major releases

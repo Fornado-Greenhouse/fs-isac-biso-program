@@ -1,0 +1,182 @@
+The Business Information Security Officer: An Overview 
+Actionable Advice from Practitioners in Four Industries
+The Business Information Security Officer: An Overview 
+Actionable Advice from Practitioners in Four Industries
+TLP WHITE
+
+© 2025 FS-ISAC, Inc. | All rights reserved
+TLP WHITE
+
+© 2025 FS-ISAC, Inc. | All rights reserved
+Contributors
+
+Aaron Kirby, Senior Vice President, Security Business Solutions, Mastercard
+Alok Nigam, Director, Technology Risk & Cybersecurity, American Express
+Amit Khosla, Business Information Security Officer, Fannie Mae
+Ann Hines, Business Information Security Officer, USAA
+Barbara Verde, Business Security Advisory, Ahold Delhaize Group
+Carlos Gonzalez, Business Information Security Officer, Wells Fargo
+Chiheb El Ouekdi, Business Information Security Officer, Industrielle Alliance, Assurance et services financiers
+Carly Miller, Business Unit Risk Lead Vice President, Comerica
+Donald Schmidt, Business Information Security Officer, Fannie Mae
+Ian McNiff, Business Information Security Officer, Lowes
+Irina Singh, Business Information Security Officer, Baxter International Inc.
+Jackie Deloplaine, Manager – Cyber Intelligence Engagement, RH-ISAC
+Jocelyn Anderson, Assistant Vice President, Information Security, HarborOne Bank
+Contributors
+
+Aaron Kirby, Senior Vice President, Security Business Solutions, Mastercard
+Alok Nigam, Director, Technology Risk & Cybersecurity, American Express
+Amit Khosla, Business Information Security Officer, Fannie Mae
+Ann Hines, Business Information Security Officer, USAA
+Barbara Verde, Business Security Advisory, Ahold Delhaize Group
+Carlos Gonzalez, Business Information Security Officer, Wells Fargo
+Chiheb El Ouekdi, Business Information Security Officer, Industrielle Alliance, Assurance et services financiers
+Carly Miller, Business Unit Risk Lead Vice President, Comerica
+Donald Schmidt, Business Information Security Officer, Fannie Mae
+Ian McNiff, Business Information Security Officer, Lowes
+Irina Singh, Business Information Security Officer, Baxter International Inc.
+Jackie Deloplaine, Manager – Cyber Intelligence Engagement, RH-ISAC
+Jocelyn Anderson, Assistant Vice President, Information Security, HarborOne Bank
+
+
+
+John Mracek, Business Information Security Officer, Target
+Joseph Millevolte, Business Information Security Officer, BNP Paribas
+Michael Leking, former Business Information Security Officer, U.S. Bank
+Nicholas Kelley-Ossey, Business Information Security Officer, The Travelers Companies
+Owen Barton, Business Information Security Officer, The Vanguard Group
+Patricia DiGiacomo, Sr. Director, Global Business Information Security Office, Kenvue
+Renee Kimble, Business Information Security Officer, Toyota
+Ryan Bowling, Business Information Security Officer, Lowes
+Segun Yayi, former Business Information Security Officer
+Seido Afia, Business Security and Risk Analyst Lead, Comerica
+Vishwas Gadgil, Business Information Security Officer, Merck
+Michael Petrik, Community of Interest Manager, FS-ISAC
+
+
+
+
+
+
+John Mracek, Business Information Security Officer, Target
+Joseph Millevolte, Business Information Security Officer, BNP Paribas
+Michael Leking, former Business Information Security Officer, U.S. Bank
+Nicholas Kelley-Ossey, Business Information Security Officer, The Travelers Companies
+Owen Barton, Business Information Security Officer, The Vanguard Group
+Patricia DiGiacomo, Sr. Director, Global Business Information Security Office, Kenvue
+Renee Kimble, Business Information Security Officer, Toyota
+Ryan Bowling, Business Information Security Officer, Lowes
+Segun Yayi, former Business Information Security Officer
+Seido Afia, Business Security and Risk Analyst Lead, Comerica
+Vishwas Gadgil, Business Information Security Officer, Merck
+Michael Petrik, Community of Interest Manager, FS-ISAC
+
+
+
+Contents
+Contributors	1
+Executive Summary	2
+Scoping the BISO Role	4
+BISO Responsibilities	5
+BISO Service Catalog	6
+The BISO Program in Practice	7
+Building a BISO Program	7
+References and Resources	11
+
+
+
+
+This white paper and its companion documents, Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role and Mapping the BISO Career: The Development of an Effective Business Information Security Officer, offer insight into the role design, value proposition, organization, responsibilities, and challenges of the Business Information Security Officer role. 
+This series was written collaboratively by members of the Financial Services, Health, and Retail and Hospitality Information Sharing and Analysis Centers, all of them leaders and expert practitioners. 
+The partnership across companies and industries demonstrates the value of collaboration on cyber defense. Threats cross departments, industries, and borders. Strengthening one sector’s cybersecurity and resilience ultimately strengthens all of them. 
+
+Executive Summary
+Cybersecurity incidents can disrupt customer services and business operations, impacting companies’ reputations and profitability. The evolving threat landscape and emerging technologies are accelerating the need to mature the security capabilities of business and technology teams and ensure a close partnership with cybersecurity. 
+Many companies have implemented the Business Information Security Officer (BISO) role to help solve that challenge. The BISO acts as a liaison between business and cybersecurity, translating “security and compliance speak” into meaningful guidance and real-world recommendations. As a conduit between teams, BISOs reduce cyber risks, support business and compliance needs, and help companies manage risk and meet business objectives on time.
+Though BISOs are becoming increasingly common, the responsibilities and requirements of the role and its programmatic implementation and structure are not yet standard across industries. Lack of definition makes it more difficult for companies to build effective BISO programs or optimize existing ones. To help businesses build – or build out – a BISO program, experts in over a dozen companies in four industries developed this series of three white papers. The documents detail the BISO function and offer a comprehensive examination of organizational structures, tactical advice, and lessons learned from real-world experience.
+This Overview is industry-agnostic and designed for:
+	•	Chief Information Security Officers (CISOs)/Chief Information Officers (CIOs)/Chief Risk Officers (CROs) considering the implementation of a BISO program or challenged with their program’s relationship with the business.
+	•	C-level and other business executives faced with an ever-evolving cyber threat and risk landscape that requires division-specific oversight and direct partnership with cybersecurity.
+	•	BISO leaders considering refinement of their BISO program.
+	•	Cybersecurity professionals interested in assuming a BISO role.
+The paper describes how BISOs’ in-depth knowledge of cybersecurity and alignment to the business allows organizations to take a more proactive approach to cybersecurity. It outlines the role, its responsibilities, its service catalog, and concludes with a step-by-step outline for building a BISO program. Its goal is to help companies – regardless of sector or level of cyber maturity – increase the security and resilience of their firms. 
+See Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role to learn more about BISO duties, organizational structures, and performance indicators.
+Read Mapping the BISO Career: The Development of an Effective Business Information Security Officer for details on the skillsets, development approaches, and career paths typical of the role.
+See Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role to learn more about BISO duties, organizational structures, and performance indicators.
+Read Mapping the BISO Career: The Development of an Effective Business Information Security Officer for details on the skillsets, development approaches, and career paths typical of the role.
+Scoping the BISO Role
+A Business Information Security Officer can be thought of as a multi-directional conduit, uniting cybersecurity, business, and technology functions, providing the partnership and direction necessary to move quickly and manage risk. 
+Smaller companies often have a single BISO. Big, complex, or highly regulated organizations — such as those in the healthcare or financial services sectors — often employ multiple BISOs aligned to a specific business/function/region (BFR) to ensure compliance and robust cybersecurity measures according to each BFR’s unique needs. Companies with operations in several jurisdictions and/or geographies are more likely to employ multiple BISOs as well.
+BISOs often report to the CISO or liaise with the CISO’s representatives and other technology teams in support of BFRs. (More information on the structure and organizational hierarchy of the BISO role can be found in the second paper in this series, Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role.) BISOs must therefore have technical expertise – but to build trust between teams, they also need communication skills, executive presence, and relationship management abilities. 
+
+BISO Responsibilities 
+BISO responsibilities vary widely between business sectors but generally include: 
+	•	Consulting and advising – The BISO consults on security controls and is responsible for ensuring cyber threats are properly mitigated. They often deliver cybersecurity-domain counsel — from answering questions to deep-dive engagements on key business and technology initiatives — to both business leaders and cybersecurity teams and translate and clarify the words, actions, and motives of each group. This is a substantial benefit of a BISO program. Cybersecurity functions are often very complex and highly specialized. They have their own jargon, objectives, and way of thinking about the world. Business teams have their own terminology, motivations, and accountabilities as well. When these differing outlooks clash, trust can be hindered and business and technology teams can be left frustrated and confused. By providing counsel, BISOs reduce complexity and facilitate secure business operations.
+	•	Business cybersecurity accountability – BISOs align and engage with the business to foster knowledge of the people, objectives, challenges, and planned work that may affect cyber risk. The BISO shares responsibility with business unit leaders in ensuring compliance with cybersecurity policies, legal regulations, and oversight of the cybersecurity efforts that enhance both divisional and corporate security.
+	•	BISOs don’t own the risk – they help define, communicate, escalate, and govern risk when necessary. Ultimately, the business owns the risk. 
+BISOs don’t own the risk – they help define, communicate, escalate, and govern risk when necessary. Ultimately, the business owns the risk. 
+BISO Service Catalog 
+
+The BISO Program in Practice
+A key BISO responsibility is developing recommendations and cybersecurity direction based on risk and business input. BISOs provide that expertise by collecting, processing, and analyzing data and information directly related to the business and making recommendations. This information drives improved decision-making in the specific threat landscape, people, processes, and systems related to the business. 
+By implementing a BISO program, the risk profile of business teams can be escalated into the enterprise. Enterprises without BISOs tend to create programs, processes, and systems at the enterprise level, with little or no input from functions and business teams. As a result, they may lose important input from the broader organization.
+
+By implementing a BISO program, the risk profile of business teams can be escalated into the enterprise. Enterprises without BISOs tend to create programs, processes, and systems at the enterprise level, with little or no input from functions and business teams. As a result, they may lose important input from the broader organization.
+
+The objective is to ensure the effectiveness of security resources while assisting the business in meeting its goals. The role of the BISO is not to slow down the business in favor of cybersecurity. BISOs help the business understand the risks, provide balanced decision-making, and avoid surprises. 
+Building a BISO Program
+The following approach to building a BISO program is developed by BISOs across industries. The steps are not necessarily sequential – some can be completed in tandem with one another – but the approach will help businesses develop an effective program. 
+	•	Research the demand 
+Survey/interview stakeholders to document and validate the need for a program and related services to address business gaps. 
+	•	Identify the objectives 
+Determine the business’ needs in order to define its objectives (e.g., improving customer satisfaction, enhancing cyber risk management, increasing uptake of security consulting offerings, etc.). 
+The goals and objectives of the BISO program will be determined by its origin. For example, if the program originates from the CISO, then the BISO program will be cybersecurity-focused. If it originates from the business, the business will have more influence over the BISO program. 
+	•	Gather data
+Conduct surveys, interviews and questionnaires to gather direct feedback. Hold one-on-one interviews with key stakeholders for in-depth insights. Ask industry peers what is working in their organizations. 
+Next, identify common themes and patterns in the feedback. Prioritize the needs based on frequency and impact.
+Then translate the feedback into specific, actionable steps. Draft a plan to address the most critical needs first.
+	•	Strategies to Gain Executive Commitment to a BISO Program
+Requests for commitment to a BISO program/role should align with, augment, and elevate the business and cybersecurity mission, vision, and objectives. Where feasible, use a data-driven justification to supplement the request, highlighting how the BISO or more BISO resources will result in a return on investment (calculate the return as speed or time gained, costs reduced or avoided, compliance improved, etc.). Highlight the cost of inaction, as well as the real-world “wins” of competitors. 
+Strategies to Gain Executive Commitment to a BISO Program
+Requests for commitment to a BISO program/role should align with, augment, and elevate the business and cybersecurity mission, vision, and objectives. Where feasible, use a data-driven justification to supplement the request, highlighting how the BISO or more BISO resources will result in a return on investment (calculate the return as speed or time gained, costs reduced or avoided, compliance improved, etc.). Highlight the cost of inaction, as well as the real-world “wins” of competitors. 
+Group stakeholders based on common characteristics (e.g., business division, level within the organization, service usage) to tailor the approach. Refer to the BISO Alignment Model in Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role for more information on segmenting stakeholders.
+Define objectives and/or problems and scope. Document the business risks, problems, challenges and/or security gaps and risk appetite. Align the BISO program to the overall business strategy and outcomes derived from this research. 
+Finally, build a BISO program maturity model and establish a high-level multiyear plan to execute and measure against. 
+	•	Secure executive support
+Obtain buy-in from senior leadership and if possible, the Board of Directors. Their support is crucial for resource allocation and organizational commitment. 
+	•	Develop the framework 
+Use an appropriate cybersecurity framework (e.g. NIST CSF) and service delivery framework (e.g., ITIL or COBIT) to guide the development of processes and practices. Where possible, align with industry-standard approaches and frameworks. Then create policies and procedures. 
+	•	For suggestions on reporting and metrics, see the Assessing the Success of a BISO Program/Role section in Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role.
+For suggestions on reporting and metrics, see the Assessing the Success of a BISO Program/Role section in Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role.
+Define the output and establish a process for stakeholder management. 
+Then, define clear expectations for services, quality, performance, and response times.
+	•	Monitor and measure
+Establish methods to measure and report, along with communication channels that will be used for reporting. Define key success metrics and how they will be measured. 
+Next, define how BISOs will report risk and the status of the business to leadership and the security team.
+It’s also important to establish channels for collecting feedback. Create a feedback loop so that the BISO team can influence the enterprise security strategy. 
+	•	Build the team 
+For more information on the roles, responsibilities, and qualifications of a BISO see the Qualifications for the BISO Role section in Mapping the BISO Career: The Development of an Effective Business Information Security Officer. 
+For suggestions on developing foundational support for the BISO to succeed, refer to the Cultural Support section of Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role 
+For more information on training and maintaining BISO skills, see the Career Progression section in Mapping the BISO Career: The Development of an Effective Business Information Security Officer.
+For more information on the roles, responsibilities, and qualifications of a BISO see the Qualifications for the BISO Role section in Mapping the BISO Career: The Development of an Effective Business Information Security Officer. 
+For suggestions on developing foundational support for the BISO to succeed, refer to the Cultural Support section of Structuring a BISO Role for Success: Responsibilities, Organizational Approaches, and Performance Indicators in the Business Information Security Officer Role 
+For more information on training and maintaining BISO skills, see the Career Progression section in Mapping the BISO Career: The Development of an Effective Business Information Security Officer.
+Next, develop an onboarding playbook. This can include the regulatory rules for the business line, standard practices across the enterprise and the business, and the processes for each business. Regularly update the onboarding playbook and any training materials.
+Finally, recruit and train. 
+	•	Implement technology solutions 
+Incorporate service management tools, self-service portals or other technology that supports the program. 
+	•	Enable success 
+Promote a service-oriented culture that values service excellence, encourages collaboration, and enables efficiency – automation can streamline repetitive tasks.
+Meanwhile, establish channels for collecting feedback and analyzing ways to improve services and mature the program. The BISO program can only be as mature as the enterprise. As the enterprise grows, the BISO will be able to contribute more and have greater impact. Begin with a subset of business lines and use the outcomes to improve the BISO role when expanding across the entire enterprise. 
+
+References and Resources
+Irei, A. (2021). What is the BISO role and is it necessary? [online] SearchSecurity. Available at: https://www.techtarget.com/searchsecurity/feature/What-is-the-BISO-role-and-is-it-necessary 
+PrivSec Report (2025). A new role for the cybersecurity industry: Business Information Security Officer. GRC World Forums. Available at: https://www.grcworldforums.com/security/a-new-role-for-the-cybersecurity-industry-business-information-security-officer/97.article 
+Team, S.N. (2019). Business Information Security Officer Role: ‘This Is What I Do’. Secureworld.io. Available at: https://www.secureworld.io/industry-news/business-information-security-officer-job-description
+Jooble. (n.d.). Business Information Security Officer (BISO) Job Description. Available at: https://jooble.org/job-description/protective-service/business-information-security-officer-biso/ 
+Hassanz (2022). What is a BISO? + everything else to know about the role. Check Point Blog. Available at: https://blog.checkpoint.com/executive-insights/what-is-a-biso-everything-else-to-know-about-the-role/ 
+IANS. (n.d.). The BISO Role: Where Business Meets Security. Available at: https://www.iansresearch.com/resources/all-blogs/post/security-blog/2021/11/04/the-biso-role-where-business-meets-security
+Cybersecurity Guide. (n.d.). Business information security officer: A complete career guide. Available at: https://cybersecurityguide.org/careers/business-information-security-officer/ 
+Linkedin.com. (2025). Available at: https://www.linkedin.com/learning/cybersecurity-careers-become-a-business-information-security-officer-biso 
+IANS. (n.d.). Does Your Business Need a BISO? Available at: https://www.iansresearch.com/resources/all-blogs/post/security-blog/2022/01/25/does-your-business-need-a-biso 

@@ -12,6 +12,8 @@ nav_order: 3
 
 This competency framework creates industry-leading BISO capabilities through systematic skill development and performance optimization. This cross-phase deliverable establishes comprehensive competency standards that enable sustained program excellence and competitive advantage through superior BISO performance.
 
+Competency definitions in this document are harmonized to the baseline 2024 FS-ISAC BISO Program Role Whitepaper and the 2025 companion paper so capability expectations remain consistent across source materials.
+
 **Executive Decision Required**: Approve comprehensive competency development framework to ensure BISO program delivers exceptional business value through systematic capability building and performance excellence.
 
 **Competitive Advantage**: Structured competency development creates superior BISO performance that differentiates the organization through enhanced business partnership, risk management excellence, and stakeholder confidence.

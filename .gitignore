@@ -32,6 +32,8 @@ config.json
 # Internal analysis and documentation
 /docs/plans/
 /scripts/
+/AGENTS.md
+/CLAUDE.md
 
 # Jekyll / Bundler local artifacts
 /_site/

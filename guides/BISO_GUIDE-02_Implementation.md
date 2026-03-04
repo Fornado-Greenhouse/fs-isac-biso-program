@@ -59,7 +59,7 @@ This strategic implementation guide provides organizational leaders with the com
 
 **Organizational Alignment Evaluation**:
 - [ ] Business strategy review to identify BISO integration opportunities
-- [ ] Current security organization maturity assessment (using industry frameworks)
+- [ ] Current security organization maturity assessment (using industry frameworks such as NIST CSF 2.0, COBIT, and ITIL)
 - [ ] Risk management culture and appetite evaluation
 - [ ] Change management capacity and historical success analysis
 

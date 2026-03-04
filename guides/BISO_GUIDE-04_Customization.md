@@ -538,6 +538,18 @@ Organizations must align their BISO program with relevant compliance frameworks 
 - Leverage BISO authority framework for COBIT RACI matrices in APO07 (Manage Human Resources)
 - Position BISOs as business stakeholders in COBIT processes, particularly in BAI (Build, Acquire, and Implement) domain
 
+#### ITIL Integration
+**Customization Requirements**:
+- Align BISO service engagement flows to ITIL 4 service management practices (Incident Management, Change Enablement, Problem Management, Service Level Management)
+- Map BISO intake, consultation, and escalation activities to ITIL value streams so security work is visible in business service delivery
+- Integrate BISO reporting cadence with ITIL service review rhythms and continual improvement registers
+- Define BISO participation points for major incident communication and post-incident learning
+
+**Implementation Tips**:
+- Use BISO service catalog language that mirrors ITIL service definitions to reduce translation overhead with IT and operations teams
+- Link BISO KPI/KRI reporting to ITIL service quality indicators where reliable data exists
+- Position BISOs as business-facing security partners within ITIL governance forums, especially for change and incident decisions
+
 #### SOX Compliance (Sarbanes-Oxley Act)
 **Customization Requirements**:
 - Define BISO role in IT general controls (ITGCs) including access controls, change management, computer operations
